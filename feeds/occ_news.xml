@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>urn:us-news-rss:occ_news</id>
+  <title>OCC News Releases (scrape)</title>
+  <updated>2026-10-15T11:57:04.005352+00:00</updated>
+  <link href="file:///feeds/occ_news.xml" rel="self"/>
+  <link href="https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-88.html" rel="alternate"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <subtitle>Category: financial / Mode: scrape</subtitle>
+  <entry>
+    <id>https://www.occ.gov/publications-and-resources/publications/comptrollers-handbook/index-comptrollers-handbook.html</id>
+    <title>Comptroller's Handbook</title>
+    <updated>2026-10-15T11:57:04.005407+00:00</updated>
+    <link href="https://www.occ.gov/publications-and-resources/publications/comptrollers-handbook/index-comptrollers-handbook.html"/>
+    <summary>OCC</summary>
+    <published>2026-10-15T11:57:04.005403+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.occ.gov/news-events/index-news-events.html</id>
+    <title>News Releases &amp; Bulletins</title>
+    <updated>2026-10-15T11:57:04.005365+00:00</updated>
+    <link href="https://www.occ.gov/news-events/index-news-events.html"/>
+    <summary>OCC</summary>
+    <published>2026-10-15T11:57:04.005360+00:00</published>
+  </entry>
+</feed>

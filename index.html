@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="ja"><head><meta charset="UTF-8">
+<title>US専門ニュース・制度変更トラッカー</title>
+<style>
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+         max-width: 1100px; margin: 32px auto; padding: 0 16px; color: #1f2937; }
+  h1 { font-size: 1.6em; }
+  .meta { color: #6b7280; font-size: 0.9em; }
+  table { width: 100%; border-collapse: collapse; margin-top: 16px; }
+  th, td { padding: 8px 12px; border-bottom: 1px solid #e5e7eb; text-align: left;
+           font-size: 0.9em; }
+  th { background: #f9fafb; font-weight: 600; }
+  .cat { background: #f3f4f6; font-weight: 600; color: #4b5563; }
+  .prio { display: inline-block; padding: 2px 6px; border-radius: 4px; color: white;
+          font-size: 0.75em; }
+  .endpoint { font-family: monospace; font-size: 0.8em; color: #6b7280; }
+  a { color: #2563eb; text-decoration: none; }
+  a:hover { text-decoration: underline; }
+</style></head><body>
+<h1>🇺🇸 US 専門ニュース・制度変更トラッカー</h1>
+<div class="meta">最終更新: 2026-10-15 12:34 UTC ・ 53/60 フィード稼働中</div>
+<p>アメリカ政府・規制・金融・小売・飲食・労働などの専門ニュースを自動集約し、Atom 2.0 形式で配信。RSSリーダに登録してご利用ください。</p>
+<table>
+<tr><th>ステータス</th><th>カテゴリ</th><th>タイトル</th><th>優先度</th><th>取得元</th><th>件数</th></tr>
+<tr class="cat"><td colspan="6">ビジネス (business)</td></tr>
+<tr><td>✅</td><td>—</td><td><a href="feeds/sba.xml">SBA Newsroom (scrape)</a></td><td><span class="prio" style="background:#ca8a04">medium</span></td><td class="endpoint">https://www.sba.gov/sba-newsroom/</td><td>3</td></tr>
+<tr class="cat"><td colspan="6">エネルギー (energy)</td></tr>
+<tr><td>❌</td><td>—</td><td><a href="feeds/ferc.xml">FERC News Releases & Headlines</a></td><td><span class="prio" style="background:#ca8a04">medium</span></td><td class="endpoint">https://www.ferc.gov/news-events/news/news-releases-hea</td><td>0</td></tr>
+<tr class="cat"><td colspan="6">環境 (environment)</td></tr>
+<tr><td>✅</td><td>—</td><td><a href="feeds/epa_news.xml">EPA News Releases (scrape)</a></td><td><span class="prio" style="background:#ea580c">high</span></td><td class="endpoint">https://www.epa.gov/newsreleases</td><td>22</td></tr>
+<tr class="cat"><td colspan="6">金融・銀行・暗号 (financial)</td></tr>
+<tr><td>✅</td><td>—</td><td><a href="feeds/federal_reserve.xml">Federal Reserve Press Releases</a></td><td><span class="prio" style="background:#dc2626">critical</span></td><td class="endpoint">http://www.federalreserve.gov/feeds/press_all.xml</td><td>20</td></tr>
+<tr><td>✅</td><td>—</td><td><a href="feeds/cftc.xml">CFTC - General Press Releases</a></td><td><span class="prio" style="background:#ea580c">high</span></td><td class="endpoint">https://www.cftc.gov/RSS/RSSGP/rssgp.xml</td><td>10</td></tr>
+<tr><td>✅</td><td>—</td><td><a href="feeds/cftc_enforcement.xml">CFTC - Enforcement Press Releases</a></td><td><span class="prio" style="background:#ea580c">high</span></td><td class="endpoint">https://www.cftc.gov/RSS/RSSENF/rssenf.xml</td><td>10</td></tr>
+<tr><td>✅</td><td>—</td><td><a href="feeds/fdic.xml">FDIC Press Releases (GovDelivery)</a></td><td><span class="prio" style="background:#dc2626">critical</span></td><td class="endpoint">https://public.govdelivery.com/topics/USFDIC_26/feed.rs</td><td>25</td></tr>
+<tr><td>✅</td><td>—</td><td><a href="feeds/occ_news.xml">OCC Newsroom (scrape)</a></td><td><span class="prio" style="background:#dc2626">critical</span></td><td class="endpoint">https://www.occ.gov/news-events/newsroom/index.html</td><td>2</td></tr>
+<tr><td>✅</td><td>—</td><td><a href="feeds/occ_bulletins.xml">OCC Bulletins (scrape)</a></td><td><span class="prio" style="background:#ea580c">high</span></td><td class="endpoint">https://www.occ.gov/news-events/index-news-events.html</td><td>4</td></tr>
+<tr><td>✅</td><td>—</td><td><a href="feeds/fincen_alerts.xml">FinCEN Alerts & Notices (scrape)</a></td><td><span class="prio" style="background:#dc2626">critical</span></td><td class="endpoint">https://fincen.gov/resources/advisoriesbulletinsfact-sh</td><td>30</td></tr>
+<tr><td>✅</td><td>—</td><td><a href="feeds/ofac.xml">Treasury OFAC Recent Actions (scrape, RSS retired 2025-01)</a></td><td><span class="prio" style="background:#dc2626">critical</span></td><td class="endpoint">https://ofac.treasury.gov/recent-actions</td><td>15</td></tr>
+<tr><td>✅</td><td>—</td><td><a href="feeds/irs_bulletins.xml">IRS Internal Revenue Bulletin (scrape)</a></td><td><span class="prio" style="background:#ea580c">high</span></td><td class="endpoint">https://www.irs.gov/irb</td><td>30</td></tr>
+<tr><td>❌</td><td>—</td><td><a href="feeds/irs_newsroom.xml">IRS Newswire (scrape)</a></td><td><span class="prio" style="background:#ea580c">high</span></td><td class="endpoint">https://www.irs.gov/newsroom/newswire</td><td>0</td></tr>
+<tr><td>✅</td><td>—</td><td><a href="feeds/cfpb.xml">CFPB Newsroom (scrape)</a></td><td><span class="prio" style="background:#dc2626">critical</span></td><td class="endpoint">https://www.cfpb.gov/about-us/newsroom</td><td>23</td></tr>
+<tr class="cat"><td colspan="6">飲食 / 食品 (food)</td></tr>
+<tr><td>✅</td><td>—</td><td><a href="feeds/restaurant_business.xml">Restaurant Business - All</a></td><td><span class="prio" style="background:#ca8a04">medium</span></td><td class="endpoint">https://www.restaurantbusinessonline.com/feed/</td><td>30</td></tr>
+<tr><td>✅</td><td>—</td><td><a href="feeds/qsr_magazine.xml">QSR Magazine</a></td><td><span class="prio" style="background:#ca8a04">medium</span></td><td class="endpoint">https://www.qsrmagazine.com/</td><td>30</td></tr>
+<tr><td>✅</td><td>—</td><td><a href="feeds/foodnavigator.xml">FoodNavigator USA</a></td><td><span class="prio" style="background:#ca8a04">medium</span></td><td class="endpoint">https://www.foodnavigator-usa.com/arc/outboundfeeds/rss</td><td>20</td></tr>
+<tr><td>✅</td><td>—</td><td><a href="feeds/ttb.xml">TTB News & Events</a></td><td><span class="prio" style="background:#ea580c">high</span></td><td class="endpoint">https://www.ttb.gov/templates/ttb/news/ttb.xml</td><td>30</td></tr>
+<tr><td>❌</td><td>—</td><td><a href="feeds/ttb_press.xml">TTB Press Releases (scrape)</a></td><td><span class="prio" style="background:#ca8a04">medium</span></td><td class="endpoint">https://www.ttb.gov/public-information/press-room</td><td>0</td></tr>
+<tr><td>✅</td><td>—</td><td><a href="feeds/fda_press.xml">FDA Press Releases</a></td><td><span class="prio" style="background:#ea580c">high</span></td><td class="endpoint">https://www.fda.gov/about-fda/contact-fda/stay-informed</td><td>20</td></tr>
+<tr><td>✅</td><td>—</td><td><a href="feeds/fda_recalls.xml">FDA Food Safety Recalls</a></td><td><span class="prio" style="background:#ea580c">high</span></td><td class="endpoint">https://www.fda.gov/about-fda/contact-fda/stay-informed</td><td>20</td></tr>
+<tr><td>❌</td><td>—</td><td><a href="feeds/fsis_recalls.xml">USDA FSIS Recalls</a></td><td><span class="prio" style="background:#ea580c">high</span></td><td class="endpoint">https://www.fsis.usda.gov/shared/xml/recall.xml</td><td>0</td></tr>
+<tr class="cat"><td colspan="6">政府・規制 (government)</td></tr>
+<tr><td>✅</td><td>—</td><td><a href="feeds/federal_register.xml">Federal Register - All Documents</a></td><td><span class="prio" style="background:#dc2626">critical</span></td><td class="endpoint">https://www.federalregister.gov/api/v1/documents.json</td><td>30</td></tr>
+<tr><td>❌</td><td>—</td><td><a href="feeds/federal_register_rss.xml">Federal Register - Daily RSS</a></td><td><span class="prio" style="background:#dc2626">critical</span></td><td class="endpoint">https://www.federalregister.gov/documents/current.rss</td><td>0</td></tr>
+<tr><td>✅</td><td>—</td><td><a href="feeds/white_house.xml">White House News</a></td><td><span class="prio" style="background:#ea580c">high</span></td><td class="endpoint">https://www.whitehouse.gov/news/feed</td><td>30</td></tr>
+<tr><td>✅</td><td>—</td><td><a href="feeds/sec_press.xml">SEC Press Releases</a></td><td><span class="prio" style="background:#dc2626">critical</span></td><td class="endpoint">http://www.sec.gov/rss/news/press.xml</td><td>25</td></tr>
+<tr><td>✅</td><td>—</td><td><a href="feeds/sec_edgar_full.xml">SEC EDGAR - Form 8-K (full-text via API)</a></td><td><span class="prio" style="background:#dc2626">critical</span></td><td class="endpoint">https://efts.sec.gov/LATEST/search-index</td><td>30</td></tr>
+<tr><td>✅</td><td>—</td><td><a href="feeds/ftc.xml">FTC Press Releases</a></td><td><span class="prio" style="background:#ea580c">high</span></td><td class="endpoint">https://www.ftc.gov/feeds/press-release.xml</td><td>10</td></tr>
+<tr class="cat"><td colspan="6">人材・労働・移民 (labor)</td></tr>
+<tr><td>✅</td><td>—</td><td><a href="feeds/uscis.xml">USCIS All News (scrape)</a></td><td><span class="prio" style="background:#ea580c">high</span></td><td class="endpoint">https://www.uscis.gov/newsroom/all-news</td><td>14</td></tr>
+<tr><td>✅</td><td>—</td><td><a href="feeds/uscis_alerts.xml">USCIS Alerts (scrape)</a></td><td><span class="prio" style="background:#ea580c">high</span></td><td class="endpoint">https://www.uscis.gov/newsroom/alerts</td><td>10</td></tr>
+<tr><td>✅</td><td>—</td><td><a href="feeds/osha.xml">OSHA News Releases</a></td><td><span class="prio" style="background:#ca8a04">medium</span></td><td class="endpoint">https://www.osha.gov/news/newsreleases.xml</td><td>5</td></tr>
+<tr><td>✅</td><td>—</td><td><a href="feeds/osha_quicktakes.xml">OSHA QuickTakes</a></td><td><span class="prio" style="background:#65a30d">low</span></td><td class="endpoint">https://www.osha.gov/sites/default/files/quicktakes.xml</td><td>30</td></tr>
+<tr><td>✅</td><td>—</td><td><a href="feeds/bls_empsit.xml">BLS - Employment Situation</a></td><td><span class="prio" style="background:#dc2626">critical</span></td><td class="endpoint">https://www.bls.gov/feed/empsit.rss</td><td>12</td></tr>
+<tr><td>✅</td><td>—</td><td><a href="feeds/bls_cpi.xml">BLS - Consumer Price Index</a></td><td><span class="prio" style="background:#ea580c">high</span></td><td class="endpoint">https://www.bls.gov/feed/cpi.rss</td><td>12</td></tr>
+<tr><td>✅</td><td>—</td><td><a href="feeds/bls_ppi.xml">BLS - Producer Price Index</a></td><td><span class="prio" style="background:#ea580c">high</span></td><td class="endpoint">https://www.bls.gov/feed/ppi.rss</td><td>12</td></tr>
+<tr><td>✅</td><td>—</td><td><a href="feeds/bls_jolts.xml">BLS - Job Openings (JOLTS)</a></td><td><span class="prio" style="background:#ea580c">high</span></td><td class="endpoint">https://www.bls.gov/feed/jolts.rss</td><td>12</td></tr>
+<tr><td>❌</td><td>—</td><td><a href="feeds/nlrb.xml">NLRB Press Releases</a></td><td><span class="prio" style="background:#ca8a04">medium</span></td><td class="endpoint">https://nlrb.gov/rss/rssPressReleases.xml</td><td>0</td></tr>
+<tr><td>✅</td><td>—</td><td><a href="feeds/ice.xml">ICE News Releases (scrape)</a></td><td><span class="prio" style="background:#ca8a04">medium</span></td><td class="endpoint">https://www.ice.gov/news/releases</td><td>25</td></tr>
+<tr class="cat"><td colspan="6">物流・運輸 (logistics)</td></tr>
+<tr><td>❌</td><td>—</td><td><a href="feeds/fmcsa.xml">FMCSA Newsroom (scrape)</a></td><td><span class="prio" style="background:#ca8a04">medium</span></td><td class="endpoint">https://www.fmcsa.dot.gov/newsroom</td><td>0</td></tr>
+<tr><td>✅</td><td>—</td><td><a href="feeds/supply_chain_dive.xml">Supply Chain Dive</a></td><td><span class="prio" style="background:#ca8a04">medium</span></td><td class="endpoint">https://www.supplychaindive.com/feeds/news/</td><td>10</td></tr>
+<tr class="cat"><td colspan="6">公共サービス (publicservice)</td></tr>
+<tr><td>✅</td><td>—</td><td><a href="feeds/usps.xml">USPS News</a></td><td><span class="prio" style="background:#ca8a04">medium</span></td><td class="endpoint">https://about.usps.com/news/latestnews.rss</td><td>30</td></tr>
+<tr class="cat"><td colspan="6">住宅・不動産 (realestate)</td></tr>
+<tr><td>✅</td><td>—</td><td><a href="feeds/census_newresconst.xml">Census - New Residential Construction (scrape)</a></td><td><span class="prio" style="background:#ca8a04">medium</span></td><td class="endpoint">https://www.census.gov/construction/nrc/index.html</td><td>1</td></tr>
+<tr><td>✅</td><td>—</td><td><a href="feeds/hud.xml">HUD News (scrape)</a></td><td><span class="prio" style="background:#ca8a04">medium</span></td><td class="endpoint">https://www.hud.gov/news</td><td>30</td></tr>
+<tr><td>✅</td><td>—</td><td><a href="feeds/hud_user.xml">HUD User Research Reports (scrape)</a></td><td><span class="prio" style="background:#ca8a04">medium</span></td><td class="endpoint">https://www.huduser.gov/portal/</td><td>30</td></tr>
+<tr class="cat"><td colspan="6">小売 / 関税 (retail)</td></tr>
+<tr><td>✅</td><td>—</td><td><a href="feeds/retail_dive.xml">Retail Dive</a></td><td><span class="prio" style="background:#ca8a04">medium</span></td><td class="endpoint">https://www.retaildive.com/feeds/news/</td><td>10</td></tr>
+<tr><td>✅</td><td>—</td><td><a href="feeds/ustr.xml">USTR Press Releases (scrape)</a></td><td><span class="prio" style="background:#dc2626">critical</span></td><td class="endpoint">https://ustr.gov/about-us/policy-offices/press-office/p</td><td>29</td></tr>
+<tr><td>✅</td><td>—</td><td><a href="feeds/ustr_section301.xml">USTR Section 301 Actions (scrape)</a></td><td><span class="prio" style="background:#dc2626">critical</span></td><td class="endpoint">https://ustr.gov/issue-areas/enforcement/section-301-in</td><td>15</td></tr>
+<tr class="cat"><td colspan="6">Tech / AI / サイバー (tech)</td></tr>
+<tr><td>✅</td><td>—</td><td><a href="feeds/techcrunch.xml">TechCrunch - All</a></td><td><span class="prio" style="background:#ca8a04">medium</span></td><td class="endpoint">https://techcrunch.com/feed/</td><td>20</td></tr>
+<tr><td>✅</td><td>—</td><td><a href="feeds/techcrunch_ai.xml">TechCrunch - AI</a></td><td><span class="prio" style="background:#ea580c">high</span></td><td class="endpoint">https://techcrunch.com/category/artificial-intelligence</td><td>20</td></tr>
+<tr><td>✅</td><td>—</td><td><a href="feeds/nist_news.xml">NIST News</a></td><td><span class="prio" style="background:#ca8a04">medium</span></td><td class="endpoint">https://www.nist.gov/news-events/news/rss.xml</td><td>30</td></tr>
+<tr><td>✅</td><td>—</td><td><a href="feeds/cisa_news.xml">CISA News</a></td><td><span class="prio" style="background:#ca8a04">medium</span></td><td class="endpoint">https://www.cisa.gov/news.xml</td><td>10</td></tr>
+<tr><td>✅</td><td>—</td><td><a href="feeds/cisa_alerts.xml">CISA - KEV Alerts</a></td><td><span class="prio" style="background:#ea580c">high</span></td><td class="endpoint">https://www.cisa.gov/cybersecurity-advisories/alerts.xm</td><td>30</td></tr>
+<tr class="cat"><td colspan="6">通信 (telecom)</td></tr>
+<tr><td>✅</td><td>—</td><td><a href="feeds/fcc.xml">FCC Recent Releases (Combined)</a></td><td><span class="prio" style="background:#ea580c">high</span></td><td class="endpoint">https://api2.fcc.gov/api/exp/v1.0.0/edocspublic/rss</td><td>26</td></tr>
+<tr class="cat"><td colspan="6">🗣 一般市民の声 (Reddit) (voicetracking)</td></tr>
+<tr><td>✅</td><td>—</td><td><a href="feeds/reddit_money.xml">Reddit - Money / Tax / Loans</a></td><td><span class="prio" style="background:#dc2626">critical</span></td><td class="endpoint">https://www.reddit.com/r/personalfinance+tax+taxes+Frug</td><td>30</td></tr>
+<tr><td>✅</td><td>—</td><td><a href="feeds/reddit_law_work.xml">Reddit - Legal / Work / Insurance / Scams</a></td><td><span class="prio" style="background:#dc2626">critical</span></td><td class="endpoint">https://www.reddit.com/r/legaladvice+insurance+Scams+Jo</td><td>30</td></tr>
+<tr><td>✅</td><td>—</td><td><a href="feeds/reddit_housing.xml">Reddit - Housing / Real Estate</a></td><td><span class="prio" style="background:#ea580c">high</span></td><td class="endpoint">https://www.reddit.com/r/realestate+FirstTimeHomeBuyer+</td><td>30</td></tr>
+<tr><td>✅</td><td>—</td><td><a href="feeds/reddit_health.xml">Reddit - Health Insurance / Medicare</a></td><td><span class="prio" style="background:#ea580c">high</span></td><td class="endpoint">https://www.reddit.com/r/HealthInsurance+medicare+medic</td><td>30</td></tr>
+<tr><td>✅</td><td>—</td><td><a href="feeds/reddit_tech_privacy.xml">Reddit - Tech / Privacy / Telecom</a></td><td><span class="prio" style="background:#ea580c">high</span></td><td class="endpoint">https://www.reddit.com/r/technology+privacy+netsec+cybe</td><td>30</td></tr>
+<tr><td>✅</td><td>—</td><td><a href="feeds/reddit_politics.xml">Reddit - Politics / Civic</a></td><td><span class="prio" style="background:#ea580c">high</span></td><td class="endpoint">https://www.reddit.com/r/politics+AskPolitics+news+law+</td><td>30</td></tr>
+<tr><td>✅</td><td>—</td><td><a href="feeds/reddit_immigration.xml">Reddit - Immigration / VISA</a></td><td><span class="prio" style="background:#ca8a04">medium</span></td><td class="endpoint">https://www.reddit.com/r/immigration+uscis+h1b+j1visa+e</td><td>30</td></tr>
+</table>
+<h2>使い方</h2>
+<ul>
+<li><b>RSSリーダ</b>: Feedly, NetNewsWire, Inoreader などに <code>feeds/&lt;id&gt;.xml</code> を登録</li>
+<li><b>全件Atom</b>: 個別フィードを1つずつ、またはこのマスタを流して カスタムパイプラインへ</li>
+<li><b>更新</b>: <code>python aggregator.py --fetch-all</code> で再生成</li>
+</ul>
+</body></html>

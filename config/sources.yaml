@@ -1,0 +1,485 @@
+# US専門ニュース・制度変更トラッカー
+# 各sourceの mode:
+#   rss  - 公式RSSをそのまま集約（自前パース不要）
+#   govdelivery - GovDeliveryのtopic feed (govdelivery公式)
+#   api  - 公式JSON/HTML APIを定期取得→Atom生成
+#   scrape - HTMLをスクレイプ→Atom生成
+#   unavailable - 有償のみでRSS化不可
+#
+# 各siteの adapter は adapters/<name>.py に書く。
+
+version: 2
+updated: "2026-10-15"
+
+defaults:
+  user_agent: "Mozilla/5.0 (US-News-RSS-Aggregator; admin@example.com)"
+  fetch_interval_minutes: 30
+  request_timeout_sec: 20
+  max_items_per_feed: 30
+
+sources:
+
+  # ========== Tier 1: 政府・規制 ==========
+  - id: federal_register
+    title: "Federal Register - All Documents"
+    category: government
+    mode: api
+    endpoint: "https://www.federalregister.gov/api/v1/documents.json"
+    params:
+      per_page: 30
+      order: "newest"
+    priority: critical
+    business_signal: high
+    notes: "規制改正の最重要一次ソース。publication_dateでフィルタ可能。"
+
+  - id: federal_register_rss
+    title: "Federal Register - Daily RSS"
+    category: government
+    mode: rss
+    endpoint: "https://www.federalregister.gov/documents/current.rss"
+    priority: critical
+
+  - id: white_house
+    title: "White House News"
+    category: government
+    mode: rss
+    endpoint: "https://www.whitehouse.gov/news/feed"
+    priority: high
+    notes: "official news RSS"
+
+  - id: sec_press
+    title: "SEC Press Releases"
+    category: government
+    mode: rss
+    endpoint: "http://www.sec.gov/rss/news/press.xml"
+    priority: critical
+    notes: "User-Agent明示必須。10req/sec制限。"
+
+  - id: sec_edgar_full
+    title: "SEC EDGAR - Form 8-K (full-text via API)"
+    category: government
+    mode: api
+    endpoint: "https://efts.sec.gov/LATEST/search-index"
+    params:
+      forms: "8-K"
+      per_page: 30
+    priority: critical
+    notes: "企業の重要イベント（決算・M&A・リストラ）を早期検知。"
+
+  - id: ftc
+    title: "FTC Press Releases"
+    category: government
+    mode: rss
+    endpoint: "https://www.ftc.gov/feeds/press-release.xml"
+    priority: high
+
+  - id: federal_reserve
+    title: "Federal Reserve Press Releases"
+    category: financial
+    mode: rss
+    endpoint: "http://www.federalreserve.gov/feeds/press_all.xml"
+    priority: critical
+
+  - id: cftc
+    title: "CFTC - General Press Releases"
+    category: financial
+    mode: rss
+    endpoint: "https://www.cftc.gov/RSS/RSSGP/rssgp.xml"
+    priority: high
+
+  - id: cftc_enforcement
+    title: "CFTC - Enforcement Press Releases"
+    category: financial
+    mode: rss
+    endpoint: "https://www.cftc.gov/RSS/RSSENF/rssenf.xml"
+    priority: high
+
+  # ========== 金融・銀行・暗号資産 ==========
+  - id: fdic
+    title: "FDIC Press Releases (GovDelivery)"
+    category: financial
+    mode: govdelivery
+    endpoint: "https://public.govdelivery.com/topics/USFDIC_26/feed.rss"
+    priority: critical
+
+  - id: occ_news
+    title: "OCC Newsroom (scrape)"
+    category: financial
+    mode: scrape
+    list_endpoint: "https://www.occ.gov/news-events/newsroom/index.html"
+    priority: critical
+    notes: "OCC公式RSSなし。Newsroom HTMLをスクレイプ。"
+
+  - id: occ_bulletins
+    title: "OCC Bulletins (scrape)"
+    category: financial
+    mode: scrape
+    list_endpoint: "https://www.occ.gov/news-events/index-news-events.html"
+    priority: high
+
+  - id: fincen_alerts
+    title: "FinCEN Alerts & Notices (scrape)"
+    category: financial
+    mode: scrape
+    list_endpoint: "https://fincen.gov/resources/advisoriesbulletinsfact-sheets"
+    priority: critical
+    notes: "暗号資産関連Advisoryはここに出る。"
+
+  - id: ofac
+    title: "Treasury OFAC Recent Actions (scrape, RSS retired 2025-01)"
+    category: financial
+    mode: scrape
+    list_endpoint: "https://ofac.treasury.gov/recent-actions"
+    priority: critical
+    notes: "OFAC公式RSS廃止。GovDeliveryメール or スクレイプ。"
+
+  - id: irs_bulletins
+    title: "IRS Internal Revenue Bulletin (scrape)"
+    category: financial
+    mode: scrape
+    list_endpoint: "https://www.irs.gov/irb"
+    priority: high
+
+  - id: irs_newsroom
+    title: "IRS Newswire (scrape)"
+    category: financial
+    mode: scrape
+    list_endpoint: "https://www.irs.gov/newsroom/newswire"
+    priority: high
+
+  # ========== テクノロジー / AI / サイバー ==========
+  - id: techcrunch
+    title: "TechCrunch - All"
+    category: tech
+    mode: rss
+    endpoint: "https://techcrunch.com/feed/"
+    priority: medium
+
+  - id: techcrunch_ai
+    title: "TechCrunch - AI"
+    category: tech
+    mode: rss
+    endpoint: "https://techcrunch.com/category/artificial-intelligence/feed/"
+    priority: high
+
+  - id: nist_news
+    title: "NIST News"
+    category: tech
+    mode: rss
+    endpoint: "https://www.nist.gov/news-events/news/rss.xml"
+    priority: medium
+
+  - id: cisa_news
+    title: "CISA News"
+    category: tech
+    mode: rss
+    endpoint: "https://www.cisa.gov/news.xml"
+    priority: medium
+
+  - id: cisa_alerts
+    title: "CISA - KEV Alerts"
+    category: tech
+    mode: rss
+    endpoint: "https://www.cisa.gov/cybersecurity-advisories/alerts.xml"
+    priority: high
+    notes: "既知の悪用脆弱性追加を即時検知。"
+
+  # ========== 小売 / 関税 ==========
+  - id: retail_dive
+    title: "Retail Dive"
+    category: retail
+    mode: rss
+    endpoint: "https://www.retaildive.com/feeds/news/"
+    priority: medium
+
+  - id: ustr
+    title: "USTR Press Releases (scrape)"
+    category: retail
+    mode: scrape
+    list_endpoint: "https://ustr.gov/about-us/policy-offices/press-office/press-releases"
+    priority: critical
+    notes: "関税・通商交渉の中核。公式RSSなし。"
+
+  - id: ustr_section301
+    title: "USTR Section 301 Actions (scrape)"
+    category: retail
+    mode: scrape
+    list_endpoint: "https://ustr.gov/issue-areas/enforcement/section-301-investigations/tariff-actions"
+    priority: critical
+
+  - id: census_newresconst
+    title: "Census - New Residential Construction (scrape)"
+    category: realestate
+    mode: scrape
+    list_endpoint: "https://www.census.gov/construction/nrc/index.html"
+    priority: medium
+
+  # ========== 飲食・食品 ==========
+  - id: restaurant_business
+    title: "Restaurant Business - All"
+    category: food
+    mode: rss
+    endpoint: "https://www.restaurantbusinessonline.com/feed/"
+    priority: medium
+
+  - id: qsr_magazine
+    title: "QSR Magazine"
+    category: food
+    mode: scrape
+    list_endpoint: "https://www.qsrmagazine.com/"
+    priority: medium
+    notes: "RSSフィードページは存在するがURL要確認。"
+
+  - id: foodnavigator
+    title: "FoodNavigator USA"
+    category: food
+    mode: rss
+    endpoint: "https://www.foodnavigator-usa.com/arc/outboundfeeds/rss/"
+    priority: medium
+
+  - id: ttb
+    title: "TTB News & Events"
+    category: food
+    mode: rss
+    endpoint: "https://www.ttb.gov/templates/ttb/news/ttb.xml"
+    priority: high
+    notes: "酒・たばこ規制変更の唯一の一次ソース。"
+
+  - id: ttb_press
+    title: "TTB Press Releases (scrape)"
+    category: food
+    mode: scrape
+    list_endpoint: "https://www.ttb.gov/public-information/press-room"
+    priority: medium
+
+  - id: fda_press
+    title: "FDA Press Releases"
+    category: food
+    mode: rss
+    endpoint: "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/press-releases/rss.xml"
+    priority: high
+
+  - id: fda_recalls
+    title: "FDA Food Safety Recalls"
+    category: food
+    mode: rss
+    endpoint: "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/food-safety-recalls/rss.xml"
+    priority: high
+
+  - id: fsis_recalls
+    title: "USDA FSIS Recalls"
+    category: food
+    mode: rss
+    endpoint: "https://www.fsis.usda.gov/shared/xml/recall.xml"
+    priority: high
+    notes: "公式XML/RSS発見"
+
+  # ========== 住宅・不動産 ==========
+  - id: hud
+    title: "HUD News (scrape)"
+    category: realestate
+    mode: scrape
+    list_endpoint: "https://www.hud.gov/news"
+    priority: medium
+
+  - id: hud_user
+    title: "HUD User Research Reports (scrape)"
+    category: realestate
+    mode: scrape
+    list_endpoint: "https://www.huduser.gov/portal/"
+    priority: medium
+
+  # ========== 公共サービス ==========
+  - id: fcc
+    title: "FCC Recent Releases (Combined)"
+    category: telecom
+    mode: rss
+    endpoint: "https://api2.fcc.gov/api/exp/v1.0.0/edocspublic/rss"
+    priority: high
+
+  - id: usps
+    title: "USPS News"
+    category: publicservice
+    mode: rss
+    endpoint: "https://about.usps.com/news/latestnews.rss"
+    priority: medium
+    notes: "公式RSS発見"
+
+  - id: ferc
+    title: "FERC News Releases & Headlines"
+    category: energy
+    mode: scrape
+    list_endpoint: "https://www.ferc.gov/news-events/news/news-releases-headlines"
+    priority: medium
+
+  # ========== 人材・労働・移民 ==========
+  - id: uscis
+    title: "USCIS All News (scrape)"
+    category: labor
+    mode: scrape
+    list_endpoint: "https://www.uscis.gov/newsroom/all-news"
+    priority: high
+
+  - id: uscis_alerts
+    title: "USCIS Alerts (scrape)"
+    category: labor
+    mode: scrape
+    list_endpoint: "https://www.uscis.gov/newsroom/alerts"
+    priority: high
+
+  - id: osha
+    title: "OSHA News Releases"
+    category: labor
+    mode: rss
+    endpoint: "https://www.osha.gov/news/newsreleases.xml"
+    priority: medium
+
+  - id: osha_quicktakes
+    title: "OSHA QuickTakes"
+    category: labor
+    mode: rss
+    endpoint: "https://www.osha.gov/sites/default/files/quicktakes.xml"
+    priority: low
+
+  - id: bls_empsit
+    title: "BLS - Employment Situation"
+    category: labor
+    mode: rss
+    endpoint: "https://www.bls.gov/feed/empsit.rss"
+    priority: critical
+
+  - id: bls_cpi
+    title: "BLS - Consumer Price Index"
+    category: labor
+    mode: rss
+    endpoint: "https://www.bls.gov/feed/cpi.rss"
+    priority: high
+
+  - id: bls_ppi
+    title: "BLS - Producer Price Index"
+    category: labor
+    mode: rss
+    endpoint: "https://www.bls.gov/feed/ppi.rss"
+    priority: high
+
+  - id: bls_jolts
+    title: "BLS - Job Openings (JOLTS)"
+    category: labor
+    mode: rss
+    endpoint: "https://www.bls.gov/feed/jolts.rss"
+    priority: high
+
+  # ========== 物流・運輸 ==========
+  - id: fmcsa
+    title: "FMCSA Newsroom (scrape)"
+    category: logistics
+    mode: scrape
+    list_endpoint: "https://www.fmcsa.dot.gov/newsroom"
+    priority: medium
+
+  - id: supply_chain_dive
+    title: "Supply Chain Dive"
+    category: logistics
+    mode: rss
+    endpoint: "https://www.supplychaindive.com/feeds/news/"
+    priority: medium
+
+  # ========== エネルギー ==========
+  - id: epa_news
+    title: "EPA News Releases (scrape)"
+    category: environment
+    mode: scrape
+    list_endpoint: "https://www.epa.gov/newsreleases"
+    priority: high
+
+  # ========== 追加カテゴリ ==========
+  - id: cfpb
+    title: "CFPB Newsroom (scrape)"
+    category: financial
+    mode: scrape
+    list_endpoint: "https://www.cfpb.gov/about-us/newsroom"
+    priority: critical
+
+  - id: nlrb
+    title: "NLRB Press Releases"
+    category: labor
+    mode: rss
+    endpoint: "https://nlrb.gov/rss/rssPressReleases.xml"
+    priority: medium
+
+  - id: sba
+    title: "SBA Newsroom (scrape)"
+    category: business
+    mode: scrape
+    list_endpoint: "https://www.sba.gov/sba-newsroom/"
+    priority: medium
+
+  - id: ice
+    title: "ICE News Releases (scrape)"
+    category: labor
+    mode: scrape
+    list_endpoint: "https://www.ice.gov/news/releases"
+    priority: medium
+
+  # ========== Reddit（一般市民の声） ==========
+  - id: reddit_money
+    title: "Reddit - Money / Tax / Loans"
+    category: voicetracking
+    mode: rss
+    endpoint: "https://www.reddit.com/r/personalfinance+tax+taxes+Frugal+povertyfinance+studentloans+CreditCards+debt/hot/.rss?limit=100"
+    priority: critical
+    notes: "レート制限1req/min。100件/回で総合カバー"
+  - id: reddit_law_work
+    title: "Reddit - Legal / Work / Insurance / Scams"
+    category: voicetracking
+    mode: rss
+    endpoint: "https://www.reddit.com/r/legaladvice+insurance+Scams+Jobs+antiwork+workreform+layoffs+unemployment+AskHR/hot/.rss?limit=100"
+    priority: critical
+  - id: reddit_housing
+    title: "Reddit - Housing / Real Estate"
+    category: voicetracking
+    mode: rss
+    endpoint: "https://www.reddit.com/r/realestate+FirstTimeHomeBuyer+HomeImprovement+Mortgages+Tenant+renters/hot/.rss?limit=100"
+    priority: high
+  - id: reddit_health
+    title: "Reddit - Health Insurance / Medicare"
+    category: voicetracking
+    mode: rss
+    endpoint: "https://www.reddit.com/r/HealthInsurance+medicare+medicaid+americashealthcare+EatCheapAndHealthy/hot/.rss?limit=100"
+    priority: high
+  - id: reddit_tech_privacy
+    title: "Reddit - Tech / Privacy / Telecom"
+    category: voicetracking
+    mode: rss
+    endpoint: "https://www.reddit.com/r/technology+privacy+netsec+cybersecurity+T-Mobile+ATT+verizon+Comcast_Xfinity/hot/.rss?limit=100"
+    priority: high
+  - id: reddit_politics
+    title: "Reddit - Politics / Civic"
+    category: voicetracking
+    mode: rss
+    endpoint: "https://www.reddit.com/r/politics+AskPolitics+news+law+bluemelaw/hot/.rss?limit=100"
+    priority: high
+  - id: reddit_immigration
+    title: "Reddit - Immigration / VISA"
+    category: voicetracking
+    mode: rss
+    endpoint: "https://www.reddit.com/r/immigration+uscis+h1b+j1visa+expats+IWantOut/hot/.rss?limit=100"
+    priority: medium
+
+
+# ===========================================================================
+# 以下は RSS化不可能（有料契約必須）。Phase 4で別途判断。
+# ===========================================================================
+unavailable:
+  - id: law360
+    reason: "law360.com - 購読契約必須(法人$2,000+/年)"
+  - id: bloomberg
+    reason: "Bloomberg Terminal - API契約必須"
+  - id: reuters_eikon
+    reason: "Refinitiv Eikon - 法人契約必須"
+  - id: theinformation
+    reason: "theinformation.com - 個人$399/年、authenticated RSS"
+  - id: multistate_tax
+    reason: "MultiState/State Net - 州法追跡、法人$5,000+/年"
+  - id: tax_notes
+    reason: "Tax Notes - 税務専門、法人$1,000+/年"

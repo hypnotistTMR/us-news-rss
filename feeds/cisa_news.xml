@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>urn:us-news-rss:cisa_news</id>
+  <title>CISA News</title>
+  <updated>2026-10-15T12:08:08.061260+00:00</updated>
+  <link href="file:///feeds/cisa_news.xml" rel="self"/>
+  <link href="https://www.cisa.gov/news.xml" rel="alternate"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <subtitle>Category: tech / Mode: rss</subtitle>
+  <entry>
+    <id>/node/25336</id>
+    <title>CISA Releases Foundational, Flexible Guidance to Help Federal Agencies Implement Effective Logging, Visibility and Operational Standards</title>
+    <updated>2026-10-15T12:08:08.063077+00:00</updated>
+    <link href="https://www.cisa.gov/news-events/news/cisa-releases-foundational-flexible-guidance-help-federal-agencies-implement-effective-logging"/>
+    <summary/>
+    <published>2026-08-20T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/node/25350</id>
+    <title>CISA Advisory Highlights Red Team Findings to Help Organizations Assess Risk, Identify Threats and Enable Effective Incident Response</title>
+    <updated>2026-10-15T12:08:08.062761+00:00</updated>
+    <link href="https://www.cisa.gov/news-events/news/cisa-advisory-highlights-red-team-findings-help-organizations-assess-risk-identify-threats-and"/>
+    <summary/>
+    <published>2026-08-25T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/node/25425</id>
+    <title>CISA, NSA and FBI Warn of China-Based AI Companies Targeting US AI Models with Industrial-Scale Knowledge Distillation Campaigns to Shortcut AI Development</title>
+    <updated>2026-10-15T12:08:08.062634+00:00</updated>
+    <link href="https://www.cisa.gov/news-events/news/cisa-nsa-and-fbi-warn-china-based-ai-companies-targeting-us-ai-models-industrial-scale-knowledge"/>
+    <summary/>
+    <published>2026-09-08T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/node/25431</id>
+    <title>CISA Releases Updated Insider Threat Guide With New Insights to Mitigate Physical and Cyber Threats</title>
+    <updated>2026-10-15T12:08:08.062501+00:00</updated>
+    <link href="https://www.cisa.gov/news-events/news/cisa-releases-updated-insider-threat-guide-new-insights-mitigate-physical-and-cyber-threats"/>
+    <summary/>
+    <published>2026-09-09T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/node/25488</id>
+    <title>CISA and NIST Release Guidelines to Protect Federal Cloud Identity Systems from Token Theft, Forgery, and Misuse</title>
+    <updated>2026-10-15T12:08:08.062363+00:00</updated>
+    <link href="https://www.cisa.gov/news-events/news/cisa-and-nist-release-guidelines-protect-federal-cloud-identity-systems-token-theft-forgery-and"/>
+    <summary/>
+    <published>2026-09-15T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/node/25493</id>
+    <title>New CISA Guidance Helps Critical Infrastructure Detect, Observe and Impede Malicious Cyber Activity</title>
+    <updated>2026-10-15T12:08:08.062221+00:00</updated>
+    <link href="https://www.cisa.gov/news-events/news/new-cisa-guidance-helps-critical-infrastructure-detect-observe-and-impede-malicious-cyber-activity"/>
+    <summary/>
+    <published>2026-09-16T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/node/25516</id>
+    <title>CISA Hosts Cyber Storm X, Nationwide Cybersecurity Exercise to Strengthen Resilience</title>
+    <updated>2026-10-15T12:08:08.062082+00:00</updated>
+    <link href="https://www.cisa.gov/news-events/news/cisa-hosts-cyber-storm-x-nationwide-cybersecurity-exercise-strengthen-resilience"/>
+    <summary/>
+    <published>2026-09-18T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/node/25539</id>
+    <title>CISA Whitepaper Charts Path to Establishing and Maturing CVE Program Quality</title>
+    <updated>2026-10-15T12:08:08.061929+00:00</updated>
+    <link href="https://www.cisa.gov/news-events/news/cisa-whitepaper-charts-path-establishing-and-maturing-cve-program-quality"/>
+    <summary/>
+    <published>2026-09-23T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/node/25573</id>
+    <title>CISA Launches Cybersecurity Awareness Month: Securing the Next 250</title>
+    <updated>2026-10-15T12:08:08.061775+00:00</updated>
+    <link href="https://www.cisa.gov/news-events/news/cisa-launches-cybersecurity-awareness-month-securing-next-250"/>
+    <summary/>
+    <published>2026-10-01T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>/node/25611</id>
+    <title>CISA, FBI, NSA and International Partners Warn of China-based Cybersecurity Company Enabling Threat Actors to Target Multiple Critical Infrastructure Sectors Worldwide</title>
+    <updated>2026-10-15T12:08:08.061578+00:00</updated>
+    <link href="https://www.cisa.gov/news-events/news/cisa-fbi-nsa-and-international-partners-warn-china-based-cybersecurity-company-enabling-threat"/>
+    <summary/>
+    <published>2026-10-08T12:00:00+00:00</published>
+  </entry>
+</feed>
