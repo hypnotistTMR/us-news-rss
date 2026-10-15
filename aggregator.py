@@ -61,7 +61,7 @@ def load_config() -> Dict[str, Any]:
 # RSSパース (feedparserは依存追加になるので自前でXML軽量抽出)
 # ============================================================
 def parse_rss(xml: str) -> List[Dict[str, Any]]:
-    """RSS 2.0 / Atom 1.0 両方に対応した軽量パーサ。"""
+    """RSS 2.0 / Atom 1.0 / RSS 1.0 (RDF) 全てに対応したパーサ."""
     import lxml.etree as ET
     out: List[Dict[str, Any]] = []
     try:
@@ -73,6 +73,8 @@ def parse_rss(xml: str) -> List[Dict[str, Any]]:
     ns = {
         "atom": "http://www.w3.org/2005/Atom",
         "dc": "http://purl.org/dc/elements/1.1/",
+        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "rss10": "http://purl.org/rss/1.0/",
     }
 
     # RSS 2.0
@@ -100,7 +102,38 @@ def parse_rss(xml: str) -> List[Dict[str, Any]]:
         if link:
             out.append({"title": title, "link": link, "pubDate": pub,
                         "summary": _strip_html(summary), "guid": guid})
+
+    # RSS 1.0 (RDF) — gov.br など
+    for item in root.findall(".//rss10:item", ns) or root.findall(".//item"):
+        title = (item.findtext("rss10:title", namespaces=ns) or
+                 item.findtext("title") or "").strip()
+        link = (item.findtext("rss10:link", namespaces=ns) or
+                item.findtext("link") or "").strip()
+        pub = (item.findtext("dc:date", namespaces=ns) or
+               item.findtext("pubDate") or "").strip()
+        desc = (item.findtext("rss10:description", namespaces=ns) or
+                item.findtext("description") or "").strip()
+        if not link:
+            # RDFでは link 属性としてrdf:aboutを持つ場合がある
+            link = item.get(r"{http://www.w3.org/1999/02/22-rdf-syntax-ns#}about", "") or ""
+        if link:
+            out.append({"title": title, "link": link, "pubDate": pub,
+                        "summary": _strip_html(desc),
+                        "guid": link})
     return out
+
+
+def is_feed(xml: str) -> bool:
+    """RSS/Atom/RDF フィードかを判定."""
+    stripped = xml.lstrip("\ufeff").lstrip("﻿").lstrip()
+    return (
+        stripped.startswith("<?xml") and (
+            "<rss" in xml
+            or "<feed" in xml
+            or "<rdf:RDF" in xml
+            or "<channel>" in xml
+        )
+    )
 
 
 def _strip_html(s: str) -> str:
@@ -249,12 +282,19 @@ def build_atom(source: Dict[str, Any], items: List[Dict[str, Any]]) -> str:
                 pub = pub.replace(tzinfo=dt.timezone.utc)
         except Exception:
             pub = dt.datetime.now(dt.timezone.utc)
+        # title と summary が空の場合 link から自動生成
+        title = (it.get("title") or "").strip()
+        if not title:
+            title = link  # fallback
+        summary = (it.get("summary") or "").strip()
+        if not summary:
+            summary = title
         fe = fg.add_entry()
         fe.id(it.get("guid") or link)
-        fe.title(it.get("title", "")[:200])
+        fe.title(title[:200])
         fe.link(href=link)
         fe.published(pub)
-        fe.summary(it.get("summary", "")[:500])
+        fe.summary(summary[:500])
     return fg.atom_str(pretty=True).decode("utf-8")
 
 
