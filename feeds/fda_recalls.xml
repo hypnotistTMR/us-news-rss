@@ -2,23 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:fda_recalls</id>
   <title>FDA Food Safety Recalls</title>
-  <updated>2026-10-15T12:08:44.352887+00:00</updated>
+  <updated>2026-10-15T22:33:18.066386+00:00</updated>
   <link href="file:///feeds/fda_recalls.xml" rel="self"/>
   <link href="https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/food-safety-recalls/rss.xml" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: food / Mode: rss</subtitle>
   <entry>
-    <id>http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/saratoga-potato-chips-issues-allergy-alert-undeclared-soy-j-higgs-loaded-bacon-and-cheddar-potato</id>
-    <title>Saratoga Potato Chips Issues Allergy Alert on Undeclared Soy in J. HIGGS Loaded Bacon and Cheddar Potato Chips</title>
-    <updated>2026-10-15T12:08:44.355667+00:00</updated>
-    <link href="http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/saratoga-potato-chips-issues-allergy-alert-undeclared-soy-j-higgs-loaded-bacon-and-cheddar-potato"/>
-    <summary>Saratoga Potato Chips of Fort Wayne, IN, is recalling two Best if USED BY codes of 7.75-ounce packages of J. HIGGS Loaded Bacon and Cheddar Potato Chips because they may contain undeclared soy allergen. People who have an allergy or severe sensitivity to soy run the risk of serious or life-threateni</summary>
-    <published>2026-09-16T11:21:00+00:00</published>
-  </entry>
-  <entry>
     <id>http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/gf-blends-recalls-truly-aip-all-purpose-flour-and-bread-mix-and-eat-gangster-flat-bread-pizza-mix</id>
     <title>GF Blends Recalls Truly AIP All Purpose Flour and Bread Mix, and EAT G.A.N.G.S.T.E.R. Flat Bread Pizza Mix Due to Potential Undeclared Wheat Gluten</title>
-    <updated>2026-10-15T12:08:44.355530+00:00</updated>
+    <updated>2026-10-15T22:33:18.068247+00:00</updated>
     <link href="http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/gf-blends-recalls-truly-aip-all-purpose-flour-and-bread-mix-and-eat-gangster-flat-bread-pizza-mix"/>
     <summary>GF Blends is recalling Truly AIP All Purpose Flour and Bread Mix and EAT G.A.N.G.S.T.E.R. Flat Bread Pizza Mix listed below due to potential undeclared wheat gluten. People who have celiac disease or a severe gluten intolerance run the risk of adverse health effects or allergic reactions if they con</summary>
     <published>2026-09-18T17:48:00+00:00</published>
@@ -26,7 +18,7 @@
   <entry>
     <id>http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/berlin-seeds-recalls-alfalfa-sprouting-seed-because-possible-health-risk</id>
     <title>Berlin Seeds Recalls Alfalfa Sprouting Seed Because of Possible Health Risk</title>
-    <updated>2026-10-15T12:08:44.355392+00:00</updated>
+    <updated>2026-10-15T22:33:18.068168+00:00</updated>
     <link href="http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/berlin-seeds-recalls-alfalfa-sprouting-seed-because-possible-health-risk"/>
     <summary>Berlin Seeds, of Millersburg, OH, is recalling 950 lbs of Alfalfa Sprouting Seed because the seed has the potential to be contaminated with Shiga toxin-producing Escherichia coli (STEC) and/or Salmonella.</summary>
     <published>2026-09-23T17:02:00+00:00</published>
@@ -34,7 +26,7 @@
   <entry>
     <id>http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/galil-importing-corp-recalls-lior-cinnamon-ground-seasoning-due-elevated-lead-levels</id>
     <title>Galil Importing Corp Recalls Lior Cinnamon Ground Seasoning Due to Elevated Lead Levels</title>
-    <updated>2026-10-15T12:08:44.355256+00:00</updated>
+    <updated>2026-10-15T22:33:18.068078+00:00</updated>
     <link href="http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/galil-importing-corp-recalls-lior-cinnamon-ground-seasoning-due-elevated-lead-levels"/>
     <summary>Galil Importing Corp of Hauppauge, New York is recalling Lior Cinnamon Ground Seasoning because it has the potential to be contaminated with elevated levels of lead. Short term exposures to very low levels of lead may not elicit any symptoms.  It is possible that increased blood lead levels may be t</summary>
     <published>2026-09-24T16:45:00+00:00</published>
@@ -42,7 +34,7 @@
   <entry>
     <id>http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/deanos-pasta-issue-allergy-alert-undeclared-lobster-pear-and-pecorino-triangoli-ravioli</id>
     <title>Deano’s Pasta Issue Allergy Alert on Undeclared Lobster in Pear and Pecorino Triangoli Ravioli</title>
-    <updated>2026-10-15T12:08:44.355117+00:00</updated>
+    <updated>2026-10-15T22:33:18.068000+00:00</updated>
     <link href="http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/deanos-pasta-issue-allergy-alert-undeclared-lobster-pear-and-pecorino-triangoli-ravioli"/>
     <summary>Deano’s Pasta of Somerville, MA is recalling approximately 20 lbs. of Pear and Pecorino Triangoli Ravioli, because it may contain undeclared Lobster. People who have an allergy or severe sensitivity to Crustacean Shellfish (Lobster) run the risk of serious or life-threatening allergic reaction if th</summary>
     <published>2026-09-24T17:05:00+00:00</published>
@@ -50,7 +42,7 @@
   <entry>
     <id>http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/g-l-mezzetta-inc-announces-recall-mezzetta-brand-golden-greek-peperoncini-medium-heat-due-presence</id>
     <title>G. L. Mezzetta Inc. Announces Recall of Mezzetta Brand Golden Greek Peperoncini (Medium Heat) Due to Presence of Pest Contaminant in the Jar</title>
-    <updated>2026-10-15T12:08:44.354973+00:00</updated>
+    <updated>2026-10-15T22:33:18.067921+00:00</updated>
     <link href="http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/g-l-mezzetta-inc-announces-recall-mezzetta-brand-golden-greek-peperoncini-medium-heat-due-presence"/>
     <summary>For generations, families have trusted Mezzetta products on their tables. We take that trust seriously, which is why we want to share what we know about a voluntary recall involving a specific lot of Mezzetta GOLDEN GREEK PEPERONCINI MEDIUM HEAT, 32-ounce, and the actions that we are taking.</summary>
     <published>2026-09-26T18:17:00+00:00</published>
@@ -58,7 +50,7 @@
   <entry>
     <id>http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/sierra-nevada-cheese-company-recalls-graziers-raw-milk-cheese-because-possible-health-risk</id>
     <title>Sierra Nevada Cheese Company Recalls Graziers Raw Milk Cheese Because of Possible Health Risk</title>
-    <updated>2026-10-15T12:08:44.354838+00:00</updated>
+    <updated>2026-10-15T22:33:18.067843+00:00</updated>
     <link href="http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/sierra-nevada-cheese-company-recalls-graziers-raw-milk-cheese-because-possible-health-risk"/>
     <summary>Sierra Nevada Cheese Company of Willows, California, is voluntarily recalling all Graziers Raw Milk Cheese currently in the market because due to potential contamination with Escherichia coli O26:H11 (E. coli O26:H11).</summary>
     <published>2026-09-28T10:26:00+00:00</published>
@@ -66,7 +58,7 @@
   <entry>
     <id>http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/gias-foods-inc-recalls-bettergoods-authentic-italian-lemon-alfredo-fettuccine-because-possible-0</id>
     <title>Gias Foods, Inc. Recalls Bettergoods Authentic Italian Lemon Alfredo Fettuccine Because of Possible Health Risk</title>
-    <updated>2026-10-15T12:08:44.354705+00:00</updated>
+    <updated>2026-10-15T22:33:18.067766+00:00</updated>
     <link href="http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/gias-foods-inc-recalls-bettergoods-authentic-italian-lemon-alfredo-fettuccine-because-possible-0"/>
     <summary>Gias Foods of New York, NY is recalling all lot codes of bettergoods Authentic Italian Lemon Alfredo Fettuccine, because it has the potential to be contaminated with Listeria monocytogenes, an organism which can cause serious and sometimes fatal infections in young children, frail or elderly people,</summary>
     <published>2026-10-01T00:00:00+00:00</published>
@@ -74,7 +66,7 @@
   <entry>
     <id>http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/saint-francis-apizza-llc-issues-voluntary-recall-its-frozen-pizzas-missing-sub-ingredients-label-soy</id>
     <title>Saint Francis Apizza LLC Issues a Voluntary Recall of its Frozen Pizzas for Missing Sub Ingredients on the Label for Soy Which Includes Soybean Oil and Soy Lecithin, an Allergen</title>
-    <updated>2026-10-15T12:08:44.354573+00:00</updated>
+    <updated>2026-10-15T22:33:18.067687+00:00</updated>
     <link href="http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/saint-francis-apizza-llc-issues-voluntary-recall-its-frozen-pizzas-missing-sub-ingredients-label-soy"/>
     <summary>Cincinnati, Ohio October 1, 2026. Saint Francis Apizza LLC is issuing a voluntary recall on their frozen pizzas for misbranding due to the soy allergen not being declared on the label. The frozen pizzas were sold in ‘Pepperoni,’ ‘Plain Cheese,’ ‘Supreme,’ and ‘Mushroom and Onion’ varieties.</summary>
     <published>2026-10-01T00:00:00+00:00</published>
@@ -82,7 +74,7 @@
   <entry>
     <id>http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/winco-foods-boise-id-recalling-following-salsa-bean-dip-trays-due-inclusion-recalled-peperoncini-gl</id>
     <title>WinCo Foods of Boise, ID is Recalling the Following Salsa Bean Dip Trays Due to the Inclusion of Recalled Peperoncini from G.L. Mezzetta</title>
-    <updated>2026-10-15T12:08:44.354444+00:00</updated>
+    <updated>2026-10-15T22:33:18.067609+00:00</updated>
     <link href="http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/winco-foods-boise-id-recalling-following-salsa-bean-dip-trays-due-inclusion-recalled-peperoncini-gl"/>
     <summary>October 1, 2026 - WinCo Foods of Boise, ID is recalling the following Salsa Bean Dip Trays due to the inclusion of ecalled peperoncini from G.L. Mezzetta.</summary>
     <published>2026-10-01T16:03:00+00:00</published>
@@ -90,7 +82,7 @@
   <entry>
     <id>http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/flowers-foods-issues-recall-natures-own-hawaiian-bread-due-undeclared-milk</id>
     <title>Flowers Foods Issues Recall of Nature’s Own Hawaiian Bread Due to Undeclared Milk</title>
-    <updated>2026-10-15T12:08:44.354311+00:00</updated>
+    <updated>2026-10-15T22:33:18.067532+00:00</updated>
     <link href="http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/flowers-foods-issues-recall-natures-own-hawaiian-bread-due-undeclared-milk"/>
     <summary>THOMASVILLE, GA., October 2, 2026 – Flowers Foods, Inc. (NYSE: FLO) is recalling Nature’s Own® Hawaiian Bread, 20 oz. and 40 oz. bags, due to undeclared milk. People who have an allergy or severe sensitivity to milk may run the risk of an allergic reaction if they consume this product.</summary>
     <published>2026-10-02T12:31:00+00:00</published>
@@ -98,7 +90,7 @@
   <entry>
     <id>http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/frutas-y-hortalizas-del-sur-sa-expands-recalls-include-additional-lots-great-value-frozen-organic</id>
     <title>Frutas y Hortalizas del Sur S.A. Expands Recalls to Include Additional Lots of Great Value Frozen Organic Triple Berry Blend 10 OZ, Great Value Frozen Organic Blueberries 10 OZ and One Lot of Trader J</title>
-    <updated>2026-10-15T12:08:44.354179+00:00</updated>
+    <updated>2026-10-15T22:33:18.067451+00:00</updated>
     <link href="http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/frutas-y-hortalizas-del-sur-sa-expands-recalls-include-additional-lots-great-value-frozen-organic"/>
     <summary>October 02, 2026. Frutas y Hortalizas del Sur S.A., San Carlos, Chile expands its previously initiated recalls on July 3, 2026 and September 3,2026 recall of frozen organic IQF blueberries and berry blends to include additional lots of Great Value frozen Organic Triple Berry Blend 10 OZ, Great Value</summary>
     <published>2026-10-02T15:06:00+00:00</published>
@@ -106,7 +98,7 @@
   <entry>
     <id>http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/eak-distribution-llc-recalls-home-grown-green-sprouting-calabrese-broccoli-seeds-8-oz-heirloom</id>
     <title>EAK Distribution LLC Recalls HOME GROWN Green Sprouting Calabrese Broccoli Seeds, 8 oz, Heirloom Because of Possible Health Risk</title>
-    <updated>2026-10-15T12:08:44.354034+00:00</updated>
+    <updated>2026-10-15T22:33:18.067370+00:00</updated>
     <link href="http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/eak-distribution-llc-recalls-home-grown-green-sprouting-calabrese-broccoli-seeds-8-oz-heirloom"/>
     <summary>October 2nd, 2026 - EAK Distribution of Casper, WY is recalling HOME GROWN Green Sprouting Calabrese Broccoli Seeds, 8 oz, Heirloom, because it has the potential to be contaminated with Salmonella, an organism which can cause serious and sometimes fatal infections in young children, frail or elderly</summary>
     <published>2026-10-02T16:37:00+00:00</published>
@@ -114,7 +106,7 @@
   <entry>
     <id>http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/stewarts-shop-corp-recalls-heavenly-medley-and-vanilla-chocolate-strawberry-due-possible-foreign</id>
     <title>Stewart’s Shop Corp. Recalls Heavenly Medley and Vanilla-Chocolate-Strawberry Due to Possible Foreign Object</title>
-    <updated>2026-10-15T12:08:44.353905+00:00</updated>
+    <updated>2026-10-15T22:33:18.067287+00:00</updated>
     <link href="http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/stewarts-shop-corp-recalls-heavenly-medley-and-vanilla-chocolate-strawberry-due-possible-foreign"/>
     <summary>October 2, 2026, Stewart’s Shops Corp. of Saratoga Springs, NY is recalling two flavors, Heavenly Medley and Vanilla-Chocolate-Strawberry, of half-gallon ice cream due to the potential presence of metal.</summary>
     <published>2026-10-02T18:02:00+00:00</published>
@@ -122,7 +114,7 @@
   <entry>
     <id>http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/eden-brothers-recalls-calabrese-broccoli-seeds-due-possible-salmonella-contamination</id>
     <title>Eden Brothers Recalls Calabrese Broccoli Seeds Due to Possible Salmonella Contamination</title>
-    <updated>2026-10-15T12:08:44.353774+00:00</updated>
+    <updated>2026-10-15T22:33:18.067205+00:00</updated>
     <link href="http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/eden-brothers-recalls-calabrese-broccoli-seeds-due-possible-salmonella-contamination"/>
     <summary>Arden, NC – October 7th 2026 – Eden Brothers LLC is recalling Calabrese Broccoli Seeds in Packet, 1 Ounce and 1 Pound sizes (Eden Brothers lots 1022067 and 1022068; supplier lot W4105) because we were informed by our supplier that they may be contaminated with Salmonella.</summary>
     <published>2026-10-07T16:19:00+00:00</published>
@@ -130,23 +122,23 @@
   <entry>
     <id>http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/gardeners-basics-recalls-waltham-29-broccoli-sprouting-seeds-due-possible-salmonella-contamination</id>
     <title>Gardeners Basics Recalls Waltham 29 Broccoli Sprouting Seeds Due to Possible Salmonella Contamination</title>
-    <updated>2026-10-15T12:08:44.353641+00:00</updated>
+    <updated>2026-10-15T22:33:18.067107+00:00</updated>
     <link href="http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/gardeners-basics-recalls-waltham-29-broccoli-sprouting-seeds-due-possible-salmonella-contamination"/>
     <summary>October 8, 2026, Gardeners Basics of Spanish Fork, Utah, is recalling one-pound bags of broccoli sprouting seeds because they may be contaminated with Salmonella, an organism which can cause serious and sometimes fatal infections in young children, frail or elderly people, and others with weakened i</summary>
     <published>2026-10-08T19:51:00+00:00</published>
   </entry>
   <entry>
-    <id>http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/krasnyi-oktyabr-inc-recalls-starfish-seafood-trio-because-possible-health-risk</id>
-    <title>Krasnyi Oktyabr Inc. Recalls Starfish Seafood Trio Because of Possible Health Risk</title>
-    <updated>2026-10-15T12:08:44.353510+00:00</updated>
-    <link href="http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/krasnyi-oktyabr-inc-recalls-starfish-seafood-trio-because-possible-health-risk"/>
-    <summary>Krasnyi Oktyabr Inc. of Brooklyn, New York, is voluntarily recalling Starfish Seafood Trio – Cold Smoked Salmon, Halibut, and Trout, 8 oz (227 g) packages, because the product has the potential to be contaminated with Listeria monocytogenes, an organism which can cause serious and sometimes fatal in</summary>
+    <id>http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/krasnyi-oktyabr-inc-recalls-starfish-seafood-premium-cold-smoked-norwegian-salmon-sliced-227g8oz</id>
+    <title>Krasnyi Oktyabr Inc. Recalls Starfish Seafood Premium Cold Smoked Norwegian Salmon Sliced (227g/8oz) Because of Possible Health Risk</title>
+    <updated>2026-10-15T22:33:18.067025+00:00</updated>
+    <link href="http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/krasnyi-oktyabr-inc-recalls-starfish-seafood-premium-cold-smoked-norwegian-salmon-sliced-227g8oz"/>
+    <summary>Krasnyi Oktyabr Inc. of Brooklyn, New York, is voluntarily recalling STARFISH SEAFOOD PREMIUM COLD SMOKED NORWEGIAN SALMON SLICED (227g/8oz) packages, because the product has the potential to be contaminated with Listeria monocytogenes, an organism which can cause serious and sometimes fatal infecti</summary>
     <published>2026-10-09T14:41:00+00:00</published>
   </entry>
   <entry>
     <id>http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/oliva-llc-issues-allergy-alert-undeclared-sesame-baba-ghanouj-spicy-baba-ghanouj-and-hummus</id>
     <title>Oliva LLC Issues Allergy Alert on Undeclared Sesame in Baba Ghanouj, Spicy Baba Ghanouj, and Hummus</title>
-    <updated>2026-10-15T12:08:44.353374+00:00</updated>
+    <updated>2026-10-15T22:33:18.066940+00:00</updated>
     <link href="http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/oliva-llc-issues-allergy-alert-undeclared-sesame-baba-ghanouj-spicy-baba-ghanouj-and-hummus"/>
     <summary>Oliva LLC of Bethlehem, CT is recalling approximately 250 units of Riad’s Oliva to Go Baba Ghanouj, Spicy Baba Ghanouj, and Hummus, because it may contain undeclared sesame. People who have an allergy or severe sensitivity to sesame run the risk of serious or life-threatening allergic reaction if th</summary>
     <published>2026-10-09T15:08:00+00:00</published>
@@ -154,7 +146,7 @@
   <entry>
     <id>http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/pan-pepin-inc-emite-alerta-por-alergenos-en-el-producto-parabien-al-grano-debido-la-presencia-de</id>
     <title>Pan Pepín Inc. Emite Alerta por Alérgenos en el Producto Parabien al Grano Debido a la Presencia de  Sésamo No Declarado</title>
-    <updated>2026-10-15T12:08:44.353238+00:00</updated>
+    <updated>2026-10-15T22:33:18.066847+00:00</updated>
     <link href="http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/pan-pepin-inc-emite-alerta-por-alergenos-en-el-producto-parabien-al-grano-debido-la-presencia-de"/>
     <summary>Bayamón, Puerto Rico - Pan Pepín Inc., con sede en Bayamón, Puerto Rico, está retirando voluntariamente del mercado ciertos lotes del producto Para Bien Al Grano debido a que contiene sésamo (ajonjolí), un alérgeno que no fue declarado en su etiqueta.</summary>
     <published>2026-10-13T14:00:00+00:00</published>
@@ -162,9 +154,17 @@
   <entry>
     <id>http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/pan-pepin-inc-issues-allergy-alert-para-bien-al-grano-due-undeclared-sesame</id>
     <title>Pan Pepin Inc. Issues Allergy Alert of Para Bien Al Grano Due to Undeclared Sesame</title>
-    <updated>2026-10-15T12:08:44.353091+00:00</updated>
+    <updated>2026-10-15T22:33:18.066695+00:00</updated>
     <link href="http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/pan-pepin-inc-issues-allergy-alert-para-bien-al-grano-due-undeclared-sesame"/>
     <summary>Pan Pepin Inc. of Bayamón, Puerto Rico is recalling certain lots of Para Bien Al Grano because the product contain sesame.</summary>
     <published>2026-10-13T14:07:00+00:00</published>
+  </entry>
+  <entry>
+    <id>http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/family-farmstead-dairy-announces-recall-raw-mild-cheddar-cheese-due-potential-e-coli-o157h7</id>
+    <title>Family Farmstead Dairy Announces Recall of Raw Mild Cheddar Cheese Due to Potential E. coli O157:H7 Contamination</title>
+    <updated>2026-10-15T22:33:18.066550+00:00</updated>
+    <link href="http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/family-farmstead-dairy-announces-recall-raw-mild-cheddar-cheese-due-potential-e-coli-o157h7"/>
+    <summary>WORCESTER, NY, October 15, 2026 - Family Farmstead Dairy of Worcester, NY is recalling specific lot of cheddar cheese because it may be contaminated with Escherichia coli O157:H7 bacteria (E. Coli O157:H7). E. coli O157:H7 causes a diarrheal illness often with bloody stools. Although most healthy ad</summary>
+    <published>2026-10-15T16:04:00+00:00</published>
   </entry>
 </feed>

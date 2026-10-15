@@ -2,217 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:fcc</id>
   <title>FCC Recent Releases (Combined)</title>
-  <updated>2026-10-15T12:08:50.674562+00:00</updated>
+  <updated>2026-10-15T22:33:21.683065+00:00</updated>
   <link href="file:///feeds/fcc.xml" rel="self"/>
   <link href="https://api2.fcc.gov/api/exp/v1.0.0/edocspublic/rss" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: telecom / Mode: rss</subtitle>
   <entry>
-    <id>425851</id>
-    <title>WTB Grants BIARA Waiver for Pearl Harbor Remembrance Day Event</title>
-    <updated>2026-10-15T12:08:50.675208+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/425851"/>
-    <summary>Granted the BIARA Waiver for Pearl Harbor Remembrance Day Event</summary>
-    <published>2026-10-15T12:08:50.675206+00:00</published>
-  </entry>
-  <entry>
-    <id>425803</id>
-    <title>The Public Safety and Homeland Security Bureau Places into the Record of Two Proceedings Certain Letters from the U.S. Department of War to Congress</title>
-    <updated>2026-10-15T12:08:50.675187+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/425803"/>
-    <summary>.</summary>
-    <published>2026-10-15T12:08:50.675184+00:00</published>
-  </entry>
-  <entry>
-    <id>425840</id>
-    <title>FCC Invites Applicants for National Outreach Entity for the National Deaf-Blind Equipment Distribution Program</title>
-    <updated>2026-10-15T12:08:50.675166+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/425840"/>
-    <summary>.</summary>
-    <published>2026-10-15T12:08:50.675163+00:00</published>
-  </entry>
-  <entry>
-    <id>425843</id>
-    <title>Satellite Communications Services - SES</title>
-    <updated>2026-10-15T12:08:50.675145+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/425843"/>
-    <summary>.</summary>
-    <published>2026-10-15T12:08:50.675142+00:00</published>
-  </entry>
-  <entry>
-    <id>425834</id>
-    <title>Public Safety and Homeland Security Bureau Site Based Licenses Termination Pending Public Notice</title>
-    <updated>2026-10-15T12:08:50.675123+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/425834"/>
-    <summary>.</summary>
-    <published>2026-10-15T12:08:50.675121+00:00</published>
-  </entry>
-  <entry>
-    <id>425830</id>
-    <title>Wireless Telecommunications Bureau Site Based Licenses Termination Pending Public Notice</title>
-    <updated>2026-10-15T12:08:50.675101+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/425830"/>
-    <summary>.</summary>
-    <published>2026-10-15T12:08:50.675099+00:00</published>
-  </entry>
-  <entry>
-    <id>425844</id>
-    <title>Satellite Communications Services - SES</title>
-    <updated>2026-10-15T12:08:50.675080+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/425844"/>
-    <summary>.</summary>
-    <published>2026-10-15T12:08:50.675077+00:00</published>
-  </entry>
-  <entry>
-    <id>425826</id>
-    <title>Public Safety and Homeland Security Bureau Assignment of License authorization Applications, Transfer of Control of Licensee Applications, De Facto Transfer Lease Applications and Spectrum Manager Lea</title>
-    <updated>2026-10-15T12:08:50.675058+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/425826"/>
-    <summary>Eligibility Event Applications, And Designated Entity Annual Reports Action</summary>
-    <published>2026-10-15T12:08:50.675055+00:00</published>
-  </entry>
-  <entry>
-    <id>425816</id>
-    <title>Wireless Telecommunications Bureau Site-By-Site Action</title>
-    <updated>2026-10-15T12:08:50.675033+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/425816"/>
-    <summary>.</summary>
-    <published>2026-10-15T12:08:50.675030+00:00</published>
-  </entry>
-  <entry>
-    <id>425832</id>
-    <title>Public Safety and Homeland Security Bureau Market Based Licenses Termination Pending Public Notice</title>
-    <updated>2026-10-15T12:08:50.675012+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/425832"/>
-    <summary>.</summary>
-    <published>2026-10-15T12:08:50.675009+00:00</published>
-  </entry>
-  <entry>
-    <id>425808</id>
-    <title>Wireless Telecommunications Bureau Market-Based Applications Action</title>
-    <updated>2026-10-15T12:08:50.674990+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/425808"/>
-    <summary>.</summary>
-    <published>2026-10-15T12:08:50.674987+00:00</published>
-  </entry>
-  <entry>
-    <id>425810</id>
-    <title>Public Safety and Homeland Security Bureau Market-Based Applications Action</title>
-    <updated>2026-10-15T12:08:50.674968+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/425810"/>
-    <summary>.</summary>
-    <published>2026-10-15T12:08:50.674965+00:00</published>
-  </entry>
-  <entry>
-    <id>425804</id>
-    <title>Wireless Telecommunications Bureau Market-Based Applications Accepted for Filing</title>
-    <updated>2026-10-15T12:08:50.674915+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/425804"/>
-    <summary>.</summary>
-    <published>2026-10-15T12:08:50.674913+00:00</published>
-  </entry>
-  <entry>
-    <id>425806</id>
-    <title>Public Safety and Homeland Security Bureau Market-Based Applications Accepted for Filing</title>
-    <updated>2026-10-15T12:08:50.674892+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/425806"/>
-    <summary>.</summary>
-    <published>2026-10-15T12:08:50.674890+00:00</published>
-  </entry>
-  <entry>
-    <id>425841</id>
-    <title>FCC to Vote on Making $162 Million Available for Expanded Mobile Broadband in Alaska</title>
-    <updated>2026-10-15T12:08:50.674870+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/425841"/>
-    <summary>In an Order circulated for a Commission vote, Chairman Carr proposes providing an additional $162 million for the Alaska Connect Fund.</summary>
-    <published>2026-10-15T12:08:50.674868+00:00</published>
-  </entry>
-  <entry>
-    <id>425837</id>
+    <id>425885</id>
     <title>Actions</title>
-    <updated>2026-10-15T12:08:50.674847+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/425837"/>
+    <updated>2026-10-15T22:33:21.683177+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/425885"/>
     <summary>.</summary>
-    <published>2026-10-15T12:08:50.674845+00:00</published>
+    <published>2026-10-15T22:33:21.683176+00:00</published>
   </entry>
   <entry>
-    <id>425838</id>
+    <id>425886</id>
     <title>Pleadings</title>
-    <updated>2026-10-15T12:08:50.674824+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/425838"/>
+    <updated>2026-10-15T22:33:21.683163+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/425886"/>
     <summary>.</summary>
-    <published>2026-10-15T12:08:50.674822+00:00</published>
+    <published>2026-10-15T22:33:21.683161+00:00</published>
   </entry>
   <entry>
-    <id>425836</id>
+    <id>425884</id>
     <title>Applications</title>
-    <updated>2026-10-15T12:08:50.674803+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/425836"/>
+    <updated>2026-10-15T22:33:21.683151+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/425884"/>
     <summary>.</summary>
-    <published>2026-10-15T12:08:50.674800+00:00</published>
+    <published>2026-10-15T22:33:21.683136+00:00</published>
   </entry>
   <entry>
-    <id>425824</id>
-    <title>Wireless Telecommunications Bureau Assignment of License Authorization Applications, Transfer of Control of Licensee Applications, De Facto Transfer Lease Applications and Spectrum Manager Lease Notif</title>
-    <updated>2026-10-15T12:08:50.674781+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/425824"/>
-    <summary>Event Applications, And Designated Entity Annual Reports Action</summary>
-    <published>2026-10-15T12:08:50.674778+00:00</published>
-  </entry>
-  <entry>
-    <id>425490</id>
-    <title>In the Matter of FIF Utah LLC</title>
-    <updated>2026-10-15T12:08:50.674759+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/425490"/>
-    <summary>FCC EB settles its investigation into FIF Utah LLC for potential rule violations including failing to make accurate and truthful statements in its final certification in the Secure and Trusted Communications Networks Reimbursement Program.</summary>
-    <published>2026-10-15T12:08:50.674756+00:00</published>
-  </entry>
-  <entry>
-    <id>425822</id>
-    <title>Public Safety and Homeland Security Bureau Assignment of License Authorization Applications, Transfer of Control of Licensee Applications, and De Facto Transfer Lease Applications, and Designated Enti</title>
-    <updated>2026-10-15T12:08:50.674735+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/425822"/>
-    <summary>For Filing</summary>
-    <published>2026-10-15T12:08:50.674732+00:00</published>
-  </entry>
-  <entry>
-    <id>425820</id>
-    <title>Wireless Telecommunications Bureau Assignment of License Authorization Applications, Transfer of Control of Licensee Applications, and De Facto Transfer Lease Applications, and Designated Entity Repor</title>
-    <updated>2026-10-15T12:08:50.674711+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/425820"/>
-    <summary>Filing</summary>
-    <published>2026-10-15T12:08:50.674709+00:00</published>
-  </entry>
-  <entry>
-    <id>425818</id>
-    <title>Public Safety and Homeland Security Bureau Site-By-Site Action</title>
-    <updated>2026-10-15T12:08:50.674687+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/425818"/>
+    <id>425893</id>
+    <title>The Public Safety and Homeland Security Bureau Places into the Records of Two Proceedings a Letter From Senator Scott to Chairman Carr</title>
+    <updated>2026-10-15T22:33:21.683127+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/425893"/>
     <summary>.</summary>
-    <published>2026-10-15T12:08:50.674685+00:00</published>
+    <published>2026-10-15T22:33:21.683125+00:00</published>
   </entry>
   <entry>
-    <id>425814</id>
-    <title>Public Safety and Homeland Security Bureau Site-By-Site Accepted for Filing</title>
-    <updated>2026-10-15T12:08:50.674662+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/425814"/>
+    <id>425895</id>
+    <title>Domestic Section 214 Application Granted for the Transfer of Control of Siren Telephone Company, Inc. to Lakeland Communications, Inc.</title>
+    <updated>2026-10-15T22:33:21.683116+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/425895"/>
     <summary>.</summary>
-    <published>2026-10-15T12:08:50.674659+00:00</published>
+    <published>2026-10-15T22:33:21.683115+00:00</published>
   </entry>
   <entry>
-    <id>425828</id>
-    <title>Wireless Telecommunications Bureau Market Based Licenses Termination Pending Public Notice</title>
-    <updated>2026-10-15T12:08:50.674632+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/425828"/>
+    <id>425890</id>
+    <title>International Authorizations Granted - ITC</title>
+    <updated>2026-10-15T22:33:21.683109+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/425890"/>
     <summary>.</summary>
-    <published>2026-10-15T12:08:50.674628+00:00</published>
+    <published>2026-10-15T22:33:21.683107+00:00</published>
   </entry>
   <entry>
-    <id>425812</id>
-    <title>Wireless Telecommunications Bureau Site-By-Site Accepted for Filing</title>
-    <updated>2026-10-15T12:08:50.674584+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/425812"/>
-    <summary>.</summary>
-    <published>2026-10-15T12:08:50.674575+00:00</published>
+    <id>425888</id>
+    <title>Notice of Prohibited Presentations</title>
+    <updated>2026-10-15T22:33:21.683095+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/425888"/>
+    <summary>The Office of General Counsel gives notice of prohibited Sunshine period presentation.</summary>
+    <published>2026-10-15T22:33:21.683093+00:00</published>
+  </entry>
+  <entry>
+    <id>425892</id>
+    <title>Wired Or Wireless, Inc. v. Avista Corp.</title>
+    <updated>2026-10-15T22:33:21.683075+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/425892"/>
+    <summary>Letter Order Regarding Scheduling.</summary>
+    <published>2026-10-15T22:33:21.683071+00:00</published>
   </entry>
 </feed>
