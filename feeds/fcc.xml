@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:fcc</id>
   <title>FCC Recent Releases (Combined)</title>
-  <updated>2026-10-16T03:47:29.566434+00:00</updated>
+  <updated>2026-10-16T08:38:26.160621+00:00</updated>
   <link href="file:///feeds/fcc.xml" rel="self"/>
   <link href="https://api2.fcc.gov/api/exp/v1.0.0/edocspublic/rss" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -10,65 +10,65 @@
   <entry>
     <id>425885</id>
     <title>Actions</title>
-    <updated>2026-10-16T03:47:29.566503+00:00</updated>
+    <updated>2026-10-16T08:38:26.160715+00:00</updated>
     <link href="https://www.fcc.gov/edoc/425885"/>
     <summary>.</summary>
-    <published>2026-10-16T03:47:29.566502+00:00</published>
+    <published>2026-10-16T08:38:26.160714+00:00</published>
   </entry>
   <entry>
     <id>425886</id>
     <title>Pleadings</title>
-    <updated>2026-10-16T03:47:29.566496+00:00</updated>
+    <updated>2026-10-16T08:38:26.160704+00:00</updated>
     <link href="https://www.fcc.gov/edoc/425886"/>
     <summary>.</summary>
-    <published>2026-10-16T03:47:29.566495+00:00</published>
+    <published>2026-10-16T08:38:26.160703+00:00</published>
   </entry>
   <entry>
     <id>425884</id>
     <title>Applications</title>
-    <updated>2026-10-16T03:47:29.566490+00:00</updated>
+    <updated>2026-10-16T08:38:26.160695+00:00</updated>
     <link href="https://www.fcc.gov/edoc/425884"/>
     <summary>.</summary>
-    <published>2026-10-16T03:47:29.566489+00:00</published>
+    <published>2026-10-16T08:38:26.160693+00:00</published>
   </entry>
   <entry>
     <id>425893</id>
     <title>The Public Safety and Homeland Security Bureau Places into the Records of Two Proceedings a Letter From Senator Scott to Chairman Carr</title>
-    <updated>2026-10-16T03:47:29.566483+00:00</updated>
+    <updated>2026-10-16T08:38:26.160682+00:00</updated>
     <link href="https://www.fcc.gov/edoc/425893"/>
     <summary>.</summary>
-    <published>2026-10-16T03:47:29.566482+00:00</published>
+    <published>2026-10-16T08:38:26.160680+00:00</published>
   </entry>
   <entry>
     <id>425895</id>
     <title>Domestic Section 214 Application Granted for the Transfer of Control of Siren Telephone Company, Inc. to Lakeland Communications, Inc.</title>
-    <updated>2026-10-16T03:47:29.566476+00:00</updated>
+    <updated>2026-10-16T08:38:26.160669+00:00</updated>
     <link href="https://www.fcc.gov/edoc/425895"/>
     <summary>.</summary>
-    <published>2026-10-16T03:47:29.566475+00:00</published>
+    <published>2026-10-16T08:38:26.160667+00:00</published>
   </entry>
   <entry>
     <id>425890</id>
     <title>International Authorizations Granted - ITC</title>
-    <updated>2026-10-16T03:47:29.566469+00:00</updated>
+    <updated>2026-10-16T08:38:26.160651+00:00</updated>
     <link href="https://www.fcc.gov/edoc/425890"/>
     <summary>.</summary>
-    <published>2026-10-16T03:47:29.566468+00:00</published>
+    <published>2026-10-16T08:38:26.160649+00:00</published>
   </entry>
   <entry>
     <id>425888</id>
     <title>Notice of Prohibited Presentations</title>
-    <updated>2026-10-16T03:47:29.566461+00:00</updated>
+    <updated>2026-10-16T08:38:26.160642+00:00</updated>
     <link href="https://www.fcc.gov/edoc/425888"/>
     <summary>The Office of General Counsel gives notice of prohibited Sunshine period presentation.</summary>
-    <published>2026-10-16T03:47:29.566460+00:00</published>
+    <published>2026-10-16T08:38:26.160641+00:00</published>
   </entry>
   <entry>
     <id>425892</id>
     <title>Wired Or Wireless, Inc. v. Avista Corp.</title>
-    <updated>2026-10-16T03:47:29.566441+00:00</updated>
+    <updated>2026-10-16T08:38:26.160628+00:00</updated>
     <link href="https://www.fcc.gov/edoc/425892"/>
     <summary>Letter Order Regarding Scheduling.</summary>
-    <published>2026-10-16T03:47:29.566438+00:00</published>
+    <published>2026-10-16T08:38:26.160624+00:00</published>
   </entry>
 </feed>

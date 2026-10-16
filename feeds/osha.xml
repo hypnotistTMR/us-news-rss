@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:osha</id>
   <title>OSHA News Releases</title>
-  <updated>2026-10-16T03:47:31.940767+00:00</updated>
+  <updated>2026-10-16T08:38:27.581728+00:00</updated>
   <link href="file:///feeds/osha.xml" rel="self"/>
   <link href="https://www.osha.gov/news/newsreleases.xml" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -10,7 +10,7 @@
   <entry>
     <id>https://www.osha.gov/news/newsreleases/new-york-city/20260923</id>
     <title>US Department of Labor cites New Jersey car wash for willfully exposing workers to safety hazards, proposes more than $446K in fines</title>
-    <updated>2026-10-16T03:47:31.941272+00:00</updated>
+    <updated>2026-10-16T08:38:27.582488+00:00</updated>
     <link href="https://www.osha.gov/news/newsreleases/new-york-city/20260923"/>
     <summary>September 23, 2026</summary>
     <published>2026-09-23T12:00:00+00:00</published>
@@ -18,7 +18,7 @@
   <entry>
     <id>https://www.osha.gov/news/newsreleases/osha-news-release/20260924</id>
     <title>US Department of Labor releases new workplace guidance to prepare employers, workers for opioid emergencies</title>
-    <updated>2026-10-16T03:47:31.941212+00:00</updated>
+    <updated>2026-10-16T08:38:27.582359+00:00</updated>
     <link href="https://www.osha.gov/news/newsreleases/osha-news-release/20260924"/>
     <summary>September 24, 2026</summary>
     <published>2026-09-24T12:00:00+00:00</published>
@@ -26,7 +26,7 @@
   <entry>
     <id>https://www.osha.gov/news/newsreleases/kansas-city/20261001</id>
     <title>US Labor Department finds railroad illegally terminated employee who refused to work during severe weather</title>
-    <updated>2026-10-16T03:47:31.941149+00:00</updated>
+    <updated>2026-10-16T08:38:27.582256+00:00</updated>
     <link href="https://www.osha.gov/news/newsreleases/kansas-city/20261001"/>
     <summary>October 1, 2026</summary>
     <published>2026-10-01T12:00:00+00:00</published>
@@ -34,7 +34,7 @@
   <entry>
     <id>https://www.osha.gov/news/newsreleases/osha-national-news-release/20261001</id>
     <title>US Department of Labor awards $10.2 million to 67 organizations to promote workplace safety and health training</title>
-    <updated>2026-10-16T03:47:31.941068+00:00</updated>
+    <updated>2026-10-16T08:38:27.582149+00:00</updated>
     <link href="https://www.osha.gov/news/newsreleases/osha-national-news-release/20261001"/>
     <summary>October 1, 2026</summary>
     <published>2026-10-01T12:00:00+00:00</published>
@@ -42,7 +42,7 @@
   <entry>
     <id>https://www.osha.gov/news/newsreleases/philadelphia/20261007</id>
     <title>US Department of Labor cites Pennsylvania excavation employer for failing to provide trench protection following fatal trench cave-in</title>
-    <updated>2026-10-16T03:47:31.940955+00:00</updated>
+    <updated>2026-10-16T08:38:27.581977+00:00</updated>
     <link href="https://www.osha.gov/news/newsreleases/philadelphia/20261007"/>
     <summary>October 7, 2026</summary>
     <published>2026-10-07T12:00:00+00:00</published>
