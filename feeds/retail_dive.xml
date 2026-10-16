@@ -2,47 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:retail_dive</id>
   <title>Retail Dive</title>
-  <updated>2026-10-16T13:39:19.067151+00:00</updated>
+  <updated>2026-10-16T17:45:48.472400+00:00</updated>
   <link href="file:///feeds/retail_dive.xml" rel="self"/>
   <link href="https://www.retaildive.com/feeds/news/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: retail / Mode: rss</subtitle>
   <entry>
-    <id>https://www.retaildive.com/news/scheels-store-experience-retail-best-kept-secret/831211/</id>
-    <title>Reporter’s notebook: Inside Scheels’ sporting goods wonderland</title>
-    <updated>2026-10-16T13:39:19.067898+00:00</updated>
-    <link href="https://www.retaildive.com/news/scheels-store-experience-retail-best-kept-secret/831211/"/>
-    <summary>Come for the sporting goods, stay for the animatronic Abe Lincoln. And whatever you do, don&amp;rsquo;t expect your average retail experience.</summary>
-    <published>2026-10-13T09:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://www.retaildive.com/news/where-has-aspirational-luxury-consumer-gone/832365/</id>
-    <title>Where has the aspirational luxury consumer gone?</title>
-    <updated>2026-10-16T13:39:19.067842+00:00</updated>
-    <link href="https://www.retaildive.com/news/where-has-aspirational-luxury-consumer-gone/832365/"/>
-    <summary>High-end brands have raised their prices in the post-pandemic economy. They&amp;rsquo;re selling less in part because fewer consumers can afford them.</summary>
-    <published>2026-10-13T10:12:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://www.retaildive.com/news/nordstrom-expands-fao-schwarz-offerings-new-app-features-holiday/832853/</id>
-    <title>Nordstrom expands FAO Schwarz offerings, debuts new app features for holidays</title>
-    <updated>2026-10-16T13:39:19.067784+00:00</updated>
-    <link href="https://www.retaildive.com/news/nordstrom-expands-fao-schwarz-offerings-new-app-features-holiday/832853/"/>
-    <summary>The department store revamped its Nordy marketing character and is offering same-day beauty deliveries at select locations this season.</summary>
-    <published>2026-10-13T11:55:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://www.retaildive.com/news/hasbro-opens-studio-focused-dungeons-dragons/832834/</id>
-    <title>Hasbro opens studio focused on Dungeons &amp; Dragons</title>
-    <updated>2026-10-16T13:39:19.067727+00:00</updated>
-    <link href="https://www.retaildive.com/news/hasbro-opens-studio-focused-dungeons-dragons/832834/"/>
-    <summary>The new Wizards of the Coast Studios in Montr&amp;eacute;al will focus on developing content for the D&amp;amp;D franchise.&amp;nbsp;</summary>
-    <published>2026-10-13T11:58:00-04:00</published>
-  </entry>
-  <entry>
     <id>https://www.retaildive.com/news/moodys-retail-apparel-outlook-boosted-tariff-refunds/832964/</id>
     <title>Moody’s upgrades retail and apparel outlook as tariffs ease</title>
-    <updated>2026-10-16T13:39:19.067668+00:00</updated>
+    <updated>2026-10-16T17:45:48.473552+00:00</updated>
     <link href="https://www.retaildive.com/news/moodys-retail-apparel-outlook-boosted-tariff-refunds/832964/"/>
     <summary>The firm now expects &amp;ldquo;solid household finances&amp;rdquo; to lead to more stability in the sector, although rising energy costs and geopolitical risks are still a factor.</summary>
     <published>2026-10-14T11:27:00-04:00</published>
@@ -50,7 +18,7 @@
   <entry>
     <id>https://www.retaildive.com/news/saks-fifth-avenue-holiday-campaign-main-character-energy-post-bankruptcy/832961/</id>
     <title>Saks channels ‘main character energy’ for first post-bankruptcy holiday</title>
-    <updated>2026-10-16T13:39:19.067611+00:00</updated>
+    <updated>2026-10-16T17:45:48.473460+00:00</updated>
     <link href="https://www.retaildive.com/news/saks-fifth-avenue-holiday-campaign-main-character-energy-post-bankruptcy/832961/"/>
     <summary>A few months after its parent company exited Chapter 11, a leaner Saks Fifth Avenue is out to show it still has holiday heft.</summary>
     <published>2026-10-14T12:11:00-04:00</published>
@@ -58,7 +26,7 @@
   <entry>
     <id>https://www.retaildive.com/news/toy-prices-jump-holiday-season-inflation/832955/</id>
     <title>Toy prices jump 4.2% ahead of the holidays</title>
-    <updated>2026-10-16T13:39:19.067551+00:00</updated>
+    <updated>2026-10-16T17:45:48.473367+00:00</updated>
     <link href="https://www.retaildive.com/news/toy-prices-jump-holiday-season-inflation/832955/"/>
     <summary>The September price bump came amid a &amp;ldquo;tough&amp;rdquo; inflation report, with the overall Consumer Price Index up 0.6%.</summary>
     <published>2026-10-14T12:13:00-04:00</published>
@@ -66,7 +34,7 @@
   <entry>
     <id>https://www.retaildive.com/news/target-upgrades-store-operations-app-employees/832989/</id>
     <title>Target wants more efficient stores. An upgraded employee app could help.</title>
-    <updated>2026-10-16T13:39:19.067487+00:00</updated>
+    <updated>2026-10-16T17:45:48.473270+00:00</updated>
     <link href="https://www.retaildive.com/news/target-upgrades-store-operations-app-employees/832989/"/>
     <summary>The retailer&amp;rsquo;s myDay app features a newly customizable home screen functionality and will soon include access to AI-backed insights.&amp;nbsp;</summary>
     <published>2026-10-14T12:35:00-04:00</published>
@@ -74,7 +42,7 @@
   <entry>
     <id>https://www.retaildive.com/news/lululemon-restructures-raw-materials-team-layoffs/833106/</id>
     <title>Lululemon restructures raw materials team, lays off 7 people</title>
-    <updated>2026-10-16T13:39:19.067418+00:00</updated>
+    <updated>2026-10-16T17:45:48.473151+00:00</updated>
     <link href="https://www.retaildive.com/news/lululemon-restructures-raw-materials-team-layoffs/833106/"/>
     <summary>The changes came in August, a spokesperson told Retail Dive, just a few weeks before the arrival of new CEO Heidi O&amp;rsquo;Neill.</summary>
     <published>2026-10-15T11:49:00-04:00</published>
@@ -82,9 +50,41 @@
   <entry>
     <id>https://www.retaildive.com/news/bealls-debuts-mobile-app-marketing-campaign/832855/</id>
     <title>Bealls to debut mobile app</title>
-    <updated>2026-10-16T13:39:19.067314+00:00</updated>
+    <updated>2026-10-16T17:45:48.473057+00:00</updated>
     <link href="https://www.retaildive.com/news/bealls-debuts-mobile-app-marketing-campaign/832855/"/>
     <summary>The app is intended to create a more connected shopping experience across channels, while also supporting the retailer&amp;rsquo;s strategy around loyalty.</summary>
     <published>2026-10-15T12:03:00-04:00</published>
+  </entry>
+  <entry>
+    <id>https://www.retaildive.com/news/the-realreal-new-financing-gildan-ftc-price-fixing-scrutiny/833130/</id>
+    <title>The Weekly Closeout: The RealReal secures fresh financing, Roots buyout advances</title>
+    <updated>2026-10-16T17:45:48.472962+00:00</updated>
+    <link href="https://www.retaildive.com/news/the-realreal-new-financing-gildan-ftc-price-fixing-scrutiny/833130/"/>
+    <summary>The resale marketplace refinanced to help strengthen its balance sheet, while the apparel brand&amp;#39;s shareholders approved its acquisition by Marquee Brands.</summary>
+    <published>2026-10-16T11:15:00-04:00</published>
+  </entry>
+  <entry>
+    <id>https://www.retaildive.com/news/nordstrom-rack-returns-san-francisco-store-opening/833229/</id>
+    <title>Nordstrom Rack comes back to San Francisco</title>
+    <updated>2026-10-16T17:45:48.472861+00:00</updated>
+    <link href="https://www.retaildive.com/news/nordstrom-rack-returns-san-francisco-store-opening/833229/"/>
+    <summary>The off-price retailer left its Union Square location three years ago but is reopening a 51,500-square-foot store in fall 2027 as the city&amp;rsquo;s retail revitalization continues.</summary>
+    <published>2026-10-16T11:55:00-04:00</published>
+  </entry>
+  <entry>
+    <id>https://www.retaildive.com/news/bath-body-works-ulta-beauty-pink-suede/833214/</id>
+    <title>Bath &amp; Body Works expands partnership to all Ulta stores for the holidays</title>
+    <updated>2026-10-16T17:45:48.472753+00:00</updated>
+    <link href="https://www.retaildive.com/news/bath-body-works-ulta-beauty-pink-suede/833214/"/>
+    <summary>Pink Suede is back as a limited-edition scent exclusive to Ulta. Meanwhile, customers can shop a curated selection of seasonal products at the beauty retailer through Dec. 26.</summary>
+    <published>2026-10-16T11:56:00-04:00</published>
+  </entry>
+  <entry>
+    <id>https://www.retaildive.com/news/halloween-without-candy-holiday-shoppers-cutting-budgets/833212/</id>
+    <title>Halloween without candy? What shoppers are cutting from budgets this year</title>
+    <updated>2026-10-16T17:45:48.472608+00:00</updated>
+    <link href="https://www.retaildive.com/news/halloween-without-candy-holiday-shoppers-cutting-budgets/833212/"/>
+    <summary>Nearly two-thirds of shoppers plan to skip some purchases this year, including staple items like costumes and candy, a new LendingTree survey finds.</summary>
+    <published>2026-10-16T12:09:00-04:00</published>
   </entry>
 </feed>

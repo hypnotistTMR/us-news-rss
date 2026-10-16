@@ -2,73 +2,121 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:fcc</id>
   <title>FCC Recent Releases (Combined)</title>
-  <updated>2026-10-16T13:39:51.322056+00:00</updated>
+  <updated>2026-10-16T17:46:27.275143+00:00</updated>
   <link href="file:///feeds/fcc.xml" rel="self"/>
   <link href="https://api2.fcc.gov/api/exp/v1.0.0/edocspublic/rss" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: telecom / Mode: rss</subtitle>
   <entry>
-    <id>425885</id>
-    <title>Actions</title>
-    <updated>2026-10-16T13:39:51.322122+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/425885"/>
-    <summary>.</summary>
-    <published>2026-10-16T13:39:51.322121+00:00</published>
+    <id>425933</id>
+    <title>FCC Cuts Off Mexico IP Phone for Violating Robocall Rules</title>
+    <updated>2026-10-16T17:46:27.275316+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/425933"/>
+    <summary>FCC cuts off Mexico IP Phone for violating robocall rules bringing the total number of providers kicked out to more than 1,400.</summary>
+    <published>2026-10-16T17:46:27.275315+00:00</published>
   </entry>
   <entry>
-    <id>425886</id>
-    <title>Pleadings</title>
-    <updated>2026-10-16T13:39:51.322117+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/425886"/>
-    <summary>.</summary>
-    <published>2026-10-16T13:39:51.322116+00:00</published>
+    <id>425921</id>
+    <title>In the Matter of Mexico IP Phone LLC</title>
+    <updated>2026-10-16T17:46:27.275308+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/425921"/>
+    <summary>FCC removes the certification of Mexico IP Phone from the Robocall Mitigation Database for intentionally recertifying its RMD certification without the required information and for transmitting high-volume illegal traffic.</summary>
+    <published>2026-10-16T17:46:27.275307+00:00</published>
   </entry>
   <entry>
-    <id>425884</id>
+    <id>425899</id>
+    <title>The Public Safety and Homeland Security Bureau Announces Conditional Approval and Exemption of Certain Advanced Robotic Devices and Power Inverters from FCC Covered List</title>
+    <updated>2026-10-16T17:46:27.275300+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/425899"/>
+    <summary>.</summary>
+    <published>2026-10-16T17:46:27.275299+00:00</published>
+  </entry>
+  <entry>
+    <id>425896</id>
+    <title>Petition For Reconsideration of Action in Proceeding</title>
+    <updated>2026-10-16T17:46:27.275293+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/425896"/>
+    <summary>.</summary>
+    <published>2026-10-16T17:46:27.275292+00:00</published>
+  </entry>
+  <entry>
+    <id>425904</id>
+    <title>Satellite Licensing Division and Satellite Programs and Policy Division Information - SAT - Actions Taken</title>
+    <updated>2026-10-16T17:46:27.275286+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/425904"/>
+    <summary>.</summary>
+    <published>2026-10-16T17:46:27.275285+00:00</published>
+  </entry>
+  <entry>
+    <id>425930</id>
+    <title>First Circuit dimisses petitions for review - In re: MCP 191, No. 24-8028</title>
+    <updated>2026-10-16T17:46:27.275279+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/425930"/>
+    <summary>First Circuit Court of Appeals dismisses petitions in part and hold them in abeyance in part</summary>
+    <published>2026-10-16T17:46:27.275277+00:00</published>
+  </entry>
+  <entry>
+    <id>425937</id>
+    <title>Emergency Motion for Stay - In re: Sherrod Brown, No. 26-2230</title>
+    <updated>2026-10-16T17:46:27.275267+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/425937"/>
+    <summary>Federal Communications Commission Emergency Motion for Stay</summary>
+    <published>2026-10-16T17:46:27.275265+00:00</published>
+  </entry>
+  <entry>
+    <id>425935</id>
+    <title>Fourth Circuit grants petition for writ of mandamus - In re: Sherrod Brown, No. 26-2230</title>
+    <updated>2026-10-16T17:46:27.275254+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/425935"/>
+    <summary>Fourth Circuit Court of Appeals grants petition for writ of mandamus</summary>
+    <published>2026-10-16T17:46:27.275252+00:00</published>
+  </entry>
+  <entry>
+    <id>425928</id>
+    <title>Joint Statement from Meeting of International Partners from Australia, Canada, New Zealand, and the United Kingdom</title>
+    <updated>2026-10-16T17:46:27.275245+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/425928"/>
+    <summary>.</summary>
+    <published>2026-10-16T17:46:27.275244+00:00</published>
+  </entry>
+  <entry>
+    <id>425926</id>
+    <title>FCC Convenes Meeting of International Partners from Australia, Canada, New Zealand, and the United Kingdom</title>
+    <updated>2026-10-16T17:46:27.275213+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/425926"/>
+    <summary>.</summary>
+    <published>2026-10-16T17:46:27.275211+00:00</published>
+  </entry>
+  <entry>
+    <id>425900</id>
     <title>Applications</title>
-    <updated>2026-10-16T13:39:51.322112+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/425884"/>
+    <updated>2026-10-16T17:46:27.275199+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/425900"/>
     <summary>.</summary>
-    <published>2026-10-16T13:39:51.322111+00:00</published>
+    <published>2026-10-16T17:46:27.275196+00:00</published>
   </entry>
   <entry>
-    <id>425893</id>
-    <title>The Public Safety and Homeland Security Bureau Places into the Records of Two Proceedings a Letter From Senator Scott to Chairman Carr</title>
-    <updated>2026-10-16T13:39:51.322105+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/425893"/>
+    <id>425902</id>
+    <title>Pleadings</title>
+    <updated>2026-10-16T17:46:27.275185+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/425902"/>
     <summary>.</summary>
-    <published>2026-10-16T13:39:51.322104+00:00</published>
+    <published>2026-10-16T17:46:27.275183+00:00</published>
   </entry>
   <entry>
-    <id>425895</id>
-    <title>Domestic Section 214 Application Granted for the Transfer of Control of Siren Telephone Company, Inc. to Lakeland Communications, Inc.</title>
-    <updated>2026-10-16T13:39:51.322098+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/425895"/>
+    <id>425901</id>
+    <title>Actions</title>
+    <updated>2026-10-16T17:46:27.275172+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/425901"/>
     <summary>.</summary>
-    <published>2026-10-16T13:39:51.322096+00:00</published>
+    <published>2026-10-16T17:46:27.275169+00:00</published>
   </entry>
   <entry>
-    <id>425890</id>
-    <title>International Authorizations Granted - ITC</title>
-    <updated>2026-10-16T13:39:51.322089+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/425890"/>
+    <id>425903</id>
+    <title>Satellite Licensing Division and Satellite Programs and Policy Division Information - SAT - Accepted for Filing</title>
+    <updated>2026-10-16T17:46:27.275153+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/425903"/>
     <summary>.</summary>
-    <published>2026-10-16T13:39:51.322088+00:00</published>
-  </entry>
-  <entry>
-    <id>425888</id>
-    <title>Notice of Prohibited Presentations</title>
-    <updated>2026-10-16T13:39:51.322080+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/425888"/>
-    <summary>The Office of General Counsel gives notice of prohibited Sunshine period presentation.</summary>
-    <published>2026-10-16T13:39:51.322079+00:00</published>
-  </entry>
-  <entry>
-    <id>425892</id>
-    <title>Wired Or Wireless, Inc. v. Avista Corp.</title>
-    <updated>2026-10-16T13:39:51.322064+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/425892"/>
-    <summary>Letter Order Regarding Scheduling.</summary>
-    <published>2026-10-16T13:39:51.322060+00:00</published>
+    <published>2026-10-16T17:46:27.275148+00:00</published>
   </entry>
 </feed>
