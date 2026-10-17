@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:occ_bulletins</id>
   <title>OCC Bulletins (scrape)</title>
-  <updated>2026-10-17T18:57:13.671039+00:00</updated>
+  <updated>2026-10-17T21:13:23.457638+00:00</updated>
   <link href="file:///feeds/occ_bulletins.xml" rel="self"/>
   <link href="https://www.occ.gov/news-events/index-news-events.html" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -10,33 +10,33 @@
   <entry>
     <id>https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-47.html</id>
     <title>Interagency Statement: Risk-Based Supervision of Certain Services Provided by Core Providers to Community Banking Organizations</title>
-    <updated>2026-10-17T18:57:13.671083+00:00</updated>
+    <updated>2026-10-17T21:13:23.457724+00:00</updated>
     <link href="https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-47.html"/>
     <summary>OCC Bulletin</summary>
-    <published>2026-10-17T18:57:13.671082+00:00</published>
+    <published>2026-10-17T21:13:23.457722+00:00</published>
   </entry>
   <entry>
     <id>https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-48.html</id>
     <title>Cybersecurity: Cybersecurity Supervision Work Program</title>
-    <updated>2026-10-17T18:57:13.671075+00:00</updated>
+    <updated>2026-10-17T21:13:23.457711+00:00</updated>
     <link href="https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-48.html"/>
     <summary>OCC Bulletin</summary>
-    <published>2026-10-17T18:57:13.671074+00:00</published>
+    <published>2026-10-17T21:13:23.457709+00:00</published>
   </entry>
   <entry>
     <id>https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-49.html</id>
     <title>Concentrations of Credit: Revised Comptrollerâs Handbook Booklet and Rescissions</title>
-    <updated>2026-10-17T18:57:13.671067+00:00</updated>
+    <updated>2026-10-17T21:13:23.457693+00:00</updated>
     <link href="https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-49.html"/>
     <summary>OCC Bulletin</summary>
-    <published>2026-10-17T18:57:13.671065+00:00</published>
+    <published>2026-10-17T21:13:23.457688+00:00</published>
   </entry>
   <entry>
     <id>https://www.occ.gov/news-issuances/bulletins/2023/bulletin-2023-17.html</id>
     <title>Third-Party Relationships: Interagency Guidance on Risk Management</title>
-    <updated>2026-10-17T18:57:13.671052+00:00</updated>
+    <updated>2026-10-17T21:13:23.457646+00:00</updated>
     <link href="https://www.occ.gov/news-issuances/bulletins/2023/bulletin-2023-17.html"/>
     <summary>OCC Bulletin</summary>
-    <published>2026-10-17T18:57:13.671047+00:00</published>
+    <published>2026-10-17T21:13:23.457642+00:00</published>
   </entry>
 </feed>
