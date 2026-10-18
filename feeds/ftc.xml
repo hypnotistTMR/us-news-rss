@@ -2,24 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:ftc</id>
   <title>FTC Press Releases</title>
-  <updated>2026-10-18T01:18:15.098018+00:00</updated>
+  <updated>2026-10-18T06:11:50.248867+00:00</updated>
   <link href="file:///feeds/ftc.xml" rel="self"/>
   <link href="https://www.ftc.gov/feeds/press-release.xml" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: government / Mode: rss</subtitle>
   <entry>
-    <id>337518</id>
-    <title>Premier Martial Arts Franchisor and its Former Franchise Sales Organization Settle FTC Charges that the Companies Made Deceptive Claims and Violated the Franchise Rule</title>
-    <updated>2026-10-18T01:18:15.099240+00:00</updated>
-    <link href="https://www.ftc.gov/news-events/news/press-releases/2026/10/premier-martial-arts-franchisor-its-former-franchise-sales-organization-settle-ftc-charges-companies"/>
-    <summary>Proposed settlements recover $1.85 million for injured consumers and give certain franchisees the option to cancel their franchise agreements without penalty 
-Franchisor Premier Franchising Group LLC (PFG) and its former franchise sales organization, Franchise Fastlane LLC (FFL), will pay $1.85 million to settle Federal Trade Commission allegations that they made misleading representations about the Premier Martial Arts (PMA) franchise opportunity and violated the Franchise Rule.&amp;nbsp;View Press</summary>
+    <id>337515</id>
+    <title>FTC Issues Letters Warning Hospitals Against Deceptive Pricing Practices</title>
+    <updated>2026-10-18T06:11:50.249664+00:00</updated>
+    <link href="https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-issues-letters-warning-hospitals-against-deceptive-pricing-practices"/>
+    <summary>Federal Trade Commission Chairman Andrew N. Ferguson today sent letters to 24 of the nation’s largest healthcare services companies, reminding them of their legal obligation to provide patients with timely, accurate and complete pricing information for healthcare services, and that failing to do so can be an unfair or deceptive practice.&amp;nbsp;View Press Release</summary>
     <published>2026-10-05T08:00:00-04:00</published>
   </entry>
   <entry>
     <id>337559</id>
     <title>FTC Issues Redress Payments to Consumers Impacted by GOAT’s Deceptive Shipping, Refund Policies</title>
-    <updated>2026-10-18T01:18:15.099110+00:00</updated>
+    <updated>2026-10-18T06:11:50.249612+00:00</updated>
     <link href="https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-issues-redress-payments-consumers-impacted-goats-deceptive-shipping-refund-policies"/>
     <summary>The Federal Trade Commission announced it is sending more than $100,000 in redress payments to consumers deceived by online marketplace GOAT. The refunds are part of a settlement over allegations the company failed to honor its refund policies and violated an FTC rule requiring companies to have reasonable shipping practices.View Press Release</summary>
     <published>2026-10-06T08:00:00-04:00</published>
@@ -27,15 +26,24 @@ Franchisor Premier Franchising Group LLC (PFG) and its former franchise sales or
   <entry>
     <id>337667</id>
     <title>FTC and USDA Seek Public Comment on Agricultural Equipment Manufacturing and Distribution Market Practices</title>
-    <updated>2026-10-18T01:18:15.099019+00:00</updated>
+    <updated>2026-10-18T06:11:50.249558+00:00</updated>
     <link href="https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-usda-seek-public-comment-agricultural-equipment-manufacturing-distribution-market-practices"/>
     <summary>The Federal Trade Commission and the U.S. Department of Agriculture launched a joint public inquiry regarding issues affecting agricultural equipment manufacturing and distribution markets, including potential anticompetitive conduct.&amp;nbsp;View Press Release</summary>
     <published>2026-10-07T08:00:00-04:00</published>
   </entry>
   <entry>
+    <id>337649</id>
+    <title>FTC Secures Fair Pricing Protections by Taking Action Against Major Wholesale T-Shirt Distributors</title>
+    <updated>2026-10-18T06:11:50.249500+00:00</updated>
+    <link href="https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-secures-fair-pricing-protections-taking-action-against-major-wholesale-t-shirt-distributors"/>
+    <summary>FTC action signals continued Robinson-Patman Act enforcement to protect consumers, small businesses
+The Federal Trade Commission secured changes to a partnership agreement between T-shirt manufacturer Gildan Activewear SRL and major wholesale T-shirt distributor S&amp;amp;S Holdings LLC that will protect small businesses and consumers from unfair and discriminatory pricing practices.View Press Release</summary>
+    <published>2026-10-08T08:00:00-04:00</published>
+  </entry>
+  <entry>
     <id>337647</id>
     <title>FTC Returns More than $15.8 Million to Consumers Misled by  Cash Advance App Company Cleo AI</title>
-    <updated>2026-10-18T01:18:15.098926+00:00</updated>
+    <updated>2026-10-18T06:11:50.249441+00:00</updated>
     <link href="https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-returns-more-158-million-consumers-misled-cash-advance-app-company-cleo-ai"/>
     <summary>Agency charged that the company deceptively marketed cash advance services and obstructed cancellations
 The Federal Trade Commission is sending more than $15.8 million to consumers impacted by cash advance app company Cleo AI’s deceptive claims about the amounts and timing of available cash advances and the company’s hard-to-cancel subscriptions.View Press Release</summary>
@@ -44,54 +52,45 @@ The Federal Trade Commission is sending more than $15.8 million to consumers imp
   <entry>
     <id>337650</id>
     <title>FTC Secures Settlement with Auto Dealership Group in Price Transparency Win for Consumers</title>
-    <updated>2026-10-18T01:18:15.098830+00:00</updated>
+    <updated>2026-10-18T06:11:50.249380+00:00</updated>
     <link href="https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-secures-settlement-auto-dealership-group-price-transparency-win-consumers"/>
     <summary>Complaint alleges Greenway Auto Group deceived consumers by advertising prices thousands of dollars below actual prices and sending false prize mailers
 The Federal Trade Commission today announced Greenway Auto Group has agreed that its price advertisements will prominently include the actual price a consumer must pay for a vehicle, excluding only charges the government requires consumers to pay, to settle the Commission’s lawsuit alleging the company advertised prices that were thousands of dol</summary>
     <published>2026-10-08T08:00:00-04:00</published>
   </entry>
   <entry>
-    <id>337649</id>
-    <title>FTC Secures Fair Pricing Protections by Taking Action Against Major Wholesale T-Shirt Distributors</title>
-    <updated>2026-10-18T01:18:15.098733+00:00</updated>
-    <link href="https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-secures-fair-pricing-protections-taking-action-against-major-wholesale-t-shirt-distributors"/>
-    <summary>FTC action signals continued Robinson-Patman Act enforcement to protect consumers, small businesses
-The Federal Trade Commission secured changes to a partnership agreement between T-shirt manufacturer Gildan Activewear SRL and major wholesale T-shirt distributor S&amp;amp;S Holdings LLC that will protect small businesses and consumers from unfair and discriminatory pricing practices.View Press Release</summary>
-    <published>2026-10-08T08:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>337803</id>
-    <title>FTC Sues Operator of Sextortion Relief Scheme for Misleading Consumers into Believing it Would Identify Criminals and End Sextortion Attacks</title>
-    <updated>2026-10-18T01:18:15.098639+00:00</updated>
-    <link href="https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-sues-operator-sextortion-relief-scheme-misleading-consumers-believing-it-would-identify"/>
-    <summary>Digital Forensics charges consumers thousands of dollars but fails to provide promised services and engages in deceptive review practices, FTC alleges
-A federal court has granted the Federal Trade Commission’s request to temporarily halt the activities of Digital Forensics Corporation LLC and its CEO for allegedly defrauding consumers out of millions of dollars using false and deceptive promises relating to “sextortion assistance services.”View Press Release</summary>
-    <published>2026-10-13T08:00:00-04:00</published>
-  </entry>
-  <entry>
     <id>337802</id>
     <title>FTC, States Ask Federal Court to Hold Martin Shkreli in Contempt for Allegedly Violating Lifetime Ban from Pharmaceutical Industry</title>
-    <updated>2026-10-18T01:18:15.098542+00:00</updated>
+    <updated>2026-10-18T06:11:50.249319+00:00</updated>
     <link href="https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-states-ask-federal-court-hold-martin-shkreli-contempt-allegedly-violating-lifetime"/>
     <summary>Commission cites evidence it alleges shows that Shkreli repeatedly violated a 2022 order that banned him from working in the pharmaceutical industry for life
 The Federal Trade Commission and seven states today asked a federal judge to hold Martin Shkreli in contempt based on their allegations that he flagrantly and repeatedly violated a 2022 court order that banned him from the pharmaceutical industry.View Press Release</summary>
     <published>2026-10-13T08:00:00-04:00</published>
   </entry>
   <entry>
-    <id>337966</id>
-    <title>FTC Sues Ticket Broker Over Unlawful Tactics Used to Buy Millions of Tickets to Popular Live Events</title>
-    <updated>2026-10-18T01:18:15.098435+00:00</updated>
-    <link href="https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-sues-ticket-broker-over-unlawful-tactics-used-buy-millions-tickets-popular-live-events"/>
-    <summary>Complaint alleges REPS earned millions by unlawfully bypassing ticket-issuer security measures to exceed purchasing limits 
-The Federal Trade Commission sued REPS &amp;amp; Company Inc., alleging the ticket broker illegally circumvents measures designed to limit the number of tickets that can be purchased for a single event, purchasing millions of tickets to high-demand events that it later resells at a significant profit.View Press Release</summary>
-    <published>2026-10-15T08:00:00-04:00</published>
+    <id>337803</id>
+    <title>FTC Sues Operator of Sextortion Relief Scheme for Misleading Consumers into Believing it Would Identify Criminals and End Sextortion Attacks</title>
+    <updated>2026-10-18T06:11:50.249257+00:00</updated>
+    <link href="https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-sues-operator-sextortion-relief-scheme-misleading-consumers-believing-it-would-identify"/>
+    <summary>Digital Forensics charges consumers thousands of dollars but fails to provide promised services and engages in deceptive review practices, FTC alleges
+A federal court has granted the Federal Trade Commission’s request to temporarily halt the activities of Digital Forensics Corporation LLC and its CEO for allegedly defrauding consumers out of millions of dollars using false and deceptive promises relating to “sextortion assistance services.”View Press Release</summary>
+    <published>2026-10-13T08:00:00-04:00</published>
   </entry>
   <entry>
     <id>337957</id>
     <title>FTC Sends More than $9.8 Million to Consumers Harmed by Walmart’s Failure to Stop Scammers that Used its Wire Transfer Services to Take Millions from Customers</title>
-    <updated>2026-10-18T01:18:15.098295+00:00</updated>
+    <updated>2026-10-18T06:11:50.249182+00:00</updated>
     <link href="https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-sends-more-98-million-consumers-harmed-walmarts-failure-stop-scammers-used-its-wire-transfer"/>
     <summary>The Federal Trade Commission is sending payments totaling more than $9.8 million to consumers harmed by Walmart’s alleged failure to stop scammers that took hundreds of millions of dollars from U.S. consumers using the company’s wire transfer services.View Press Release</summary>
+    <published>2026-10-15T08:00:00-04:00</published>
+  </entry>
+  <entry>
+    <id>337966</id>
+    <title>FTC Sues Ticket Broker Over Unlawful Tactics Used to Buy Millions of Tickets to Popular Live Events</title>
+    <updated>2026-10-18T06:11:50.249050+00:00</updated>
+    <link href="https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-sues-ticket-broker-over-unlawful-tactics-used-buy-millions-tickets-popular-live-events"/>
+    <summary>Complaint alleges REPS earned millions by unlawfully bypassing ticket-issuer security measures to exceed purchasing limits 
+The Federal Trade Commission sued REPS &amp;amp; Company Inc., alleging the ticket broker illegally circumvents measures designed to limit the number of tickets that can be purchased for a single event, purchasing millions of tickets to high-demand events that it later resells at a significant profit.View Press Release</summary>
     <published>2026-10-15T08:00:00-04:00</published>
   </entry>
 </feed>
