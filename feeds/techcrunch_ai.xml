@@ -2,63 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:techcrunch_ai</id>
   <title>TechCrunch - AI</title>
-  <updated>2026-10-19T17:17:05.582020+00:00</updated>
+  <updated>2026-10-19T21:39:01.510602+00:00</updated>
   <link href="file:///feeds/techcrunch_ai.xml" rel="self"/>
   <link href="https://techcrunch.com/category/artificial-intelligence/feed/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: tech / Mode: rss</subtitle>
   <entry>
-    <id>https://techcrunch.com/?p=3178080</id>
-    <title>Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more</title>
-    <updated>2026-10-19T17:17:05.584449+00:00</updated>
-    <link href="https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/"/>
-    <summary>Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience.</summary>
-    <published>2026-10-15T18:56:46+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3178367</id>
-    <title>Anthropic is letting METR researchers look under the hood with employee-level access</title>
-    <updated>2026-10-19T17:17:05.584362+00:00</updated>
-    <link href="https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/"/>
-    <summary>METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.</summary>
-    <published>2026-10-15T19:14:26+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3178363</id>
-    <title>Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps</title>
-    <updated>2026-10-19T17:17:05.584276+00:00</updated>
-    <link href="https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/"/>
-    <summary>Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.</summary>
-    <published>2026-10-15T19:55:25+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3178309</id>
-    <title>Meta launches an open-weight AI model that runs on Macs</title>
-    <updated>2026-10-19T17:17:05.584181+00:00</updated>
-    <link href="https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/"/>
-    <summary>Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.</summary>
-    <published>2026-10-15T20:04:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3178431</id>
-    <title>When it came to Cal AI’s viral success, a small army of influencers paid off</title>
-    <updated>2026-10-19T17:17:05.584092+00:00</updated>
-    <link href="https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/"/>
-    <summary>The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.</summary>
-    <published>2026-10-15T23:44:56+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3178541</id>
-    <title>Replit’s CEO says the future of work is the ‘self-driving company’</title>
-    <updated>2026-10-19T17:17:05.584002+00:00</updated>
-    <link href="https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/"/>
-    <summary>Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.</summary>
-    <published>2026-10-16T12:55:09+00:00</published>
-  </entry>
-  <entry>
     <id>https://techcrunch.com/?p=3177529</id>
     <title>Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles</title>
-    <updated>2026-10-19T17:17:05.583907+00:00</updated>
+    <updated>2026-10-19T21:39:01.512954+00:00</updated>
     <link href="https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/"/>
     <summary>Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as "superfakes," as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.</summary>
     <published>2026-10-16T14:00:00+00:00</published>
@@ -66,7 +18,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3178550</id>
     <title>Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy</title>
-    <updated>2026-10-19T17:17:05.583815+00:00</updated>
+    <updated>2026-10-19T21:39:01.512864+00:00</updated>
     <link href="https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/"/>
     <summary>Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used "to enhance what you're doing."</summary>
     <published>2026-10-16T14:26:51+00:00</published>
@@ -74,7 +26,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3178711</id>
     <title>Jev is Vercel’s fastest-adopted AI model ever</title>
-    <updated>2026-10-19T17:17:05.583721+00:00</updated>
+    <updated>2026-10-19T21:39:01.512773+00:00</updated>
     <link href="https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/"/>
     <summary>The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.</summary>
     <published>2026-10-16T15:33:49+00:00</published>
@@ -82,7 +34,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3178756</id>
     <title>Elorian’s first AI model wants to reason with images, not just about them</title>
-    <updated>2026-10-19T17:17:05.583586+00:00</updated>
+    <updated>2026-10-19T21:39:01.512678+00:00</updated>
     <link href="https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/"/>
     <summary>According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.</summary>
     <published>2026-10-16T16:01:37+00:00</published>
@@ -90,7 +42,7 @@
   <entry>
     <id>https://techcrunch.com/?post_type=tc_podcast&amp;p=3176205</id>
     <title>Physical AI is more than robots, says the Nvidia veteran now investing in it</title>
-    <updated>2026-10-19T17:17:05.583492+00:00</updated>
+    <updated>2026-10-19T21:39:01.512560+00:00</updated>
     <link href="https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/"/>
     <summary>Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being&amp;#160;rebuilt.&amp;#160; This view runs counter to those who believe that robotics, powered by a general foundation model,&amp;#160;is about to have [&amp;#8230;]</summary>
     <published>2026-10-16T16:30:00+00:00</published>
@@ -98,7 +50,7 @@
   <entry>
     <id>https://techcrunch.com/?post_type=tc_video&amp;p=3176211</id>
     <title>An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet</title>
-    <updated>2026-10-19T17:17:05.583396+00:00</updated>
+    <updated>2026-10-19T21:39:01.512378+00:00</updated>
     <link href="https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/"/>
     <summary>Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being&amp;#160;rebuilt.&amp;#160; This view runs counter to those who believe that robotics, powered by a general foundation model,&amp;#160;is about to have [&amp;#8230;]</summary>
     <published>2026-10-16T16:30:00+00:00</published>
@@ -106,7 +58,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3178813</id>
     <title>India becomes the latest country to report rogue AI agent activity</title>
-    <updated>2026-10-19T17:17:05.583305+00:00</updated>
+    <updated>2026-10-19T21:39:01.512171+00:00</updated>
     <link href="https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/"/>
     <summary>The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.</summary>
     <published>2026-10-16T17:52:24+00:00</published>
@@ -114,15 +66,15 @@
   <entry>
     <id>https://techcrunch.com/?p=3178496</id>
     <title>Replit makes OpenAI its default over Anthropic, CEO says</title>
-    <updated>2026-10-19T17:17:05.583194+00:00</updated>
+    <updated>2026-10-19T21:39:01.512003+00:00</updated>
     <link href="https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"/>
-    <summary>Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.</summary>
+    <summary>Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer partnering with Anthropic.</summary>
     <published>2026-10-17T18:48:08+00:00</published>
   </entry>
   <entry>
     <id>https://techcrunch.com/?p=3178934</id>
     <title>Anthropic says its workforce has become less junior and is spending more time in meetings</title>
-    <updated>2026-10-19T17:17:05.583032+00:00</updated>
+    <updated>2026-10-19T21:39:01.511904+00:00</updated>
     <link href="https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/"/>
     <summary>The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.</summary>
     <published>2026-10-17T20:21:19+00:00</published>
@@ -130,15 +82,15 @@
   <entry>
     <id>https://techcrunch.com/?p=3178941</id>
     <title>Meta removes language that raised scraping and AI training concerns</title>
-    <updated>2026-10-19T17:17:05.582873+00:00</updated>
+    <updated>2026-10-19T21:39:01.511813+00:00</updated>
     <link href="https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"/>
     <summary>A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.</summary>
     <published>2026-10-17T21:31:32+00:00</published>
   </entry>
   <entry>
     <id>https://techcrunch.com/?p=3178949</id>
-    <title>Disney agrees to hire the majority of Character.AI’s workforce</title>
-    <updated>2026-10-19T17:17:05.582712+00:00</updated>
+    <title>Disney agrees to hire the majority of Character AI’s workforce</title>
+    <updated>2026-10-19T21:39:01.511722+00:00</updated>
     <link href="https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/"/>
     <summary>The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.</summary>
     <published>2026-10-18T16:30:00+00:00</published>
@@ -146,15 +98,23 @@
   <entry>
     <id>https://techcrunch.com/?p=3178960</id>
     <title>Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’</title>
-    <updated>2026-10-19T17:17:05.582509+00:00</updated>
+    <updated>2026-10-19T21:39:01.511632+00:00</updated>
     <link href="https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/"/>
     <summary>The company offered some broad-strokes ideas for how this money might actually be used, such as “large donations to traditional nonprofits or direct distributions to specific populations.”</summary>
     <published>2026-10-18T20:37:40+00:00</published>
   </entry>
   <entry>
+    <id>https://techcrunch.com/?p=3166117</id>
+    <title>Laplace Intelligence red-teams robots and self-driving cars before they hit the real world</title>
+    <updated>2026-10-19T21:39:01.511539+00:00</updated>
+    <link href="https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/"/>
+    <summary>University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.</summary>
+    <published>2026-10-19T12:30:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://techcrunch.com/?p=3177977</id>
     <title>Nvidia launches new open models to run agents in the enterprise and on PCs</title>
-    <updated>2026-10-19T17:17:05.582340+00:00</updated>
+    <updated>2026-10-19T21:39:01.511438+00:00</updated>
     <link href="https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/"/>
     <summary>Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.</summary>
     <published>2026-10-19T15:37:09+00:00</published>
@@ -162,9 +122,49 @@
   <entry>
     <id>https://techcrunch.com/?p=3179051</id>
     <title>People are using AI to make their smart TVs dumb again</title>
-    <updated>2026-10-19T17:17:05.582174+00:00</updated>
+    <updated>2026-10-19T21:39:01.511318+00:00</updated>
     <link href="https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/"/>
-    <summary>Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.</summary>
+    <summary>Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.</summary>
     <published>2026-10-19T16:13:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3179171</id>
+    <title>Tenstorrent hits $6.2B valuation to scale open-weight AI chips</title>
+    <updated>2026-10-19T21:39:01.511197+00:00</updated>
+    <link href="https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/"/>
+    <summary>After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.</summary>
+    <published>2026-10-19T18:37:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3179172</id>
+    <title>Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago</title>
+    <updated>2026-10-19T21:39:01.511103+00:00</updated>
+    <link href="https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/"/>
+    <summary>Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.</summary>
+    <published>2026-10-19T18:49:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3179141</id>
+    <title>Tolan snags $30M for its AI companion that helps users navigate life</title>
+    <updated>2026-10-19T21:39:01.511008+00:00</updated>
+    <link href="https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/"/>
+    <summary>AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.</summary>
+    <published>2026-10-19T19:00:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3179164</id>
+    <title>Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts</title>
+    <updated>2026-10-19T21:39:01.510909+00:00</updated>
+    <link href="https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/"/>
+    <summary>OpenCode is an open-source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.</summary>
+    <published>2026-10-19T19:28:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3179099</id>
+    <title>Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool</title>
+    <updated>2026-10-19T21:39:01.510796+00:00</updated>
+    <link href="https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/"/>
+    <summary>Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.</summary>
+    <published>2026-10-19T20:09:24+00:00</published>
   </entry>
 </feed>
