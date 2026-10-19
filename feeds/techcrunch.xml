@@ -2,55 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:techcrunch</id>
   <title>TechCrunch - All</title>
-  <updated>2026-10-19T10:37:00.554811+00:00</updated>
+  <updated>2026-10-19T17:17:05.561901+00:00</updated>
   <link href="file:///feeds/techcrunch.xml" rel="self"/>
   <link href="https://techcrunch.com/feed/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: tech / Mode: rss</subtitle>
   <entry>
-    <id>https://techcrunch.com/?p=3178711</id>
-    <title>Jev is Vercel’s fastest-adopted AI model ever</title>
-    <updated>2026-10-19T10:37:00.555821+00:00</updated>
-    <link href="https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/"/>
-    <summary>The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.</summary>
-    <published>2026-10-16T15:33:49+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3178668</id>
-    <title>In ‘You Can See Everything,’ Elizabeth Holmes meets her equal in comedian Nathan Fielder</title>
-    <updated>2026-10-19T10:37:00.555779+00:00</updated>
-    <link href="https://techcrunch.com/2026/10/16/in-you-can-see-everything-elizabeth-holmes-meets-her-equal-in-comedian-nathan-fielder/"/>
-    <summary>Nathan Fielder's documentary about disgraced Theranos CEO Elizabeth Holmes has created a constellation of colliding personas that interrogate the very nature of authenticity.</summary>
-    <published>2026-10-16T16:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3167146</id>
-    <title>Tressfecta wants to make hair braiding a less arduous task for hairstylists</title>
-    <updated>2026-10-19T10:37:00.555735+00:00</updated>
-    <link href="https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/"/>
-    <summary>Tressfecta builds products for textured hair. Its first project is a tool called Plait Pilot that helps braiders with the initial process of separating hair from packs before braiding begins.</summary>
-    <published>2026-10-16T16:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3178756</id>
-    <title>Elorian’s first AI model wants to reason with images, not just about them</title>
-    <updated>2026-10-19T10:37:00.555692+00:00</updated>
-    <link href="https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/"/>
-    <summary>According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.</summary>
-    <published>2026-10-16T16:01:37+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3178754</id>
-    <title>Waymo’s robotaxis are headed to Canada</title>
-    <updated>2026-10-19T10:37:00.555651+00:00</updated>
-    <link href="https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/"/>
-    <summary>The company will start off by testing its self-driving vehicles on Toronto's streets.</summary>
-    <published>2026-10-16T16:06:38+00:00</published>
-  </entry>
-  <entry>
     <id>https://techcrunch.com/?post_type=tc_video&amp;p=3176211</id>
     <title>An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet</title>
-    <updated>2026-10-19T10:37:00.555610+00:00</updated>
+    <updated>2026-10-19T17:17:05.563956+00:00</updated>
     <link href="https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/"/>
     <summary>Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being&amp;#160;rebuilt.&amp;#160; This view runs counter to those who believe that robotics, powered by a general foundation model,&amp;#160;is about to have [&amp;#8230;]</summary>
     <published>2026-10-16T16:30:00+00:00</published>
@@ -58,7 +18,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3178813</id>
     <title>India becomes the latest country to report rogue AI agent activity</title>
-    <updated>2026-10-19T10:37:00.555569+00:00</updated>
+    <updated>2026-10-19T17:17:05.563867+00:00</updated>
     <link href="https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/"/>
     <summary>The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.</summary>
     <published>2026-10-16T17:52:24+00:00</published>
@@ -66,7 +26,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3178464</id>
     <title>Porsche’s electric Macan Turbo is an automotive existential crisis</title>
-    <updated>2026-10-19T10:37:00.555528+00:00</updated>
+    <updated>2026-10-19T17:17:05.563777+00:00</updated>
     <link href="https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/"/>
     <summary>The 2026 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour battery.</summary>
     <published>2026-10-16T19:40:00+00:00</published>
@@ -74,7 +34,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3178901</id>
     <title>Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept</title>
-    <updated>2026-10-19T10:37:00.555486+00:00</updated>
+    <updated>2026-10-19T17:17:05.563684+00:00</updated>
     <link href="https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/"/>
     <summary>Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you’ll get a cold plunge, a blood panel and a protein muffin without needing a trust fund.</summary>
     <published>2026-10-17T02:36:18+00:00</published>
@@ -82,7 +42,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3178863</id>
     <title>Ember’s new temperature-controlled mug makes my nightly tea ritual even better</title>
-    <updated>2026-10-19T10:37:00.555433+00:00</updated>
+    <updated>2026-10-19T17:17:05.563573+00:00</updated>
     <link href="https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/"/>
     <summary>The biggest change about Ember's new mug is that you no longer have to open the app to adjust your drink’s temperature.</summary>
     <published>2026-10-17T15:30:00+00:00</published>
@@ -90,7 +50,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3178496</id>
     <title>Replit makes OpenAI its default over Anthropic, CEO says</title>
-    <updated>2026-10-19T10:37:00.555390+00:00</updated>
+    <updated>2026-10-19T17:17:05.563486+00:00</updated>
     <link href="https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"/>
     <summary>Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.</summary>
     <published>2026-10-17T18:48:08+00:00</published>
@@ -98,7 +58,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3178934</id>
     <title>Anthropic says its workforce has become less junior and is spending more time in meetings</title>
-    <updated>2026-10-19T10:37:00.555348+00:00</updated>
+    <updated>2026-10-19T17:17:05.563397+00:00</updated>
     <link href="https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/"/>
     <summary>The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.</summary>
     <published>2026-10-17T20:21:19+00:00</published>
@@ -106,7 +66,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3178937</id>
     <title>TikTok says it’s restored ‘Musk’ documentary advertising account</title>
-    <updated>2026-10-19T10:37:00.555304+00:00</updated>
+    <updated>2026-10-19T17:17:05.563309+00:00</updated>
     <link href="https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/"/>
     <summary>A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.</summary>
     <published>2026-10-17T20:55:52+00:00</published>
@@ -114,7 +74,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3178941</id>
     <title>Meta removes language that raised scraping and AI training concerns</title>
-    <updated>2026-10-19T10:37:00.555261+00:00</updated>
+    <updated>2026-10-19T17:17:05.563219+00:00</updated>
     <link href="https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"/>
     <summary>A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.</summary>
     <published>2026-10-17T21:31:32+00:00</published>
@@ -122,7 +82,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3178907</id>
     <title>TechCrunch Mobility: Rivian’s next act</title>
-    <updated>2026-10-19T10:37:00.555216+00:00</updated>
+    <updated>2026-10-19T17:17:05.563122+00:00</updated>
     <link href="https://techcrunch.com/2026/10/18/techcrunch-mobility-rivians-next-act/"/>
     <summary>Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.</summary>
     <published>2026-10-18T16:05:00+00:00</published>
@@ -130,7 +90,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3178949</id>
     <title>Disney agrees to hire the majority of Character.AI’s workforce</title>
-    <updated>2026-10-19T10:37:00.555171+00:00</updated>
+    <updated>2026-10-19T17:17:05.563033+00:00</updated>
     <link href="https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/"/>
     <summary>The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.</summary>
     <published>2026-10-18T16:30:00+00:00</published>
@@ -138,7 +98,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3178957</id>
     <title>Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’</title>
-    <updated>2026-10-19T10:37:00.555126+00:00</updated>
+    <updated>2026-10-19T17:17:05.562943+00:00</updated>
     <link href="https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/"/>
     <summary>"You Can See Everything" is having the second biggest opening weekend ever for a documentary film.</summary>
     <published>2026-10-18T19:03:38+00:00</published>
@@ -146,15 +106,15 @@
   <entry>
     <id>https://techcrunch.com/?p=3178960</id>
     <title>Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’</title>
-    <updated>2026-10-19T10:37:00.555079+00:00</updated>
+    <updated>2026-10-19T17:17:05.562850+00:00</updated>
     <link href="https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/"/>
-    <summary>Anthropic said that it will commit 5% of its shares to the fund.</summary>
+    <summary>The company offered some broad-strokes ideas for how this money might actually be used, such as “large donations to traditional nonprofits or direct distributions to specific populations.”</summary>
     <published>2026-10-18T20:37:40+00:00</published>
   </entry>
   <entry>
     <id>https://techcrunch.com/?p=3178953</id>
     <title>No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market</title>
-    <updated>2026-10-19T10:37:00.555032+00:00</updated>
+    <updated>2026-10-19T17:17:05.562757+00:00</updated>
     <link href="https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/"/>
     <summary>Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be running one of the Valley’s most storied firms</summary>
     <published>2026-10-18T21:00:00+00:00</published>
@@ -162,9 +122,49 @@
   <entry>
     <id>https://techcrunch.com/?p=3178925</id>
     <title>Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics</title>
-    <updated>2026-10-19T10:37:00.554967+00:00</updated>
+    <updated>2026-10-19T17:17:05.562658+00:00</updated>
     <link href="https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/"/>
     <summary>Even Healthcare reaches a $300 million valuation in a Khosla Ventures-led round as it plans to expand its hospital network in India.</summary>
     <published>2026-10-19T07:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3178988</id>
+    <title>Musk pledges to give ‘every kid in America’ one of his SpaceX shares</title>
+    <updated>2026-10-19T17:17:05.562538+00:00</updated>
+    <link href="https://techcrunch.com/2026/10/19/musk-pledges-to-give-every-kid-in-america-one-of-his-spacex-shares/"/>
+    <summary>Musk's post came just a few hours after Anthropic promised to put 5% of its shares into a new "public benefit fund," which it intends to use to make "large donations to traditional nonprofits or direct distributions to specific populations" after its upcoming IPO.</summary>
+    <published>2026-10-19T12:42:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3178990</id>
+    <title>Apple updates guidelines to ban nudify apps masquerading as regular apps to pass review</title>
+    <updated>2026-10-19T17:17:05.562446+00:00</updated>
+    <link href="https://techcrunch.com/2026/10/19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review/"/>
+    <summary>The company updated its guidelines with strong language around AI and user-generated content, and how app developers should include enough preventative measures to moderate objectionable or offensive content.</summary>
+    <published>2026-10-19T12:56:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3177977</id>
+    <title>Nvidia launches new open models to run agents in the enterprise and on PCs</title>
+    <updated>2026-10-19T17:17:05.562351+00:00</updated>
+    <link href="https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/"/>
+    <summary>Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.</summary>
+    <published>2026-10-19T15:37:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3179051</id>
+    <title>People are using AI to make their smart TVs dumb again</title>
+    <updated>2026-10-19T17:17:05.562244+00:00</updated>
+    <link href="https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/"/>
+    <summary>Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.</summary>
+    <published>2026-10-19T16:13:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3179053</id>
+    <title>Amazon to fund 12 small nuclear reactors at former Indiana coal plant</title>
+    <updated>2026-10-19T17:17:05.562129+00:00</updated>
+    <link href="https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/"/>
+    <summary>Amazon and X-energy have inked another deal to deploy nuclear power to the grid. This one will generate nearly 1 gigawatt of electricity.</summary>
+    <published>2026-10-19T16:55:56+00:00</published>
   </entry>
 </feed>
