@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:sba</id>
   <title>SBA Newsroom (scrape)</title>
-  <updated>2026-10-20T15:31:12.144153+00:00</updated>
+  <updated>2026-10-20T19:32:02.336840+00:00</updated>
   <link href="file:///feeds/sba.xml" rel="self"/>
   <link href="https://www.sba.gov/sba-newsroom/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -10,33 +10,33 @@
   <entry>
     <id>https://www.sba.gov/sba-news-release-updates/</id>
     <title>Sign up to receive email updates about SBA news releases.</title>
-    <updated>2026-10-20T15:31:12.144207+00:00</updated>
+    <updated>2026-10-20T19:32:02.336874+00:00</updated>
     <link href="https://www.sba.gov/sba-news-release-updates/"/>
     <summary>SBA</summary>
-    <published>2026-10-20T15:31:12.144204+00:00</published>
+    <published>2026-10-20T19:32:02.336873+00:00</published>
   </entry>
   <entry>
     <id>https://legacy.sba.gov/article/2026/08/25/sba-dow-establish-smaller-war-plants-commission-historic-effort-strengthen-defense-industrial-base</id>
     <title>SBA and DoW Establish Smaller War Plants Commission in Historic Effort to Strengthen Defense Industrial Base Capacity</title>
-    <updated>2026-10-20T15:31:12.144193+00:00</updated>
+    <updated>2026-10-20T19:32:02.336868+00:00</updated>
     <link href="https://legacy.sba.gov/article/2026/08/25/sba-dow-establish-smaller-war-plants-commission-historic-effort-strengthen-defense-industrial-base"/>
     <summary>SBA</summary>
-    <published>2026-10-20T15:31:12.144191+00:00</published>
+    <published>2026-10-20T19:32:02.336867+00:00</published>
   </entry>
   <entry>
     <id>https://legacy.sba.gov/article/2026/09/14/sba-announces-suspensions-870000-us-borrowers-tied-39-billion-suspected-pandemic-fraud</id>
     <title>SBA Announces Suspensions for 870,000 U.S. Borrowers Tied to $39 Billion In Suspected Pandemic Fraud</title>
-    <updated>2026-10-20T15:31:12.144174+00:00</updated>
+    <updated>2026-10-20T19:32:02.336862+00:00</updated>
     <link href="https://legacy.sba.gov/article/2026/09/14/sba-announces-suspensions-870000-us-borrowers-tied-39-billion-suspected-pandemic-fraud"/>
     <summary>SBA</summary>
-    <published>2026-10-20T15:31:12.144173+00:00</published>
+    <published>2026-10-20T19:32:02.336860+00:00</published>
   </entry>
   <entry>
     <id>https://legacy.sba.gov/article/2026/09/23/sba-referral-leads-irs-investigate-tax-liabilities-related-potentially-100-billion-covid-loan-fraud</id>
     <title>SBA Referral Leads IRS to Investigate Tax Liabilities Related To Potentially $100 Billion in COVID Loan Fraud</title>
-    <updated>2026-10-20T15:31:12.144160+00:00</updated>
+    <updated>2026-10-20T19:32:02.336848+00:00</updated>
     <link href="https://legacy.sba.gov/article/2026/09/23/sba-referral-leads-irs-investigate-tax-liabilities-related-potentially-100-billion-covid-loan-fraud"/>
     <summary>SBA</summary>
-    <published>2026-10-20T15:31:12.144156+00:00</published>
+    <published>2026-10-20T19:32:02.336844+00:00</published>
   </entry>
 </feed>
