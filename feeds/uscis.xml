@@ -2,121 +2,121 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:uscis</id>
   <title>USCIS All News (scrape)</title>
-  <updated>2026-10-20T10:43:20.747528+00:00</updated>
+  <updated>2026-10-20T15:31:10.505443+00:00</updated>
   <link href="file:///feeds/uscis.xml" rel="self"/>
   <link href="https://www.uscis.gov/newsroom/all-news" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: labor / Mode: scrape</subtitle>
   <entry>
-    <id>https://www.uscis.gov/newsroom/news-releases/federal-grand-jury-indicts-ten-aliens-for-voter-fraud-in-minnesota-elections</id>
-    <title>Federal Grand Jury Indicts Ten Aliens for Voter Fraud in Minnesota Elections</title>
-    <updated>2026-10-20T10:43:20.747652+00:00</updated>
-    <link href="https://www.uscis.gov/newsroom/news-releases/federal-grand-jury-indicts-ten-aliens-for-voter-fraud-in-minnesota-elections"/>
-    <summary>USCIS</summary>
-    <published>2026-10-20T10:43:20.747651+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.uscis.gov/newsroom/news-releases/former-syrian-prison-official-sentenced-for-torture-and-immigration-fraud</id>
     <title>Former Syrian Prison Official Sentenced for Torture and Immigration Fraud</title>
-    <updated>2026-10-20T10:43:20.747646+00:00</updated>
+    <updated>2026-10-20T15:31:10.505592+00:00</updated>
     <link href="https://www.uscis.gov/newsroom/news-releases/former-syrian-prison-official-sentenced-for-torture-and-immigration-fraud"/>
     <summary>USCIS</summary>
-    <published>2026-10-20T10:43:20.747645+00:00</published>
+    <published>2026-10-20T15:31:10.505590+00:00</published>
   </entry>
   <entry>
     <id>https://www.uscis.gov/newsroom/news-releases/italian-alien-charged-with-voting-in-2024-general-election-and-lying-about-it</id>
     <title>Italian Alien Charged With Voting in 2024 General Election and Lying About It</title>
-    <updated>2026-10-20T10:43:20.747640+00:00</updated>
+    <updated>2026-10-20T15:31:10.505583+00:00</updated>
     <link href="https://www.uscis.gov/newsroom/news-releases/italian-alien-charged-with-voting-in-2024-general-election-and-lying-about-it"/>
     <summary>USCIS</summary>
-    <published>2026-10-20T10:43:20.747640+00:00</published>
+    <published>2026-10-20T15:31:10.505582+00:00</published>
   </entry>
   <entry>
     <id>https://www.uscis.gov/newsroom/news-releases/former-medical-doctor-convicted-of-naturalization-fraud</id>
     <title>Former Medical Doctor Convicted of Naturalization Fraud</title>
-    <updated>2026-10-20T10:43:20.747634+00:00</updated>
+    <updated>2026-10-20T15:31:10.505574+00:00</updated>
     <link href="https://www.uscis.gov/newsroom/news-releases/former-medical-doctor-convicted-of-naturalization-fraud"/>
     <summary>USCIS</summary>
-    <published>2026-10-20T10:43:20.747633+00:00</published>
+    <published>2026-10-20T15:31:10.505572+00:00</published>
   </entry>
   <entry>
     <id>https://www.uscis.gov/newsroom/alerts/uscis-opens-asylum-office-in-charlotte</id>
     <title>USCIS Opens Asylum Office in Charlotte</title>
-    <updated>2026-10-20T10:43:20.747629+00:00</updated>
+    <updated>2026-10-20T15:31:10.505564+00:00</updated>
     <link href="https://www.uscis.gov/newsroom/alerts/uscis-opens-asylum-office-in-charlotte"/>
     <summary>USCIS</summary>
-    <published>2026-10-20T10:43:20.747628+00:00</published>
+    <published>2026-10-20T15:31:10.505562+00:00</published>
   </entry>
   <entry>
     <id>https://www.uscis.gov/newsroom/news-releases/cuban-alien-arrested-for-unlawfully-voting</id>
     <title>Cuban Alien Arrested for Unlawfully Voting</title>
-    <updated>2026-10-20T10:43:20.747623+00:00</updated>
+    <updated>2026-10-20T15:31:10.505555+00:00</updated>
     <link href="https://www.uscis.gov/newsroom/news-releases/cuban-alien-arrested-for-unlawfully-voting"/>
     <summary>USCIS</summary>
-    <published>2026-10-20T10:43:20.747622+00:00</published>
+    <published>2026-10-20T15:31:10.505553+00:00</published>
   </entry>
   <entry>
     <id>https://www.uscis.gov/newsroom/news-releases/justice-department-moves-to-strip-citizenship-from-40-criminals-in-largest-single-period-filing</id>
     <title>Justice Department Moves to Strip Citizenship from 40 Criminals in Largest Single-Period Filing Under the Trump Administration</title>
-    <updated>2026-10-20T10:43:20.747617+00:00</updated>
+    <updated>2026-10-20T15:31:10.505546+00:00</updated>
     <link href="https://www.uscis.gov/newsroom/news-releases/justice-department-moves-to-strip-citizenship-from-40-criminals-in-largest-single-period-filing"/>
     <summary>USCIS</summary>
-    <published>2026-10-20T10:43:20.747616+00:00</published>
+    <published>2026-10-20T15:31:10.505544+00:00</published>
   </entry>
   <entry>
     <id>https://www.uscis.gov/newsroom/news-releases/liberian-child-rapist-convicted-of-naturalization-fraud-denaturalized-and-judicially-ordered-removed</id>
     <title>Liberian Child Rapist Convicted of Naturalization Fraud, Denaturalized, and Judicially Ordered Removed from the U.S.</title>
-    <updated>2026-10-20T10:43:20.747611+00:00</updated>
+    <updated>2026-10-20T15:31:10.505537+00:00</updated>
     <link href="https://www.uscis.gov/newsroom/news-releases/liberian-child-rapist-convicted-of-naturalization-fraud-denaturalized-and-judicially-ordered-removed"/>
     <summary>USCIS</summary>
-    <published>2026-10-20T10:43:20.747610+00:00</published>
+    <published>2026-10-20T15:31:10.505535+00:00</published>
   </entry>
   <entry>
     <id>https://www.uscis.gov/newsroom/news-releases/massachusetts-man-charged-for-his-role-in-marriage-and-immigration-document-fraud</id>
     <title>Massachusetts Man Charged for His Role in Marriage and Immigration Document Fraud</title>
-    <updated>2026-10-20T10:43:20.747605+00:00</updated>
+    <updated>2026-10-20T15:31:10.505527+00:00</updated>
     <link href="https://www.uscis.gov/newsroom/news-releases/massachusetts-man-charged-for-his-role-in-marriage-and-immigration-document-fraud"/>
     <summary>USCIS</summary>
-    <published>2026-10-20T10:43:20.747604+00:00</published>
+    <published>2026-10-20T15:31:10.505526+00:00</published>
   </entry>
   <entry>
     <id>https://www.uscis.gov/newsroom/news-releases/providence-immigration-attorney-pleads-guilty-to-wire-fraud-and-tax-evasion</id>
     <title>Providence Immigration Attorney Pleads Guilty to Wire Fraud and Tax Evasion</title>
-    <updated>2026-10-20T10:43:20.747595+00:00</updated>
+    <updated>2026-10-20T15:31:10.505518+00:00</updated>
     <link href="https://www.uscis.gov/newsroom/news-releases/providence-immigration-attorney-pleads-guilty-to-wire-fraud-and-tax-evasion"/>
     <summary>USCIS</summary>
-    <published>2026-10-20T10:43:20.747593+00:00</published>
+    <published>2026-10-20T15:31:10.505516+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.uscis.gov/newsroom/news-releases/massachusetts-man-pleads-guilty-to-wire-fraud-and-the-fraudulent-use-of-government-seals</id>
+    <title>Massachusetts Man Pleads Guilty to Wire Fraud and the Fraudulent Use of Government Seals</title>
+    <updated>2026-10-20T15:31:10.505508+00:00</updated>
+    <link href="https://www.uscis.gov/newsroom/news-releases/massachusetts-man-pleads-guilty-to-wire-fraud-and-the-fraudulent-use-of-government-seals"/>
+    <summary>USCIS</summary>
+    <published>2026-10-20T15:31:10.505506+00:00</published>
   </entry>
   <entry>
     <id>https://www.uscis.gov/newsroom/video-and-photo-gallery</id>
     <title>Video and Photo Gallery</title>
-    <updated>2026-10-20T10:43:20.747583+00:00</updated>
+    <updated>2026-10-20T15:31:10.505497+00:00</updated>
     <link href="https://www.uscis.gov/newsroom/video-and-photo-gallery"/>
     <summary>USCIS</summary>
-    <published>2026-10-20T10:43:20.747581+00:00</published>
+    <published>2026-10-20T15:31:10.505496+00:00</published>
   </entry>
   <entry>
     <id>https://www.uscis.gov/newsroom/immigration-relief-in-emergencies-or-unforeseen-circumstances</id>
     <title>Immigration Relief in Emergencies or Unforeseen Circumstances</title>
-    <updated>2026-10-20T10:43:20.747571+00:00</updated>
+    <updated>2026-10-20T15:31:10.505485+00:00</updated>
     <link href="https://www.uscis.gov/newsroom/immigration-relief-in-emergencies-or-unforeseen-circumstances"/>
     <summary>USCIS</summary>
-    <published>2026-10-20T10:43:20.747569+00:00</published>
+    <published>2026-10-20T15:31:10.505483+00:00</published>
   </entry>
   <entry>
     <id>https://www.uscis.gov/newsroom/speeches-statements-testimony</id>
     <title>Speeches, Statements, Testimony</title>
-    <updated>2026-10-20T10:43:20.747557+00:00</updated>
+    <updated>2026-10-20T15:31:10.505472+00:00</updated>
     <link href="https://www.uscis.gov/newsroom/speeches-statements-testimony"/>
     <summary>USCIS</summary>
-    <published>2026-10-20T10:43:20.747554+00:00</published>
+    <published>2026-10-20T15:31:10.505470+00:00</published>
   </entry>
   <entry>
     <id>https://www.uscis.gov/newsroom/social-media-directory</id>
     <title>Social Media Directory</title>
-    <updated>2026-10-20T10:43:20.747537+00:00</updated>
+    <updated>2026-10-20T15:31:10.505454+00:00</updated>
     <link href="https://www.uscis.gov/newsroom/social-media-directory"/>
     <summary>USCIS</summary>
-    <published>2026-10-20T10:43:20.747532+00:00</published>
+    <published>2026-10-20T15:31:10.505448+00:00</published>
   </entry>
 </feed>

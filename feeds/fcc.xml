@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:fcc</id>
   <title>FCC Recent Releases (Combined)</title>
-  <updated>2026-10-20T10:43:20.179316+00:00</updated>
+  <updated>2026-10-20T15:31:10.085264+00:00</updated>
   <link href="file:///feeds/fcc.xml" rel="self"/>
   <link href="https://api2.fcc.gov/api/exp/v1.0.0/edocspublic/rss" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -10,73 +10,73 @@
   <entry>
     <id>425964</id>
     <title>.</title>
-    <updated>2026-10-20T10:43:20.179403+00:00</updated>
+    <updated>2026-10-20T15:31:10.085369+00:00</updated>
     <link href="https://www.fcc.gov/edoc/425964"/>
     <summary>.</summary>
-    <published>2026-10-20T10:43:20.179402+00:00</published>
+    <published>2026-10-20T15:31:10.085367+00:00</published>
   </entry>
   <entry>
     <id>425962</id>
     <title>.</title>
-    <updated>2026-10-20T10:43:20.179396+00:00</updated>
+    <updated>2026-10-20T15:31:10.085360+00:00</updated>
     <link href="https://www.fcc.gov/edoc/425962"/>
     <summary>.</summary>
-    <published>2026-10-20T10:43:20.179395+00:00</published>
+    <published>2026-10-20T15:31:10.085358+00:00</published>
   </entry>
   <entry>
     <id>425969</id>
     <title>PSHSB Announces Region 15 (Iowa) RPCs to Hold 700 MHZ and 800 MHZ Meetings</title>
-    <updated>2026-10-20T10:43:20.179390+00:00</updated>
+    <updated>2026-10-20T15:31:10.085350+00:00</updated>
     <link href="https://www.fcc.gov/edoc/425969"/>
     <summary>Announces Region 15 (Iowa) RPC Meeting for 700 MHZ and 800 MHZ</summary>
-    <published>2026-10-20T10:43:20.179389+00:00</published>
+    <published>2026-10-20T15:31:10.085348+00:00</published>
   </entry>
   <entry>
     <id>425967</id>
     <title>PSHSB Announces Region 39 (Tennessee) RPCs to Hold 700 MHZ and 800 MHZ Meetings</title>
-    <updated>2026-10-20T10:43:20.179384+00:00</updated>
+    <updated>2026-10-20T15:31:10.085338+00:00</updated>
     <link href="https://www.fcc.gov/edoc/425967"/>
     <summary>Announces Region 39 (Tennessee) RPC Meeting for 700 MHZ and 800 MHZ Meetings</summary>
-    <published>2026-10-20T10:43:20.179383+00:00</published>
+    <published>2026-10-20T15:31:10.085336+00:00</published>
   </entry>
   <entry>
     <id>425953</id>
     <title>Applications</title>
-    <updated>2026-10-20T10:43:20.179377+00:00</updated>
+    <updated>2026-10-20T15:31:10.085326+00:00</updated>
     <link href="https://www.fcc.gov/edoc/425953"/>
     <summary>.</summary>
-    <published>2026-10-20T10:43:20.179376+00:00</published>
+    <published>2026-10-20T15:31:10.085324+00:00</published>
   </entry>
   <entry>
     <id>425954</id>
     <title>Actions</title>
-    <updated>2026-10-20T10:43:20.179370+00:00</updated>
+    <updated>2026-10-20T15:31:10.085316+00:00</updated>
     <link href="https://www.fcc.gov/edoc/425954"/>
     <summary>.</summary>
-    <published>2026-10-20T10:43:20.179369+00:00</published>
+    <published>2026-10-20T15:31:10.085315+00:00</published>
   </entry>
   <entry>
     <id>425957</id>
     <title>Domestic 214 Application Granted For the Transfer of Control of Accipiter Communications, Inc. and Wyyerd Connect, LLC to  Wildflower Parent, L.P.</title>
-    <updated>2026-10-20T10:43:20.179363+00:00</updated>
+    <updated>2026-10-20T15:31:10.085305+00:00</updated>
     <link href="https://www.fcc.gov/edoc/425957"/>
     <summary>.</summary>
-    <published>2026-10-20T10:43:20.179360+00:00</published>
+    <published>2026-10-20T15:31:10.085303+00:00</published>
   </entry>
   <entry>
     <id>425955</id>
     <title>Pleadings</title>
-    <updated>2026-10-20T10:43:20.179348+00:00</updated>
+    <updated>2026-10-20T15:31:10.085292+00:00</updated>
     <link href="https://www.fcc.gov/edoc/425955"/>
     <summary>.</summary>
-    <published>2026-10-20T10:43:20.179345+00:00</published>
+    <published>2026-10-20T15:31:10.085290+00:00</published>
   </entry>
   <entry>
     <id>425966</id>
     <title>Wireline Competition Bureau Reauthorizes Enhanced Alternative Connect America Cost Model Support for TDS Telecommunications, LLC In New Hampshire</title>
-    <updated>2026-10-20T10:43:20.179327+00:00</updated>
+    <updated>2026-10-20T15:31:10.085271+00:00</updated>
     <link href="https://www.fcc.gov/edoc/425966"/>
     <summary>.</summary>
-    <published>2026-10-20T10:43:20.179321+00:00</published>
+    <published>2026-10-20T15:31:10.085267+00:00</published>
   </entry>
 </feed>

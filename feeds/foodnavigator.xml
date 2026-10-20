@@ -2,71 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:foodnavigator</id>
   <title>FoodNavigator USA</title>
-  <updated>2026-10-20T10:42:47.831133+00:00</updated>
+  <updated>2026-10-20T15:30:39.021813+00:00</updated>
   <link href="file:///feeds/foodnavigator.xml" rel="self"/>
   <link href="https://www.foodnavigator-usa.com/arc/outboundfeeds/rss/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: food / Mode: rss</subtitle>
   <entry>
-    <id>https://www.confectionerynews.com/Article/2026/10/16/ghirardelli-joins-dubai-chocolate-trend-with-revamped-squares/</id>
-    <title>Ghirardelli joins Dubai chocolate craze with new-look Squares</title>
-    <updated>2026-10-20T10:42:47.833266+00:00</updated>
-    <link href="https://www.confectionerynews.com/Article/2026/10/16/ghirardelli-joins-dubai-chocolate-trend-with-revamped-squares/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
-    <summary>Ghirardelli has joined the Dubai chocolate trend, redesigning its iconic Squares with a thicker format to accommodate the viral treat's signature pistachio filling and crispy kataifi. The launch highlights the growing influence of Dubai-style chocolate on confectionery innovation.</summary>
-    <published>2026-10-16T14:55:33+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.foodnavigator.com/Article/2026/10/16/nestle-case-raises-russia-business-risks/</id>
-    <title>Nestlé case: Is staying in Russia a gamble for Western companies?</title>
-    <updated>2026-10-20T10:42:47.833136+00:00</updated>
-    <link href="https://www.foodnavigator.com/Article/2026/10/16/nestle-case-raises-russia-business-risks/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
-    <summary>After Nestlé's Russia operations were placed under external management, there are wider questions over the risks facing Western companies still active in the market</summary>
-    <published>2026-10-16T15:23:13+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.foodnavigator.com/Article/2026/10/19/taking-fibre-beyond-supplements-into-instant-noodles-and-snacks/</id>
-    <title>Fibre on fire: Next-gen functional yet convenient instant noodles and snacks</title>
-    <updated>2026-10-20T10:42:47.833045+00:00</updated>
-    <link href="https://www.foodnavigator.com/Article/2026/10/19/taking-fibre-beyond-supplements-into-instant-noodles-and-snacks/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
-    <summary>Indonesian firm Lautan Natural Krimerindo is using its FiberCreme creamer to add fibre to instant noodles, beverages and snacks as it pursues export growth.</summary>
-    <published>2026-10-19T02:02:34+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.foodnavigator.com/Article/2026/10/19/is-insect-protein-really-dead/</id>
-    <title>Insect protein: What went wrong?</title>
-    <updated>2026-10-20T10:42:47.832954+00:00</updated>
-    <link href="https://www.foodnavigator.com/Article/2026/10/19/is-insect-protein-really-dead/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
-    <summary>Insect protein has faced many struggles: it's capital intensive, demand and supply were not balanced, and consumer disgust persisted. Does the sector have a future sticking to animal feed?</summary>
-    <published>2026-10-19T07:30:19+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.confectionerynews.com/Article/2026/10/19/lindt-ceo-out-as-board-seeks-to-reignite-growth/</id>
-    <title>Lindt ousts CEO in bid to reignite growth</title>
-    <updated>2026-10-20T10:42:47.832863+00:00</updated>
-    <link href="https://www.confectionerynews.com/Article/2026/10/19/lindt-ceo-out-as-board-seeks-to-reignite-growth/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
-    <summary>Lindt &amp; Sprüngli has announced the departure of Group CEO Adalbert Lechner, with the Board citing the need for new leadership to restore growth. Former CEO Dieter Weisskopf returns as interim chief as the Swiss chocolatier searches for a successor.</summary>
-    <published>2026-10-19T08:54:39+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.foodnavigator.com/Article/2026/10/19/X3COHFBSKZFGBAYA5QELX3R7UE/</id>
-    <title>新蛋白质观察：无乳冰淇淋、中国布局与欧盟“肉类”命名禁令</title>
-    <updated>2026-10-20T10:42:47.832773+00:00</updated>
-    <link href="https://www.foodnavigator.com/Article/2026/10/19/X3COHFBSKZFGBAYA5QELX3R7UE/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
-    <summary>本期《新蛋白质观察》聚焦无乳冰淇淋、中国替代蛋白布局及欧盟“肉类”命名禁令</summary>
-    <published>2026-10-19T09:47:19+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.foodnavigator.com/Article/2026/10/19/YECWBM6P6VEPHBL4ABXQ4RVFYY/</id>
-    <title>政策精读：印度能量饮料、日本地震与澳洲食品欺诈</title>
-    <updated>2026-10-20T10:42:47.832682+00:00</updated>
-    <link href="https://www.foodnavigator.com/Article/2026/10/19/YECWBM6P6VEPHBL4ABXQ4RVFYY/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
-    <summary>本期《政策精读》聚焦印度能量饮料、日本地震及澳洲食品欺诈问题</summary>
-    <published>2026-10-19T10:09:10+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.foodnavigator.com/Article/2026/10/19/36WYETEAZZH5FB7MWLCNQN23AY/</id>
     <title>更健康的选择：无乳甜点、细胞培植肉与草饲乳制品</title>
-    <updated>2026-10-20T10:42:47.832591+00:00</updated>
+    <updated>2026-10-20T15:30:39.023954+00:00</updated>
     <link href="https://www.foodnavigator.com/Article/2026/10/19/36WYETEAZZH5FB7MWLCNQN23AY/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
     <summary>本期《更健康的选择》聚焦无乳甜点、细胞培植肉与草饲乳制品</summary>
     <published>2026-10-19T10:18:54+00:00</published>
@@ -74,7 +18,7 @@
   <entry>
     <id>https://www.foodnavigator.com/Article/2026/10/19/7HQ26TPJLFD7TOWIYG37VD4HQM/</id>
     <title>聚焦中东：百事伊拉克布局、埃及货币与厄尔尼诺</title>
-    <updated>2026-10-20T10:42:47.832500+00:00</updated>
+    <updated>2026-10-20T15:30:39.023860+00:00</updated>
     <link href="https://www.foodnavigator.com/Article/2026/10/19/7HQ26TPJLFD7TOWIYG37VD4HQM/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
     <summary>本期《聚焦中东》关注百事伊拉克布局、埃及货币走势与厄尔尼诺现象</summary>
     <published>2026-10-19T10:24:36+00:00</published>
@@ -82,7 +26,7 @@
   <entry>
     <id>https://www.foodnavigator.com/Article/2026/10/19/china-focus-mengniu-yili-alt-protein-hurdles-and-the-trends-shaping-food/</id>
     <title>China Focus: Mengniu, Yili, alt protein hurdles, and the trends shaping food</title>
-    <updated>2026-10-20T10:42:47.832408+00:00</updated>
+    <updated>2026-10-20T15:30:39.023765+00:00</updated>
     <link href="https://www.foodnavigator.com/Article/2026/10/19/china-focus-mengniu-yili-alt-protein-hurdles-and-the-trends-shaping-food/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
     <summary>From functional dairy and digitalisation to alternative proteins, we explore China’s food industry developments, emerging trends and the people shaping its future.</summary>
     <published>2026-10-19T10:29:30+00:00</published>
@@ -90,15 +34,23 @@
   <entry>
     <id>https://www.foodnavigator.com/Article/2026/10/19/HXCMMJSOZ5DLHPR5UWSDNHGIQM/</id>
     <title>聚焦中国：蒙牛、伊利、替代蛋白阻力，以及塑造食品行业的趋势</title>
-    <updated>2026-10-20T10:42:47.832307+00:00</updated>
+    <updated>2026-10-20T15:30:39.023663+00:00</updated>
     <link href="https://www.foodnavigator.com/Article/2026/10/19/HXCMMJSOZ5DLHPR5UWSDNHGIQM/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
     <summary>从功能性乳制品与数字化，到替代蛋白，我们探讨中国食品行业的发展脉络、新兴趋势，以及那些正在塑造其未来的人。</summary>
     <published>2026-10-19T10:32:55+00:00</published>
   </entry>
   <entry>
+    <id>https://www.beveragedaily.com/Article/2026/10/19/autumn-flavours-how-drinks-brands-are-reimagining-seasonal-favourites/</id>
+    <title>Autumn flavours: How drinks brands are reimagining seasonal favourites</title>
+    <updated>2026-10-20T15:30:39.023546+00:00</updated>
+    <link href="https://www.beveragedaily.com/Article/2026/10/19/autumn-flavours-how-drinks-brands-are-reimagining-seasonal-favourites/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
+    <summary>Autumn flavours: How drinks brands are reimagining seasonal favourites</summary>
+    <published>2026-10-19T12:17:13+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.foodnavigator.com/Article/2026/10/19/low-carb-vs-functional-health-can-they-coexist/</id>
     <title>Is functional food killing low carb – or absorbing it?</title>
-    <updated>2026-10-20T10:42:47.832169+00:00</updated>
+    <updated>2026-10-20T15:30:39.023451+00:00</updated>
     <link href="https://www.foodnavigator.com/Article/2026/10/19/low-carb-vs-functional-health-can-they-coexist/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
     <summary>The functional food boom has changed how consumers see health and wellness. Low carb as a trend has not declined, but it has changed, being folded into the wider functional space. Restrictive diets such as Paleo have declined.</summary>
     <published>2026-10-19T12:22:26+00:00</published>
@@ -106,7 +58,7 @@
   <entry>
     <id>https://www.foodnavigator.com/Article/2026/10/19/beyond-meat-launches-energy-drink/</id>
     <title>Beyond Meat launches energy drink</title>
-    <updated>2026-10-20T10:42:47.832077+00:00</updated>
+    <updated>2026-10-20T15:30:39.023357+00:00</updated>
     <link href="https://www.foodnavigator.com/Article/2026/10/19/beyond-meat-launches-energy-drink/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
     <summary>Beyond Meat has continued its diversification by launching an energy drink, Beyond Immerse Protein + Energy. The drink is a caffeinated version of its high protein drink Beyond Immerse.</summary>
     <published>2026-10-19T13:25:22+00:00</published>
@@ -114,7 +66,7 @@
   <entry>
     <id>https://www.foodnavigator.com/Article/2026/10/19/nestle-commits-1bn-to-north-america-expansion-strategy/</id>
     <title>Nestlé commits $1bn to North America expansion strategy</title>
-    <updated>2026-10-20T10:42:47.831984+00:00</updated>
+    <updated>2026-10-20T15:30:39.023263+00:00</updated>
     <link href="https://www.foodnavigator.com/Article/2026/10/19/nestle-commits-1bn-to-north-america-expansion-strategy/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
     <summary>Nestlé is investing $1bn in Mexico, as it expands production capacity, strengthens agricultural supply chains and accelerates its North American growth strategy.</summary>
     <published>2026-10-19T13:47:25+00:00</published>
@@ -122,7 +74,7 @@
   <entry>
     <id>https://www.foodnavigator.com/Article/2026/10/20/apac-cocoa-trends-worst-is-past-but-risks-remain/</id>
     <title>APAC cocoa trends: ‘Worst is past’, but risks remain</title>
-    <updated>2026-10-20T10:42:47.831892+00:00</updated>
+    <updated>2026-10-20T15:30:39.023169+00:00</updated>
     <link href="https://www.foodnavigator.com/Article/2026/10/20/apac-cocoa-trends-worst-is-past-but-risks-remain/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
     <summary>Cocoa giant Barry Callebaut says the worst of the cocoa crisis is likely over, but the APAC cocoa industry continues to navigate major market shifts and challenges</summary>
     <published>2026-10-20T05:47:45+00:00</published>
@@ -130,7 +82,7 @@
   <entry>
     <id>https://www.foodnavigator.com/Article/2026/10/20/safety-first-food-supply-risks-mycotoxins-and-covid-19-side-effects/</id>
     <title>Safety First: Food supply risks, mycotoxins and COVID-19 side effects</title>
-    <updated>2026-10-20T10:42:47.831799+00:00</updated>
+    <updated>2026-10-20T15:30:39.023073+00:00</updated>
     <link href="https://www.foodnavigator.com/Article/2026/10/20/safety-first-food-supply-risks-mycotoxins-and-covid-19-side-effects/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
     <summary>Food supply risks, mycotoxins and COVID-19 side effects feature in this edition of Safety First</summary>
     <published>2026-10-20T05:50:02+00:00</published>
@@ -138,7 +90,7 @@
   <entry>
     <id>https://www.foodnavigator.com/Article/2026/10/20/better-dairy-self-affirms-gras-status-for-lactopontin/</id>
     <title>Better Dairy self-affirms GRAS status for lactopontin</title>
-    <updated>2026-10-20T10:42:47.831703+00:00</updated>
+    <updated>2026-10-20T15:30:39.022977+00:00</updated>
     <link href="https://www.foodnavigator.com/Article/2026/10/20/better-dairy-self-affirms-gras-status-for-lactopontin/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
     <summary>Better Dairy has self-affirmed GRAS status for precision-fermented lactopontin, paving the way for US nutrition and supplement product launches.</summary>
     <published>2026-10-20T10:37:11+00:00</published>
@@ -146,7 +98,7 @@
   <entry>
     <id>https://www.foodnavigator.com/Article/2026/10/20/why-full-fat-dairy-is-making-a-comeback/</id>
     <title>As consumers rethink fat, whole milk gets a second look</title>
-    <updated>2026-10-20T10:42:47.831606+00:00</updated>
+    <updated>2026-10-20T15:30:39.022879+00:00</updated>
     <link href="https://www.foodnavigator.com/Article/2026/10/20/why-full-fat-dairy-is-making-a-comeback/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
     <summary>A growing focus on protein, satiety and whole-food nutrition is fueling renewed consumer interest in full-fat dairy, particularly whole milk.</summary>
     <published>2026-10-20T10:37:49+00:00</published>
@@ -154,7 +106,7 @@
   <entry>
     <id>https://www.foodnavigator.com/Article/2026/10/20/milkpep-launches-milkscape-to-boost-milk-sales/</id>
     <title>New data platform reveals opportunities for dairy milk to win back shelf space</title>
-    <updated>2026-10-20T10:42:47.831503+00:00</updated>
+    <updated>2026-10-20T15:30:39.022780+00:00</updated>
     <link href="https://www.foodnavigator.com/Article/2026/10/20/milkpep-launches-milkscape-to-boost-milk-sales/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
     <summary>MilkPEP’s new Milkscape platform uses AI and market data to help dairy processors and retailers spot consumer trends, drive milk innovation and grow sales.</summary>
     <published>2026-10-20T10:38:38+00:00</published>
@@ -162,9 +114,57 @@
   <entry>
     <id>https://www.foodnavigator.com/Article/2026/10/20/whey-protein-shortage-drives-interest-in-plant-proteins/</id>
     <title>Can plant proteins help ease the whey squeeze?</title>
-    <updated>2026-10-20T10:42:47.831379+00:00</updated>
+    <updated>2026-10-20T15:30:39.022669+00:00</updated>
     <link href="https://www.foodnavigator.com/Article/2026/10/20/whey-protein-shortage-drives-interest-in-plant-proteins/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
     <summary>Whey prices remain more than double year-ago levels. Explore how ADM and other ingredient suppliers are using plant proteins and hybrid formulations to meet demand.</summary>
     <published>2026-10-20T10:39:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.foodnavigator.com/Article/2026/10/20/creamers-move-beyond-coffee-with-flavors-cold-foams-and-cafe-inspired-experiences/</id>
+    <title>Creamers move beyond coffee with flavors, cold foams and café-inspired experiences</title>
+    <updated>2026-10-20T15:30:39.022539+00:00</updated>
+    <link href="https://www.foodnavigator.com/Article/2026/10/20/creamers-move-beyond-coffee-with-flavors-cold-foams-and-cafe-inspired-experiences/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
+    <summary>SPINS data shows consumers gravitating toward flavored creamers and cold foams that deliver café-inspired flavors and textures, while dairy-focused brands balance indulgence with simpler ingredient lists.</summary>
+    <published>2026-10-20T10:40:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.foodnavigator.com/Article/2026/10/20/danones-ai-commerce-strategy-building-machine-trust/</id>
+    <title>Danone’s AI commerce goal: ‘Trusted by machines and desired by humans’</title>
+    <updated>2026-10-20T15:30:39.022442+00:00</updated>
+    <link href="https://www.foodnavigator.com/Article/2026/10/20/danones-ai-commerce-strategy-building-machine-trust/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
+    <summary>Danone wants its brands to be trusted by AI shopping agents and desired by consumers. Arthur Sylvestre explains the digital strategy behind that goal.</summary>
+    <published>2026-10-20T10:45:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.foodnavigator.com/Article/2026/10/20/letter-from-the-editor-what-is-driving-dairy-innovation/</id>
+    <title>Dairy’s fight for growth and shelf space</title>
+    <updated>2026-10-20T15:30:39.022343+00:00</updated>
+    <link href="https://www.foodnavigator.com/Article/2026/10/20/letter-from-the-editor-what-is-driving-dairy-innovation/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
+    <summary>Explore dairy innovation trends, from high-protein products and plant-based competition to creamers, milk market insights and AI-powered commerce.</summary>
+    <published>2026-10-20T10:49:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.foodnavigator.com/Article/2026/10/20/the-rise-of-morning-snacking-what-it-means-for-food-and-beverage-brands/</id>
+    <title>Forget breakfast: The battle for the morning snack is on</title>
+    <updated>2026-10-20T15:30:39.022244+00:00</updated>
+    <link href="https://www.foodnavigator.com/Article/2026/10/20/the-rise-of-morning-snacking-what-it-means-for-food-and-beverage-brands/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
+    <summary>Morning snacking is emerging as a distinct eating occasion, creating new opportunities for breakfast, confectionery and functional food brands. Discover the trends, ingredients and formats shaping the growing mid-morning market.</summary>
+    <published>2026-10-20T11:26:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.foodnavigator.com/Article/2026/10/20/mars-identifies-key-drivers-of-retail-greenhouse-gas-emissions/</id>
+    <title>Mars’ analysis reveals where retail emissions add up</title>
+    <updated>2026-10-20T15:30:39.022140+00:00</updated>
+    <link href="https://www.foodnavigator.com/Article/2026/10/20/mars-identifies-key-drivers-of-retail-greenhouse-gas-emissions/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
+    <summary>As retail becomes more technology-driven, Mars sees ecommerce and consolidated delivery networks as materially less carbon-intensive than traditional store-based shopping.</summary>
+    <published>2026-10-20T13:02:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.foodnavigator.com/Article/2026/10/20/rtd-tea-4-strategies-to-revitalize-category-growth/</id>
+    <title>4 strategies Coca-Cola, PepsiCo, Spindrift and others are using to revitalize RTD tea</title>
+    <updated>2026-10-20T15:30:39.022020+00:00</updated>
+    <link href="https://www.foodnavigator.com/Article/2026/10/20/rtd-tea-4-strategies-to-revitalize-category-growth/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
+    <summary>With US RTD tea sales falling, Coca-Cola, PepsiCo and other brands are betting on zero sugar, bold flavors, functional benefits and premium ingredients to revive growth.</summary>
+    <published>2026-10-20T13:11:11+00:00</published>
   </entry>
 </feed>
