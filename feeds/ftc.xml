@@ -2,24 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:ftc</id>
   <title>FTC Press Releases</title>
-  <updated>2026-10-20T00:50:04.911687+00:00</updated>
+  <updated>2026-10-20T05:34:21.444415+00:00</updated>
   <link href="file:///feeds/ftc.xml" rel="self"/>
   <link href="https://www.ftc.gov/feeds/press-release.xml" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: government / Mode: rss</subtitle>
   <entry>
-    <id>337650</id>
-    <title>FTC Secures Settlement with Auto Dealership Group in Price Transparency Win for Consumers</title>
-    <updated>2026-10-20T00:50:04.912807+00:00</updated>
-    <link href="https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-secures-settlement-auto-dealership-group-price-transparency-win-consumers"/>
-    <summary>Complaint alleges Greenway Auto Group deceived consumers by advertising prices thousands of dollars below actual prices and sending false prize mailers
-The Federal Trade Commission today announced Greenway Auto Group has agreed that its price advertisements will prominently include the actual price a consumer must pay for a vehicle, excluding only charges the government requires consumers to pay, to settle the Commission’s lawsuit alleging the company advertised prices that were thousands of dol</summary>
-    <published>2026-10-08T08:00:00-04:00</published>
-  </entry>
-  <entry>
     <id>337649</id>
     <title>FTC Secures Fair Pricing Protections by Taking Action Against Major Wholesale T-Shirt Distributors</title>
-    <updated>2026-10-20T00:50:04.912716+00:00</updated>
+    <updated>2026-10-20T05:34:21.445189+00:00</updated>
     <link href="https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-secures-fair-pricing-protections-taking-action-against-major-wholesale-t-shirt-distributors"/>
     <summary>FTC action signals continued Robinson-Patman Act enforcement to protect consumers, small businesses
 The Federal Trade Commission secured changes to a partnership agreement between T-shirt manufacturer Gildan Activewear SRL and major wholesale T-shirt distributor S&amp;amp;S Holdings LLC that will protect small businesses and consumers from unfair and discriminatory pricing practices.View Press Release</summary>
@@ -28,60 +19,60 @@ The Federal Trade Commission secured changes to a partnership agreement between 
   <entry>
     <id>337647</id>
     <title>FTC Returns More than $15.8 Million to Consumers Misled by  Cash Advance App Company Cleo AI</title>
-    <updated>2026-10-20T00:50:04.912624+00:00</updated>
+    <updated>2026-10-20T05:34:21.445128+00:00</updated>
     <link href="https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-returns-more-158-million-consumers-misled-cash-advance-app-company-cleo-ai"/>
     <summary>Agency charged that the company deceptively marketed cash advance services and obstructed cancellations
 The Federal Trade Commission is sending more than $15.8 million to consumers impacted by cash advance app company Cleo AI’s deceptive claims about the amounts and timing of available cash advances and the company’s hard-to-cancel subscriptions.View Press Release</summary>
     <published>2026-10-08T08:00:00-04:00</published>
   </entry>
   <entry>
-    <id>337802</id>
-    <title>FTC, States Ask Federal Court to Hold Martin Shkreli in Contempt for Allegedly Violating Lifetime Ban from Pharmaceutical Industry</title>
-    <updated>2026-10-20T00:50:04.912532+00:00</updated>
-    <link href="https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-states-ask-federal-court-hold-martin-shkreli-contempt-allegedly-violating-lifetime"/>
-    <summary>Commission cites evidence it alleges shows that Shkreli repeatedly violated a 2022 order that banned him from working in the pharmaceutical industry for life
-The Federal Trade Commission and seven states today asked a federal judge to hold Martin Shkreli in contempt based on their allegations that he flagrantly and repeatedly violated a 2022 court order that banned him from the pharmaceutical industry.View Press Release</summary>
-    <published>2026-10-13T08:00:00-04:00</published>
+    <id>337650</id>
+    <title>FTC Secures Settlement with Auto Dealership Group in Price Transparency Win for Consumers</title>
+    <updated>2026-10-20T05:34:21.445066+00:00</updated>
+    <link href="https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-secures-settlement-auto-dealership-group-price-transparency-win-consumers"/>
+    <summary>Complaint alleges Greenway Auto Group deceived consumers by advertising prices thousands of dollars below actual prices and sending false prize mailers
+The Federal Trade Commission today announced Greenway Auto Group has agreed that its price advertisements will prominently include the actual price a consumer must pay for a vehicle, excluding only charges the government requires consumers to pay, to settle the Commission’s lawsuit alleging the company advertised prices that were thousands of dol</summary>
+    <published>2026-10-08T08:00:00-04:00</published>
   </entry>
   <entry>
     <id>337803</id>
     <title>FTC Sues Operator of Sextortion Relief Scheme for Misleading Consumers into Believing it Would Identify Criminals and End Sextortion Attacks</title>
-    <updated>2026-10-20T00:50:04.912436+00:00</updated>
+    <updated>2026-10-20T05:34:21.445000+00:00</updated>
     <link href="https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-sues-operator-sextortion-relief-scheme-misleading-consumers-believing-it-would-identify"/>
     <summary>Digital Forensics charges consumers thousands of dollars but fails to provide promised services and engages in deceptive review practices, FTC alleges
 A federal court has granted the Federal Trade Commission’s request to temporarily halt the activities of Digital Forensics Corporation LLC and its CEO for allegedly defrauding consumers out of millions of dollars using false and deceptive promises relating to “sextortion assistance services.”View Press Release</summary>
     <published>2026-10-13T08:00:00-04:00</published>
   </entry>
   <entry>
+    <id>337802</id>
+    <title>FTC, States Ask Federal Court to Hold Martin Shkreli in Contempt for Allegedly Violating Lifetime Ban from Pharmaceutical Industry</title>
+    <updated>2026-10-20T05:34:21.444904+00:00</updated>
+    <link href="https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-states-ask-federal-court-hold-martin-shkreli-contempt-allegedly-violating-lifetime"/>
+    <summary>Commission cites evidence it alleges shows that Shkreli repeatedly violated a 2022 order that banned him from working in the pharmaceutical industry for life
+The Federal Trade Commission and seven states today asked a federal judge to hold Martin Shkreli in contempt based on their allegations that he flagrantly and repeatedly violated a 2022 court order that banned him from the pharmaceutical industry.View Press Release</summary>
+    <published>2026-10-13T08:00:00-04:00</published>
+  </entry>
+  <entry>
+    <id>337957</id>
+    <title>FTC Sends More than $9.8 Million to Consumers Harmed by Walmart’s Failure to Stop Scammers that Used its Wire Transfer Services to Take Millions from Customers</title>
+    <updated>2026-10-20T05:34:21.444839+00:00</updated>
+    <link href="https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-sends-more-98-million-consumers-harmed-walmarts-failure-stop-scammers-used-its-wire-transfer"/>
+    <summary>The Federal Trade Commission is sending payments totaling more than $9.8 million to consumers harmed by Walmart’s alleged failure to stop scammers that took hundreds of millions of dollars from U.S. consumers using the company’s wire transfer services.View Press Release</summary>
+    <published>2026-10-15T08:00:00-04:00</published>
+  </entry>
+  <entry>
     <id>337966</id>
     <title>FTC Sues Ticket Broker Over Unlawful Tactics Used to Buy Millions of Tickets to Popular Live Events</title>
-    <updated>2026-10-20T00:50:04.912313+00:00</updated>
+    <updated>2026-10-20T05:34:21.444776+00:00</updated>
     <link href="https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-sues-ticket-broker-over-unlawful-tactics-used-buy-millions-tickets-popular-live-events"/>
     <summary>Complaint alleges REPS earned millions by unlawfully bypassing ticket-issuer security measures to exceed purchasing limits 
 The Federal Trade Commission sued REPS &amp;amp; Company Inc., alleging the ticket broker illegally circumvents measures designed to limit the number of tickets that can be purchased for a single event, purchasing millions of tickets to high-demand events that it later resells at a significant profit.View Press Release</summary>
     <published>2026-10-15T08:00:00-04:00</published>
   </entry>
   <entry>
-    <id>337957</id>
-    <title>FTC Sends More than $9.8 Million to Consumers Harmed by Walmart’s Failure to Stop Scammers that Used its Wire Transfer Services to Take Millions from Customers</title>
-    <updated>2026-10-20T00:50:04.912219+00:00</updated>
-    <link href="https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-sends-more-98-million-consumers-harmed-walmarts-failure-stop-scammers-used-its-wire-transfer"/>
-    <summary>The Federal Trade Commission is sending payments totaling more than $9.8 million to consumers harmed by Walmart’s alleged failure to stop scammers that took hundreds of millions of dollars from U.S. consumers using the company’s wire transfer services.View Press Release</summary>
-    <published>2026-10-15T08:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>338049</id>
-    <title>FTC Issues Annual Report to Congress on Agency’s Actions to Protect Older Adults</title>
-    <updated>2026-10-20T00:50:04.912124+00:00</updated>
-    <link href="https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-issues-annual-report-congress-agencys-actions-protect-older-adults"/>
-    <summary>Older adults continue to report losing far more money to investment scams than to any other fraud type, the FTC’s report finds
-The Federal Trade Commission issued its latest report to Congress on protecting older adults, which highlights key trends based on fraud reports submitted by older adults and the FTC’s efforts to combat the problem.View Press Release</summary>
-    <published>2026-10-19T08:00:00-04:00</published>
-  </entry>
-  <entry>
     <id>338020</id>
     <title>FTC Sues to Block PlayPower’s Acquisition of Rival Playground Manufacturer Burke</title>
-    <updated>2026-10-20T00:50:04.912023+00:00</updated>
+    <updated>2026-10-20T05:34:21.444707+00:00</updated>
     <link href="https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-sues-block-playpowers-acquisition-rival-playground-manufacturer-burke"/>
     <summary>FTC alleges the merger of close rivals would significantly reduce price and quality competition in already concentrated market for outdoor commercial playground equipment
 Today, the Federal Trade Commission sued to block Platinum Equity and its portfolio company PlayPower’s acquisition of BCI Burke, alleging the deal to combine two of the largest commercial outdoor playground equipment makers will drive up prices and decrease innovation and quality for equipment bought by schools, churches, park</summary>
@@ -90,10 +81,19 @@ Today, the Federal Trade Commission sued to block Platinum Equity and its portfo
   <entry>
     <id>338067</id>
     <title>FTC Order Preserves Competition in Digital Advertising Ecosystem as Part of Publicis’s Acquisition of LiveRamp</title>
-    <updated>2026-10-20T00:50:04.911906+00:00</updated>
+    <updated>2026-10-20T05:34:21.444637+00:00</updated>
     <link href="https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-order-preserves-competition-digital-advertising-ecosystem-part-publiciss-acquisition-liveramp"/>
     <summary>Order addresses concerns that proposed deal would harm competition in markets for media agency services and audience data services
 The Federal Trade Commission has taken steps to preserve competition in the digital advertising ecosystem by requiring Publicis Groupe S.A.View Press Release</summary>
+    <published>2026-10-19T08:00:00-04:00</published>
+  </entry>
+  <entry>
+    <id>338049</id>
+    <title>FTC Issues Annual Report to Congress on Agency’s Actions to Protect Older Adults</title>
+    <updated>2026-10-20T05:34:21.444554+00:00</updated>
+    <link href="https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-issues-annual-report-congress-agencys-actions-protect-older-adults"/>
+    <summary>Older adults continue to report losing far more money to investment scams than to any other fraud type, the FTC’s report finds
+The Federal Trade Commission issued its latest report to Congress on protecting older adults, which highlights key trends based on fraud reports submitted by older adults and the FTC’s efforts to combat the problem.View Press Release</summary>
     <published>2026-10-19T08:00:00-04:00</published>
   </entry>
 </feed>
