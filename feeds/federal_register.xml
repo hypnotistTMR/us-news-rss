@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:federal_register</id>
   <title>Federal Register - All Documents</title>
-  <updated>2026-10-21T06:12:25.156756+00:00</updated>
+  <updated>2026-10-21T12:07:37.365130+00:00</updated>
   <link href="file:///feeds/federal_register.xml" rel="self"/>
   <link href="https://www.federalregister.gov/api/v1/documents.json" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -10,7 +10,7 @@
   <entry>
     <id>fr:2026-21505</id>
     <title>Grant Guideline; Notice</title>
-    <updated>2026-10-21T06:12:25.157652+00:00</updated>
+    <updated>2026-10-21T12:07:37.366499+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/10/21/2026-21505/grant-guideline-notice"/>
     <summary>State Justice Institute — 2026-21505</summary>
     <published>2026-10-21T00:00:00+00:00</published>
@@ -18,7 +18,7 @@
   <entry>
     <id>fr:2026-21506</id>
     <title>Notice of Appointments Panel Meetings</title>
-    <updated>2026-10-21T06:12:25.157632+00:00</updated>
+    <updated>2026-10-21T12:07:37.366460+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/10/21/2026-21506/notice-of-appointments-panel-meetings"/>
     <summary>Federal Accounting Standards Advisory Board — 2026-21506</summary>
     <published>2026-10-21T00:00:00+00:00</published>
@@ -26,7 +26,7 @@
   <entry>
     <id>fr:2026-21507</id>
     <title>Fisheries of the Exclusive Economic Zone Off Alaska; Modify Groundfish Season Timing in the Bering Sea and Aleutian Islands and Gulf of Alaska Groundfish Fisheries</title>
-    <updated>2026-10-21T06:12:25.157612+00:00</updated>
+    <updated>2026-10-21T12:07:37.366417+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/10/21/2026-21507/fisheries-of-the-exclusive-economic-zone-off-alaska-modify-groundfish-season-timing-in-the-bering"/>
     <summary>Commerce Department — 2026-21507</summary>
     <published>2026-10-21T00:00:00+00:00</published>
@@ -34,7 +34,7 @@
   <entry>
     <id>fr:2026-21508</id>
     <title>Conversion to State-Chartered Credit Union</title>
-    <updated>2026-10-21T06:12:25.157591+00:00</updated>
+    <updated>2026-10-21T12:07:37.366379+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/10/21/2026-21508/conversion-to-state-chartered-credit-union"/>
     <summary>National Credit Union Administration — 2026-21508</summary>
     <published>2026-10-21T00:00:00+00:00</published>
@@ -42,7 +42,7 @@
   <entry>
     <id>fr:2026-21509</id>
     <title>Nonconforming Investment Special Reserve</title>
-    <updated>2026-10-21T06:12:25.157570+00:00</updated>
+    <updated>2026-10-21T12:07:37.366340+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/10/21/2026-21509/nonconforming-investment-special-reserve"/>
     <summary>National Credit Union Administration — 2026-21509</summary>
     <published>2026-10-21T00:00:00+00:00</published>
@@ -50,7 +50,7 @@
   <entry>
     <id>fr:2026-21510</id>
     <title>Petition for Rulemaking of Jason Plotzker</title>
-    <updated>2026-10-21T06:12:25.157550+00:00</updated>
+    <updated>2026-10-21T12:07:37.366301+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/10/21/2026-21510/petition-for-rulemaking-of-jason-plotzker"/>
     <summary>Federal Trade Commission — 2026-21510</summary>
     <published>2026-10-21T00:00:00+00:00</published>
@@ -58,7 +58,7 @@
   <entry>
     <id>fr:2026-21511</id>
     <title>Privacy Act of 1974; System of Records</title>
-    <updated>2026-10-21T06:12:25.157529+00:00</updated>
+    <updated>2026-10-21T12:07:37.366263+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/10/21/2026-21511/privacy-act-of-1974-system-of-records"/>
     <summary>Consumer Financial Protection Bureau — 2026-21511</summary>
     <published>2026-10-21T00:00:00+00:00</published>
@@ -66,7 +66,7 @@
   <entry>
     <id>fr:2026-21512</id>
     <title>Notification to Members/Shareholders</title>
-    <updated>2026-10-21T06:12:25.157507+00:00</updated>
+    <updated>2026-10-21T12:07:37.366225+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/10/21/2026-21512/notification-to-membersshareholders"/>
     <summary>National Credit Union Administration — 2026-21512</summary>
     <published>2026-10-21T00:00:00+00:00</published>
@@ -74,7 +74,7 @@
   <entry>
     <id>fr:2026-21513</id>
     <title>Formations of, Acquisitions by, and Mergers of Bank Holding Companies</title>
-    <updated>2026-10-21T06:12:25.157487+00:00</updated>
+    <updated>2026-10-21T12:07:37.366186+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/10/21/2026-21513/formations-of-acquisitions-by-and-mergers-of-bank-holding-companies"/>
     <summary>Federal Reserve System — 2026-21513</summary>
     <published>2026-10-21T00:00:00+00:00</published>
@@ -82,7 +82,7 @@
   <entry>
     <id>fr:2026-21514</id>
     <title>Agency Information Collection Activities; Renewal of an Approved Information Collection: Training Certification for Entry-Level Commercial Motor Vehicle Operators</title>
-    <updated>2026-10-21T06:12:25.157466+00:00</updated>
+    <updated>2026-10-21T12:07:37.366142+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/10/21/2026-21514/agency-information-collection-activities-renewal-of-an-approved-information-collection-training"/>
     <summary>Transportation Department — 2026-21514</summary>
     <published>2026-10-21T00:00:00+00:00</published>
@@ -90,7 +90,7 @@
   <entry>
     <id>fr:2026-21515</id>
     <title>Petition for Waiver of Compliance and Notice of Public Hearing</title>
-    <updated>2026-10-21T06:12:25.157445+00:00</updated>
+    <updated>2026-10-21T12:07:37.366069+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/10/21/2026-21515/petition-for-waiver-of-compliance-and-notice-of-public-hearing"/>
     <summary>Transportation Department — 2026-21515</summary>
     <published>2026-10-21T00:00:00+00:00</published>
@@ -98,7 +98,7 @@
   <entry>
     <id>fr:2026-21516</id>
     <title>Regulatory Considerations for Prescription Drug Use-Related Software; Guidance for Industry; Availability</title>
-    <updated>2026-10-21T06:12:25.157425+00:00</updated>
+    <updated>2026-10-21T12:07:37.366032+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/10/21/2026-21516/regulatory-considerations-for-prescription-drug-use-related-software-guidance-for-industry"/>
     <summary>Health and Human Services Department — 2026-21516</summary>
     <published>2026-10-21T00:00:00+00:00</published>
@@ -106,7 +106,7 @@
   <entry>
     <id>fr:2026-21517</id>
     <title>Agency Information Collection Activities; Proposed eCollection eComments Requested; New Information Collection; Title: USAO-PR COMMUNITY OUTREACH REQUEST FORM Feedback Form Package</title>
-    <updated>2026-10-21T06:12:25.157404+00:00</updated>
+    <updated>2026-10-21T12:07:37.365993+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/10/21/2026-21517/agency-information-collection-activities-proposed-ecollection-ecomments-requested-new-information"/>
     <summary>Justice Department — 2026-21517</summary>
     <published>2026-10-21T00:00:00+00:00</published>
@@ -114,7 +114,7 @@
   <entry>
     <id>fr:2026-21518</id>
     <title>Agency Information Collection Activities: Submission to OMB for Review and Approval; Public Comment Request; Maternal and Child Health Bureau Performance Measures for Discretionary Grant Information S</title>
-    <updated>2026-10-21T06:12:25.157383+00:00</updated>
+    <updated>2026-10-21T12:07:37.365955+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/10/21/2026-21518/agency-information-collection-activities-submission-to-omb-for-review-and-approval-public-comment"/>
     <summary>Health and Human Services Department — 2026-21518</summary>
     <published>2026-10-21T00:00:00+00:00</published>
@@ -122,7 +122,7 @@
   <entry>
     <id>fr:2026-21519</id>
     <title>Agency Information Collection Activities: Submission to OMB for Review and Approval; Public Comment Request; Information Collection Request Title: Title V Maternal and Child Health Services Block Gran</title>
-    <updated>2026-10-21T06:12:25.157363+00:00</updated>
+    <updated>2026-10-21T12:07:37.365917+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/10/21/2026-21519/agency-information-collection-activities-submission-to-omb-for-review-and-approval-public-comment"/>
     <summary>Health and Human Services Department — 2026-21519</summary>
     <published>2026-10-21T00:00:00+00:00</published>
@@ -130,7 +130,7 @@
   <entry>
     <id>fr:2026-21520</id>
     <title>Mid-Atlantic Fishery Management Council (MAFMC); Public Meeting</title>
-    <updated>2026-10-21T06:12:25.157341+00:00</updated>
+    <updated>2026-10-21T12:07:37.365879+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/10/21/2026-21520/mid-atlantic-fishery-management-council-mafmc-public-meeting"/>
     <summary>Commerce Department — 2026-21520</summary>
     <published>2026-10-21T00:00:00+00:00</published>
@@ -138,7 +138,7 @@
   <entry>
     <id>fr:2026-21521</id>
     <title>Fisheries of the South Atlantic; South Atlantic Fishery Management Council-Public Meetings</title>
-    <updated>2026-10-21T06:12:25.157316+00:00</updated>
+    <updated>2026-10-21T12:07:37.365841+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/10/21/2026-21521/fisheries-of-the-south-atlantic-south-atlantic-fishery-management-council-public-meetings"/>
     <summary>Commerce Department — 2026-21521</summary>
     <published>2026-10-21T00:00:00+00:00</published>
@@ -146,7 +146,7 @@
   <entry>
     <id>fr:2026-21522</id>
     <title>Magnuson-Stevens Act Provisions; General Provisions for Domestic Fisheries; Atlantic Coastal Fisheries Cooperative Management Act Provisions; Application for Exempted Fishing Permits</title>
-    <updated>2026-10-21T06:12:25.157295+00:00</updated>
+    <updated>2026-10-21T12:07:37.365803+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/10/21/2026-21522/magnuson-stevens-act-provisions-general-provisions-for-domestic-fisheries-atlantic-coastal-fisheries"/>
     <summary>Commerce Department — 2026-21522</summary>
     <published>2026-10-21T00:00:00+00:00</published>
@@ -154,7 +154,7 @@
   <entry>
     <id>fr:2026-21523</id>
     <title>Center for Scientific Review; Notice of Closed Meetings</title>
-    <updated>2026-10-21T06:12:25.157273+00:00</updated>
+    <updated>2026-10-21T12:07:37.365764+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/10/21/2026-21523/center-for-scientific-review-notice-of-closed-meetings"/>
     <summary>Health and Human Services Department — 2026-21523</summary>
     <published>2026-10-21T00:00:00+00:00</published>
@@ -162,7 +162,7 @@
   <entry>
     <id>fr:2026-21524</id>
     <title>No Adjustment to HHS Civil Monetary Penalty Amounts for 2026</title>
-    <updated>2026-10-21T06:12:25.157251+00:00</updated>
+    <updated>2026-10-21T12:07:37.365725+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/10/21/2026-21524/no-adjustment-to-hhs-civil-monetary-penalty-amounts-for-2026"/>
     <summary>Health and Human Services Department — 2026-21524</summary>
     <published>2026-10-21T00:00:00+00:00</published>
@@ -170,7 +170,7 @@
   <entry>
     <id>fr:2026-21525</id>
     <title>Center for Scientific Review; Notice of Closed Meetings</title>
-    <updated>2026-10-21T06:12:25.157229+00:00</updated>
+    <updated>2026-10-21T12:07:37.365687+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/10/21/2026-21525/center-for-scientific-review-notice-of-closed-meetings"/>
     <summary>Health and Human Services Department — 2026-21525</summary>
     <published>2026-10-21T00:00:00+00:00</published>
@@ -178,7 +178,7 @@
   <entry>
     <id>fr:2026-21526</id>
     <title>Center for Scientific Review; Notice of Closed Meetings</title>
-    <updated>2026-10-21T06:12:25.157208+00:00</updated>
+    <updated>2026-10-21T12:07:37.365648+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/10/21/2026-21526/center-for-scientific-review-notice-of-closed-meetings"/>
     <summary>Health and Human Services Department — 2026-21526</summary>
     <published>2026-10-21T00:00:00+00:00</published>
@@ -186,7 +186,7 @@
   <entry>
     <id>fr:2026-21527</id>
     <title>Center for Scientific Review; Notice of Closed Meetings</title>
-    <updated>2026-10-21T06:12:25.157184+00:00</updated>
+    <updated>2026-10-21T12:07:37.365608+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/10/21/2026-21527/center-for-scientific-review-notice-of-closed-meetings"/>
     <summary>Health and Human Services Department — 2026-21527</summary>
     <published>2026-10-21T00:00:00+00:00</published>
@@ -194,7 +194,7 @@
   <entry>
     <id>fr:2026-21528</id>
     <title>Agency Information Collection Activities; Proposed eCollection eComments Requested; Revisions of Previously Approved Collection</title>
-    <updated>2026-10-21T06:12:25.157160+00:00</updated>
+    <updated>2026-10-21T12:07:37.365569+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/10/21/2026-21528/agency-information-collection-activities-proposed-ecollection-ecomments-requested-revisions-of"/>
     <summary>Justice Department — 2026-21528</summary>
     <published>2026-10-21T00:00:00+00:00</published>
@@ -202,7 +202,7 @@
   <entry>
     <id>fr:2026-21529</id>
     <title>Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; The Ocean Enterprise: A Study of US Business Activity in Oce</title>
-    <updated>2026-10-21T06:12:25.157136+00:00</updated>
+    <updated>2026-10-21T12:07:37.365528+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/10/21/2026-21529/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for"/>
     <summary>Commerce Department — 2026-21529</summary>
     <published>2026-10-21T00:00:00+00:00</published>
@@ -210,7 +210,7 @@
   <entry>
     <id>fr:2026-21556</id>
     <title>Fisheries of the Exclusive Economic Zone Off Alaska; Reallocation of Pacific Cod in the Western Regulatory Area of the Gulf of Alaska</title>
-    <updated>2026-10-21T06:12:25.157109+00:00</updated>
+    <updated>2026-10-21T12:07:37.365484+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/10/21/2026-21556/fisheries-of-the-exclusive-economic-zone-off-alaska-reallocation-of-pacific-cod-in-the-western"/>
     <summary>Commerce Department — 2026-21556</summary>
     <published>2026-10-21T00:00:00+00:00</published>
@@ -218,7 +218,7 @@
   <entry>
     <id>fr:2026-21568</id>
     <title>Guidance Under Section 355 Concerning Device and Active Trade or Business; Partial Withdrawal</title>
-    <updated>2026-10-21T06:12:25.157080+00:00</updated>
+    <updated>2026-10-21T12:07:37.365440+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/10/21/2026-21568/guidance-under-section-355-concerning-device-and-active-trade-or-business-partial-withdrawal"/>
     <summary>Treasury Department — 2026-21568</summary>
     <published>2026-10-21T00:00:00+00:00</published>
@@ -226,7 +226,7 @@
   <entry>
     <id>fr:2026-21599</id>
     <title>Implementing the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026</title>
-    <updated>2026-10-21T06:12:25.157046+00:00</updated>
+    <updated>2026-10-21T12:07:37.365394+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/10/21/2026-21599/implementing-the-lindsey-o-graham-sanctioning-russia-and-iran-act-of-2026"/>
     <summary>Executive Office of the President — 2026-21599</summary>
     <published>2026-10-21T00:00:00+00:00</published>
@@ -234,7 +234,7 @@
   <entry>
     <id>fr:C1-2026-14614</id>
     <title>Hardwood and Decorative Plywood From the Socialist Republic of Vietnam: Final Affirmative Determination of Sales at Less Than Fair Value and Final Negative Determination of Critical Circumstances</title>
-    <updated>2026-10-21T06:12:25.156996+00:00</updated>
+    <updated>2026-10-21T12:07:37.365341+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/10/21/C1-2026-14614/hardwood-and-decorative-plywood-from-the-socialist-republic-of-vietnam-final-affirmative"/>
     <summary>Commerce Department — C1-2026-14614</summary>
     <published>2026-10-21T00:00:00+00:00</published>
@@ -242,7 +242,7 @@
   <entry>
     <id>fr:C1-2026-20311</id>
     <title>Potential Designation of Chartered Financial Analyst Designation as Qualifying Natural Persons for Accredited Investor Status</title>
-    <updated>2026-10-21T06:12:25.156897+00:00</updated>
+    <updated>2026-10-21T12:07:37.365263+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/10/21/C1-2026-20311/potential-designation-of-chartered-financial-analyst-designation-as-qualifying-natural-persons-for"/>
     <summary>Securities and Exchange Commission — C1-2026-20311</summary>
     <published>2026-10-21T00:00:00+00:00</published>
