@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:fda_press</id>
   <title>FDA Press Releases</title>
-  <updated>2026-10-21T12:08:39.401656+00:00</updated>
+  <updated>2026-10-21T17:28:55.514339+00:00</updated>
   <link href="file:///feeds/fda_press.xml" rel="self"/>
   <link href="https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/press-releases/rss.xml" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -10,7 +10,7 @@
   <entry>
     <id>http://www.fda.gov/news-events/press-announcements/fda-issues-emergency-use-authorization-drugs-prevent-and-treat-new-world-screwworm-dogs-and-cats</id>
     <title>FDA Issues Emergency Use Authorization for Drugs to Prevent and Treat New World Screwworm in Dogs and Cats</title>
-    <updated>2026-10-21T12:08:39.404224+00:00</updated>
+    <updated>2026-10-21T17:28:55.515776+00:00</updated>
     <link href="http://www.fda.gov/news-events/press-announcements/fda-issues-emergency-use-authorization-drugs-prevent-and-treat-new-world-screwworm-dogs-and-cats"/>
     <summary>The U.S. Food and Drug Administration today issued an Emergency Use Authorization (EUA) for Capstar (nitenpyram) tablets and revised the EUA for Nitenpyram Tablets, the generic version of Capstar</summary>
     <published>2026-09-03T11:01:02+00:00</published>
@@ -18,7 +18,7 @@
   <entry>
     <id>http://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-treat-alexander-disease</id>
     <title>FDA Approves First Drug to Treat Alexander Disease</title>
-    <updated>2026-10-21T12:08:39.404131+00:00</updated>
+    <updated>2026-10-21T17:28:55.515736+00:00</updated>
     <link href="http://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-treat-alexander-disease"/>
     <summary>The U.S. Food and Drug Administration has approved Zanvastro (zilganersen) injection for the treatment of Alexander disease in pediatric and adult patients.</summary>
     <published>2026-09-03T15:48:27+00:00</published>
@@ -26,7 +26,7 @@
   <entry>
     <id>http://www.fda.gov/news-events/press-announcements/fda-grants-accelerated-approval-new-breast-cancer-treatment</id>
     <title>FDA Grants Accelerated Approval to a New Breast Cancer Treatment</title>
-    <updated>2026-10-21T12:08:39.404020+00:00</updated>
+    <updated>2026-10-21T17:28:55.515694+00:00</updated>
     <link href="http://www.fda.gov/news-events/press-announcements/fda-grants-accelerated-approval-new-breast-cancer-treatment"/>
     <summary>The U.S. Food and Drug Administration today expanded treatment options for adult patients with advanced breast cancer, reflecting the FDA’s commitment to advancing medical innovation and getting new treatments to patients who need them.</summary>
     <published>2026-09-04T15:38:04+00:00</published>
@@ -34,7 +34,7 @@
   <entry>
     <id>http://www.fda.gov/news-events/press-announcements/fda-takes-steps-maintain-newborn-access-life-saving-starter-nutrition-products</id>
     <title>FDA Takes Steps to Maintain Newborn Access to Life-Saving Starter Nutrition Products</title>
-    <updated>2026-10-21T12:08:39.403933+00:00</updated>
+    <updated>2026-10-21T17:28:55.515654+00:00</updated>
     <link href="http://www.fda.gov/news-events/press-announcements/fda-takes-steps-maintain-newborn-access-life-saving-starter-nutrition-products"/>
     <summary>The U.S. Food and Drug Administration today announced it is taking action, consistent with the Trump administration’s commitment to protecting vulnerable patients and maintaining access to critical medical products, to help address a potential supply gap of neonatal starter parenteral nutrition (PN)</summary>
     <published>2026-09-04T16:18:49+00:00</published>
@@ -42,7 +42,7 @@
   <entry>
     <id>http://www.fda.gov/news-events/press-announcements/fda-launches-expedited-ind-pilot-begins-accepting-applications</id>
     <title>FDA Launches Expedited IND Pilot, Begins Accepting Applications</title>
-    <updated>2026-10-21T12:08:39.403845+00:00</updated>
+    <updated>2026-10-21T17:28:55.515613+00:00</updated>
     <link href="http://www.fda.gov/news-events/press-announcements/fda-launches-expedited-ind-pilot-begins-accepting-applications"/>
     <summary>The U.S. Food and Drug Administration today announced the final design of the Expedited Investigational New Drug (IND) Pilot.</summary>
     <published>2026-09-15T09:53:31+00:00</published>
@@ -50,7 +50,7 @@
   <entry>
     <id>http://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-pediatric-patients-sanfilippo-syndrome-type</id>
     <title>FDA Approves First Gene Therapy for Pediatric Patients with Sanfilippo Syndrome Type A</title>
-    <updated>2026-10-21T12:08:39.403758+00:00</updated>
+    <updated>2026-10-21T17:28:55.515572+00:00</updated>
     <link href="http://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-pediatric-patients-sanfilippo-syndrome-type"/>
     <summary>The U.S. Food and Drug Administration today approved Fayuvi (rebisufligene etisparvovec-hopf), the first treatment for pediatric patients with mucopolysaccharidosis type IIIA (MPS IIIA), also known as Sanfilippo syndrome type A.</summary>
     <published>2026-09-17T14:26:43+00:00</published>
@@ -58,7 +58,7 @@
   <entry>
     <id>http://www.fda.gov/news-events/press-announcements/fda-updates-regulations-advance-innovative-alternatives-animal-testing</id>
     <title>FDA Updates Regulations to Advance Innovative Alternatives to Animal Testing</title>
-    <updated>2026-10-21T12:08:39.403670+00:00</updated>
+    <updated>2026-10-21T17:28:55.515530+00:00</updated>
     <link href="http://www.fda.gov/news-events/press-announcements/fda-updates-regulations-advance-innovative-alternatives-animal-testing"/>
     <summary>The FDA today issued a direct final rule that updates its regulations to clarify that non-animal methods can be used where appropriate for testing the safety of drugs and biological products intended for human use before they’re tried in humans.</summary>
     <published>2026-09-21T08:58:34+00:00</published>
@@ -66,7 +66,7 @@
   <entry>
     <id>http://www.fda.gov/news-events/press-announcements/federal-court-enters-consent-decree-against-gold-star-distribution-inc-following-persistent</id>
     <title>Federal Court Enters Consent Decree Against Gold Star Distribution, Inc. Following Persistent Insanitary Warehouse Conditions</title>
-    <updated>2026-10-21T12:08:39.403580+00:00</updated>
+    <updated>2026-10-21T17:28:55.515470+00:00</updated>
     <link href="http://www.fda.gov/news-events/press-announcements/federal-court-enters-consent-decree-against-gold-star-distribution-inc-following-persistent"/>
     <summary>A U.S. Food and Drug Administration investigation resulted in a federal court order, dated Sept. 21, 2026, stopping a warehouse operator from distributing FDA-regulated products including food, drugs, medical devices, and cosmetics until it fixes its operations to meet federal legal requirements.</summary>
     <published>2026-09-23T15:50:17+00:00</published>
@@ -74,7 +74,7 @@
   <entry>
     <id>http://www.fda.gov/news-events/press-announcements/fda-intends-evaluate-changes-pmta-regulatory-framework</id>
     <title>FDA intends to evaluate changes to the PMTA regulatory framework</title>
-    <updated>2026-10-21T12:08:39.403484+00:00</updated>
+    <updated>2026-10-21T17:28:55.515428+00:00</updated>
     <link href="http://www.fda.gov/news-events/press-announcements/fda-intends-evaluate-changes-pmta-regulatory-framework"/>
     <summary>FDA is carefully reviewing its experience implementing the Premarket Tobacco Product Application (PMTA) rule, as well as recent judicial developments, including a federal lawsuit filed in the U.S. District Court for the Northern District of Texas challenging the current regulatory framework.</summary>
     <published>2026-09-28T17:00:01+00:00</published>
@@ -82,7 +82,7 @@
   <entry>
     <id>http://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-mct8-deficiency</id>
     <title>FDA Approves First Treatment for MCT8 Deficiency</title>
-    <updated>2026-10-21T12:08:39.403395+00:00</updated>
+    <updated>2026-10-21T17:28:55.515383+00:00</updated>
     <link href="http://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-mct8-deficiency"/>
     <summary>The U.S. Food and Drug Administration today approved Emcitate (tiratricol) tablets for oral suspension to treat peripheral thyrotoxicosis (excess thyroid hormone levels in the blood that causes symptoms, such as rapid heart rate, increased blood pressure and adverse effects on metabolism) in patient</summary>
     <published>2026-09-28T17:43:18+00:00</published>
@@ -90,7 +90,7 @@
   <entry>
     <id>http://www.fda.gov/news-events/press-announcements/fda-investigation-leads-charges-against-two-indian-nationals-involved-transnational-counterfeit-drug</id>
     <title>FDA Investigation Leads to Charges Against Two Indian Nationals Involved in Transnational Counterfeit Drug Distribution Scheme</title>
-    <updated>2026-10-21T12:08:39.403303+00:00</updated>
+    <updated>2026-10-21T17:28:55.515337+00:00</updated>
     <link href="http://www.fda.gov/news-events/press-announcements/fda-investigation-leads-charges-against-two-indian-nationals-involved-transnational-counterfeit-drug"/>
     <summary>The U.S. Attorney’s Office for the Middle District of Florida and the Criminal Division of the U.S. Department of Justice today announced federal charges against Swapnadip Roy, 33, and Vicky Ramancha, 37, both Indian nationals.</summary>
     <published>2026-09-29T17:01:07+00:00</published>
@@ -98,7 +98,7 @@
   <entry>
     <id>http://www.fda.gov/news-events/press-announcements/fda-launches-nationwide-effort-expand-scientific-expertise-and-consumer-voices-advisory-committees</id>
     <title>FDA Launches Nationwide Effort to Expand Scientific Expertise and Consumer Voices to Advisory Committees</title>
-    <updated>2026-10-21T12:08:39.403200+00:00</updated>
+    <updated>2026-10-21T17:28:55.515295+00:00</updated>
     <link href="http://www.fda.gov/news-events/press-announcements/fda-launches-nationwide-effort-expand-scientific-expertise-and-consumer-voices-advisory-committees"/>
     <summary>The U.S. Food and Drug Administration today announced a broad, nationwide recruitment effort to expand the range of qualified voices and perspectives on its advisory committees— the independent bodies that inform some of the most consequential decisions in American public health.</summary>
     <published>2026-09-30T09:26:33+00:00</published>
@@ -106,7 +106,7 @@
   <entry>
     <id>http://www.fda.gov/news-events/press-announcements/fda-approves-first-heart-valve-designed-grow-children</id>
     <title>FDA Approves First Heart Valve Designed to Grow with Children</title>
-    <updated>2026-10-21T12:08:39.403068+00:00</updated>
+    <updated>2026-10-21T17:28:55.515252+00:00</updated>
     <link href="http://www.fda.gov/news-events/press-announcements/fda-approves-first-heart-valve-designed-grow-children"/>
     <summary>The U.S. Food and Drug Administration today approved the Autus Size-Adjustable Valve, a surgically implanted pulmonary heart valve for pediatric patients with congenital pulmonary valve disease.</summary>
     <published>2026-10-01T15:02:08+00:00</published>
@@ -114,7 +114,7 @@
   <entry>
     <id>http://www.fda.gov/news-events/press-announcements/fda-seeks-public-input-support-ibogaine-research</id>
     <title>FDA Seeks Public Input to Support Ibogaine Research</title>
-    <updated>2026-10-21T12:08:39.402975+00:00</updated>
+    <updated>2026-10-21T17:28:55.515209+00:00</updated>
     <link href="http://www.fda.gov/news-events/press-announcements/fda-seeks-public-input-support-ibogaine-research"/>
     <summary>The U.S. Food and Drug Administration today announced a request for information (RFI) describing approaches the agency is considering for the design of early-phase clinical trials of ibogaine drug products and seeking public input on those approaches.</summary>
     <published>2026-10-05T09:02:06+00:00</published>
@@ -122,7 +122,7 @@
   <entry>
     <id>http://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-certain-people-bcg-unresponsive-bladder-cancer</id>
     <title>FDA Approves First Treatment for Certain People With BCG-Unresponsive Bladder Cancer</title>
-    <updated>2026-10-21T12:08:39.402879+00:00</updated>
+    <updated>2026-10-21T17:28:55.515165+00:00</updated>
     <link href="http://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-certain-people-bcg-unresponsive-bladder-cancer"/>
     <summary>FDA Approves First Treatment for Certain People With BCG-Unresponsive Bladder Cancer</summary>
     <published>2026-10-14T11:14:51+00:00</published>
@@ -130,7 +130,7 @@
   <entry>
     <id>http://www.fda.gov/news-events/press-announcements/fda-launches-rare-disease-framework-initiative-develop-holistic-fit-purpose-framework-rare-disease</id>
     <title>FDA Launches the Rare Disease Framework Initiative to Develop a Holistic, Fit-For-Purpose Framework for Rare Disease Drug Development</title>
-    <updated>2026-10-21T12:08:39.402765+00:00</updated>
+    <updated>2026-10-21T17:28:55.515103+00:00</updated>
     <link href="http://www.fda.gov/news-events/press-announcements/fda-launches-rare-disease-framework-initiative-develop-holistic-fit-purpose-framework-rare-disease"/>
     <summary>The U.S. Food and Drug Administration, a division within the U.S. Department of Health and Human Services (HHS), today announced the Rare Disease Framework Initiative to reimagine the development of drugs and biologics for rare diseases.</summary>
     <published>2026-10-14T11:50:52+00:00</published>
@@ -138,7 +138,7 @@
   <entry>
     <id>http://www.fda.gov/news-events/press-announcements/fda-approves-immunotherapy-may-allow-certain-patients-rectal-cancer-avoid-chemotherapy-radiation-and</id>
     <title>FDA Approves Immunotherapy That May Allow Certain Patients with Rectal Cancer to Avoid Chemotherapy, Radiation and Surgery</title>
-    <updated>2026-10-21T12:08:39.402616+00:00</updated>
+    <updated>2026-10-21T17:28:55.515039+00:00</updated>
     <link href="http://www.fda.gov/news-events/press-announcements/fda-approves-immunotherapy-may-allow-certain-patients-rectal-cancer-avoid-chemotherapy-radiation-and"/>
     <summary>The U.S. Food and Drug Administration today granted accelerated approval for a new use of the immunotherapy Jemperli (dostarlimab-gxly) that may allow some patients with locally advanced rectal cancer to avoid common treatments that can have a lasting impact on their daily life.</summary>
     <published>2026-10-19T12:19:38+00:00</published>
@@ -146,7 +146,7 @@
   <entry>
     <id>http://www.fda.gov/news-events/press-announcements/fda-issues-final-guidance-prescription-drug-apps-and-software</id>
     <title>FDA Issues Final Guidance on Prescription Drug Apps and Software</title>
-    <updated>2026-10-21T12:08:39.402468+00:00</updated>
+    <updated>2026-10-21T17:28:55.514971+00:00</updated>
     <link href="http://www.fda.gov/news-events/press-announcements/fda-issues-final-guidance-prescription-drug-apps-and-software"/>
     <summary>The U.S. Food and Drug Administration today released final guidance establishing a clear framework for how drug companies can develop, distribute, and label apps used alongside their prescription medicines.</summary>
     <published>2026-10-20T09:03:14+00:00</published>
@@ -154,7 +154,7 @@
   <entry>
     <id>http://www.fda.gov/news-events/press-announcements/fda-approves-once-weekly-generic-hormone-therapy-patch-women</id>
     <title>FDA Approves Once-Weekly Generic Hormone Therapy Patch for Women</title>
-    <updated>2026-10-21T12:08:39.402310+00:00</updated>
+    <updated>2026-10-21T17:28:55.514896+00:00</updated>
     <link href="http://www.fda.gov/news-events/press-announcements/fda-approves-once-weekly-generic-hormone-therapy-patch-women"/>
     <summary>Today, the U.S. Food and Drug Administration approved the first generic of Climara Pro (estradiol and levonorgestrel transdermal system, 0.045 mg per day/0.015 mg), a transdermal hormone therapy patch for women with an intact uterus applied once a week.</summary>
     <published>2026-10-20T11:57:36+00:00</published>
@@ -162,7 +162,7 @@
   <entry>
     <id>http://www.fda.gov/news-events/press-announcements/fda-approves-first-its-kind-chronic-hepatitis-b-treatment</id>
     <title>FDA Approves First-of-Its-Kind Chronic Hepatitis B Treatment</title>
-    <updated>2026-10-21T12:08:39.402121+00:00</updated>
+    <updated>2026-10-21T17:28:55.514783+00:00</updated>
     <link href="http://www.fda.gov/news-events/press-announcements/fda-approves-first-its-kind-chronic-hepatitis-b-treatment"/>
     <summary>FDA today approved Hibsago (bepirovirsen) injection, in combination with existing antiviral therapy, to treat chronic hepatitis B virus (HBV) infection in certain adults without cirrhosis.</summary>
     <published>2026-10-20T15:40:38+00:00</published>
