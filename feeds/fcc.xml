@@ -2,217 +2,233 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:fcc</id>
   <title>FCC Recent Releases (Combined)</title>
-  <updated>2026-10-21T17:29:00.943790+00:00</updated>
+  <updated>2026-10-21T20:49:09.936833+00:00</updated>
   <link href="file:///feeds/fcc.xml" rel="self"/>
   <link href="https://api2.fcc.gov/api/exp/v1.0.0/edocspublic/rss" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: telecom / Mode: rss</subtitle>
   <entry>
+    <id>426106</id>
+    <title>Domestic Section 214 Application Filed For The Transfer Of Control Of Visionary Communications, LLC To Point Broadband Holdings, LLC</title>
+    <updated>2026-10-21T20:49:09.937051+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426106"/>
+    <summary>Non-Streamlined Pleading Cycle Established</summary>
+    <published>2026-10-21T20:49:09.937050+00:00</published>
+  </entry>
+  <entry>
+    <id>426095</id>
+    <title>Application of Starlink Spectrum Holdings, LLC, Tristar License Group, LLC, and TLG Unpaired Holdings, LLC For Consent to Transfer Control of Licenses</title>
+    <updated>2026-10-21T20:49:09.937044+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426095"/>
+    <summary>Order granting the SpaceX-Tristar transfer of control application.</summary>
+    <published>2026-10-21T20:49:09.937043+00:00</published>
+  </entry>
+  <entry>
     <id>426096</id>
     <title>The Public Safety and Homeland Security Bureau Announces Conditional Approval and Exemption of Certain Routers and Advanced Robotic Devices from FCC Covered List</title>
-    <updated>2026-10-21T17:29:00.943935+00:00</updated>
+    <updated>2026-10-21T20:49:09.937038+00:00</updated>
     <link href="https://www.fcc.gov/edoc/426096"/>
     <summary>.</summary>
-    <published>2026-10-21T17:29:00.943934+00:00</published>
+    <published>2026-10-21T20:49:09.937036+00:00</published>
   </entry>
   <entry>
     <id>426025</id>
     <title>Wireless Telecommunications Bureau Site-By-Site Action</title>
-    <updated>2026-10-21T17:29:00.943930+00:00</updated>
+    <updated>2026-10-21T20:49:09.937031+00:00</updated>
     <link href="https://www.fcc.gov/edoc/426025"/>
     <summary>.</summary>
-    <published>2026-10-21T17:29:00.943929+00:00</published>
+    <published>2026-10-21T20:49:09.937030+00:00</published>
   </entry>
   <entry>
     <id>426080</id>
     <title>Pleadings</title>
-    <updated>2026-10-21T17:29:00.943925+00:00</updated>
+    <updated>2026-10-21T20:49:09.937024+00:00</updated>
     <link href="https://www.fcc.gov/edoc/426080"/>
     <summary>.</summary>
-    <published>2026-10-21T17:29:00.943924+00:00</published>
+    <published>2026-10-21T20:49:09.937023+00:00</published>
   </entry>
   <entry>
     <id>426059</id>
     <title>Public Safety and Homeland Security Bureau Site Based Licenses Termination Pending Public Notice</title>
-    <updated>2026-10-21T17:29:00.943920+00:00</updated>
+    <updated>2026-10-21T20:49:09.937018+00:00</updated>
     <link href="https://www.fcc.gov/edoc/426059"/>
     <summary>.</summary>
-    <published>2026-10-21T17:29:00.943919+00:00</published>
+    <published>2026-10-21T20:49:09.937017+00:00</published>
   </entry>
   <entry>
     <id>426048</id>
     <title>Public Safety and Homeland Security Bureau Assignment of License authorization Applications, Transfer of Control of Licensee Applications, De Facto Transfer Lease Applications and Spectrum Manager Lea</title>
-    <updated>2026-10-21T17:29:00.943915+00:00</updated>
+    <updated>2026-10-21T20:49:09.937011+00:00</updated>
     <link href="https://www.fcc.gov/edoc/426048"/>
     <summary>Eligibility Event Applications, And Designated Entity Annual Reports Action</summary>
-    <published>2026-10-21T17:29:00.943914+00:00</published>
+    <published>2026-10-21T20:49:09.937009+00:00</published>
   </entry>
   <entry>
     <id>426030</id>
     <title>Wireless Telecommunications Bureau Market-Based Applications Action</title>
-    <updated>2026-10-21T17:29:00.943910+00:00</updated>
+    <updated>2026-10-21T20:49:09.936990+00:00</updated>
     <link href="https://www.fcc.gov/edoc/426030"/>
     <summary>.</summary>
-    <published>2026-10-21T17:29:00.943909+00:00</published>
+    <published>2026-10-21T20:49:09.936988+00:00</published>
   </entry>
   <entry>
     <id>426027</id>
     <title>Public Safety and Homeland Security Bureau Market-Based Applications Accepted for Filing</title>
-    <updated>2026-10-21T17:29:00.943905+00:00</updated>
+    <updated>2026-10-21T20:49:09.936982+00:00</updated>
     <link href="https://www.fcc.gov/edoc/426027"/>
     <summary>.</summary>
-    <published>2026-10-21T17:29:00.943904+00:00</published>
+    <published>2026-10-21T20:49:09.936980+00:00</published>
   </entry>
   <entry>
     <id>426051</id>
     <title>Wireless Telecommunications Bureau Market Based Licenses Termination Pending Public Notice</title>
-    <updated>2026-10-21T17:29:00.943900+00:00</updated>
+    <updated>2026-10-21T20:49:09.936974+00:00</updated>
     <link href="https://www.fcc.gov/edoc/426051"/>
     <summary>.</summary>
-    <published>2026-10-21T17:29:00.943899+00:00</published>
+    <published>2026-10-21T20:49:09.936973+00:00</published>
   </entry>
   <entry>
     <id>426028</id>
     <title>Wireless Telecommunications Bureau Market-Based Applications Accepted for Filing</title>
-    <updated>2026-10-21T17:29:00.943894+00:00</updated>
+    <updated>2026-10-21T20:49:09.936967+00:00</updated>
     <link href="https://www.fcc.gov/edoc/426028"/>
     <summary>.</summary>
-    <published>2026-10-21T17:29:00.943893+00:00</published>
+    <published>2026-10-21T20:49:09.936966+00:00</published>
   </entry>
   <entry>
     <id>426081</id>
     <title>Trusty Dynamic Spectrum Alliance Remarks</title>
-    <updated>2026-10-21T17:29:00.943889+00:00</updated>
+    <updated>2026-10-21T20:49:09.936959+00:00</updated>
     <link href="https://www.fcc.gov/edoc/426081"/>
     <summary>Trusty Dynamic Spectrum Alliance Remarks</summary>
-    <published>2026-10-21T17:29:00.943888+00:00</published>
+    <published>2026-10-21T20:49:09.936958+00:00</published>
   </entry>
   <entry>
     <id>426029</id>
     <title>Public Safety and Homeland Security Bureau Market-Based Applications Action</title>
-    <updated>2026-10-21T17:29:00.943883+00:00</updated>
+    <updated>2026-10-21T20:49:09.936952+00:00</updated>
     <link href="https://www.fcc.gov/edoc/426029"/>
     <summary>.</summary>
-    <published>2026-10-21T17:29:00.943882+00:00</published>
+    <published>2026-10-21T20:49:09.936951+00:00</published>
   </entry>
   <entry>
     <id>426091</id>
     <title>Antenna Structure Registration Service Information - Environmental Action</title>
-    <updated>2026-10-21T17:29:00.943878+00:00</updated>
+    <updated>2026-10-21T20:49:09.936946+00:00</updated>
     <link href="https://www.fcc.gov/edoc/426091"/>
     <summary>.</summary>
-    <published>2026-10-21T17:29:00.943877+00:00</published>
+    <published>2026-10-21T20:49:09.936945+00:00</published>
   </entry>
   <entry>
     <id>426021</id>
     <title>Public Safety and Homeland Security Bureau Site-By-Site Accepted for Filing</title>
-    <updated>2026-10-21T17:29:00.943873+00:00</updated>
+    <updated>2026-10-21T20:49:09.936939+00:00</updated>
     <link href="https://www.fcc.gov/edoc/426021"/>
     <summary>.</summary>
-    <published>2026-10-21T17:29:00.943872+00:00</published>
+    <published>2026-10-21T20:49:09.936938+00:00</published>
   </entry>
   <entry>
     <id>426044</id>
     <title>Wireless Telecommunications Bureau Assignment of License Authorization Applications, Transfer of Control of Licensee Applications, De Facto Transfer Lease Applications and Spectrum Manager Lease Notif</title>
-    <updated>2026-10-21T17:29:00.943868+00:00</updated>
+    <updated>2026-10-21T20:49:09.936933+00:00</updated>
     <link href="https://www.fcc.gov/edoc/426044"/>
     <summary>Event Applications, And Designated Entity Annual Reports Action</summary>
-    <published>2026-10-21T17:29:00.943867+00:00</published>
+    <published>2026-10-21T20:49:09.936931+00:00</published>
   </entry>
   <entry>
     <id>426078</id>
     <title>Applications</title>
-    <updated>2026-10-21T17:29:00.943863+00:00</updated>
+    <updated>2026-10-21T20:49:09.936926+00:00</updated>
     <link href="https://www.fcc.gov/edoc/426078"/>
     <summary>.</summary>
-    <published>2026-10-21T17:29:00.943862+00:00</published>
+    <published>2026-10-21T20:49:09.936925+00:00</published>
   </entry>
   <entry>
     <id>426087</id>
     <title>Satellite Communications Services - SES</title>
-    <updated>2026-10-21T17:29:00.943858+00:00</updated>
+    <updated>2026-10-21T20:49:09.936920+00:00</updated>
     <link href="https://www.fcc.gov/edoc/426087"/>
     <summary>.</summary>
-    <published>2026-10-21T17:29:00.943857+00:00</published>
+    <published>2026-10-21T20:49:09.936919+00:00</published>
   </entry>
   <entry>
     <id>426056</id>
     <title>Public Safety and Homeland Security Bureau Market Based Licenses Termination Pending Public Notice</title>
-    <updated>2026-10-21T17:29:00.943853+00:00</updated>
+    <updated>2026-10-21T20:49:09.936915+00:00</updated>
     <link href="https://www.fcc.gov/edoc/426056"/>
     <summary>.</summary>
-    <published>2026-10-21T17:29:00.943852+00:00</published>
+    <published>2026-10-21T20:49:09.936913+00:00</published>
   </entry>
   <entry>
     <id>426042</id>
     <title>Public Safety and Homeland Security Bureau Assignment of License Authorization Applications, Transfer of Control of Licensee Applications, and De Facto Transfer Lease Applications, and Designated Enti</title>
-    <updated>2026-10-21T17:29:00.943848+00:00</updated>
+    <updated>2026-10-21T20:49:09.936908+00:00</updated>
     <link href="https://www.fcc.gov/edoc/426042"/>
     <summary>For Filing</summary>
-    <published>2026-10-21T17:29:00.943847+00:00</published>
+    <published>2026-10-21T20:49:09.936907+00:00</published>
   </entry>
   <entry>
     <id>426040</id>
     <title>Wireless Telecommunications Bureau Assignment of License Authorization Applications, Transfer of Control of Licensee Applications, and De Facto Transfer Lease Applications, and Designated Entity Repor</title>
-    <updated>2026-10-21T17:29:00.943844+00:00</updated>
+    <updated>2026-10-21T20:49:09.936901+00:00</updated>
     <link href="https://www.fcc.gov/edoc/426040"/>
     <summary>Filing</summary>
-    <published>2026-10-21T17:29:00.943843+00:00</published>
+    <published>2026-10-21T20:49:09.936899+00:00</published>
   </entry>
   <entry>
     <id>426088</id>
     <title>Satellite Communications Services - SES</title>
-    <updated>2026-10-21T17:29:00.943839+00:00</updated>
+    <updated>2026-10-21T20:49:09.936894+00:00</updated>
     <link href="https://www.fcc.gov/edoc/426088"/>
     <summary>.</summary>
-    <published>2026-10-21T17:29:00.943838+00:00</published>
+    <published>2026-10-21T20:49:09.936893+00:00</published>
   </entry>
   <entry>
     <id>426023</id>
     <title>Wireless Telecommunications Bureau Site-By-Site Accepted for Filing</title>
-    <updated>2026-10-21T17:29:00.943835+00:00</updated>
+    <updated>2026-10-21T20:49:09.936887+00:00</updated>
     <link href="https://www.fcc.gov/edoc/426023"/>
     <summary>.</summary>
-    <published>2026-10-21T17:29:00.943834+00:00</published>
+    <published>2026-10-21T20:49:09.936885+00:00</published>
   </entry>
   <entry>
     <id>426094</id>
     <title>Cable Television Relay Service (CARS) Applications</title>
-    <updated>2026-10-21T17:29:00.943830+00:00</updated>
+    <updated>2026-10-21T20:49:09.936880+00:00</updated>
     <link href="https://www.fcc.gov/edoc/426094"/>
     <summary>.</summary>
-    <published>2026-10-21T17:29:00.943829+00:00</published>
+    <published>2026-10-21T20:49:09.936879+00:00</published>
   </entry>
   <entry>
     <id>426068</id>
     <title>Petition of Carolina West Wireless, Inc. for Relinquishment of its Eligible Telecommunictions Carrier Designation</title>
-    <updated>2026-10-21T17:29:00.943825+00:00</updated>
+    <updated>2026-10-21T20:49:09.936873+00:00</updated>
     <link href="https://www.fcc.gov/edoc/426068"/>
     <summary>TAPD approves Carolina West Wireless, Inc. request to relinquish High-Cost and Lifeline ETC Designations in North Carolina.</summary>
-    <published>2026-10-21T17:29:00.943824+00:00</published>
+    <published>2026-10-21T20:49:09.936872+00:00</published>
   </entry>
   <entry>
     <id>426024</id>
     <title>Public Safety and Homeland Security Bureau Site-By-Site Action</title>
-    <updated>2026-10-21T17:29:00.943820+00:00</updated>
+    <updated>2026-10-21T20:49:09.936865+00:00</updated>
     <link href="https://www.fcc.gov/edoc/426024"/>
     <summary>.</summary>
-    <published>2026-10-21T17:29:00.943819+00:00</published>
+    <published>2026-10-21T20:49:09.936864+00:00</published>
   </entry>
   <entry>
     <id>426079</id>
     <title>Actions</title>
-    <updated>2026-10-21T17:29:00.943814+00:00</updated>
+    <updated>2026-10-21T20:49:09.936857+00:00</updated>
     <link href="https://www.fcc.gov/edoc/426079"/>
     <summary>.</summary>
-    <published>2026-10-21T17:29:00.943813+00:00</published>
+    <published>2026-10-21T20:49:09.936855+00:00</published>
   </entry>
   <entry>
     <id>426054</id>
     <title>Wireless Telecommunications Bureau Site Based Licenses Termination Pending Public Notice</title>
-    <updated>2026-10-21T17:29:00.943799+00:00</updated>
+    <updated>2026-10-21T20:49:09.936839+00:00</updated>
     <link href="https://www.fcc.gov/edoc/426054"/>
     <summary>.</summary>
-    <published>2026-10-21T17:29:00.943795+00:00</published>
+    <published>2026-10-21T20:49:09.936836+00:00</published>
   </entry>
 </feed>
