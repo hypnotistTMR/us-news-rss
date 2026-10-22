@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:occ_bulletins</id>
   <title>OCC Bulletins (scrape)</title>
-  <updated>2026-10-21T23:49:48.575025+00:00</updated>
+  <updated>2026-10-22T02:36:14.521210+00:00</updated>
   <link href="file:///feeds/occ_bulletins.xml" rel="self"/>
   <link href="https://www.occ.gov/news-events/index-news-events.html" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -10,33 +10,33 @@
   <entry>
     <id>https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-50.html</id>
     <title>GENIUS Act Regulations: Final Rule</title>
-    <updated>2026-10-21T23:49:48.575076+00:00</updated>
+    <updated>2026-10-22T02:36:14.521252+00:00</updated>
     <link href="https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-50.html"/>
     <summary>OCC Bulletin</summary>
-    <published>2026-10-21T23:49:48.575071+00:00</published>
+    <published>2026-10-22T02:36:14.521251+00:00</published>
   </entry>
   <entry>
     <id>https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-51.html</id>
     <title>GENIUS Act: Waivers and Application Submission Guidance</title>
-    <updated>2026-10-21T23:49:48.575065+00:00</updated>
+    <updated>2026-10-22T02:36:14.521245+00:00</updated>
     <link href="https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-51.html"/>
     <summary>OCC Bulletin</summary>
-    <published>2026-10-21T23:49:48.575064+00:00</published>
+    <published>2026-10-22T02:36:14.521244+00:00</published>
   </entry>
   <entry>
     <id>https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-52.html</id>
     <title>GENIUS Act: Revised Reporting Forms and Instructions for Permitted Payment Stablecoin Issuers Subject to the Jurisdiction of the Office of the Comptroller of the Currency</title>
-    <updated>2026-10-21T23:49:48.575054+00:00</updated>
+    <updated>2026-10-22T02:36:14.521237+00:00</updated>
     <link href="https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-52.html"/>
     <summary>OCC Bulletin</summary>
-    <published>2026-10-21T23:49:48.575051+00:00</published>
+    <published>2026-10-22T02:36:14.521235+00:00</published>
   </entry>
   <entry>
     <id>https://www.occ.gov/news-issuances/bulletins/2023/bulletin-2023-17.html</id>
     <title>Third-Party Relationships: Interagency Guidance on Risk Management</title>
-    <updated>2026-10-21T23:49:48.575035+00:00</updated>
+    <updated>2026-10-22T02:36:14.521220+00:00</updated>
     <link href="https://www.occ.gov/news-issuances/bulletins/2023/bulletin-2023-17.html"/>
     <summary>OCC Bulletin</summary>
-    <published>2026-10-21T23:49:48.575031+00:00</published>
+    <published>2026-10-22T02:36:14.521216+00:00</published>
   </entry>
 </feed>
