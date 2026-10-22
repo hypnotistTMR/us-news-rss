@@ -2,95 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:techcrunch</id>
   <title>TechCrunch - All</title>
-  <updated>2026-10-22T13:58:11.994908+00:00</updated>
+  <updated>2026-10-22T18:18:01.709193+00:00</updated>
   <link href="file:///feeds/techcrunch.xml" rel="self"/>
   <link href="https://techcrunch.com/feed/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: tech / Mode: rss</subtitle>
   <entry>
-    <id>https://techcrunch.com/?p=3180197</id>
-    <title>PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet</title>
-    <updated>2026-10-22T13:58:11.996250+00:00</updated>
-    <link href="https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/"/>
-    <summary>This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.</summary>
-    <published>2026-10-21T17:59:12+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3180151</id>
-    <title>GM is giving OnStar an AI makeover</title>
-    <updated>2026-10-22T13:58:11.996190+00:00</updated>
-    <link href="https://techcrunch.com/2026/10/21/gm-is-giving-onstar-an-ai-makeover/"/>
-    <summary>It's one of the biggest overhauls ever to the 30-year-old connected car product.</summary>
-    <published>2026-10-21T18:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3180294</id>
-    <title>Legal AI startup Legora raises $550M Series E at $8.8B valuation</title>
-    <updated>2026-10-22T13:58:11.996109+00:00</updated>
-    <link href="https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/"/>
-    <summary>Legal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion.</summary>
-    <published>2026-10-21T18:51:56+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3180275</id>
-    <title>The internet is having a very bad cybersecurity day</title>
-    <updated>2026-10-22T13:58:11.996058+00:00</updated>
-    <link href="https://techcrunch.com/2026/10/21/the-internet-is-having-a-very-bad-cybersecurity-day/"/>
-    <summary>From AI-discovered PHP vulnerabilities to flaws in Node.js and popular AI tool LiteLLM, cybersecurity teams have plenty to worry about this week.</summary>
-    <published>2026-10-21T19:03:28+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3180139</id>
-    <title>While Amazon blocks AI agents, Walmart rolls out the welcome mat</title>
-    <updated>2026-10-22T13:58:11.996008+00:00</updated>
-    <link href="https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/"/>
-    <summary>As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.</summary>
-    <published>2026-10-21T19:30:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3180300</id>
-    <title>Meta ordered to pay $25B in case related to Cambridge Analytica scandal</title>
-    <updated>2026-10-22T13:58:11.995956+00:00</updated>
-    <link href="https://techcrunch.com/2026/10/21/meta-ordered-to-pay-25-billion-in-case-related-to-cambridge-analytica-scandal/"/>
-    <summary>The payout is related to a recent trial involving the social media giant that revolved around its data privacy practices.</summary>
-    <published>2026-10-21T19:42:32+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3180223</id>
-    <title>GM is betting compute and AI will help it compete with Chinese automakers</title>
-    <updated>2026-10-22T13:58:11.995904+00:00</updated>
-    <link href="https://techcrunch.com/2026/10/21/gm-is-betting-compute-and-ai-will-help-it-compete-with-chinese-automakers/"/>
-    <summary>To compete with Tesla, Rivian, and a host of Chinese automakers, GM’s fourth-gen EV platform will roll out a new central computer and electrical architecture that will debut in 2028 in the Cadillac Escalade IQ.</summary>
-    <published>2026-10-21T19:52:20+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3180174</id>
-    <title>Automattic begins layoffs following board upheaval and executive departures</title>
-    <updated>2026-10-22T13:58:11.995853+00:00</updated>
-    <link href="https://techcrunch.com/2026/10/21/automattic-begins-layoffs-following-board-upheaval-and-executive-departures/"/>
-    <summary>Sources say more cuts could follow as the company looks to improve its finances.</summary>
-    <published>2026-10-21T20:15:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3180324</id>
-    <title>Recursive launches Flint, a laptop coding model it says was largely built by AI</title>
-    <updated>2026-10-22T13:58:11.995800+00:00</updated>
-    <link href="https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/"/>
-    <summary>Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.</summary>
-    <published>2026-10-21T20:27:41+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3180381</id>
-    <title>Tesla starts Optimus robot production in California as profit falls 43%</title>
-    <updated>2026-10-22T13:58:11.995747+00:00</updated>
-    <link href="https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/"/>
-    <summary>Tesla's revenue was flat and its expenses skyrocketed as it pressed the accelerator on its Optimus robots, AI, and autonomous driving.</summary>
-    <published>2026-10-21T20:33:09+00:00</published>
-  </entry>
-  <entry>
     <id>https://techcrunch.com/?p=3180348</id>
     <title>Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation</title>
-    <updated>2026-10-22T13:58:11.995695+00:00</updated>
+    <updated>2026-10-22T18:18:01.710559+00:00</updated>
     <link href="https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/"/>
     <summary>Just 9 months after raising a $180 million seed round, Flapping Airplanes has landed a $1 billion Series A for its mission to build AI models "without ingesting half the internet."</summary>
     <published>2026-10-21T20:57:40+00:00</published>
@@ -98,7 +18,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3180391</id>
     <title>Meta says Muse has over 10M users, with shopping a top activity</title>
-    <updated>2026-10-22T13:58:11.995642+00:00</updated>
+    <updated>2026-10-22T18:18:01.710490+00:00</updated>
     <link href="https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/"/>
     <summary>Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.</summary>
     <published>2026-10-21T21:14:19+00:00</published>
@@ -106,7 +26,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3168635</id>
     <title>TechCrunch Founder Summit 2026: Everything you need to know</title>
-    <updated>2026-10-22T13:58:11.995589+00:00</updated>
+    <updated>2026-10-22T18:18:01.710437+00:00</updated>
     <link href="https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/"/>
     <summary>TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.</summary>
     <published>2026-10-21T21:16:20+00:00</published>
@@ -114,7 +34,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3180432</id>
     <title>Airbnb limits chores for guests, sparking backlash from hosts</title>
-    <updated>2026-10-22T13:58:11.995534+00:00</updated>
+    <updated>2026-10-22T18:18:01.710382+00:00</updated>
     <link href="https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/"/>
     <summary>Hosts are threatening to leave the platform after Airbnb says that they can no longer require guests to strip beds or do other time-consuming cleaning chores.</summary>
     <published>2026-10-21T22:16:05+00:00</published>
@@ -122,7 +42,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3180349</id>
     <title>Meta wants to pay for its broad AI buildout with a newly created class of stock</title>
-    <updated>2026-10-22T13:58:11.995476+00:00</updated>
+    <updated>2026-10-22T18:18:01.710329+00:00</updated>
     <link href="https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/"/>
     <summary>The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.</summary>
     <published>2026-10-21T22:45:34+00:00</published>
@@ -130,7 +50,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3180358</id>
     <title>Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown</title>
-    <updated>2026-10-22T13:58:11.995408+00:00</updated>
+    <updated>2026-10-22T18:18:01.710277+00:00</updated>
     <link href="https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/"/>
     <summary>Blackstone’s AI head on why the PE giant isn't panicked by market jitters.</summary>
     <published>2026-10-21T22:51:22+00:00</published>
@@ -138,23 +58,23 @@
   <entry>
     <id>https://techcrunch.com/?p=3180494</id>
     <title>Tesla says it will start selling Cybercabs by end of year</title>
-    <updated>2026-10-22T13:58:11.995347+00:00</updated>
+    <updated>2026-10-22T18:18:01.710224+00:00</updated>
     <link href="https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/"/>
-    <summary>Tesla said Wednesday it will start selling its Cybercab to customers by the end of the year, even as federal regulators investigate whether the vehicle meets vehicle safety standards. The gold-hued, autonomous two-seater lacks a steering wheel and other traditional controls. During the company&amp;#8217;s third-quarter earnings call, Lars Moravy, vice president of engineering at Tesla, [&amp;#8230;]</summary>
+    <summary>There is at least one obstacle that could throw off Tesla's Cybercab fleet plans. The NHTSA announced last month that it had opened an investigation into the Cybercab, just hours after the vehicles began operating on public streets in Austin.</summary>
     <published>2026-10-22T00:17:54+00:00</published>
   </entry>
   <entry>
     <id>https://techcrunch.com/?p=3180589</id>
     <title>DeepSeek reportedly raises $15B days after US restrictions</title>
-    <updated>2026-10-22T13:58:11.995285+00:00</updated>
+    <updated>2026-10-22T18:18:01.710174+00:00</updated>
     <link href="https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/"/>
-    <summary>DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the US ordered federal agencies to remove its technology over national security concerns.</summary>
+    <summary>DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns.</summary>
     <published>2026-10-22T13:11:13+00:00</published>
   </entry>
   <entry>
     <id>https://techcrunch.com/?p=3180570</id>
     <title>Nirva raises $33M for a pendant that only listens to you</title>
-    <updated>2026-10-22T13:58:11.995215+00:00</updated>
+    <updated>2026-10-22T18:18:01.710124+00:00</updated>
     <link href="https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/"/>
     <summary>Nirva will ship its $249 ambient AI pendant by the end of the year.</summary>
     <published>2026-10-22T13:26:52+00:00</published>
@@ -162,9 +82,89 @@
   <entry>
     <id>https://techcrunch.com/?p=3180587</id>
     <title>Claude Duet app is Anthropic’s bet on agents</title>
-    <updated>2026-10-22T13:58:11.995093+00:00</updated>
+    <updated>2026-10-22T18:18:01.710073+00:00</updated>
     <link href="https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/"/>
-    <summary>Claude Duet is available through waitlist for Pro and Max plan users</summary>
+    <summary>Claude Duet is available through waitlist for Pro and Max plan users.</summary>
     <published>2026-10-22T13:53:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3180611</id>
+    <title>Developer platform Railway urges ‘all users’ to revoke secret keys after cyberattack</title>
+    <updated>2026-10-22T18:18:01.710022+00:00</updated>
+    <link href="https://techcrunch.com/2026/10/22/developer-platform-railway-urges-all-users-to-revoke-secret-keys-after-cyberattack/"/>
+    <summary>The vibe-coding platform said all of its customers should revoke and rotate their private keys, after hackers were able to decrypt some customer secrets.</summary>
+    <published>2026-10-22T14:03:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3180619</id>
+    <title>Fusion startup Helion is developing new semiconductors that could double output of its power plants</title>
+    <updated>2026-10-22T18:18:01.709969+00:00</updated>
+    <link href="https://techcrunch.com/2026/10/22/fusion-startup-helion-is-developing-new-semiconductors-that-could-double-output-of-its-power-plants/"/>
+    <summary>Helion now has another $225 million to help speed development of its first fusion power plant, due to provide Microsoft with electricity in 2028.</summary>
+    <published>2026-10-22T14:59:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3180626</id>
+    <title>Spotify’s current AI bet is about being the music service that agents choose</title>
+    <updated>2026-10-22T18:18:01.709916+00:00</updated>
+    <link href="https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/"/>
+    <summary>Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.</summary>
+    <published>2026-10-22T15:03:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3179631</id>
+    <title>Investors break down how founders can raise a Series A today</title>
+    <updated>2026-10-22T18:18:01.709862+00:00</updated>
+    <link href="https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/"/>
+    <summary>Raising a Series A these days isn't so simple — top investors break down what founders need to know now.</summary>
+    <published>2026-10-22T15:15:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3180618</id>
+    <title>Spotify confirms Family Plan crackdown, but calls it a ‘routine improvement’</title>
+    <updated>2026-10-22T18:18:01.709804+00:00</updated>
+    <link href="https://techcrunch.com/2026/10/22/spotify-confirms-family-plan-crackdown-but-calls-it-a-routine-improvement/"/>
+    <summary>Spotify told investors its rollout of QR code verification to ensure Family Plan members live in the same household is not a "crackdown," just a routine improvement.</summary>
+    <published>2026-10-22T15:24:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3180608</id>
+    <title>Tesla is prepping a Cybercab onslaught</title>
+    <updated>2026-10-22T18:18:01.709745+00:00</updated>
+    <link href="https://techcrunch.com/2026/10/22/tesla-is-prepping-a-cybercab-onslaught/"/>
+    <summary>The company is looking to roll out the gold two-seater robotaxis to other U.S. cities this year, even as it goes mum on the number of paid rides.</summary>
+    <published>2026-10-22T15:44:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3180196</id>
+    <title>Uber puts all 30,000 employees on ChatGPT Work</title>
+    <updated>2026-10-22T18:18:01.709680+00:00</updated>
+    <link href="https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/"/>
+    <summary>The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.</summary>
+    <published>2026-10-22T16:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3180145</id>
+    <title>TechCrunch Disrupt 2026 Startup Battlefield 200: Celebrating outstanding achievements</title>
+    <updated>2026-10-22T18:18:01.709602+00:00</updated>
+    <link href="https://techcrunch.com/2026/10/22/techcrunch-disrupt-2026-startup-battlefield-200-celebrating-outstanding-achievements/"/>
+    <summary>Among the Startup Battlefield 200 were many industry-defining companies exhibiting and pitching on the Showcase Stage. Here are the standouts.</summary>
+    <published>2026-10-22T16:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3180678</id>
+    <title>Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise</title>
+    <updated>2026-10-22T18:18:01.709496+00:00</updated>
+    <link href="https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/"/>
+    <summary>Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.</summary>
+    <published>2026-10-22T16:47:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3180721</id>
+    <title>Elon Musk made a $1 billion investment in Skydance, report says</title>
+    <updated>2026-10-22T18:18:01.709378+00:00</updated>
+    <link href="https://techcrunch.com/2026/10/22/elon-musk-made-a-1-billion-investment-in-skydance-report-says/"/>
+    <summary>The investment will provide a much needed financial boost as the company seeks to cut costs and lift its stock price.</summary>
+    <published>2026-10-22T17:36:38+00:00</published>
   </entry>
 </feed>

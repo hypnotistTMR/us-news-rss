@@ -2,39 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:supply_chain_dive</id>
   <title>Supply Chain Dive</title>
-  <updated>2026-10-22T13:58:51.719943+00:00</updated>
+  <updated>2026-10-22T18:18:38.467731+00:00</updated>
   <link href="file:///feeds/supply_chain_dive.xml" rel="self"/>
   <link href="https://www.supplychaindive.com/feeds/news/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: logistics / Mode: rss</subtitle>
   <entry>
-    <id>https://www.supplychaindive.com/news/modelo-pacifico-maker-stabilizes-beer-inventory-following-undersupply/833292/</id>
-    <title>Modelo, Pacifico maker stabilizes beer inventory following undersupply</title>
-    <updated>2026-10-22T13:58:51.720709+00:00</updated>
-    <link href="https://www.supplychaindive.com/news/modelo-pacifico-maker-stabilizes-beer-inventory-following-undersupply/833292/"/>
-    <summary>Constellation Brands had overcorrected supply to match weaker-than-expected consumer demand, particularly among Hispanic consumers.</summary>
-    <published>2026-10-20T07:03:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://www.supplychaindive.com/news/bluffworks-targets-lower-fulfillment-costs-after-provider-switch/833337/</id>
-    <title>Bluffworks targets lower fulfillment costs after provider switch</title>
-    <updated>2026-10-22T13:58:51.720649+00:00</updated>
-    <link href="https://www.supplychaindive.com/news/bluffworks-targets-lower-fulfillment-costs-after-provider-switch/833337/"/>
-    <summary>The travel apparel brand&amp;rsquo;s CEO spoke to Supply Chain Dive on making the switch to Cart.com after invoicing failures from its previous fulfillment partner.</summary>
-    <published>2026-10-20T09:57:02-04:00</published>
-  </entry>
-  <entry>
-    <id>https://www.supplychaindive.com/news/how-whataburgers-csco-diversified-suppliers-to-curb-inflation-and-fought/833435/</id>
-    <title>How Whataburger’s CSCO diversified suppliers to curb inflation — and fought fires along the way</title>
-    <updated>2026-10-22T13:58:51.720597+00:00</updated>
-    <link href="https://www.supplychaindive.com/news/how-whataburgers-csco-diversified-suppliers-to-curb-inflation-and-fought/833435/"/>
-    <summary>The burger chain has worked to diversify its partner network, as well as tackle the rising cost of beef and diesel fuel.</summary>
-    <published>2026-10-20T10:16:00-04:00</published>
-  </entry>
-  <entry>
     <id>https://www.supplychaindive.com/news/chocolate-maker-signs-66m-sale-leaseback-deal-for-warehouse-site/833344/</id>
     <title>Chocolate maker signs $6.6M sale-leaseback deal for warehouse site</title>
-    <updated>2026-10-22T13:58:51.720545+00:00</updated>
+    <updated>2026-10-22T18:18:38.468464+00:00</updated>
     <link href="https://www.supplychaindive.com/news/chocolate-maker-signs-66m-sale-leaseback-deal-for-warehouse-site/833344/"/>
     <summary>The deal for Rocky Mountain Chocolate Factory&amp;#39;s Colorado facility, which also houses production operations and the company&amp;#39;s headquarters, aims to cut existing debt.</summary>
     <published>2026-10-20T10:39:09-04:00</published>
@@ -42,7 +18,7 @@
   <entry>
     <id>https://www.supplychaindive.com/news/texas-sues-nestles-gerber-over-alleged-heavy-metals-in-baby-food/833374/</id>
     <title>Texas sues Nestlé’s Gerber over alleged heavy metals in baby food</title>
-    <updated>2026-10-22T13:58:51.720492+00:00</updated>
+    <updated>2026-10-22T18:18:38.468405+00:00</updated>
     <link href="https://www.supplychaindive.com/news/texas-sues-nestles-gerber-over-alleged-heavy-metals-in-baby-food/833374/"/>
     <summary>Gerber says it employs &amp;ldquo;careful ingredient sourcing, supplier requirements, testing and quality controls&amp;quot; to reduce heavy metal levels in its products.</summary>
     <published>2026-10-20T10:48:00-04:00</published>
@@ -50,7 +26,7 @@
   <entry>
     <id>https://www.supplychaindive.com/news/us-semiconductor-supply-chain-relies-on-vulnerable-hidden-inputs/833485/</id>
     <title>US semiconductor supply chain relies on vulnerable, hidden inputs</title>
-    <updated>2026-10-22T13:58:51.720435+00:00</updated>
+    <updated>2026-10-22T18:18:38.468351+00:00</updated>
     <link href="https://www.supplychaindive.com/news/us-semiconductor-supply-chain-relies-on-vulnerable-hidden-inputs/833485/"/>
     <summary>To guard against disruptions, the Semiconductor Industry Association called for closer government-industry collaboration to address targets for onshoring and stockpiling.</summary>
     <published>2026-10-20T12:55:46-04:00</published>
@@ -58,15 +34,15 @@
   <entry>
     <id>https://www.supplychaindive.com/news/trumps-50-canada-tariffs-challenged-in-court/833495/</id>
     <title>Trump’s 50% Canada tariffs challenged in court</title>
-    <updated>2026-10-22T13:58:51.720378+00:00</updated>
+    <updated>2026-10-22T18:18:38.468295+00:00</updated>
     <link href="https://www.supplychaindive.com/news/trumps-50-canada-tariffs-challenged-in-court/833495/"/>
-    <summary>A lawsuit filed Tuesday with the Court of International Trade alleges the president exceeded his power in using a nearly 100-year-old statute to impose tariffs.</summary>
+    <summary>A lawsuit filed Tuesday with the Court of International Trade alleges the president exceeded his power in using a 96-year-old statute to impose tariffs.</summary>
     <published>2026-10-20T14:18:00-04:00</published>
   </entry>
   <entry>
     <id>https://www.supplychaindive.com/news/napa-auto-parts-revs-up-fulfillment-efficiency-with-automation/833383/</id>
     <title>Napa Auto Parts revs up fulfillment efficiency with automation</title>
-    <updated>2026-10-22T13:58:51.720319+00:00</updated>
+    <updated>2026-10-22T18:18:38.468238+00:00</updated>
     <link href="https://www.supplychaindive.com/news/napa-auto-parts-revs-up-fulfillment-efficiency-with-automation/833383/"/>
     <summary>Alongside Hy-Tek Intralogistics and Hai Robotics, the retailer aims to maximize warehouse storage density and improve order accuracy.</summary>
     <published>2026-10-20T15:09:00-04:00</published>
@@ -74,17 +50,41 @@
   <entry>
     <id>https://www.supplychaindive.com/news/primo-brands-opens-first-new-factory-post-merger/833375/</id>
     <title>Primo Brands opens first new factory post merger</title>
-    <updated>2026-10-22T13:58:51.720251+00:00</updated>
+    <updated>2026-10-22T18:18:38.468178+00:00</updated>
     <link href="https://www.supplychaindive.com/news/primo-brands-opens-first-new-factory-post-merger/833375/"/>
     <summary>The Arkansas plant will increase production for sparkling water brand Mountain Valley as demand for premium beverages surges.</summary>
     <published>2026-10-21T07:15:00-04:00</published>
   </entry>
   <entry>
+    <id>https://www.supplychaindive.com/news/extended-peak-season-drives-high-dwell-times-at-san-pedro-bay-ports/833584/</id>
+    <title>Extended peak season drives high dwell times at San Pedro Bay Ports</title>
+    <updated>2026-10-22T18:18:38.468119+00:00</updated>
+    <link href="https://www.supplychaindive.com/news/extended-peak-season-drives-high-dwell-times-at-san-pedro-bay-ports/833584/"/>
+    <summary>The Pacific Merchant Shipping Association said record volumes in September pushed up the time cargo remained idle, both for rail and truck transport.</summary>
+    <published>2026-10-21T10:17:43-04:00</published>
+  </entry>
+  <entry>
     <id>https://www.supplychaindive.com/news/apple-expands-us-supplier-network-for-iphone-materials-components/833496/</id>
     <title>Apple expands US supplier network for iPhone materials, components</title>
-    <updated>2026-10-22T13:58:51.720125+00:00</updated>
+    <updated>2026-10-22T18:18:38.468057+00:00</updated>
     <link href="https://www.supplychaindive.com/news/apple-expands-us-supplier-network-for-iphone-materials-components/833496/"/>
     <summary>The company added a new titanium supplier and expanded its partnership with an advanced film maker as part of a $600 billion commitment to U.S. manufacturing.</summary>
     <published>2026-10-21T11:05:00-04:00</published>
+  </entry>
+  <entry>
+    <id>https://www.supplychaindive.com/news/stord-expands-network-with-ams-fulfillment-purchase/833617/</id>
+    <title>Stord expands network with AMS Fulfillment purchase</title>
+    <updated>2026-10-22T18:18:38.467990+00:00</updated>
+    <link href="https://www.supplychaindive.com/news/stord-expands-network-with-ams-fulfillment-purchase/833617/"/>
+    <summary>The acquisition bolsters Stord&amp;#39;s presence in key East Coast and West Coast hubs while building upon other recent deals.</summary>
+    <published>2026-10-22T10:00:28-04:00</published>
+  </entry>
+  <entry>
+    <id>https://www.supplychaindive.com/news/nestle-to-close-ohio-factory-by-end-of-2027/833587/</id>
+    <title>Nestlé to close Ohio factory by end of 2027</title>
+    <updated>2026-10-22T18:18:38.467906+00:00</updated>
+    <link href="https://www.supplychaindive.com/news/nestle-to-close-ohio-factory-by-end-of-2027/833587/"/>
+    <summary>The food giant will move production to South Carolina, saying it is &amp;quot;the most sustainable path forward&amp;quot; as consumer needs and volumes shift.</summary>
+    <published>2026-10-22T10:21:00-04:00</published>
   </entry>
 </feed>
