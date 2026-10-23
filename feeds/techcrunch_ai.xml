@@ -2,31 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:techcrunch_ai</id>
   <title>TechCrunch - AI</title>
-  <updated>2026-10-23T00:16:36.039857+00:00</updated>
+  <updated>2026-10-23T05:07:48.820897+00:00</updated>
   <link href="file:///feeds/techcrunch_ai.xml" rel="self"/>
   <link href="https://techcrunch.com/category/artificial-intelligence/feed/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: tech / Mode: rss</subtitle>
   <entry>
-    <id>https://techcrunch.com/?p=3179812</id>
-    <title>AI promises productivity, but for managers, it’s mostly a headache for now</title>
-    <updated>2026-10-23T00:16:36.041920+00:00</updated>
-    <link href="https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/"/>
-    <summary>More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.</summary>
-    <published>2026-10-21T14:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3180202</id>
-    <title>Blacksmith hits unicorn valuation after Sequoia leads Series C</title>
-    <updated>2026-10-23T00:16:36.041822+00:00</updated>
-    <link href="https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/"/>
-    <summary>Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.</summary>
-    <published>2026-10-21T17:18:27+00:00</published>
-  </entry>
-  <entry>
     <id>https://techcrunch.com/?p=3180197</id>
     <title>PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet</title>
-    <updated>2026-10-23T00:16:36.041731+00:00</updated>
+    <updated>2026-10-23T05:07:48.822923+00:00</updated>
     <link href="https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/"/>
     <summary>This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.</summary>
     <published>2026-10-21T17:59:12+00:00</published>
@@ -34,7 +18,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3180139</id>
     <title>While Amazon blocks AI agents, Walmart rolls out the welcome mat</title>
-    <updated>2026-10-23T00:16:36.041641+00:00</updated>
+    <updated>2026-10-23T05:07:48.822829+00:00</updated>
     <link href="https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/"/>
     <summary>As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.</summary>
     <published>2026-10-21T19:30:00+00:00</published>
@@ -42,7 +26,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3180324</id>
     <title>Recursive launches Flint, a laptop coding model it says was largely built by AI</title>
-    <updated>2026-10-23T00:16:36.041551+00:00</updated>
+    <updated>2026-10-23T05:07:48.822741+00:00</updated>
     <link href="https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/"/>
     <summary>Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.</summary>
     <published>2026-10-21T20:27:41+00:00</published>
@@ -50,7 +34,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3180391</id>
     <title>Meta says Muse has over 10M users, with shopping a top activity</title>
-    <updated>2026-10-23T00:16:36.041460+00:00</updated>
+    <updated>2026-10-23T05:07:48.822653+00:00</updated>
     <link href="https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/"/>
     <summary>Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.</summary>
     <published>2026-10-21T21:14:19+00:00</published>
@@ -58,7 +42,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3168635</id>
     <title>TechCrunch Founder Summit 2026: Everything you need to know</title>
-    <updated>2026-10-23T00:16:36.041369+00:00</updated>
+    <updated>2026-10-23T05:07:48.822561+00:00</updated>
     <link href="https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/"/>
     <summary>TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.</summary>
     <published>2026-10-21T21:16:20+00:00</published>
@@ -66,7 +50,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3180349</id>
     <title>Meta wants to pay for its broad AI buildout with a newly created class of stock</title>
-    <updated>2026-10-23T00:16:36.041277+00:00</updated>
+    <updated>2026-10-23T05:07:48.822445+00:00</updated>
     <link href="https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/"/>
     <summary>The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.</summary>
     <published>2026-10-21T22:45:34+00:00</published>
@@ -74,7 +58,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3180358</id>
     <title>Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown</title>
-    <updated>2026-10-23T00:16:36.041183+00:00</updated>
+    <updated>2026-10-23T05:07:48.822357+00:00</updated>
     <link href="https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/"/>
     <summary>Blackstone’s AI head on why the PE giant isn't panicked by market jitters.</summary>
     <published>2026-10-21T22:51:22+00:00</published>
@@ -82,7 +66,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3180589</id>
     <title>DeepSeek reportedly raises $15B days after US restrictions</title>
-    <updated>2026-10-23T00:16:36.041088+00:00</updated>
+    <updated>2026-10-23T05:07:48.822268+00:00</updated>
     <link href="https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/"/>
     <summary>DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns.</summary>
     <published>2026-10-22T13:11:13+00:00</published>
@@ -90,7 +74,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3180570</id>
     <title>Nirva raises $33M for a pendant that only listens to you</title>
-    <updated>2026-10-23T00:16:36.040968+00:00</updated>
+    <updated>2026-10-23T05:07:48.822180+00:00</updated>
     <link href="https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/"/>
     <summary>Nirva will ship its $249 ambient AI pendant by the end of the year.</summary>
     <published>2026-10-22T13:26:52+00:00</published>
@@ -98,7 +82,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3180587</id>
     <title>Claude Duet app is Anthropic’s bet on agents</title>
-    <updated>2026-10-23T00:16:36.040877+00:00</updated>
+    <updated>2026-10-23T05:07:48.822090+00:00</updated>
     <link href="https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/"/>
     <summary>Claude Duet is available through waitlist for Pro and Max plan users.</summary>
     <published>2026-10-22T13:53:26+00:00</published>
@@ -106,7 +90,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3180626</id>
     <title>Spotify’s current AI bet is about being the music service that agents choose</title>
-    <updated>2026-10-23T00:16:36.040784+00:00</updated>
+    <updated>2026-10-23T05:07:48.822004+00:00</updated>
     <link href="https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/"/>
     <summary>Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.</summary>
     <published>2026-10-22T15:03:58+00:00</published>
@@ -114,7 +98,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3180196</id>
     <title>Uber puts all 30,000 employees on ChatGPT Work</title>
-    <updated>2026-10-23T00:16:36.040690+00:00</updated>
+    <updated>2026-10-23T05:07:48.821915+00:00</updated>
     <link href="https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/"/>
     <summary>The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.</summary>
     <published>2026-10-22T16:00:00+00:00</published>
@@ -122,7 +106,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3180678</id>
     <title>Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise</title>
-    <updated>2026-10-23T00:16:36.040592+00:00</updated>
+    <updated>2026-10-23T05:07:48.821828+00:00</updated>
     <link href="https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/"/>
     <summary>Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.</summary>
     <published>2026-10-22T16:47:17+00:00</published>
@@ -130,7 +114,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3180761</id>
     <title>Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’</title>
-    <updated>2026-10-23T00:16:36.040489+00:00</updated>
+    <updated>2026-10-23T05:07:48.821738+00:00</updated>
     <link href="https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/"/>
     <summary>Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.</summary>
     <published>2026-10-22T18:43:53+00:00</published>
@@ -138,7 +122,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3180617</id>
     <title>Canva releases its first image generation model</title>
-    <updated>2026-10-23T00:16:36.040395+00:00</updated>
+    <updated>2026-10-23T05:07:48.821645+00:00</updated>
     <link href="https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/"/>
     <summary>Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.</summary>
     <published>2026-10-22T19:00:00+00:00</published>
@@ -146,7 +130,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3180667</id>
     <title>OpenAI makes its Jev competitor widely available as decision model competition heats up</title>
-    <updated>2026-10-23T00:16:36.040298+00:00</updated>
+    <updated>2026-10-23T05:07:48.821537+00:00</updated>
     <link href="https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/"/>
     <summary>OpenAI is launching its decision model to the world. Can it compete with the original Jev?</summary>
     <published>2026-10-22T19:00:00+00:00</published>
@@ -154,7 +138,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3180727</id>
     <title>1Password launches a way for AI agents to log in on your behalf without seeing your password</title>
-    <updated>2026-10-23T00:16:36.040198+00:00</updated>
+    <updated>2026-10-23T05:07:48.821420+00:00</updated>
     <link href="https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/"/>
     <summary>The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.</summary>
     <published>2026-10-22T19:07:09+00:00</published>
@@ -162,9 +146,25 @@
   <entry>
     <id>https://techcrunch.com/?p=3180936</id>
     <title>OpenAI working on new $30B raise at $1.25T valuation ahead of IPO</title>
-    <updated>2026-10-23T00:16:36.040070+00:00</updated>
+    <updated>2026-10-23T05:07:48.821325+00:00</updated>
     <link href="https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/"/>
     <summary>Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.</summary>
     <published>2026-10-22T22:08:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3181016</id>
+    <title>Left alone with nothing to do, AI agents started playing</title>
+    <updated>2026-10-23T05:07:48.821223+00:00</updated>
+    <link href="https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/"/>
+    <summary>MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.</summary>
+    <published>2026-10-23T00:45:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3180898</id>
+    <title>Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia</title>
+    <updated>2026-10-23T05:07:48.821078+00:00</updated>
+    <link href="https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/"/>
+    <summary>inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.</summary>
+    <published>2026-10-23T04:00:00+00:00</published>
   </entry>
 </feed>
