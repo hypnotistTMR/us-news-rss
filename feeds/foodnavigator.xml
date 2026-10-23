@@ -2,71 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:foodnavigator</id>
   <title>FoodNavigator USA</title>
-  <updated>2026-10-23T10:19:02.604053+00:00</updated>
+  <updated>2026-10-23T15:16:56.340894+00:00</updated>
   <link href="file:///feeds/foodnavigator.xml" rel="self"/>
   <link href="https://www.foodnavigator-usa.com/arc/outboundfeeds/rss/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: food / Mode: rss</subtitle>
   <entry>
-    <id>https://www.foodnavigator.com/Article/2026/10/21/upfs-and-nutrition-does-processing-predict-quality/</id>
-    <title>UPF classification doesn’t tell the whole story about nutrition, study reveals</title>
-    <updated>2026-10-23T10:19:02.606070+00:00</updated>
-    <link href="https://www.foodnavigator.com/Article/2026/10/21/upfs-and-nutrition-does-processing-predict-quality/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
-    <summary>An IFIC and NIQ analysis of 40,000 US grocery products finds nutrient density varies among ultra-processed foods, while non-UPFs cost more on average.</summary>
-    <published>2026-10-21T13:33:45+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.bakeryandsnacks.com/Article/2026/10/21/why-healthier-snack-development-goes-wrong/</id>
-    <title>Exposing the mistakes that sink healthier snacks</title>
-    <updated>2026-10-23T10:19:02.605981+00:00</updated>
-    <link href="https://www.bakeryandsnacks.com/Article/2026/10/21/why-healthier-snack-development-goes-wrong/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
-    <summary>Explore how taste expectations, formulation compromises and supplier reliability can derail healthier snacks – and what manufacturers should assess.</summary>
-    <published>2026-10-21T08:00:41+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.bakeryandsnacks.com/Article/2026/10/21/how-brain-science-can-guide-functional-bread-development/</id>
-    <title>What neuroscience reveals about functional bread</title>
-    <updated>2026-10-23T10:19:02.605892+00:00</updated>
-    <link href="https://www.bakeryandsnacks.com/Article/2026/10/21/how-brain-science-can-guide-functional-bread-development/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
-    <summary>How brain activity measurements could help bakers understand reactions to functional bread’s texture, flavour and nutritional messaging.</summary>
-    <published>2026-10-21T08:01:21+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.foodmanufacture.co.uk/Article/2026/10/21/allplants-sold-to-french-food-manufacturer-fleury-michon/</id>
-    <title>Allplants sold to French food manufacturer</title>
-    <updated>2026-10-23T10:19:02.605803+00:00</updated>
-    <link href="https://www.foodmanufacture.co.uk/Article/2026/10/21/allplants-sold-to-french-food-manufacturer-fleury-michon/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
-    <summary>Allplants sold to French food manufacturer</summary>
-    <published>2026-10-21T10:35:23+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.dairyreporter.com/Article/2026/10/21/global-dairy-blends-market-forecast-to-reach-154bn-by-2035/</id>
-    <title>Global dairy blends market forecast to reach $15.4bn by 2035</title>
-    <updated>2026-10-23T10:19:02.605715+00:00</updated>
-    <link href="https://www.dairyreporter.com/Article/2026/10/21/global-dairy-blends-market-forecast-to-reach-154bn-by-2035/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
-    <summary>Global dairy blends market forecast to reach $15.4bn by 2035</summary>
-    <published>2026-10-21T10:53:20+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.foodnavigator.com/Article/2026/10/21/how-heatwaves-are-reshaping-the-future-of-chocolate/</id>
-    <title>Chocolate has a new problem. And it’s not cocoa prices</title>
-    <updated>2026-10-23T10:19:02.605621+00:00</updated>
-    <link href="https://www.foodnavigator.com/Article/2026/10/21/how-heatwaves-are-reshaping-the-future-of-chocolate/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
-    <summary>Rising temperatures are reshaping the chocolate industry, impacting both cocoa supplies and consumer demand. As heatwaves become more frequent, manufacturers are adapting formats, product strategies and retail approaches to protect sales in a warming world.</summary>
-    <published>2026-10-21T11:41:59+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.foodnavigator.com/Article/2026/10/21/mars-launches-instagramshop-joining-hershey-ferrero-in-social-commerce-shopping/</id>
-    <title>Mars joins Hershey and Ferrero in race for the digital impulse purchases</title>
-    <updated>2026-10-23T10:19:02.605513+00:00</updated>
-    <link href="https://www.foodnavigator.com/Article/2026/10/21/mars-launches-instagramshop-joining-hershey-ferrero-in-social-commerce-shopping/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
-    <summary>Snickers and M&amp;M’s manufacturer Mars launches its shoppable Instagram channel, highlighting how brands are increasingly treating social platforms as the next impulse-purchase aisle.</summary>
-    <published>2026-10-21T13:13:01+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.foodnavigator.com/Article/2026/10/21/kroger-plans-5-billion-value-push-through-2029/</id>
     <title>Kroger bets on lower prices and simpler deals to drive growth</title>
-    <updated>2026-10-23T10:19:02.605423+00:00</updated>
+    <updated>2026-10-23T15:16:56.342649+00:00</updated>
     <link href="https://www.foodnavigator.com/Article/2026/10/21/kroger-plans-5-billion-value-push-through-2029/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
     <summary>Kroger’s growth strategy includes a $5 billion investment in customer value through 2029, with lower prices, simpler promotions and more store brands.</summary>
     <published>2026-10-21T13:26:13+00:00</published>
@@ -74,7 +18,7 @@
   <entry>
     <id>https://www.foodnavigator.com/Article/2026/10/21/building-resilient-food-systems-for-tomorrow/</id>
     <title>The new rules of climate-smart food</title>
-    <updated>2026-10-23T10:19:02.605335+00:00</updated>
+    <updated>2026-10-23T15:16:56.342570+00:00</updated>
     <link href="https://www.foodnavigator.com/Article/2026/10/21/building-resilient-food-systems-for-tomorrow/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
     <summary>Climate Smart Food 2026: Industry leaders share how resilience, technology and farmer support are shaping the future of sustainable food</summary>
     <published>2026-10-23T08:01:04+00:00</published>
@@ -82,7 +26,7 @@
   <entry>
     <id>https://www.confectionerynews.com/Article/2026/10/21/nestle-quality-street-enters-gaming-with-monopoly-christmas-collaboration/</id>
     <title>Quality Street gets Monopoly makeover amid collaboration craze</title>
-    <updated>2026-10-23T10:19:02.605247+00:00</updated>
+    <updated>2026-10-23T15:16:56.342478+00:00</updated>
     <link href="https://www.confectionerynews.com/Article/2026/10/21/nestle-quality-street-enters-gaming-with-monopoly-christmas-collaboration/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
     <summary>Nestlé Quality Street and Monopoly join forces for Christmas as confectionery brands turn to partnerships to drive engagement, relevance and sales.</summary>
     <published>2026-10-21T15:53:03+00:00</published>
@@ -90,7 +34,7 @@
   <entry>
     <id>https://www.foodnavigator.com/Article/2026/10/21/el-nino-peak-and-industry-preperation/</id>
     <title>When will El Niño peak?</title>
-    <updated>2026-10-23T10:19:02.605158+00:00</updated>
+    <updated>2026-10-23T15:16:56.342409+00:00</updated>
     <link href="https://www.foodnavigator.com/Article/2026/10/21/el-nino-peak-and-industry-preperation/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
     <summary>El Niño is expected to be the biggest since the 19th century. When will the weather event peak, how will this affect the food sector, and how can FMCGs prepare?</summary>
     <published>2026-10-21T16:13:45+00:00</published>
@@ -98,7 +42,7 @@
   <entry>
     <id>https://www.foodnavigator.com/Article/2026/10/22/nestle-reports-strong-q3-as-volume-growth-accelerates/</id>
     <title>Nestlé turnaround accelerates as volume growth gains pace</title>
-    <updated>2026-10-23T10:19:02.605068+00:00</updated>
+    <updated>2026-10-23T15:16:56.342339+00:00</updated>
     <link href="https://www.foodnavigator.com/Article/2026/10/22/nestle-reports-strong-q3-as-volume-growth-accelerates/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
     <summary>Nestlé reported strong Q3 2026 results, with volume growth accelerating, emerging markets outperforming and confidence growing in its turnaround strategy.</summary>
     <published>2026-10-22T08:04:50+00:00</published>
@@ -106,7 +50,7 @@
   <entry>
     <id>https://www.foodnavigator.com/Article/2026/10/22/ferrero-why-its-embracing-high-protein/</id>
     <title>Ferrero commits to high protein: Why is the confectionery giant investing in functional health?</title>
-    <updated>2026-10-23T10:19:02.604979+00:00</updated>
+    <updated>2026-10-23T15:16:56.342270+00:00</updated>
     <link href="https://www.foodnavigator.com/Article/2026/10/22/ferrero-why-its-embracing-high-protein/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
     <summary>Ferrero is embracing high protein. It is not the only confectionery company doing this, but its strategy is slightly different from its competitors.</summary>
     <published>2026-10-23T07:23:36+00:00</published>
@@ -114,7 +58,7 @@
   <entry>
     <id>https://www.confectionerynews.com/Article/2026/10/22/ferrero-enters-the-marvel-universe-with-superhero-inspired-sweets/</id>
     <title>Ferrero enters the Marvel Universe in blockbuster collaboration</title>
-    <updated>2026-10-23T10:19:02.604891+00:00</updated>
+    <updated>2026-10-23T15:16:56.342200+00:00</updated>
     <link href="https://www.confectionerynews.com/Article/2026/10/22/ferrero-enters-the-marvel-universe-with-superhero-inspired-sweets/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
     <summary>Ferrero is teaming up with Marvel as confectionery giant rolls out superhero-inspired treats, alongside Nutella Waffles and Tic Tac Two, in major innovation push.</summary>
     <published>2026-10-22T13:32:13+00:00</published>
@@ -122,7 +66,7 @@
   <entry>
     <id>https://www.foodnavigator.com/Article/2026/10/22/nestle-usas-gerber-lawsuit-puts-fdas-baby-food-metal-standards-in-focus/</id>
     <title>Nestlé USA and Gerber lawsuit puts heavy metals in baby food back in the spotlight</title>
-    <updated>2026-10-23T10:19:02.604803+00:00</updated>
+    <updated>2026-10-23T15:16:56.342130+00:00</updated>
     <link href="https://www.foodnavigator.com/Article/2026/10/22/nestle-usas-gerber-lawsuit-puts-fdas-baby-food-metal-standards-in-focus/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
     <summary>As baby food litigation accelerates, Texas is challenging Gerber over alleged heavy metal contamination and product safety claims.</summary>
     <published>2026-10-22T13:33:25+00:00</published>
@@ -130,7 +74,7 @@
   <entry>
     <id>https://www.foodnavigator.com/Article/2026/10/22/inside-mccormicks-flavor-university-and-b2b-business/</id>
     <title>How McCormick’s Flavor University teaches the science of taste</title>
-    <updated>2026-10-23T10:19:02.604713+00:00</updated>
+    <updated>2026-10-23T15:16:56.342059+00:00</updated>
     <link href="https://www.foodnavigator.com/Article/2026/10/22/inside-mccormicks-flavor-university-and-b2b-business/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
     <summary>McCormick’s Flavor University teaches food developers the science of taste, offering a window into its $2.89 billion Flavor Solutions business.</summary>
     <published>2026-10-22T13:51:33+00:00</published>
@@ -138,7 +82,7 @@
   <entry>
     <id>https://www.foodnavigator.com/Article/2026/10/22/consumers-link-sustainable-seafood-with-health-but-seek-proof/</id>
     <title>Seafood shoppers want proof in sustainability claims, not promises</title>
-    <updated>2026-10-23T10:19:02.604613+00:00</updated>
+    <updated>2026-10-23T15:16:56.341988+00:00</updated>
     <link href="https://www.foodnavigator.com/Article/2026/10/22/consumers-link-sustainable-seafood-with-health-but-seek-proof/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
     <summary>Consumers say they want sustainable seafood and healthier diets, but growing distrust of green marketing is elevating the role of certification labels.</summary>
     <published>2026-10-22T14:09:15+00:00</published>
@@ -146,7 +90,7 @@
   <entry>
     <id>https://www.foodnavigator.com/Article/2026/10/22/fermented-food-and-drink-europe-has-a-clear-favourite/</id>
     <title>Fermented food and drink: Europe has a clear favourite</title>
-    <updated>2026-10-23T10:19:02.604499+00:00</updated>
+    <updated>2026-10-23T15:16:56.341917+00:00</updated>
     <link href="https://www.foodnavigator.com/Article/2026/10/22/fermented-food-and-drink-europe-has-a-clear-favourite/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
     <summary>Europe's fermented food habits revealed: New research shows fermented dairy dominates consumption, while plant-based alternatives remain low in intake.</summary>
     <published>2026-10-22T15:40:54+00:00</published>
@@ -154,7 +98,7 @@
   <entry>
     <id>https://www.foodnavigator.com/Article/2026/10/23/packaging-happenings-mcvities-china-aussie-labels-and-mini-drinks/</id>
     <title>Packaging Happenings: McVitie’s China, Aussie labels and mini drinks</title>
-    <updated>2026-10-23T10:19:02.604398+00:00</updated>
+    <updated>2026-10-23T15:16:56.341846+00:00</updated>
     <link href="https://www.foodnavigator.com/Article/2026/10/23/packaging-happenings-mcvities-china-aussie-labels-and-mini-drinks/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
     <summary>McVitie’s China, Aussie labels and mini drinks feature in this edition of Packaging Happenings</summary>
     <published>2026-10-23T05:00:37+00:00</published>
@@ -162,9 +106,65 @@
   <entry>
     <id>https://www.bakeryandsnacks.com/Article/2026/10/23/why-snack-nutrition-scores-and-non-upf-labels-disagree/</id>
     <title>Healthy or ultra-processed? Why snack ratings disagree</title>
-    <updated>2026-10-23T10:19:02.604273+00:00</updated>
+    <updated>2026-10-23T15:16:56.341775+00:00</updated>
     <link href="https://www.bakeryandsnacks.com/Article/2026/10/23/why-snack-nutrition-scores-and-non-upf-labels-disagree/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
     <summary>Nutrition scores, non-UPF labels and app ratings can clash. What should food manufacturers prioritise when reformulating products and making health claims?</summary>
     <published>2026-10-23T08:04:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.foodmanufacture.co.uk/Article/2026/10/23/97-of-fb-firms-identify-modern-slavery-risks-in-supply-chains/</id>
+    <title>Modern slavery: 97% of food and drink firms identify risks in supply chains</title>
+    <updated>2026-10-23T15:16:56.341704+00:00</updated>
+    <link href="https://www.foodmanufacture.co.uk/Article/2026/10/23/97-of-fb-firms-identify-modern-slavery-risks-in-supply-chains/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
+    <summary>Modern slavery: 97% of food and drink firms identify risks in supply chains</summary>
+    <published>2026-10-23T10:38:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.foodnavigator.com/Article/2026/10/23/nestle-to-close-solon-factory-amid-manufacturing-consolidation-drive/</id>
+    <title>Nestlé factory closure signals new era of industry consolidation</title>
+    <updated>2026-10-23T15:16:56.341629+00:00</updated>
+    <link href="https://www.foodnavigator.com/Article/2026/10/23/nestle-to-close-solon-factory-amid-manufacturing-consolidation-drive/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
+    <summary>Nestlé's Solon factory closure highlights the food giant's drive to streamline manufacturing operations, reflecting a wider industry trend towards consolidating production, improving efficiency and adapting facilities to changing consumer demand.</summary>
+    <published>2026-10-23T10:38:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.foodnavigator.com/Article/2026/10/23/high-protein-trend-will-not-last-forever/</id>
+    <title>High protein won’t last forever</title>
+    <updated>2026-10-23T15:16:56.341525+00:00</updated>
+    <link href="https://www.foodnavigator.com/Article/2026/10/23/high-protein-trend-will-not-last-forever/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
+    <summary>The high protein trend is all encompassing, spreading to nearly every corner of the food industry. But trends come and go. Food companies must be prepared for a time when such a trend is no longer so widespread.</summary>
+    <published>2026-10-23T11:19:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.foodnavigator.com/Article/2026/10/23/danone-joins-nestle-and-coca-cola-in-labelling-changes/</id>
+    <title>Danone joins Nestlé and Coca-Cola in labelling changes</title>
+    <updated>2026-10-23T15:16:56.341451+00:00</updated>
+    <link href="https://www.foodnavigator.com/Article/2026/10/23/danone-joins-nestle-and-coca-cola-in-labelling-changes/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
+    <summary>Danone joins Nestlé and Coca-Cola in revising plastic bottle recycling claims following a European Commission crackdown on potential greenwashing</summary>
+    <published>2026-10-23T13:17:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.foodnavigator.com/Article/2026/10/23/upf-labeling-could-cost-142bn-annually-study-finds/</id>
+    <title>UPF labeling could cost $14.2bn annually, study estimates</title>
+    <updated>2026-10-23T15:16:56.341376+00:00</updated>
+    <link href="https://www.foodnavigator.com/Article/2026/10/23/upf-labeling-could-cost-142bn-annually-study-finds/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
+    <summary>A new study estimates mandatory UPF labeling could cost $14.2bn annually and affect 72% of packaged foods, as industry warns of added costs and legal risks.</summary>
+    <published>2026-10-23T13:32:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.foodnavigator.com/Article/2026/10/23/wilde-lands-fresh-funding-amid-surging-demand-for-protein-rich-snacks/</id>
+    <title>Protein chips attract funding amid competitive protein-snackscape</title>
+    <updated>2026-10-23T15:16:56.341267+00:00</updated>
+    <link href="https://www.foodnavigator.com/Article/2026/10/23/wilde-lands-fresh-funding-amid-surging-demand-for-protein-rich-snacks/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
+    <summary>Wilde, known for turning chicken into protein chips, landed a $40 million investment from S2G Investments as competition intensifies in the booming protein-snacking category.</summary>
+    <published>2026-10-23T13:35:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.foodnavigator.com/Article/2026/10/23/general-mills-archer-and-conagra-expand-meat-snacks/</id>
+    <title>General Mills, Archer and Conagra beef up their meat snack portfolios</title>
+    <updated>2026-10-23T15:16:56.341121+00:00</updated>
+    <link href="https://www.foodnavigator.com/Article/2026/10/23/general-mills-archer-and-conagra-expand-meat-snacks/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
+    <summary>Explore new meat sticks from General Mills, Archer and Conagra, including Epic Wagyu beef, oven-roasted chicken and Slim Jim Cheese Mode.</summary>
+    <published>2026-10-23T13:39:53+00:00</published>
   </entry>
 </feed>

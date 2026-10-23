@@ -2,129 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:fcc</id>
   <title>FCC Recent Releases (Combined)</title>
-  <updated>2026-10-23T10:19:31.354563+00:00</updated>
+  <updated>2026-10-23T15:17:27.489578+00:00</updated>
   <link href="file:///feeds/fcc.xml" rel="self"/>
   <link href="https://api2.fcc.gov/api/exp/v1.0.0/edocspublic/rss" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: telecom / Mode: rss</subtitle>
   <entry>
-    <id>426100</id>
-    <title>In the Matter of Etzer Toussaint</title>
-    <updated>2026-10-23T10:19:31.354753+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426100"/>
-    <summary>FCC Affirms $20,000 Fine for PIRATE Act Violations.</summary>
-    <published>2026-10-23T10:19:31.354751+00:00</published>
-  </entry>
-  <entry>
-    <id>426123</id>
-    <title>Comments Invited On Section 214 Applications To Discontinue Domestic Telecommunications Services As Part Of A Technology Transition</title>
-    <updated>2026-10-23T10:19:31.354744+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426123"/>
+    <id>425850</id>
+    <title>Public Safety and Homeland Security Bureau Highlights Cybersecurity Best Practices for Communications Service Providers</title>
+    <updated>2026-10-23T15:17:27.489610+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/425850"/>
     <summary>.</summary>
-    <published>2026-10-23T10:19:31.354742+00:00</published>
+    <published>2026-10-23T15:17:27.489608+00:00</published>
   </entry>
   <entry>
-    <id>426046</id>
-    <title>421 NE 6TH ST LLC -- Fort Lauderdale, Florida</title>
-    <updated>2026-10-23T10:19:31.354735+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426046"/>
-    <summary>NOHI for radio interference to City of Fort Lauderdale's public safety system</summary>
-    <published>2026-10-23T10:19:31.354733+00:00</published>
+    <id>426132</id>
+    <title>Telnyx, LLC International Signaling Point Code Applications, File Nos. SPC-NEW-20260420-00003, SPC-NEW-20260430-00004, SPC-NEW-20260430-00005</title>
+    <updated>2026-10-23T15:17:27.489602+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426132"/>
+    <summary>OIA grant of Telnyx, LLC's applications for three International Signaling Point Codes and provisional assignment of two codes for use in Chicago. IL and one code for use in Ashburn, VA.</summary>
+    <published>2026-10-23T15:17:27.489600+00:00</published>
   </entry>
   <entry>
-    <id>426049</id>
-    <title>Leap of Faith, Inc. -- Lebanon, Tennessee</title>
-    <updated>2026-10-23T10:19:31.354726+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426049"/>
+    <id>426053</id>
+    <title>In the Matter of BMG Billings, LLC -- Billings, Montana</title>
+    <updated>2026-10-23T15:17:27.489587+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426053"/>
     <summary>Notice of Violation issued for violation(s) as noted in the attached.</summary>
-    <published>2026-10-23T10:19:31.354724+00:00</published>
-  </entry>
-  <entry>
-    <id>426061</id>
-    <title>Dale E. Williford -- Silsbee, Texas</title>
-    <updated>2026-10-23T10:19:31.354716+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426061"/>
-    <summary>Notice of Violation issued for violation(s) as noted in the attached.</summary>
-    <published>2026-10-23T10:19:31.354714+00:00</published>
-  </entry>
-  <entry>
-    <id>426125</id>
-    <title>Domestic Section 214 Application Filed for the Acquisition of Assets and Transfers of Control by and to Adams Telephone Co-Operative and Adams Telsystems, Inc.</title>
-    <updated>2026-10-23T10:19:31.354704+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426125"/>
-    <summary>.</summary>
-    <published>2026-10-23T10:19:31.354701+00:00</published>
-  </entry>
-  <entry>
-    <id>426103</id>
-    <title>In the Matter of Henderson Lennox Elcock</title>
-    <updated>2026-10-23T10:19:31.354690+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426103"/>
-    <summary>FCC Affirms $20,000 Fine for PIRATE Act Violations.</summary>
-    <published>2026-10-23T10:19:31.354689+00:00</published>
-  </entry>
-  <entry>
-    <id>426130</id>
-    <title>FCC Blocks Two Devices Containing Foreign Surveillance Chips</title>
-    <updated>2026-10-23T10:19:31.354681+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426130"/>
-    <summary>The FCC prevented two devices (a dashboard camera and a wireless video transmitter) from being marketed or sold in the United States.</summary>
-    <published>2026-10-23T10:19:31.354679+00:00</published>
-  </entry>
-  <entry>
-    <id>426102</id>
-    <title>In the Matter of Shane Kelly</title>
-    <updated>2026-10-23T10:19:31.354672+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426102"/>
-    <summary>FCC Affirms $20,000 Fine for PIRATE Act Violations.</summary>
-    <published>2026-10-23T10:19:31.354670+00:00</published>
-  </entry>
-  <entry>
-    <id>426121</id>
-    <title>Pleadings</title>
-    <updated>2026-10-23T10:19:31.354662+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426121"/>
-    <summary>.</summary>
-    <published>2026-10-23T10:19:31.354660+00:00</published>
-  </entry>
-  <entry>
-    <id>426120</id>
-    <title>Actions</title>
-    <updated>2026-10-23T10:19:31.354652+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426120"/>
-    <summary>.</summary>
-    <published>2026-10-23T10:19:31.354650+00:00</published>
-  </entry>
-  <entry>
-    <id>426119</id>
-    <title>Applications</title>
-    <updated>2026-10-23T10:19:31.354642+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426119"/>
-    <summary>.</summary>
-    <published>2026-10-23T10:19:31.354641+00:00</published>
-  </entry>
-  <entry>
-    <id>426131</id>
-    <title>FCC To Hold Open Commission Meeting Thursday, October 29, 2026</title>
-    <updated>2026-10-23T10:19:31.354632+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426131"/>
-    <summary>Sunshine Notice</summary>
-    <published>2026-10-23T10:19:31.354630+00:00</published>
-  </entry>
-  <entry>
-    <id>426133</id>
-    <title>PSHSB Announces Region 42 (Virginia) RPCs to Hold 700 MHZ and 800 MHZ Meetings</title>
-    <updated>2026-10-23T10:19:31.354618+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426133"/>
-    <summary>Announces Region 42 (VA) RPC Meetings for 700 MHZ and 800 MHZ</summary>
-    <published>2026-10-23T10:19:31.354614+00:00</published>
-  </entry>
-  <entry>
-    <id>426137</id>
-    <title>Intel Corporation Petition for Expedited Waiver to Permit Continued Use and Maintenance of Certain Automated Guided Vehicles</title>
-    <updated>2026-10-23T10:19:31.354576+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426137"/>
-    <summary>By this Order we grant the request of Intel Corporation ("Intel") for an Expedited Waiver of Sections 2.932 and 2.1043 of the Commission's rules to permit the continued utilization of specific Automated Guided Vehicles ("AGVs") for a period of one year.</summary>
-    <published>2026-10-23T10:19:31.354568+00:00</published>
+    <published>2026-10-23T15:17:27.489582+00:00</published>
   </entry>
 </feed>
