@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:cftc</id>
   <title>CFTC - General Press Releases</title>
-  <updated>2026-10-24T05:15:03.174560+00:00</updated>
+  <updated>2026-10-24T09:40:04.078990+00:00</updated>
   <link href="file:///feeds/cftc.xml" rel="self"/>
   <link href="https://www.cftc.gov/RSS/RSSGP/rssgp.xml" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -10,7 +10,7 @@
   <entry>
     <id>https://www.cftc.gov/PressRoom/PressReleases/9300-26</id>
     <title>CFTC Staff Issues No-Action Position to Providers of Passive Software</title>
-    <updated>2026-10-24T05:15:03.175299+00:00</updated>
+    <updated>2026-10-24T09:40:04.080092+00:00</updated>
     <link href="https://www.cftc.gov/PressRoom/PressReleases/9300-26"/>
     <summary>CFTC Staff Issues No-Action Position to Providers of Passive Software</summary>
     <published>2026-09-17T13:08:32+00:00</published>
@@ -18,7 +18,7 @@
   <entry>
     <id>https://www.cftc.gov/PressRoom/PressReleases/9301-26</id>
     <title>CFTC Innovation Task Force to Host Frontier Forum Series on Innovative Financial Technologies</title>
-    <updated>2026-10-24T05:15:03.175246+00:00</updated>
+    <updated>2026-10-24T09:40:04.079997+00:00</updated>
     <link href="https://www.cftc.gov/PressRoom/PressReleases/9301-26"/>
     <summary>CFTC Innovation Task Force to Host Frontier Forum Series on Innovative Financial Technologies</summary>
     <published>2026-09-21T13:00:57+00:00</published>
@@ -26,7 +26,7 @@
   <entry>
     <id>https://www.cftc.gov/PressRoom/PressReleases/9302-26</id>
     <title>CFTC Releases Staff Advisory on Mention Markets</title>
-    <updated>2026-10-24T05:15:03.175191+00:00</updated>
+    <updated>2026-10-24T09:40:04.079879+00:00</updated>
     <link href="https://www.cftc.gov/PressRoom/PressReleases/9302-26"/>
     <summary>CFTC Releases Staff Advisory on Mention Markets</summary>
     <published>2026-09-22T20:38:00+00:00</published>
@@ -34,7 +34,7 @@
   <entry>
     <id>https://www.cftc.gov/PressRoom/PressReleases/9303-26</id>
     <title>CFTC Staff Releases Updates to FAQs Concerning Registrants and Registered Entity Activities Relating to Crypto Assets and Blockchain Technologies</title>
-    <updated>2026-10-24T05:15:03.175136+00:00</updated>
+    <updated>2026-10-24T09:40:04.079786+00:00</updated>
     <link href="https://www.cftc.gov/PressRoom/PressReleases/9303-26"/>
     <summary>CFTC Staff Releases Updates to FAQs Concerning Registrants and Registered Entity Activities Relating to Crypto Assets and Blockchain Technologies</summary>
     <published>2026-09-24T14:46:00+00:00</published>
@@ -42,7 +42,7 @@
   <entry>
     <id>https://www.cftc.gov/PressRoom/PressReleases/9306-26</id>
     <title>CFTC Staff Extends Brexit-Related No-Action Positions</title>
-    <updated>2026-10-24T05:15:03.175078+00:00</updated>
+    <updated>2026-10-24T09:40:04.079693+00:00</updated>
     <link href="https://www.cftc.gov/PressRoom/PressReleases/9306-26"/>
     <summary>CFTC Staff Extends Brexit-Related No-Action Positions</summary>
     <published>2026-10-01T13:06:31+00:00</published>
@@ -50,7 +50,7 @@
   <entry>
     <id>https://www.cftc.gov/PressRoom/PressReleases/9307-26</id>
     <title>CFTC Seeks Public Comment on Advanced Notice of Proposed Rulemaking Relating to Regulation Crypto Asset Transactions and Regulation Crypto Asset Markets</title>
-    <updated>2026-10-24T05:15:03.175008+00:00</updated>
+    <updated>2026-10-24T09:40:04.079600+00:00</updated>
     <link href="https://www.cftc.gov/PressRoom/PressReleases/9307-26"/>
     <summary>CFTC Seeks Public Comment on Advanced Notice of Proposed Rulemaking Relating to Regulation Crypto Asset Transactions and Regulation Crypto Asset Markets</summary>
     <published>2026-10-05T15:40:00+00:00</published>
@@ -58,7 +58,7 @@
   <entry>
     <id>https://www.cftc.gov/PressRoom/PressReleases/9308-26</id>
     <title>CFTC Issues No-Action Letter for DCMs Regarding Converting Existing Perpetual-Style Broad-Based Security Index Futures into True Perpetual Futures</title>
-    <updated>2026-10-24T05:15:03.174951+00:00</updated>
+    <updated>2026-10-24T09:40:04.079506+00:00</updated>
     <link href="https://www.cftc.gov/PressRoom/PressReleases/9308-26"/>
     <summary>CFTC Issues No-Action Letter for DCMs Regarding Converting Existing Perpetual-Style Broad-Based Security Index Futures into True Perpetual Futures</summary>
     <published>2026-10-05T17:00:00+00:00</published>
@@ -66,7 +66,7 @@
   <entry>
     <id>https://www.cftc.gov/PressRoom/PressReleases/9309-26</id>
     <title>CFTC Issues Interim Final Rule Excluding Certain Activity from the Definition of Swap</title>
-    <updated>2026-10-24T05:15:03.174892+00:00</updated>
+    <updated>2026-10-24T09:40:04.079407+00:00</updated>
     <link href="https://www.cftc.gov/PressRoom/PressReleases/9309-26"/>
     <summary>CFTC Issues Interim Final Rule Excluding Certain Activity from the Definition of Swap</summary>
     <published>2026-10-09T19:30:51+00:00</published>
@@ -74,7 +74,7 @@
   <entry>
     <id>https://www.cftc.gov/PressRoom/PressReleases/9310-26</id>
     <title>CFTC Seeks Public Comment on Notice of Proposed Rulemaking Concerning the Inclusion of Certain Event Contracts in the Definition of Swap</title>
-    <updated>2026-10-24T05:15:03.174827+00:00</updated>
+    <updated>2026-10-24T09:40:04.079296+00:00</updated>
     <link href="https://www.cftc.gov/PressRoom/PressReleases/9310-26"/>
     <summary>CFTC Seeks Public Comment on Notice of Proposed Rulemaking Concerning the Inclusion of Certain Event Contracts in the Definition of Swap</summary>
     <published>2026-10-09T20:00:26+00:00</published>
@@ -82,7 +82,7 @@
   <entry>
     <id>https://www.cftc.gov/PressRoom/PressReleases/9312-26</id>
     <title>CFTC’s Innovation Task Force Announces Agenda &amp; Panelists for Inaugural Frontier Forum on Super Intelligence</title>
-    <updated>2026-10-24T05:15:03.174740+00:00</updated>
+    <updated>2026-10-24T09:40:04.079167+00:00</updated>
     <link href="https://www.cftc.gov/PressRoom/PressReleases/9312-26"/>
     <summary>CFTC’s Innovation Task Force Announces Agenda &amp; Panelists for Inaugural Frontier Forum on Super Intelligence</summary>
     <published>2026-10-20T18:00:00+00:00</published>
