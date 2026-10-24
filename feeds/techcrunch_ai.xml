@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:techcrunch_ai</id>
   <title>TechCrunch - AI</title>
-  <updated>2026-10-24T19:37:05.879791+00:00</updated>
+  <updated>2026-10-24T22:09:10.797760+00:00</updated>
   <link href="file:///feeds/techcrunch_ai.xml" rel="self"/>
   <link href="https://techcrunch.com/category/artificial-intelligence/feed/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -10,7 +10,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3180589</id>
     <title>DeepSeek reportedly raises $15B days after US restrictions</title>
-    <updated>2026-10-24T19:37:05.882018+00:00</updated>
+    <updated>2026-10-24T22:09:10.798988+00:00</updated>
     <link href="https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/"/>
     <summary>DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns.</summary>
     <published>2026-10-22T13:11:13+00:00</published>
@@ -18,7 +18,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3180570</id>
     <title>Nirva raises $33M for a pendant that only listens to you</title>
-    <updated>2026-10-24T19:37:05.881918+00:00</updated>
+    <updated>2026-10-24T22:09:10.798935+00:00</updated>
     <link href="https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/"/>
     <summary>Nirva will ship its $249 ambient AI pendant by the end of the year.</summary>
     <published>2026-10-22T13:26:52+00:00</published>
@@ -26,7 +26,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3180587</id>
     <title>Claude Duet app is Anthropic’s bet on agents</title>
-    <updated>2026-10-24T19:37:05.881823+00:00</updated>
+    <updated>2026-10-24T22:09:10.798882+00:00</updated>
     <link href="https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/"/>
     <summary>Claude Duet is available through waitlist for Pro and Max plan users.</summary>
     <published>2026-10-22T13:53:26+00:00</published>
@@ -34,7 +34,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3180626</id>
     <title>Spotify’s current AI bet is about being the music service that agents choose</title>
-    <updated>2026-10-24T19:37:05.881724+00:00</updated>
+    <updated>2026-10-24T22:09:10.798831+00:00</updated>
     <link href="https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/"/>
     <summary>Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.</summary>
     <published>2026-10-22T15:03:58+00:00</published>
@@ -42,7 +42,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3180196</id>
     <title>Uber puts all 30,000 employees on ChatGPT Work</title>
-    <updated>2026-10-24T19:37:05.881617+00:00</updated>
+    <updated>2026-10-24T22:09:10.798779+00:00</updated>
     <link href="https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/"/>
     <summary>The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.</summary>
     <published>2026-10-22T16:00:00+00:00</published>
@@ -50,7 +50,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3180678</id>
     <title>Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise</title>
-    <updated>2026-10-24T19:37:05.881493+00:00</updated>
+    <updated>2026-10-24T22:09:10.798729+00:00</updated>
     <link href="https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/"/>
     <summary>Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.</summary>
     <published>2026-10-22T16:47:17+00:00</published>
@@ -58,31 +58,31 @@
   <entry>
     <id>https://techcrunch.com/?p=3180761</id>
     <title>Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’</title>
-    <updated>2026-10-24T19:37:05.881398+00:00</updated>
+    <updated>2026-10-24T22:09:10.798677+00:00</updated>
     <link href="https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/"/>
     <summary>Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.</summary>
     <published>2026-10-22T18:43:53+00:00</published>
   </entry>
   <entry>
-    <id>https://techcrunch.com/?p=3180667</id>
-    <title>OpenAI makes its Jev competitor widely available as decision model competition heats up</title>
-    <updated>2026-10-24T19:37:05.881302+00:00</updated>
-    <link href="https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/"/>
-    <summary>OpenAI is launching its decision model to the world. Can it compete with the original Jev?</summary>
-    <published>2026-10-22T19:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://techcrunch.com/?p=3180617</id>
     <title>Canva releases its first image generation model</title>
-    <updated>2026-10-24T19:37:05.881206+00:00</updated>
+    <updated>2026-10-24T22:09:10.798623+00:00</updated>
     <link href="https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/"/>
     <summary>Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.</summary>
     <published>2026-10-22T19:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://techcrunch.com/?p=3180667</id>
+    <title>OpenAI makes its Jev competitor widely available as decision model competition heats up</title>
+    <updated>2026-10-24T22:09:10.798568+00:00</updated>
+    <link href="https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/"/>
+    <summary>OpenAI is launching its decision model to the world. Can it compete with the original Jev?</summary>
+    <published>2026-10-22T19:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://techcrunch.com/?p=3180727</id>
     <title>1Password launches a way for AI agents to log in on your behalf without seeing your password</title>
-    <updated>2026-10-24T19:37:05.881110+00:00</updated>
+    <updated>2026-10-24T22:09:10.798514+00:00</updated>
     <link href="https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/"/>
     <summary>The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.</summary>
     <published>2026-10-22T19:07:09+00:00</published>
@@ -90,7 +90,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3180936</id>
     <title>OpenAI working on new $30B raise at $1.25T valuation ahead of IPO</title>
-    <updated>2026-10-24T19:37:05.881015+00:00</updated>
+    <updated>2026-10-24T22:09:10.798463+00:00</updated>
     <link href="https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/"/>
     <summary>Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.</summary>
     <published>2026-10-22T22:08:24+00:00</published>
@@ -98,7 +98,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3181016</id>
     <title>Left alone with nothing to do, AI agents started playing</title>
-    <updated>2026-10-24T19:37:05.880919+00:00</updated>
+    <updated>2026-10-24T22:09:10.798410+00:00</updated>
     <link href="https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/"/>
     <summary>MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.</summary>
     <published>2026-10-23T00:45:37+00:00</published>
@@ -106,7 +106,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3180898</id>
     <title>Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia</title>
-    <updated>2026-10-24T19:37:05.880821+00:00</updated>
+    <updated>2026-10-24T22:09:10.798345+00:00</updated>
     <link href="https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/"/>
     <summary>The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.</summary>
     <published>2026-10-23T04:00:00+00:00</published>
@@ -114,7 +114,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3181271</id>
     <title>From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026</title>
-    <updated>2026-10-24T19:37:05.880721+00:00</updated>
+    <updated>2026-10-24T22:09:10.798290+00:00</updated>
     <link href="https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/"/>
     <summary>Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs.</summary>
     <published>2026-10-23T19:06:23+00:00</published>
@@ -122,7 +122,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3181412</id>
     <title>Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell</title>
-    <updated>2026-10-24T19:37:05.880611+00:00</updated>
+    <updated>2026-10-24T22:09:10.798235+00:00</updated>
     <link href="https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/"/>
     <summary>The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a "nap," and summersaulted on voice command.</summary>
     <published>2026-10-23T21:59:19+00:00</published>
@@ -130,7 +130,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3181396</id>
     <title>OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”</title>
-    <updated>2026-10-24T19:37:05.880458+00:00</updated>
+    <updated>2026-10-24T22:09:10.798170+00:00</updated>
     <link href="https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/"/>
     <summary>OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.</summary>
     <published>2026-10-23T23:05:49+00:00</published>
@@ -138,7 +138,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3173132</id>
     <title>Here are the top AI agents that can live in your text messages</title>
-    <updated>2026-10-24T19:37:05.880352+00:00</updated>
+    <updated>2026-10-24T22:09:10.798110+00:00</updated>
     <link href="https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/"/>
     <summary>We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.</summary>
     <published>2026-10-24T14:00:00+00:00</published>
@@ -146,7 +146,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3181243</id>
     <title>Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.</title>
-    <updated>2026-10-24T19:37:05.880253+00:00</updated>
+    <updated>2026-10-24T22:09:10.798051+00:00</updated>
     <link href="https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/"/>
     <summary>A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.</summary>
     <published>2026-10-24T15:00:00+00:00</published>
@@ -154,7 +154,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3181490</id>
     <title>Block’s new voice model sounds eerily human</title>
-    <updated>2026-10-24T19:37:05.880145+00:00</updated>
+    <updated>2026-10-24T22:09:10.797985+00:00</updated>
     <link href="https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/"/>
     <summary>Block said that the voice model can run locally on a MacBook M4 Max</summary>
     <published>2026-10-24T16:00:00+00:00</published>
@@ -162,7 +162,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3162590</id>
     <title>The AI graveyard: a running list of projects and startups that didn’t make it</title>
-    <updated>2026-10-24T19:37:05.879993+00:00</updated>
+    <updated>2026-10-24T22:09:10.797903+00:00</updated>
     <link href="https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"/>
     <summary>From Apple's repeatedly delayed Siri AI to OpenAI's messy "super app" launch, here's a look at the AI projects that shut down or missed expectations.</summary>
     <published>2026-10-24T19:00:00+00:00</published>
