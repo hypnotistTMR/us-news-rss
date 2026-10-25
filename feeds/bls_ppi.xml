@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:bls_ppi</id>
   <title>BLS - Producer Price Index</title>
-  <updated>2026-10-25T09:58:50.565299+00:00</updated>
+  <updated>2026-10-25T14:07:17.209746+00:00</updated>
   <link href="file:///feeds/bls_ppi.xml" rel="self"/>
   <link href="https://www.bls.gov/feed/ppi.rss" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -10,7 +10,7 @@
   <entry>
     <id>ppi-2025_11_25__08_30_00</id>
     <title>PPI for final demand advances 0.3% in September; goods rise 0.9%, services unchanged</title>
-    <updated>2026-10-25T09:58:50.565822+00:00</updated>
+    <updated>2026-10-25T14:07:17.210447+00:00</updated>
     <link href="https://www.bls.gov/news.release/archives/ppi_11252025.htm"/>
     <summary>The Producer Price Index for final demand increased 0.3 percent in September. Prices for final  demand goods advanced 0.9 percent, and the index for final demand services was unchanged. On  an unadjusted basis, prices for final demand moved up 2.7 percent for the 12 months ended in  September.</summary>
     <published>2025-11-25T08:30:00-05:00</published>
@@ -18,7 +18,7 @@
   <entry>
     <id>ppi-2026_01_14__08_30_00</id>
     <title>PPI for final demand advances 0.2% in November; goods rise 0.9%, services unchanged</title>
-    <updated>2026-10-25T09:58:50.565791+00:00</updated>
+    <updated>2026-10-25T14:07:17.210401+00:00</updated>
     <link href="https://www.bls.gov/news.release/archives/ppi_01142026.htm"/>
     <summary>The Producer Price Index for final demand increased 0.2 percent in November. Prices for final  demand goods advanced 0.9 percent, and the index for final demand services was unchanged. On  an unadjusted basis, prices for final demand rose 3.0 percent for the 12 months ended in  November.</summary>
     <published>2026-01-14T08:30:00-05:00</published>
@@ -26,7 +26,7 @@
   <entry>
     <id>ppi-2026_01_30__08_30_00</id>
     <title>PPI for final demand advances 0.5% in December; services rise 0.7%, goods unchanged</title>
-    <updated>2026-10-25T09:58:50.565761+00:00</updated>
+    <updated>2026-10-25T14:07:17.210355+00:00</updated>
     <link href="https://www.bls.gov/news.release/archives/ppi_01302026.htm"/>
     <summary>The Producer Price Index for final demand increased 0.5 percent in December. Prices for final  demand services advanced 0.7 percent, and the index for final demand goods was unchanged. On  an unadjusted basis, prices for final demand rose 3.0 percent in 2025.</summary>
     <published>2026-01-30T08:30:00-05:00</published>
@@ -34,7 +34,7 @@
   <entry>
     <id>ppi-2026_02_27__08_30_00</id>
     <title>PPI for final demand advances 0.5% in January; services rise 0.8%, goods decrease 0.3%</title>
-    <updated>2026-10-25T09:58:50.565730+00:00</updated>
+    <updated>2026-10-25T14:07:17.210308+00:00</updated>
     <link href="https://www.bls.gov/news.release/archives/ppi_02272026.htm"/>
     <summary>The Producer Price Index for final demand increased 0.5 percent in January. Prices for final  demand services advanced 0.8 percent, and the index for final demand goods declined 0.3  percent. On an unadjusted basis, the index for final demand rose 2.9 percent for the 12 months  ended in January.</summary>
     <published>2026-02-27T08:30:00-05:00</published>
@@ -42,7 +42,7 @@
   <entry>
     <id>ppi-2026_03_18__08_30_00</id>
     <title>PPI for final demand advances 0.7% in February; services rise 0.5%, goods increase 1.1%</title>
-    <updated>2026-10-25T09:58:50.565698+00:00</updated>
+    <updated>2026-10-25T14:07:17.210260+00:00</updated>
     <link href="https://www.bls.gov/news.release/archives/ppi_03182026.htm"/>
     <summary>The Producer Price Index for final demand increased 0.7 percent in February. Prices for final  demand services moved up 0.5 percent, and the index for final demand goods advanced 1.1  percent. The index for final demand rose 3.4 percent for the 12 months ended in February.</summary>
     <published>2026-03-18T08:30:00-04:00</published>
@@ -50,7 +50,7 @@
   <entry>
     <id>ppi-2026_04_14__08_30_00</id>
     <title>PPI for final demand advances 0.5% in March; goods rise 1.6%, services unchanged</title>
-    <updated>2026-10-25T09:58:50.565667+00:00</updated>
+    <updated>2026-10-25T14:07:17.210212+00:00</updated>
     <link href="https://www.bls.gov/news.release/archives/ppi_04142026.htm"/>
     <summary>The Producer Price Index for final demand increased 0.5 percent in March. Prices for final  demand goods advanced 1.6 percent, and the index for final demand services was unchanged.  Prices for final demand rose 4.0 percent for the 12 months ended in March.</summary>
     <published>2026-04-14T08:30:00-04:00</published>
@@ -58,7 +58,7 @@
   <entry>
     <id>ppi-2026_05_13__08_30_00</id>
     <title>PPI for final demand advances 1.4% in April; services rise 1.2%, goods increase 2.0%</title>
-    <updated>2026-10-25T09:58:50.565637+00:00</updated>
+    <updated>2026-10-25T14:07:17.210161+00:00</updated>
     <link href="https://www.bls.gov/news.release/archives/ppi_05132026.htm"/>
     <summary>The Producer Price Index for final demand increased 1.4 percent in April. Prices for final  demand services advanced 1.2 percent, and the index for final demand goods moved up 2.0  percent. Prices for final demand rose 6.0 percent for the 12 months ended in April.</summary>
     <published>2026-05-13T08:30:00-04:00</published>
@@ -66,7 +66,7 @@
   <entry>
     <id>ppi-2026_06_11__08_30_00</id>
     <title>PPI for final demand advances 1.1% in May; goods rise 2.8%, services increase 0.3%</title>
-    <updated>2026-10-25T09:58:50.565604+00:00</updated>
+    <updated>2026-10-25T14:07:17.210108+00:00</updated>
     <link href="https://www.bls.gov/news.release/archives/ppi_06112026.htm"/>
     <summary>The Producer Price Index for final demand rose 1.1 percent in May. Prices for final demand  goods increased 2.8 percent, and the index for final demand services moved up 0.3 percent.  Prices for final demand advanced 6.5 percent for the 12 months ended in May.</summary>
     <published>2026-06-11T08:30:00-04:00</published>
@@ -74,7 +74,7 @@
   <entry>
     <id>ppi-2026_07_15__07_50_27</id>
     <title>PPI for final demand declines 0.3% in June; goods fall 1.4%, services increase 0.2%</title>
-    <updated>2026-10-25T09:58:50.565571+00:00</updated>
+    <updated>2026-10-25T14:07:17.210058+00:00</updated>
     <link href="https://www.bls.gov/news.release/archives/ppi_07152026.htm"/>
     <summary>The Producer Price Index for final demand fell 0.3 percent in June. Prices for final demand  goods decreased 1.4 percent, and the index for final demand services moved up 0.2 percent.  Prices for final demand increased 5.5 percent for the 12 months ended in June.</summary>
     <published>2026-07-15T07:50:27.246000-04:00</published>
@@ -82,7 +82,7 @@
   <entry>
     <id>ppi-2026_08_13__07_50_26</id>
     <title>PPI for final demand unchanged in July; services advance 0.2%, goods fall 0.7%</title>
-    <updated>2026-10-25T09:58:50.565534+00:00</updated>
+    <updated>2026-10-25T14:07:17.210005+00:00</updated>
     <link href="https://www.bls.gov/news.release/archives/ppi_08132026.htm"/>
     <summary>The Producer Price Index for final demand was unchanged in July. Prices for final demand  services increased 0.2 percent, and the index for final demand goods decreased 0.7 percent.  Prices for final demand increased 4.7 percent for the 12 months ended in July.</summary>
     <published>2026-08-13T07:50:26.955000-04:00</published>
@@ -90,7 +90,7 @@
   <entry>
     <id>ppi-2026_09_10__07_50_35</id>
     <title>PPI for final demand moves up 0.4% in August; goods advance 1.1%, services rise 0.1%</title>
-    <updated>2026-10-25T09:58:50.565474+00:00</updated>
+    <updated>2026-10-25T14:07:17.209947+00:00</updated>
     <link href="https://www.bls.gov/news.release/archives/ppi_09102026.htm"/>
     <summary>The Producer Price Index for final demand moved up 0.4 percent in August. Prices for final  demand goods advanced 1.1 percent, and the index for final demand services increased 0.1  percent. Prices for final demand rose 5.4 percent for the 12 months ended in August.</summary>
     <published>2026-09-10T07:50:35.512000-04:00</published>
@@ -98,7 +98,7 @@
   <entry>
     <id>ppi-2026_10_15__07_50_51</id>
     <title>PPI for final demand increases 1.3% in September; goods advance 2.6%, services rise 0.8%</title>
-    <updated>2026-10-25T09:58:50.565407+00:00</updated>
+    <updated>2026-10-25T14:07:17.209877+00:00</updated>
     <link href="https://www.bls.gov/news.release/archives/ppi_10152026.htm"/>
     <summary>The Producer Price Index for final demand increased 1.3 percent in September. Prices for final  demand goods rose 2.6 percent, and the index for final demand services advanced 0.8 percent.  Prices for final demand moved up 6.3 percent for the 12 months ended in September.</summary>
     <published>2026-10-15T07:50:51.146000-04:00</published>
