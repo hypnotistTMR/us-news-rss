@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:irs_bulletins</id>
   <title>IRS Internal Revenue Bulletin (scrape)</title>
-  <updated>2026-10-25T20:11:24.852304+00:00</updated>
+  <updated>2026-10-25T22:42:28.543657+00:00</updated>
   <link href="file:///feeds/irs_bulletins.xml" rel="self"/>
   <link href="https://www.irs.gov/irb" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -10,241 +10,241 @@
   <entry>
     <id>https://www.irs.gov/irb/2026-15_IRB</id>
     <title>Internal Revenue Bulletin: 2026-15</title>
-    <updated>2026-10-25T20:11:24.852609+00:00</updated>
+    <updated>2026-10-25T22:42:28.543972+00:00</updated>
     <link href="https://www.irs.gov/irb/2026-15_IRB"/>
     <summary>IRS Internal Revenue Bulletin</summary>
-    <published>2026-10-25T20:11:24.852607+00:00</published>
+    <published>2026-10-25T22:42:28.543970+00:00</published>
   </entry>
   <entry>
     <id>https://www.irs.gov/irb/2026-16_IRB</id>
     <title>Internal Revenue Bulletin: 2026-16</title>
-    <updated>2026-10-25T20:11:24.852598+00:00</updated>
+    <updated>2026-10-25T22:42:28.543958+00:00</updated>
     <link href="https://www.irs.gov/irb/2026-16_IRB"/>
     <summary>IRS Internal Revenue Bulletin</summary>
-    <published>2026-10-25T20:11:24.852594+00:00</published>
+    <published>2026-10-25T22:42:28.543957+00:00</published>
   </entry>
   <entry>
     <id>https://www.irs.gov/irb/2026-17_IRB</id>
     <title>Internal Revenue Bulletin: 2026-17</title>
-    <updated>2026-10-25T20:11:24.852584+00:00</updated>
+    <updated>2026-10-25T22:42:28.543949+00:00</updated>
     <link href="https://www.irs.gov/irb/2026-17_IRB"/>
     <summary>IRS Internal Revenue Bulletin</summary>
-    <published>2026-10-25T20:11:24.852583+00:00</published>
+    <published>2026-10-25T22:42:28.543947+00:00</published>
   </entry>
   <entry>
     <id>https://www.irs.gov/irb/2026-18_IRB</id>
     <title>Internal Revenue Bulletin: 2026-18</title>
-    <updated>2026-10-25T20:11:24.852575+00:00</updated>
+    <updated>2026-10-25T22:42:28.543939+00:00</updated>
     <link href="https://www.irs.gov/irb/2026-18_IRB"/>
     <summary>IRS Internal Revenue Bulletin</summary>
-    <published>2026-10-25T20:11:24.852573+00:00</published>
+    <published>2026-10-25T22:42:28.543937+00:00</published>
   </entry>
   <entry>
     <id>https://www.irs.gov/irb/2026-19_IRB</id>
     <title>Internal Revenue Bulletin: 2026-19</title>
-    <updated>2026-10-25T20:11:24.852564+00:00</updated>
+    <updated>2026-10-25T22:42:28.543929+00:00</updated>
     <link href="https://www.irs.gov/irb/2026-19_IRB"/>
     <summary>IRS Internal Revenue Bulletin</summary>
-    <published>2026-10-25T20:11:24.852563+00:00</published>
+    <published>2026-10-25T22:42:28.543925+00:00</published>
   </entry>
   <entry>
     <id>https://www.irs.gov/irb/2026-20_IRB</id>
     <title>Internal Revenue Bulletin: 2026-20</title>
-    <updated>2026-10-25T20:11:24.852554+00:00</updated>
+    <updated>2026-10-25T22:42:28.543915+00:00</updated>
     <link href="https://www.irs.gov/irb/2026-20_IRB"/>
     <summary>IRS Internal Revenue Bulletin</summary>
-    <published>2026-10-25T20:11:24.852552+00:00</published>
+    <published>2026-10-25T22:42:28.543913+00:00</published>
   </entry>
   <entry>
     <id>https://www.irs.gov/irb/2026-21_IRB</id>
     <title>Internal Revenue Bulletin: 2026-21</title>
-    <updated>2026-10-25T20:11:24.852544+00:00</updated>
+    <updated>2026-10-25T22:42:28.543905+00:00</updated>
     <link href="https://www.irs.gov/irb/2026-21_IRB"/>
     <summary>IRS Internal Revenue Bulletin</summary>
-    <published>2026-10-25T20:11:24.852543+00:00</published>
+    <published>2026-10-25T22:42:28.543903+00:00</published>
   </entry>
   <entry>
     <id>https://www.irs.gov/irb/2026-22_IRB</id>
     <title>Internal Revenue Bulletin: 2026-22</title>
-    <updated>2026-10-25T20:11:24.852535+00:00</updated>
+    <updated>2026-10-25T22:42:28.543896+00:00</updated>
     <link href="https://www.irs.gov/irb/2026-22_IRB"/>
     <summary>IRS Internal Revenue Bulletin</summary>
-    <published>2026-10-25T20:11:24.852533+00:00</published>
+    <published>2026-10-25T22:42:28.543894+00:00</published>
   </entry>
   <entry>
     <id>https://www.irs.gov/irb/2026-23_IRB</id>
     <title>Internal Revenue Bulletin: 2026-23</title>
-    <updated>2026-10-25T20:11:24.852525+00:00</updated>
+    <updated>2026-10-25T22:42:28.543887+00:00</updated>
     <link href="https://www.irs.gov/irb/2026-23_IRB"/>
     <summary>IRS Internal Revenue Bulletin</summary>
-    <published>2026-10-25T20:11:24.852524+00:00</published>
+    <published>2026-10-25T22:42:28.543885+00:00</published>
   </entry>
   <entry>
     <id>https://www.irs.gov/irb/2026-24_IRB</id>
     <title>Internal Revenue Bulletin: 2026-24</title>
-    <updated>2026-10-25T20:11:24.852516+00:00</updated>
+    <updated>2026-10-25T22:42:28.543877+00:00</updated>
     <link href="https://www.irs.gov/irb/2026-24_IRB"/>
     <summary>IRS Internal Revenue Bulletin</summary>
-    <published>2026-10-25T20:11:24.852514+00:00</published>
+    <published>2026-10-25T22:42:28.543876+00:00</published>
   </entry>
   <entry>
     <id>https://www.irs.gov/irb/2026-25_irb</id>
     <title>Internal Revenue Bulletin: 2026-25</title>
-    <updated>2026-10-25T20:11:24.852507+00:00</updated>
+    <updated>2026-10-25T22:42:28.543868+00:00</updated>
     <link href="https://www.irs.gov/irb/2026-25_irb"/>
     <summary>IRS Internal Revenue Bulletin</summary>
-    <published>2026-10-25T20:11:24.852505+00:00</published>
+    <published>2026-10-25T22:42:28.543867+00:00</published>
   </entry>
   <entry>
     <id>https://www.irs.gov/irb/2026-26_irb</id>
     <title>Internal Revenue Bulletin: 2026-26</title>
-    <updated>2026-10-25T20:11:24.852498+00:00</updated>
+    <updated>2026-10-25T22:42:28.543859+00:00</updated>
     <link href="https://www.irs.gov/irb/2026-26_irb"/>
     <summary>IRS Internal Revenue Bulletin</summary>
-    <published>2026-10-25T20:11:24.852496+00:00</published>
+    <published>2026-10-25T22:42:28.543858+00:00</published>
   </entry>
   <entry>
     <id>https://www.irs.gov/irb/2026-27_irb</id>
     <title>Internal Revenue Bulletin: 2026-27</title>
-    <updated>2026-10-25T20:11:24.852488+00:00</updated>
+    <updated>2026-10-25T22:42:28.543850+00:00</updated>
     <link href="https://www.irs.gov/irb/2026-27_irb"/>
     <summary>IRS Internal Revenue Bulletin</summary>
-    <published>2026-10-25T20:11:24.852487+00:00</published>
+    <published>2026-10-25T22:42:28.543848+00:00</published>
   </entry>
   <entry>
     <id>https://www.irs.gov/irb/2026-28_irb</id>
     <title>Internal Revenue Bulletin: 2026-28</title>
-    <updated>2026-10-25T20:11:24.852480+00:00</updated>
+    <updated>2026-10-25T22:42:28.543841+00:00</updated>
     <link href="https://www.irs.gov/irb/2026-28_irb"/>
     <summary>IRS Internal Revenue Bulletin</summary>
-    <published>2026-10-25T20:11:24.852478+00:00</published>
+    <published>2026-10-25T22:42:28.543839+00:00</published>
   </entry>
   <entry>
     <id>https://www.irs.gov/irb/2026-29_irb</id>
     <title>Internal Revenue Bulletin: 2026-29</title>
-    <updated>2026-10-25T20:11:24.852470+00:00</updated>
+    <updated>2026-10-25T22:42:28.543832+00:00</updated>
     <link href="https://www.irs.gov/irb/2026-29_irb"/>
     <summary>IRS Internal Revenue Bulletin</summary>
-    <published>2026-10-25T20:11:24.852469+00:00</published>
+    <published>2026-10-25T22:42:28.543830+00:00</published>
   </entry>
   <entry>
     <id>https://www.irs.gov/irb/2026-30_IRB</id>
     <title>Internal Revenue Bulletin: 2026-30</title>
-    <updated>2026-10-25T20:11:24.852461+00:00</updated>
+    <updated>2026-10-25T22:42:28.543822+00:00</updated>
     <link href="https://www.irs.gov/irb/2026-30_IRB"/>
     <summary>IRS Internal Revenue Bulletin</summary>
-    <published>2026-10-25T20:11:24.852460+00:00</published>
+    <published>2026-10-25T22:42:28.543821+00:00</published>
   </entry>
   <entry>
     <id>https://www.irs.gov/irb/2026-31_irb</id>
     <title>Internal Revenue Bulletin: 2026-31</title>
-    <updated>2026-10-25T20:11:24.852452+00:00</updated>
+    <updated>2026-10-25T22:42:28.543814+00:00</updated>
     <link href="https://www.irs.gov/irb/2026-31_irb"/>
     <summary>IRS Internal Revenue Bulletin</summary>
-    <published>2026-10-25T20:11:24.852451+00:00</published>
+    <published>2026-10-25T22:42:28.543812+00:00</published>
   </entry>
   <entry>
     <id>https://www.irs.gov/irb/2026-32_IRB</id>
     <title>Internal Revenue Bulletin: 2026-32</title>
-    <updated>2026-10-25T20:11:24.852443+00:00</updated>
+    <updated>2026-10-25T22:42:28.543805+00:00</updated>
     <link href="https://www.irs.gov/irb/2026-32_IRB"/>
     <summary>IRS Internal Revenue Bulletin</summary>
-    <published>2026-10-25T20:11:24.852441+00:00</published>
+    <published>2026-10-25T22:42:28.543803+00:00</published>
   </entry>
   <entry>
     <id>https://www.irs.gov/irb/2026-33_irb</id>
     <title>Internal Revenue Bulletin: 2026-33</title>
-    <updated>2026-10-25T20:11:24.852433+00:00</updated>
+    <updated>2026-10-25T22:42:28.543795+00:00</updated>
     <link href="https://www.irs.gov/irb/2026-33_irb"/>
     <summary>IRS Internal Revenue Bulletin</summary>
-    <published>2026-10-25T20:11:24.852431+00:00</published>
+    <published>2026-10-25T22:42:28.543793+00:00</published>
   </entry>
   <entry>
     <id>https://www.irs.gov/irb/2026-34_irb</id>
     <title>Internal Revenue Bulletin: 2026-34</title>
-    <updated>2026-10-25T20:11:24.852423+00:00</updated>
+    <updated>2026-10-25T22:42:28.543785+00:00</updated>
     <link href="https://www.irs.gov/irb/2026-34_irb"/>
     <summary>IRS Internal Revenue Bulletin</summary>
-    <published>2026-10-25T20:11:24.852421+00:00</published>
+    <published>2026-10-25T22:42:28.543783+00:00</published>
   </entry>
   <entry>
     <id>https://www.irs.gov/irb/2026-35_irb</id>
     <title>Internal Revenue Bulletin: 2026-35</title>
-    <updated>2026-10-25T20:11:24.852414+00:00</updated>
+    <updated>2026-10-25T22:42:28.543776+00:00</updated>
     <link href="https://www.irs.gov/irb/2026-35_irb"/>
     <summary>IRS Internal Revenue Bulletin</summary>
-    <published>2026-10-25T20:11:24.852412+00:00</published>
+    <published>2026-10-25T22:42:28.543774+00:00</published>
   </entry>
   <entry>
     <id>https://www.irs.gov/irb/2026-36_irb</id>
     <title>Internal Revenue Bulletin: 2026-36</title>
-    <updated>2026-10-25T20:11:24.852404+00:00</updated>
+    <updated>2026-10-25T22:42:28.543765+00:00</updated>
     <link href="https://www.irs.gov/irb/2026-36_irb"/>
     <summary>IRS Internal Revenue Bulletin</summary>
-    <published>2026-10-25T20:11:24.852402+00:00</published>
+    <published>2026-10-25T22:42:28.543763+00:00</published>
   </entry>
   <entry>
     <id>https://www.irs.gov/irb/2026-37_IRB</id>
     <title>Internal Revenue Bulletin: 2026-37</title>
-    <updated>2026-10-25T20:11:24.852393+00:00</updated>
+    <updated>2026-10-25T22:42:28.543754+00:00</updated>
     <link href="https://www.irs.gov/irb/2026-37_IRB"/>
     <summary>IRS Internal Revenue Bulletin</summary>
-    <published>2026-10-25T20:11:24.852390+00:00</published>
+    <published>2026-10-25T22:42:28.543752+00:00</published>
   </entry>
   <entry>
     <id>https://www.irs.gov/irb/2026-38_irb</id>
     <title>Internal Revenue Bulletin: 2026-38</title>
-    <updated>2026-10-25T20:11:24.852381+00:00</updated>
+    <updated>2026-10-25T22:42:28.543744+00:00</updated>
     <link href="https://www.irs.gov/irb/2026-38_irb"/>
     <summary>IRS Internal Revenue Bulletin</summary>
-    <published>2026-10-25T20:11:24.852380+00:00</published>
+    <published>2026-10-25T22:42:28.543741+00:00</published>
   </entry>
   <entry>
     <id>https://www.irs.gov/irb/2026-39_irb</id>
     <title>Internal Revenue Bulletin: 2026-39</title>
-    <updated>2026-10-25T20:11:24.852371+00:00</updated>
+    <updated>2026-10-25T22:42:28.543732+00:00</updated>
     <link href="https://www.irs.gov/irb/2026-39_irb"/>
     <summary>IRS Internal Revenue Bulletin</summary>
-    <published>2026-10-25T20:11:24.852369+00:00</published>
+    <published>2026-10-25T22:42:28.543730+00:00</published>
   </entry>
   <entry>
     <id>https://www.irs.gov/irb/2026-40_irb</id>
     <title>Internal Revenue Bulletin: 2026-40</title>
-    <updated>2026-10-25T20:11:24.852358+00:00</updated>
+    <updated>2026-10-25T22:42:28.543717+00:00</updated>
     <link href="https://www.irs.gov/irb/2026-40_irb"/>
     <summary>IRS Internal Revenue Bulletin</summary>
-    <published>2026-10-25T20:11:24.852356+00:00</published>
+    <published>2026-10-25T22:42:28.543714+00:00</published>
   </entry>
   <entry>
     <id>https://www.irs.gov/irb/2026-41_IRB</id>
     <title>Internal Revenue Bulletin: 2026-41</title>
-    <updated>2026-10-25T20:11:24.852347+00:00</updated>
+    <updated>2026-10-25T22:42:28.543700+00:00</updated>
     <link href="https://www.irs.gov/irb/2026-41_IRB"/>
     <summary>IRS Internal Revenue Bulletin</summary>
-    <published>2026-10-25T20:11:24.852344+00:00</published>
+    <published>2026-10-25T22:42:28.543698+00:00</published>
   </entry>
   <entry>
     <id>https://www.irs.gov/irb/2026-42_irb</id>
     <title>Internal Revenue Bulletin: 2026-42</title>
-    <updated>2026-10-25T20:11:24.852332+00:00</updated>
+    <updated>2026-10-25T22:42:28.543684+00:00</updated>
     <link href="https://www.irs.gov/irb/2026-42_irb"/>
     <summary>IRS Internal Revenue Bulletin</summary>
-    <published>2026-10-25T20:11:24.852331+00:00</published>
+    <published>2026-10-25T22:42:28.543682+00:00</published>
   </entry>
   <entry>
     <id>https://www.irs.gov/irb/2026-43_irb</id>
     <title>Internal Revenue Bulletin: 2026-43</title>
-    <updated>2026-10-25T20:11:24.852324+00:00</updated>
+    <updated>2026-10-25T22:42:28.543676+00:00</updated>
     <link href="https://www.irs.gov/irb/2026-43_irb"/>
     <summary>IRS Internal Revenue Bulletin</summary>
-    <published>2026-10-25T20:11:24.852322+00:00</published>
+    <published>2026-10-25T22:42:28.543675+00:00</published>
   </entry>
   <entry>
     <id>https://www.irs.gov/irb/2026-44_IRB</id>
     <title>Internal Revenue Bulletin: 2026-44</title>
-    <updated>2026-10-25T20:11:24.852311+00:00</updated>
+    <updated>2026-10-25T22:42:28.543664+00:00</updated>
     <link href="https://www.irs.gov/irb/2026-44_IRB"/>
     <summary>IRS Internal Revenue Bulletin</summary>
-    <published>2026-10-25T20:11:24.852308+00:00</published>
+    <published>2026-10-25T22:42:28.543660+00:00</published>
   </entry>
 </feed>
