@@ -2,103 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:reddit_money</id>
   <title>Reddit - Money / Tax / Loans</title>
-  <updated>2026-10-25T22:43:06.560635+00:00</updated>
+  <updated>2026-10-26T00:54:11.683482+00:00</updated>
   <link href="file:///feeds/reddit_money.xml" rel="self"/>
   <link href="https://www.reddit.com/r/personalfinance+tax+taxes+Frugal+povertyfinance+studentloans+CreditCards+debt/hot/.rss?limit=100" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: voicetracking / Mode: rss</subtitle>
   <entry>
-    <id>t3_1xfb8j1</id>
-    <title>Skydance Paramount Deal: How value cost basis of WBD?</title>
-    <updated>2026-10-25T22:43:06.562862+00:00</updated>
-    <link href="https://www.reddit.com/r/tax/comments/1xfb8j1/skydance_paramount_deal_how_value_cost_basis_of/"/>
-    <summary>I bought and held original Time Inc. (TL) stock in 1985, before all the spin-offs and mergers. How do I value the WBD shares that were liquidated as part of the Skydance deal on October 7, 2026? Costbasis dot com doesn&amp;#39;t let me enter the first merger, when TL became Time Warner Inc., in 1990. Appreciate any suggestions!  &amp;#32; submitted by &amp;#32;  /u/Allrightall99  &amp;#32; to &amp;#32;  r/tax   [link] &amp;#32; [comments]</summary>
-    <published>2026-10-25T19:22:49+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1xfagh4</id>
-    <title>How much of my trust fund should I spend</title>
-    <updated>2026-10-25T22:43:06.562800+00:00</updated>
-    <link href="https://www.reddit.com/r/personalfinance/comments/1xfagh4/how_much_of_my_trust_fund_should_i_spend/"/>
-    <summary>I have lived my whole life being pretty poor and anxious about money. I did AmeriCorps before collage and got a full ride so I graduated undergrad with no debt. I had been living in Appalachia and was pretty miserable so I decided to move to a city where some of my friends lived but I was worried I didnt have enough money. That is when my parents revealed that I had inherited 150,000 dollars from my grandfather when I was 17, and suggested I use that to move. This was a year ago.  All of the adv</summary>
-    <published>2026-10-25T18:52:03+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1xf2pw3</id>
-    <title>Renters pay more for car insurance</title>
-    <updated>2026-10-25T22:43:06.562739+00:00</updated>
-    <link href="https://www.reddit.com/r/povertyfinance/comments/1xf2pw3/renters_pay_more_for_car_insurance/"/>
-    <summary>Yesterday I read that renters pay 7% more on average than similar homeowners (same driving record, same coverage, zip code, make and model, etc) for car insurance. Another cost of being poor.  &amp;#32; submitted by &amp;#32;  /u/Successful_Focus9797  &amp;#32; to &amp;#32;  r/povertyfinance   [link] &amp;#32; [comments]</summary>
-    <published>2026-10-25T13:43:05+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1xf7xq0</id>
-    <title>In deep dog shit: consolidation or rehab</title>
-    <updated>2026-10-25T22:43:06.562675+00:00</updated>
-    <link href="https://www.reddit.com/r/StudentLoans/comments/1xf7xq0/in_deep_dog_shit_consolidation_or_rehab/"/>
-    <summary>Context: Bfs student loans for sure in default, never formally withdrew. We’re not even sure if his fam signed up for them under his or his mom’s SSN (we can’t get her to give us details either bc she doesn’t know). We’re going back to his college to see if the financial aid department or somebody else can help us find his student ID (tried using his social on the federal loan website with no luck, nothing showed up). TLDR: Should we rehabilitate student loans or consolidate? What even is the di</summary>
-    <published>2026-10-25T17:12:13+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1xeyaas</id>
-    <title>Consolidating to a lower interest service provider like SO-FI: what is your experience.</title>
-    <updated>2026-10-25T22:43:06.562613+00:00</updated>
-    <link href="https://www.reddit.com/r/StudentLoans/comments/1xeyaas/consolidating_to_a_lower_interest_service/"/>
-    <summary>It’s taken 20 years but I’m finally seeing possible light at the end of the tunnel. For whatever reason I don’t qualify for any forgiveness. The clock was reset when I consolidated so I will be paying back every penny of my student loans (and yes I triple check and sought professional advice). Paying off my private grad school loans was exceedingly easier; better customer service, more transparency and lower interest. I paid those off with out a lot of drama. My federal loans however continue to</summary>
-    <published>2026-10-25T09:51:39+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1xf2rew</id>
-    <title>How much is "enough" saved up when planning to move? 23, Bartender</title>
-    <updated>2026-10-25T22:43:06.562551+00:00</updated>
-    <link href="https://www.reddit.com/r/personalfinance/comments/1xf2rew/how_much_is_enough_saved_up_when_planning_to_move/"/>
-    <summary>Hi! I&amp;#39;m 23, graduated university with a degree in film/video production last may, and am still living in the city where my school is. I originally intended to find an adjacent career quickly (as we all do lol), but I&amp;#39;ve been bartending at a restaurant since. For over a year now I&amp;#39;ve been telling myself that &amp;quot;the job&amp;quot; is just a few months away, but enough time has passed that I think I just need to go off somewhere and figure it out rather than waiting for an offer to lift m</summary>
-    <published>2026-10-25T13:45:00+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1xfec2i</id>
-    <title>Student loan consolidation</title>
-    <updated>2026-10-25T22:43:06.562490+00:00</updated>
-    <link href="https://www.reddit.com/r/StudentLoans/comments/1xfec2i/student_loan_consolidation/"/>
-    <summary>Wondering if I can pick brains on this issue as I’m entering the phase of new physician attendinghood/student loan repayment. I currently have approximate 275k of student loans, predominately federal with interest rates averaging 5.5-6.5%. I’m trying to decide if it makes more sense to consolidate through a private lender. I currently have a 5 year repayment offer of 4.7% interest with 5.1k monthly payments through SoFi. My goals align with aggressively paying off faster and there is no penalty </summary>
-    <published>2026-10-25T21:26:59+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1xfeynr</id>
-    <title>I am selling a rental by end of this year and already maxed out my Roth IRA, will this be an issue for this year or next?</title>
-    <updated>2026-10-25T22:43:06.562429+00:00</updated>
-    <link href="https://www.reddit.com/r/tax/comments/1xfeynr/i_am_selling_a_rental_by_end_of_this_year_and/"/>
-    <summary>Apparently sale of a 2nd home counts towards MAGI and could put me over for the Roth IRA income limit, does this mean I need to withdraw my contribution this year and/or cannot contribute to my Roth IRA next year?  &amp;#32; submitted by &amp;#32;  /u/saul2015  &amp;#32; to &amp;#32;  r/tax   [link] &amp;#32; [comments]</summary>
-    <published>2026-10-25T21:54:28+00:00</published>
+    <id>t3_1xes19h</id>
+    <title>Living in poverty knowing an “inheritance” is coming.</title>
+    <updated>2026-10-26T00:54:11.684794+00:00</updated>
+    <link href="https://www.reddit.com/r/povertyfinance/comments/1xes19h/living_in_poverty_knowing_an_inheritance_is_coming/"/>
+    <summary>I don’t know if anyone has dealt with this, but I just needed to vent. My dad died last July, and we were estranged at the time of his passing. Before that, he was quite literally my favorite person in the world - but a series of choices and events led to him and I no longer having a relationship. As far as I knew, he didn’t have anything to pass on to my sister and me. But two weeks ago, I got a call from a disability law firm saying that he had been posthumously approved for his disability cla</summary>
+    <published>2026-10-25T03:41:23+00:00</published>
   </entry>
   <entry>
     <id>t3_1xfezfj</id>
     <title>Just want to be sure I'm understanding correctly...</title>
-    <updated>2026-10-25T22:43:06.562366+00:00</updated>
+    <updated>2026-10-26T00:54:11.684759+00:00</updated>
     <link href="https://www.reddit.com/r/StudentLoans/comments/1xfezfj/just_want_to_be_sure_im_understanding_correctly/"/>
     <summary>So I&amp;#39;ve been sitting trying to decide what&amp;#39;s my best option given the choices I have for a new repayment plan. (I was on SAVE and gotta choose a new one). Playing with online calculators and the calculator provided by DOE online my best options are either RAP or IBR currently with both my payments would be simiar (give or take a few dollars). My current employer would qualify me to get on PSLF both plans accept it so its a no brainer for me at this point.  However when reading on line I </summary>
     <published>2026-10-25T21:55:27+00:00</published>
   </entry>
   <entry>
-    <id>t3_1xff7fp</id>
-    <title>To move or not to move?</title>
-    <updated>2026-10-25T22:43:06.562280+00:00</updated>
-    <link href="https://www.reddit.com/r/StudentLoans/comments/1xff7fp/to_move_or_not_to_move/"/>
-    <summary>Hi there! I&amp;#39;m was wondering if I should move away for school or not. For context, I&amp;#39;m a senior in high school, no dependants. Considering moving to another town to pursue a nursing degree, over staying in my town and studying a general science degree. Moving away will cost me about 5k in loans, although I should be able to pay for years 2-4 through summer work. Staying home will be much cheaper, around 2k for year one after I empty my savings, and combine and entrance scholarship with su</summary>
-    <published>2026-10-25T22:05:01+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1xf6gqi</id>
-    <title>Late income tax payment question</title>
-    <updated>2026-10-25T22:43:06.562218+00:00</updated>
-    <link href="https://www.reddit.com/r/tax/comments/1xf6gqi/late_income_tax_payment_question/"/>
-    <summary>Basically, had a bunch of personal losses in family and junk while also paying off other bills that were far more in my face about paying them and totally forgot to make payments on my income tax. It&amp;#39;s not what I would consider a low amount, like $1500 after penalities. I already have a schedule payment for it and I&amp;#39;m going to pay it off, it just slipped my mind and that&amp;#39;s my fault. I just noticed that when I went onto the irs site it had a notice that, paraphased, basically said &amp;qu</summary>
-    <published>2026-10-25T16:14:57+00:00</published>
+    <id>t3_1xesasl</id>
+    <title>Surviving the winter in a car</title>
+    <updated>2026-10-26T00:54:11.684722+00:00</updated>
+    <link href="https://www.reddit.com/r/povertyfinance/comments/1xesasl/surviving_the_winter_in_a_car/"/>
+    <summary>Hello, I posted on here a while back about having to live on my own once I turn 18 during my last year of high school. I am now 18 and have been able to keep my grades up for the most part. I’m still working and was even able to buy a car, including the title, registration, and insurance. Unfortunately, it took up a large portion of my savings. The car is in excellent condition, but I’m now worried about how I’ll manage the winter. I don’t have any friends I can stay with, and booking a place to</summary>
+    <published>2026-10-25T03:55:38+00:00</published>
   </entry>
   <entry>
     <id>t3_1xf9va6</id>
     <title>W-4 new job (Struggling)</title>
-    <updated>2026-10-25T22:43:06.562157+00:00</updated>
+    <updated>2026-10-26T00:54:11.684686+00:00</updated>
     <link href="https://www.reddit.com/r/tax/comments/1xf9va6/w4_new_job_struggling/"/>
     <summary>Im not very smart when it comes to this so I may have a lot of questions, please bear with me. Any help is seriously appreciated. Also I feel like I may be over complicating things but I want to make sure I’m doing it correctly. I have two jobs, one of which I’m starting in November. I’ve earned more at my current job so far this year, and I expect to earn significantly less from my new job for the remainder of this year. However, next year, I expect my new job to become my higher-paying job. I’</summary>
     <published>2026-10-25T18:28:54+00:00</published>
@@ -106,95 +42,151 @@
   <entry>
     <id>t3_1xeihy3</id>
     <title>23 year old me screwed over 33 year old me</title>
-    <updated>2026-10-25T22:43:06.562092+00:00</updated>
+    <updated>2026-10-26T00:54:11.684650+00:00</updated>
     <link href="https://www.reddit.com/r/StudentLoans/comments/1xeihy3/23_year_old_me_screwed_over_33_year_old_me/"/>
     <summary>I am a teacher(already a problem), that started with $110,000 of student loan debt. I managed to pay off my private $66,000 student loan. Im really proud of that! I thought that after the $1300 monthly payment dropped to $300 I could actually live. As a teacher who works for a non for profit magnet school, I was planning to apply for student loan forgiveness, not the teacher student loan forgiveness because I’m not one of the kinds of teachers that qualify for the $17000 forgiveness. I got my ma</summary>
     <published>2026-10-24T20:07:41+00:00</published>
   </entry>
   <entry>
-    <id>t3_1xes19h</id>
-    <title>Living in poverty knowing an “inheritance” is coming.</title>
-    <updated>2026-10-25T22:43:06.562027+00:00</updated>
-    <link href="https://www.reddit.com/r/povertyfinance/comments/1xes19h/living_in_poverty_knowing_an_inheritance_is_coming/"/>
-    <summary>I don’t know if anyone has dealt with this, but I just needed to vent. My dad died last July, and we were estranged at the time of his passing. Before that, he was quite literally my favorite person in the world - but a series of choices and events led to him and I no longer having a relationship. As far as I knew, he didn’t have anything to pass on to my sister and me. But two weeks ago, I got a call from a disability law firm saying that he had been posthumously approved for his disability cla</summary>
-    <published>2026-10-25T03:41:23+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1xeow84</id>
-    <title>It's my birthday tomorrow, and i have $4.27 in my bank account. :(</title>
-    <updated>2026-10-25T22:43:06.561963+00:00</updated>
-    <link href="https://www.reddit.com/r/povertyfinance/comments/1xeow84/its_my_birthday_tomorrow_and_i_have_427_in_my/"/>
-    <summary>I guess I won&amp;#39;t be doing anything for my birthday tomorrow. I turn 55. Fuck I hate being poor. The last few months I had to get my car repaired and each time it cost well over $1500 to keep it going, which I had no choice but to do since I&amp;#39;m living out of it right now. I&amp;#39;ve been basically broke after getting paid every month for the last 4 months, and the stress is getting to me. I can&amp;#39;t even count how many job applications I&amp;#39;ve sent out, but it seems that even with all the j</summary>
-    <published>2026-10-25T00:59:45+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1xesasl</id>
-    <title>Surviving the winter in a car</title>
-    <updated>2026-10-25T22:43:06.561900+00:00</updated>
-    <link href="https://www.reddit.com/r/povertyfinance/comments/1xesasl/surviving_the_winter_in_a_car/"/>
-    <summary>Hello, I posted on here a while back about having to live on my own once I turn 18 during my last year of high school. I am now 18 and have been able to keep my grades up for the most part. I’m still working and was even able to buy a car, including the title, registration, and insurance. Unfortunately, it took up a large portion of my savings. The car is in excellent condition, but I’m now worried about how I’ll manage the winter. I don’t have any friends I can stay with, and booking a place to</summary>
-    <published>2026-10-25T03:55:38+00:00</published>
+    <id>t3_1xfibpl</id>
+    <title>Cheap sources of calories beyond the usual</title>
+    <updated>2026-10-26T00:54:11.684615+00:00</updated>
+    <link href="https://www.reddit.com/r/Frugal/comments/1xfibpl/cheap_sources_of_calories_beyond_the_usual/"/>
+    <summary>Hey all. So I know rice, oats, pasta, beans, etc. I do eat all those.  Thing is, Ive lived beyond my means for awhile, I want to get back on track. My main hobbies when I&amp;#39;m doing well are hiking, gym, and sports. All basically free for me. I avoid a lot of other spending when I&amp;#39;m doing those. Problem is that boosts my caloric needs a lot, meaning I need more food. I&amp;#39;m a big guy and I&amp;#39;m currently cutting so that helps, but I still need like 2.5k calories a day to not have too big </summary>
+    <published>2026-10-26T00:23:25+00:00</published>
   </entry>
   <entry>
     <id>t3_1xfaub6</id>
     <title>Proof of income as a 1099</title>
-    <updated>2026-10-25T22:43:06.561837+00:00</updated>
+    <updated>2026-10-26T00:54:11.684580+00:00</updated>
     <link href="https://www.reddit.com/r/StudentLoans/comments/1xfaub6/proof_of_income_as_a_1099/"/>
     <summary>I started as a 1099 contractor about 3 months ago and have been struggling financially while I build my clients. This is why I applied for economic hardship forbearance. I submitted the 2 paychecks I have received so far and it was denied. What do I submit to satisfy that requirement? This is all new to me as I have had W-2’s in the past.   &amp;#32; submitted by &amp;#32;  /u/hse640  &amp;#32; to &amp;#32;  r/StudentLoans   [link] &amp;#32; [comments]</summary>
     <published>2026-10-25T19:07:18+00:00</published>
   </entry>
   <entry>
-    <id>t3_1xfdv4c</id>
-    <title>Did your parents teach you about retirement and investment? Or did you mostly learn it somewhere else?</title>
-    <updated>2026-10-25T22:43:06.561773+00:00</updated>
-    <link href="https://www.reddit.com/r/personalfinance/comments/1xfdv4c/did_your_parents_teach_you_about_retirement_and/"/>
-    <summary>I&amp;#39;m American (millennial) and while my parents are actively engaged with their retirement assets, they never taught me anything about them. Maybe they assumed I would learn it in school or figure it out quickly and naturally. I wish I asked them as a teenager or young adult. Mom was enthusiastically lecturing me about mortgages for first time homeowners though. A few of my friends are well-versed in stocks but plenty have been in the same boat as me. Recently my friend who&amp;#39;s also in her </summary>
-    <published>2026-10-25T21:07:15+00:00</published>
+    <id>t3_1xfgdyz</id>
+    <title>Potentially dumb question about monthly student loan repayment amount.</title>
+    <updated>2026-10-26T00:54:11.684545+00:00</updated>
+    <link href="https://www.reddit.com/r/StudentLoans/comments/1xfgdyz/potentially_dumb_question_about_monthly_student/"/>
+    <summary>Hello,  I have 9 direct student loans which are all unconsolidated. I plan to consolidate them all soon, but Nelnet said I need to choose a repayment plan before 10/29.  I want to do the extended fixed repayment plan for 25 years. This plan says it will be $210 a month.  I just want to make sure, I’m not paying $210 a month for EACH loan since they are unconsolidated? Like if I sign up for this plan, I won’t pay $1,890 a month (210 x 9)?  Any clarification would be helpful, thank you   &amp;#32; sub</summary>
+    <published>2026-10-25T22:56:10+00:00</published>
   </entry>
   <entry>
-    <id>t3_1xfdt29</id>
-    <title>Mortgage payoff with no employment in sight?</title>
-    <updated>2026-10-25T22:43:06.561710+00:00</updated>
-    <link href="https://www.reddit.com/r/personalfinance/comments/1xfdt29/mortgage_payoff_with_no_employment_in_sight/"/>
-    <summary>I&amp;#39;ve been doing software for 35+ years and now at a point where it&amp;#39;s difficult to find work, mainly because of my age (confirmed by several recruiters). I turn 59 1/2 by Apr of 2027, single male in Tx, owe $390K on a VA home loan at 3.2%, no debt (other than home), and have $700K in a few IRA&amp;#39;s. I&amp;#39;ve been thinking I&amp;#39;d like to payoff the home before the 2028 elections. Half in 27 and the other half in 28 in an attempt to a lower tax bracket. Once the home is paid, I&amp;#39;m good</summary>
-    <published>2026-10-25T21:04:54+00:00</published>
+    <id>t3_1xfb8j1</id>
+    <title>Skydance Paramount Deal: How value cost basis of WBD?</title>
+    <updated>2026-10-26T00:54:11.684510+00:00</updated>
+    <link href="https://www.reddit.com/r/tax/comments/1xfb8j1/skydance_paramount_deal_how_value_cost_basis_of/"/>
+    <summary>I bought and held original Time Inc. (TL) stock in 1985, before all the spin-offs and mergers. How do I value the WBD shares that were liquidated as part of the Skydance deal on October 7, 2026? Costbasis dot com doesn&amp;#39;t let me enter the first merger, when TL became Time Warner Inc., in 1990. Appreciate any suggestions!  &amp;#32; submitted by &amp;#32;  /u/Allrightall99  &amp;#32; to &amp;#32;  r/tax   [link] &amp;#32; [comments]</summary>
+    <published>2026-10-25T19:22:49+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1xfh9nn</id>
+    <title>Final Notice - You will be Placed into a New Repayment Plan in 30 Days</title>
+    <updated>2026-10-26T00:54:11.684475+00:00</updated>
+    <link href="https://www.reddit.com/r/StudentLoans/comments/1xfh9nn/final_notice_you_will_be_placed_into_a_new/"/>
+    <summary>I received a final notice from Advantage, and the email says that I will be placed into a new repayment plan in 30 Days. I received this email on October 20th.   A little timeline: I received an email from Advantage on July 11th, 2026, that my SAVE Plan application has been denied.   That said, should I choose a new plan, I think otherwise they will automatically place me on the standard plan. Please give me your sage advice, Redditors. Thank you all!!  &amp;#32; submitted by &amp;#32;  /u/Rich-Security</summary>
+    <published>2026-10-25T23:35:55+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1xfifl0</id>
+    <title>Switched to IBR &amp; next year payment is showing $1600</title>
+    <updated>2026-10-26T00:54:11.684440+00:00</updated>
+    <link href="https://www.reddit.com/r/StudentLoans/comments/1xfifl0/switched_to_ibr_next_year_payment_is_showing_1600/"/>
+    <summary>I switched to IBR and I earn about $115k so my current payment is around $750 which is fine, but the letter from Ed financial shows my payment increasing to $1600 next year. Is that the standard plan or would it really increase that much? I am on auto recertification so I am confused.  &amp;#32; submitted by &amp;#32;  /u/Leading-Stress-1073  &amp;#32; to &amp;#32;  r/StudentLoans   [link] &amp;#32; [comments]</summary>
+    <published>2026-10-26T00:28:09+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1xfiw41</id>
+    <title>What are you doing if you cant afford to pay</title>
+    <updated>2026-10-26T00:54:11.684404+00:00</updated>
+    <link href="https://www.reddit.com/r/StudentLoans/comments/1xfiw41/what_are_you_doing_if_you_cant_afford_to_pay/"/>
+    <summary>My new amount to be paid is $1,085. There is no way i can pay this. I guess I won&amp;#39;t be purchasing a home any time soon.   &amp;#32; submitted by &amp;#32;  /u/Visible_Attitude7693  &amp;#32; to &amp;#32;  r/StudentLoans   [link] &amp;#32; [comments]</summary>
+    <published>2026-10-26T00:49:12+00:00</published>
   </entry>
   <entry>
     <id>t3_1xfb54c</id>
     <title>PAYE payment estimate stuck at the standard cap on the IDR application?</title>
-    <updated>2026-10-25T22:43:06.561649+00:00</updated>
+    <updated>2026-10-26T00:54:11.684366+00:00</updated>
     <link href="https://www.reddit.com/r/StudentLoans/comments/1xfb54c/paye_payment_estimate_stuck_at_the_standard_cap/"/>
     <summary>I&amp;#39;m recertifying PAYE (due 10/31) through the IDR application on studentaid.gov. On the &amp;quot;Select Your Repayment Plan&amp;quot; step, the numbers don&amp;#39;t add up. Loan info: ~$262.5K Direct Consolidation Loan at 4.625%, currently on PAYE, married filing separately (family size 2, spouse&amp;#39;s income not counted), AGI around $161K (mine alone). Monthly payments shown: - RAP: $1,344 - IBR: $1,610 - ICR: $2,327 - PAYE (my current plan): $2,760 - Standard: $1,377 (30 year term) RAP, IBR and ICR </summary>
     <published>2026-10-25T19:18:57+00:00</published>
   </entry>
   <entry>
-    <id>t3_1xf9xwm</id>
-    <title>90 day delay in Mohela processing new repayment plan</title>
-    <updated>2026-10-25T22:43:06.561585+00:00</updated>
-    <link href="https://www.reddit.com/r/StudentLoans/comments/1xf9xwm/90_day_delay_in_mohela_processing_new_repayment/"/>
-    <summary>I requested to move from SAVE to old IBR by my deadline in mid-October On finaid.gov. Today, I got an email from Mohela that there is a delay in processing my request and they will get to it in 90 days.  the email also says that if my loans are not in forbearance, that my loans remain due. I’m assuming that means that since I’m in the SAVE forbearance, I don’t have to pay until I get the next notice from Mohela that can come at most 90 days from now. I really can’t afford the standard 10 year pl</summary>
-    <published>2026-10-25T18:31:45+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1xf8qz4</id>
-    <title>It’s October 25. How much money do you have left this month?</title>
-    <updated>2026-10-25T22:43:06.561520+00:00</updated>
-    <link href="https://www.reddit.com/r/povertyfinance/comments/1xf8qz4/its_october_25_how_much_money_do_you_have_left/"/>
-    <summary>I’m at negative $144 but I think I can tough it out until I get paid on the 1st  Life is rough yall. Keep your heads high   &amp;#32; submitted by &amp;#32;  /u/Healthy-Chemistry664  &amp;#32; to &amp;#32;  r/povertyfinance   [link] &amp;#32; [comments]</summary>
-    <published>2026-10-25T17:44:27+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1xexmxr</id>
     <title>$43,000 in debt and can no longer pay for the monthly payments. What is my next step?</title>
-    <updated>2026-10-25T22:43:06.561453+00:00</updated>
+    <updated>2026-10-26T00:54:11.684329+00:00</updated>
     <link href="https://www.reddit.com/r/povertyfinance/comments/1xexmxr/43000_in_debt_and_can_no_longer_pay_for_the/"/>
     <summary>I live in Texas. I have that debt spread out over 11 cards. My monthly payments are at around 1,800. I make $2,200-2,300 a month. I can&amp;#39;t do it anymore. What services are available to speak with someone about this that doesn&amp;#39;t cost hardly anything? I have no clue where to start and what to even ask about. Debt management? Bankruptcy? Debt settlement? Is it better to talk to the credit card companies first? Please offer any insight you can. My husband is in about the same amount of debt. </summary>
     <published>2026-10-25T09:10:32+00:00</published>
   </entry>
   <entry>
+    <id>t3_1xfeynr</id>
+    <title>I am selling a rental by end of this year and already maxed out my Roth IRA, will this be an issue for this year or next?</title>
+    <updated>2026-10-26T00:54:11.684291+00:00</updated>
+    <link href="https://www.reddit.com/r/tax/comments/1xfeynr/i_am_selling_a_rental_by_end_of_this_year_and/"/>
+    <summary>Apparently sale of a 2nd home counts towards MAGI and could put me over for the Roth IRA income limit, does this mean I need to withdraw my contribution this year and/or cannot contribute to my Roth IRA next year?  &amp;#32; submitted by &amp;#32;  /u/saul2015  &amp;#32; to &amp;#32;  r/tax   [link] &amp;#32; [comments]</summary>
+    <published>2026-10-25T21:54:28+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1xff7fp</id>
+    <title>To move or not to move?</title>
+    <updated>2026-10-26T00:54:11.684255+00:00</updated>
+    <link href="https://www.reddit.com/r/StudentLoans/comments/1xff7fp/to_move_or_not_to_move/"/>
+    <summary>Hi there! I&amp;#39;m was wondering if I should move away for school or not. For context, I&amp;#39;m a senior in high school, no dependants. Considering moving to another town to pursue a nursing degree, over staying in my town and studying a general science degree. Moving away will cost me about 5k in loans, although I should be able to pay for years 2-4 through summer work. Staying home will be much cheaper, around 2k for year one after I empty my savings, and combine and entrance scholarship with su</summary>
+    <published>2026-10-25T22:05:01+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1xf6gqi</id>
+    <title>Late income tax payment question</title>
+    <updated>2026-10-26T00:54:11.684218+00:00</updated>
+    <link href="https://www.reddit.com/r/tax/comments/1xf6gqi/late_income_tax_payment_question/"/>
+    <summary>Basically, had a bunch of personal losses in family and junk while also paying off other bills that were far more in my face about paying them and totally forgot to make payments on my income tax. It&amp;#39;s not what I would consider a low amount, like $1500 after penalities. I already have a schedule payment for it and I&amp;#39;m going to pay it off, it just slipped my mind and that&amp;#39;s my fault. I just noticed that when I went onto the irs site it had a notice that, paraphased, basically said &amp;qu</summary>
+    <published>2026-10-25T16:14:57+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1xf909y</id>
+    <title>Ex wife got in trouble, I now have custody of my 1 year old daughter finally but I am just abkut to start my new job</title>
+    <updated>2026-10-26T00:54:11.684180+00:00</updated>
+    <link href="https://www.reddit.com/r/povertyfinance/comments/1xf909y/ex_wife_got_in_trouble_i_now_have_custody_of_my_1/"/>
+    <summary>Long story short was in an awful relationship and then my wife turned into an addict after we seperated and she got custody had some S tier lawyer spin me out to be the bad guy (go figure given where she is). I live in what could barely be called a small city with limited resources. Anyways I had been between jobs for awhile and am just about to start work. I had run through my savings while looking and was not expecting to have to take care of my almost 2 year old daughter. (Which is great i lo</summary>
+    <published>2026-10-25T17:54:32+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1xfdt29</id>
+    <title>Mortgage payoff with no employment in sight?</title>
+    <updated>2026-10-26T00:54:11.684142+00:00</updated>
+    <link href="https://www.reddit.com/r/personalfinance/comments/1xfdt29/mortgage_payoff_with_no_employment_in_sight/"/>
+    <summary>I&amp;#39;ve been doing software for 35+ years and now at a point where it&amp;#39;s difficult to find work, mainly because of my age (confirmed by several recruiters). I turn 59 1/2 by Apr of 2027, single male in Tx, owe $390K on a VA home loan at 3.2%, no debt (other than home), and have $700K in a few IRA&amp;#39;s. I&amp;#39;ve been thinking I&amp;#39;d like to payoff the home before the 2028 elections. Half in 27 and the other half in 28 in an attempt to a lower tax bracket. Once the home is paid, I&amp;#39;m good</summary>
+    <published>2026-10-25T21:04:54+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1xfim2y</id>
+    <title>At this point, it’s cheaper than grocery 😅</title>
+    <updated>2026-10-26T00:54:11.684103+00:00</updated>
+    <link href="https://www.reddit.com/r/povertyfinance/comments/1xfim2y/at_this_point_its_cheaper_than_grocery/"/>
+    <summary>&amp;#32; submitted by &amp;#32;  /u/ArtisticLibrary2973  &amp;#32; to &amp;#32;  r/povertyfinance   [link] &amp;#32; [comments]</summary>
+    <published>2026-10-26T00:36:04+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1xf7srd</id>
+    <title>Talking with adult children about finances</title>
+    <updated>2026-10-26T00:54:11.684039+00:00</updated>
+    <link href="https://www.reddit.com/r/personalfinance/comments/1xf7srd/talking_with_adult_children_about_finances/"/>
+    <summary>Just a random thought I ended up deciding to share :) We have four adult children. They all heard the same things from us, and while not giving them statements and specifics we always shared roughly where we stood and what we were doing. Of the four kids, one and her spouse appear to be avid savers, fully utilize all 401k and other options, as well as a state pension building. The second started out rough, but is now starting to save and getting excited seeing the results. The third has never ha</summary>
+    <published>2026-10-25T17:06:55+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1xfh3pw</id>
+    <title>Inkind credits added to citi American airlines executive card</title>
+    <updated>2026-10-26T00:54:11.684002+00:00</updated>
+    <link href="https://www.reddit.com/r/CreditCards/comments/1xfh3pw/inkind_credits_added_to_citi_american_airlines/"/>
+    <summary>Starting today, eligible Citi® / AAdvantage® Executive cardmembers will receive $200 in annual dining credits through inKind, with $100 to use from January through June and $100 to use from July through December each calendar year. Great time to join inkind right now Link: https://viewfromthewing.com/citi-adds-200-in-annual-dining-credits-to-its-american-airlines-executive-card-100-available-now/  &amp;#32; submitted by &amp;#32;  /u/OrneryOil1564  &amp;#32; to &amp;#32;  r/CreditCards   [link] &amp;#32; [comments]</summary>
+    <published>2026-10-25T23:28:26+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1xfedpj</id>
     <title>Does RAP encourage lump-sum payments?</title>
-    <updated>2026-10-25T22:43:06.561374+00:00</updated>
+    <updated>2026-10-26T00:54:11.683963+00:00</updated>
     <link href="https://www.reddit.com/r/StudentLoans/comments/1xfedpj/does_rap_encourage_lumpsum_payments/"/>
     <summary>Imagine a borrower who’s monthly mandatory payment doesn’t cover interest accrued, so their interest is essentially subsidized. If they make more than they need to cover mandatory payments, is it better for them to save that money will making minimum payments and eventually make a lump sum payment with the savings? This way pushing through that interest gap would make less of a dent against their payment. As opposed to paying as much as they can each month.   &amp;#32; submitted by &amp;#32;  /u/O_Lawd_</summary>
     <published>2026-10-25T21:28:58+00:00</published>
@@ -202,39 +194,31 @@
   <entry>
     <id>t3_1xfc8ky</id>
     <title>529 reimbursement timing paying for qualified expenses charged on credit card</title>
-    <updated>2026-10-25T22:43:06.561265+00:00</updated>
+    <updated>2026-10-26T00:54:11.683921+00:00</updated>
     <link href="https://www.reddit.com/r/tax/comments/1xfc8ky/529_reimbursement_timing_paying_for_qualified/"/>
     <summary>I have a child who will be going to college next year year, so I&amp;#39;m starting to think through the mechanics of using the 529 money. For simplicity, I&amp;#39;ll just pretend they are a freshman that started in Fall 2026.  If books are paid for using a credit card say on 12/10/26, and the credit card statement ends on 12/20/26 with payment due/made 1/20/27 (and we&amp;#39;d pay it off fully to avoid interest charges), do we consider the expense part of 2026 or 2027 for purposes of reimbursing out of t</summary>
     <published>2026-10-25T20:01:47+00:00</published>
   </entry>
   <entry>
+    <id>t3_1xf9xwm</id>
+    <title>90 day delay in Mohela processing new repayment plan</title>
+    <updated>2026-10-26T00:54:11.683876+00:00</updated>
+    <link href="https://www.reddit.com/r/StudentLoans/comments/1xf9xwm/90_day_delay_in_mohela_processing_new_repayment/"/>
+    <summary>I requested to move from SAVE to old IBR by my deadline in mid-October On finaid.gov. Today, I got an email from Mohela that there is a delay in processing my request and they will get to it in 90 days.  the email also says that if my loans are not in forbearance, that my loans remain due. I’m assuming that means that since I’m in the SAVE forbearance, I don’t have to pay until I get the next notice from Mohela that can come at most 90 days from now. I really can’t afford the standard 10 year pl</summary>
+    <published>2026-10-25T18:31:45+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1xf3u3z</id>
     <title>WSJ: The Cat-and-Mouse Game Between Premium Credit-Card Firms and Points Junkies</title>
-    <updated>2026-10-25T22:43:06.561196+00:00</updated>
+    <updated>2026-10-26T00:54:11.683834+00:00</updated>
     <link href="https://www.reddit.com/r/CreditCards/comments/1xf3u3z/wsj_the_catandmouse_game_between_premium/"/>
     <summary>https://www.wsj.com/finance/banking/the-cat-and-mouse-game-between-premium-credit-card-firms-and-points-junkies-8ce2e30a?st=Ajqypp&amp;amp;reflink=desktopwebshare_permalink   Banks are cracking down on credit-card points junkies who they say use tactics that cross the line and violate rules. Citi and Chase have implemented policies that limit sign-up bonuses to target cardholders who apply for the same card multiple times. American Express has long had a team to detect abuse, and claw back rewards a</summary>
     <published>2026-10-25T14:29:57+00:00</published>
   </entry>
   <entry>
-    <id>t3_1xf909y</id>
-    <title>Ex wife got in trouble, I now have custody of my 1 year old daughter finally but I am just abkut to start my new job</title>
-    <updated>2026-10-25T22:43:06.561129+00:00</updated>
-    <link href="https://www.reddit.com/r/povertyfinance/comments/1xf909y/ex_wife_got_in_trouble_i_now_have_custody_of_my_1/"/>
-    <summary>Long story short was in an awful relationship and then my wife turned into an addict after we seperated and she got custody had some S tier lawyer spin me out to be the bad guy (go figure given where she is). I live in what could barely be called a small city with limited resources. Anyways I had been between jobs for awhile and am just about to start work. I had run through my savings while looking and was not expecting to have to take care of my almost 2 year old daughter. (Which is great i lo</summary>
-    <published>2026-10-25T17:54:32+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1xf7srd</id>
-    <title>Talking with adult children about finances</title>
-    <updated>2026-10-25T22:43:06.561056+00:00</updated>
-    <link href="https://www.reddit.com/r/personalfinance/comments/1xf7srd/talking_with_adult_children_about_finances/"/>
-    <summary>Just a random thought I ended up deciding to share :) We have four adult children. They all heard the same things from us, and while not giving them statements and specifics we always shared roughly where we stood and what we were doing. Of the four kids, one and her spouse appear to be avid savers, fully utilize all 401k and other options, as well as a state pension building. The second started out rough, but is now starting to save and getting excited seeing the results. The third has never ha</summary>
-    <published>2026-10-25T17:06:55+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1xfb7lx</id>
     <title>Paid off $34,000 in debt</title>
-    <updated>2026-10-25T22:43:06.560955+00:00</updated>
+    <updated>2026-10-26T00:54:11.683791+00:00</updated>
     <link href="https://www.reddit.com/r/Debt/comments/1xfb7lx/paid_off_34000_in_debt/"/>
     <summary>I paid off $34,000 in debt in 11 months! I am so proud of myself.  This was the product of a single person, no kids living extremely cheap and putting almost my entire paycheque on the debt for these 11 months. 7.99% auto loan for $34,000. The term was for 7 or 8 years and I was not going to be paying it for that long.  &amp;#32; submitted by &amp;#32;  /u/ApprehensiveDeer1514  &amp;#32; to &amp;#32;  r/Debt   [link] &amp;#32; [comments]</summary>
     <published>2026-10-25T19:21:44+00:00</published>
@@ -242,9 +226,25 @@
   <entry>
     <id>t3_1xf0z0o</id>
     <title>My wife and I just had our "second" anniversary dinner and look forward to several more in the coming weeks.</title>
-    <updated>2026-10-25T22:43:06.560816+00:00</updated>
+    <updated>2026-10-26T00:54:11.683747+00:00</updated>
     <link href="https://www.reddit.com/r/Frugal/comments/1xf0z0o/my_wife_and_i_just_had_our_second_anniversary/"/>
     <summary>I put second in quotes because it was our second dinner not our second anniversary. It was our 20th anniversary. 20 years of adventures and struggles, amazingly joyful experiences and realistically supporting each other through the drone and difficulty of life. We are pretty much on the border between lower class and lower middle class, but we&amp;#39;ve always lived below our means so we don&amp;#39;t struggle on a day to day basis, but we have to get creative to do fun things while still saving to rep</summary>
     <published>2026-10-25T12:21:52+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1xfdv4c</id>
+    <title>Did your parents teach you about retirement and investment? Or did you mostly learn it somewhere else?</title>
+    <updated>2026-10-26T00:54:11.683698+00:00</updated>
+    <link href="https://www.reddit.com/r/personalfinance/comments/1xfdv4c/did_your_parents_teach_you_about_retirement_and/"/>
+    <summary>I&amp;#39;m American (millennial) and while my parents are actively engaged with their retirement assets, they never taught me anything about them. Maybe they assumed I would learn it in school or figure it out quickly and naturally. I wish I asked them as a teenager or young adult. Mom was enthusiastically lecturing me about mortgages for first time homeowners though. A few of my friends are well-versed in stocks but plenty have been in the same boat as me. Recently my friend who&amp;#39;s also in her </summary>
+    <published>2026-10-25T21:07:15+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1xfhfzh</id>
+    <title>relying on someone elses income is never the way to go</title>
+    <updated>2026-10-26T00:54:11.683625+00:00</updated>
+    <link href="https://www.reddit.com/r/povertyfinance/comments/1xfhfzh/relying_on_someone_elses_income_is_never_the_way/"/>
+    <summary>hi. just a quick rant while i figure out wtf im going to do. thankfully i learned this now in my 20s while i can still easily (hopefully) get things back together. i was dumb enough to rely on my long term bf for all my bills and rent and basically all my necessities, so in turn i was thinking &amp;quot;i clearly dont need a job if he takes care of everything!&amp;quot;. dont make the same mistake i did if youre thinking about it. hes gone so now is all &amp;quot;my&amp;quot; money. $30 to my name from what he </summary>
+    <published>2026-10-25T23:44:00+00:00</published>
   </entry>
 </feed>
