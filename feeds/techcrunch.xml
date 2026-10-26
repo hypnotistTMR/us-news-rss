@@ -2,47 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:techcrunch</id>
   <title>TechCrunch - All</title>
-  <updated>2026-10-26T18:04:12.915901+00:00</updated>
+  <updated>2026-10-26T22:48:37.924593+00:00</updated>
   <link href="file:///feeds/techcrunch.xml" rel="self"/>
   <link href="https://techcrunch.com/feed/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: tech / Mode: rss</subtitle>
   <entry>
-    <id>https://techcrunch.com/?p=3181497</id>
-    <title>PHP-ocalypse: How two critical web bugs almost broke the internet</title>
-    <updated>2026-10-26T18:04:12.917536+00:00</updated>
-    <link href="https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/"/>
-    <summary>Two critical bugs in the PHP web programming language, used by the majority of the internet, threatened to upend the internet — and it's unlikely to be the last major software scare.</summary>
-    <published>2026-10-24T15:30:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3181490</id>
-    <title>Block’s new voice model sounds eerily human</title>
-    <updated>2026-10-26T18:04:12.917471+00:00</updated>
-    <link href="https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/"/>
-    <summary>Block said that the voice model can run locally on a MacBook M4 Max</summary>
-    <published>2026-10-24T16:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3181509</id>
-    <title>Instacart reportedly discussed selling itself with DoorDash and Uber</title>
-    <updated>2026-10-26T18:04:12.917407+00:00</updated>
-    <link href="https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/"/>
-    <summary>Instacart might sell itself to a larger competitor.</summary>
-    <published>2026-10-24T16:30:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3162590</id>
-    <title>The AI graveyard: a running list of projects and startups that didn’t make it</title>
-    <updated>2026-10-26T18:04:12.917342+00:00</updated>
-    <link href="https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"/>
-    <summary>From Apple's repeatedly delayed Siri AI to OpenAI's messy "super app" launch, here's a look at the AI projects that shut down or missed expectations.</summary>
-    <published>2026-10-24T19:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://techcrunch.com/?p=3181514</id>
     <title>Will AI expose the rickety infrastructure of the internet?</title>
-    <updated>2026-10-26T18:04:12.917275+00:00</updated>
+    <updated>2026-10-26T22:48:37.926602+00:00</updated>
     <link href="https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/"/>
     <summary>The moment you realize the internet is "held together by glue and dreams."</summary>
     <published>2026-10-24T20:15:33+00:00</published>
@@ -50,7 +18,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3181518</id>
     <title>Starlink seems to be working normally again in Ukraine</title>
-    <updated>2026-10-26T18:04:12.917209+00:00</updated>
+    <updated>2026-10-26T22:48:37.926517+00:00</updated>
     <link href="https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/"/>
     <summary>Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.</summary>
     <published>2026-10-24T20:46:34+00:00</published>
@@ -58,7 +26,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3067743</id>
     <title>The hottest AI wearables and gadgets you should know about</title>
-    <updated>2026-10-26T18:04:12.917140+00:00</updated>
+    <updated>2026-10-26T22:48:37.926432+00:00</updated>
     <link href="https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/"/>
     <summary>We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.</summary>
     <published>2026-10-25T14:10:00+00:00</published>
@@ -66,7 +34,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3181384</id>
     <title>TechCrunch Mobility: Blue-green is the color of autonomy</title>
-    <updated>2026-10-26T18:04:12.917058+00:00</updated>
+    <updated>2026-10-26T22:48:37.926347+00:00</updated>
     <link href="https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/"/>
     <summary>Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.</summary>
     <published>2026-10-25T16:05:00+00:00</published>
@@ -74,7 +42,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3181532</id>
     <title>AI delivers ‘zero financial payoff’ to most companies, Apollo economist says</title>
-    <updated>2026-10-26T18:04:12.916989+00:00</updated>
+    <updated>2026-10-26T22:48:37.926263+00:00</updated>
     <link href="https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/"/>
     <summary>"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech."</summary>
     <published>2026-10-25T16:57:32+00:00</published>
@@ -82,7 +50,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3181538</id>
     <title>‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead</title>
-    <updated>2026-10-26T18:04:12.916922+00:00</updated>
+    <updated>2026-10-26T22:48:37.926180+00:00</updated>
     <link href="https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/"/>
     <summary>"That's a 12-year-old view of the world."</summary>
     <published>2026-10-25T20:20:08+00:00</published>
@@ -90,7 +58,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3181554</id>
     <title>Grok releases the first seven minutes of its AI-generated ‘Odyssey’</title>
-    <updated>2026-10-26T18:04:12.916855+00:00</updated>
+    <updated>2026-10-26T22:48:37.926092+00:00</updated>
     <link href="https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/"/>
     <summary>The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.</summary>
     <published>2026-10-25T21:31:16+00:00</published>
@@ -98,7 +66,7 @@
   <entry>
     <id>https://techcrunch.com/?p=2463158</id>
     <title>The best apps for tracking your reading and discovering new books</title>
-    <updated>2026-10-26T18:04:12.916785+00:00</updated>
+    <updated>2026-10-26T22:48:37.926006+00:00</updated>
     <link href="https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/"/>
     <summary>There are numerous apps on the market that promise to do just that, so we’ve compiled a list of some of the best ones to help you pick the right one for you.</summary>
     <published>2026-10-26T01:10:00+00:00</published>
@@ -106,7 +74,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3181547</id>
     <title>Tesla turns to Turo to boost adoption of Full Self-Driving (Supervised)</title>
-    <updated>2026-10-26T18:04:12.916717+00:00</updated>
+    <updated>2026-10-26T22:48:37.925913+00:00</updated>
     <link href="https://techcrunch.com/2026/10/26/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised/"/>
     <summary>Eligible Turo hosts will also get a one-month free trial of Tesla's FSD software.</summary>
     <published>2026-10-26T12:58:40+00:00</published>
@@ -114,7 +82,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3179660</id>
     <title>Matiks raises $10M to expand its math and puzzle gaming platform</title>
-    <updated>2026-10-26T18:04:12.916633+00:00</updated>
+    <updated>2026-10-26T22:48:37.925782+00:00</updated>
     <link href="https://techcrunch.com/2026/10/26/matiks-raises-10m-to-expand-its-math-and-puzzle-gaming-platform/"/>
     <summary>Matiks has introduced a new platform for users to create games using AI.</summary>
     <published>2026-10-26T14:08:04+00:00</published>
@@ -122,7 +90,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3181616</id>
     <title>Apple unveils new iPad mini with OLED display and faster A20 Pro chip</title>
-    <updated>2026-10-26T18:04:12.916560+00:00</updated>
+    <updated>2026-10-26T22:48:37.925696+00:00</updated>
     <link href="https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/"/>
     <summary>The new iPad mini features a thinner and lighter design than its predecessor.</summary>
     <published>2026-10-26T14:25:43+00:00</published>
@@ -130,15 +98,15 @@
   <entry>
     <id>https://techcrunch.com/?p=3181633</id>
     <title>Anthropic officially files for its public debut</title>
-    <updated>2026-10-26T18:04:12.916484+00:00</updated>
+    <updated>2026-10-26T22:48:37.925609+00:00</updated>
     <link href="https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/"/>
     <summary>Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.</summary>
     <published>2026-10-26T14:35:22+00:00</published>
   </entry>
   <entry>
     <id>https://techcrunch.com/?p=3181685</id>
-    <title>Microsoft offers buyouts to around 60,000 employees, reports say</title>
-    <updated>2026-10-26T18:04:12.916409+00:00</updated>
+    <title>Microsoft offers buyouts to around 60,000 employees</title>
+    <updated>2026-10-26T22:48:37.925521+00:00</updated>
     <link href="https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/"/>
     <summary>The buyout offers mark Microsoft's latest efforts to cut costs and rework its workforce.</summary>
     <published>2026-10-26T15:58:25+00:00</published>
@@ -146,15 +114,15 @@
   <entry>
     <id>https://techcrunch.com/?p=3181659</id>
     <title>SpaceX locks in $40B GPU financing deal with Apollo</title>
-    <updated>2026-10-26T18:04:12.916329+00:00</updated>
+    <updated>2026-10-26T22:48:37.925416+00:00</updated>
     <link href="https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/"/>
-    <summary>SpaceX has locked in a binding commitment for roughly $40 billion in financing to pay for AI chips and related data center equipment, the company disclosed in a regulatory filing Monday. In a statement, SpaceX called it the “largest committed GPU financing” ever.</summary>
+    <summary>The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.</summary>
     <published>2026-10-26T16:46:36+00:00</published>
   </entry>
   <entry>
     <id>https://techcrunch.com/?p=3181689</id>
     <title>Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked</title>
-    <updated>2026-10-26T18:04:12.916242+00:00</updated>
+    <updated>2026-10-26T22:48:37.925326+00:00</updated>
     <link href="https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/"/>
     <summary>Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier.</summary>
     <published>2026-10-26T16:49:42+00:00</published>
@@ -162,9 +130,41 @@
   <entry>
     <id>https://techcrunch.com/?p=3181683</id>
     <title>This startup’s self-driving excavators help dig up $600M in new funding</title>
-    <updated>2026-10-26T18:04:12.916136+00:00</updated>
+    <updated>2026-10-26T22:48:37.925231+00:00</updated>
     <link href="https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/"/>
     <summary>Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of skilled operators.</summary>
     <published>2026-10-26T17:45:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3181672</id>
+    <title>Fusion startups are giving the government shares in exchange for awards. Is it worth it?</title>
+    <updated>2026-10-26T22:48:37.925144+00:00</updated>
+    <link href="https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/"/>
+    <summary>Fusion startups face a new challenge, one unrelated to plasma physics: Give the government shares in exchange for funding awards or go it alone?</summary>
+    <published>2026-10-26T18:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3181811</id>
+    <title>Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it</title>
+    <updated>2026-10-26T22:48:37.925044+00:00</updated>
+    <link href="https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/"/>
+    <summary>A small number of early adopters of the much-hyped new foldable phone from Apple have complained of screens cracking.</summary>
+    <published>2026-10-26T19:22:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3181714</id>
+    <title>Watch out, YouTube — Instagram goes from short-form to 90-minute videos</title>
+    <updated>2026-10-26T22:48:37.924947+00:00</updated>
+    <link href="https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/"/>
+    <summary>After years in which every social platform (even LinkedIn!) aggressively pursued short-form video, this is a notable shift in strategy for Instagram.</summary>
+    <published>2026-10-26T21:05:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3180879</id>
+    <title>Databricks co-founder shares his secrets for winning big enterprises customers</title>
+    <updated>2026-10-26T22:48:37.924826+00:00</updated>
+    <link href="https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/"/>
+    <summary>Turns out selling to big companies isn’t about having the shiniest tech: it’s about hitching a ride on a giant’s sales team.</summary>
+    <published>2026-10-26T22:00:00+00:00</published>
   </entry>
 </feed>

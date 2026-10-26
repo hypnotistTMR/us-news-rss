@@ -2,31 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:supply_chain_dive</id>
   <title>Supply Chain Dive</title>
-  <updated>2026-10-26T18:04:49.295757+00:00</updated>
+  <updated>2026-10-26T22:49:10.341676+00:00</updated>
   <link href="file:///feeds/supply_chain_dive.xml" rel="self"/>
   <link href="https://www.supplychaindive.com/feeds/news/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: logistics / Mode: rss</subtitle>
   <entry>
-    <id>https://www.supplychaindive.com/news/trump-eschews-tariffs-for-trade-talks-on-wind-turbine-imports/833840/</id>
-    <title>Trump eschews tariffs for trade talks on wind turbine imports</title>
-    <updated>2026-10-26T18:04:49.296661+00:00</updated>
-    <link href="https://www.supplychaindive.com/news/trump-eschews-tariffs-for-trade-talks-on-wind-turbine-imports/833840/"/>
-    <summary>Following a Section 232 probe, the president tasked cabinet officials to engage in negotiations and report on their progress within 180 days.</summary>
-    <published>2026-10-23T08:11:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://www.supplychaindive.com/news/levis-distribution-network-transition-saga-continues-to-drag/833749/</id>
-    <title>Levi’s distribution network transition saga continues to drag</title>
-    <updated>2026-10-26T18:04:49.296589+00:00</updated>
-    <link href="https://www.supplychaindive.com/news/levis-distribution-network-transition-saga-continues-to-drag/833749/"/>
-    <summary>Due to a facility fire during Q3 and the complexity of its SKU mix, the retailer doesn&amp;#39;t expect to see benefits from its overhaul until 2027.</summary>
-    <published>2026-10-23T10:27:10-04:00</published>
-  </entry>
-  <entry>
     <id>https://www.supplychaindive.com/news/dhl-boosts-us-asia-cold-chain-connectivity-for-healthcare-shippers/833763/</id>
     <title>DHL boosts US-Asia cold chain connectivity for healthcare shippers</title>
-    <updated>2026-10-26T18:04:49.296524+00:00</updated>
+    <updated>2026-10-26T22:49:10.342855+00:00</updated>
     <link href="https://www.supplychaindive.com/news/dhl-boosts-us-asia-cold-chain-connectivity-for-healthcare-shippers/833763/"/>
     <summary>For temperature-sensitive goods, DHL Global Forwarding has added air freight corridors connecting Cincinnati with key hubs in Asia.</summary>
     <published>2026-10-23T10:30:21-04:00</published>
@@ -34,7 +18,7 @@
   <entry>
     <id>https://www.supplychaindive.com/news/trump-tweaks-canada-tariffs-removing-certain-goods-while-adding-others/833895/</id>
     <title>Trump tweaks Canada tariffs, removing certain goods while adding others</title>
-    <updated>2026-10-26T18:04:49.296457+00:00</updated>
+    <updated>2026-10-26T22:49:10.342717+00:00</updated>
     <link href="https://www.supplychaindive.com/news/trump-tweaks-canada-tariffs-removing-certain-goods-while-adding-others/833895/"/>
     <summary>Plywood and certain packaging materials are among the products that will no longer face the 50% tariff, effective Oct. 30.&amp;nbsp;</summary>
     <published>2026-10-23T14:24:00-04:00</published>
@@ -42,7 +26,7 @@
   <entry>
     <id>https://www.supplychaindive.com/spons/how-shoppers-define-delivery-success-and-what-theyll-do-if-you-fall-shor/833675/</id>
     <title>How shoppers define delivery success – and what they’ll do if you fall short</title>
-    <updated>2026-10-26T18:04:49.296386+00:00</updated>
+    <updated>2026-10-26T22:49:10.342625+00:00</updated>
     <link href="https://www.supplychaindive.com/spons/how-shoppers-define-delivery-success-and-what-theyll-do-if-you-fall-shor/833675/"/>
     <summary>New research from Roadie reveals how falling short on delivery promises can drive customers to shop elsewhere.</summary>
     <published>2026-10-26T05:00:00-04:00</published>
@@ -50,7 +34,7 @@
   <entry>
     <id>https://www.supplychaindive.com/spons/promises-vs-reality-closing-the-ai-adoption-gap-in-transportation/833070/</id>
     <title>Promises vs. reality: Closing the AI adoption gap in transportation</title>
-    <updated>2026-10-26T18:04:49.296312+00:00</updated>
+    <updated>2026-10-26T22:49:10.342533+00:00</updated>
     <link href="https://www.supplychaindive.com/spons/promises-vs-reality-closing-the-ai-adoption-gap-in-transportation/833070/"/>
     <summary>As teams see AI perform reliably, trust and their willingness to give it more responsibility grow.</summary>
     <published>2026-10-26T05:00:00-04:00</published>
@@ -58,7 +42,7 @@
   <entry>
     <id>https://www.supplychaindive.com/news/pepsico-shutters-tennessee-bottling-plant-amid-soda-slump/833586/</id>
     <title>PepsiCo shutters Tennessee bottling plant amid soda slump</title>
-    <updated>2026-10-26T18:04:49.296236+00:00</updated>
+    <updated>2026-10-26T22:49:10.342439+00:00</updated>
     <link href="https://www.supplychaindive.com/news/pepsico-shutters-tennessee-bottling-plant-amid-soda-slump/833586/"/>
     <summary>The closure comes after the beverage giant&amp;#39;s CEO laid out a cost-cutting plan to improve flattening growth.</summary>
     <published>2026-10-26T07:27:00-04:00</published>
@@ -66,7 +50,7 @@
   <entry>
     <id>https://www.supplychaindive.com/news/csx-sees-rail-conversion-opportunities-from-battered-trucking-market/833858/</id>
     <title>CSX sees rail conversion opportunities from battered trucking market</title>
-    <updated>2026-10-26T18:04:49.296157+00:00</updated>
+    <updated>2026-10-26T22:49:10.342344+00:00</updated>
     <link href="https://www.supplychaindive.com/news/csx-sees-rail-conversion-opportunities-from-battered-trucking-market/833858/"/>
     <summary>The railroad is reviewing shipper truckload files to provide service and cost comparisons for intermodal opportunities.</summary>
     <published>2026-10-26T10:40:00-04:00</published>
@@ -74,7 +58,7 @@
   <entry>
     <id>https://www.supplychaindive.com/news/ups-plans-59-rate-increase-on-dec-21/872751/</id>
     <title>UPS plans 5.9% rate increase on Dec. 21</title>
-    <updated>2026-10-26T18:04:49.296047+00:00</updated>
+    <updated>2026-10-26T22:49:10.342248+00:00</updated>
     <link href="https://www.supplychaindive.com/news/ups-plans-59-rate-increase-on-dec-21/872751/"/>
     <summary>The carrier&amp;#39;s average rate bump will match FedEx&amp;#39;s upcoming increase, but UPS also has additional changes in store.</summary>
     <published>2026-10-26T11:10:00-04:00</published>
@@ -82,9 +66,25 @@
   <entry>
     <id>https://www.supplychaindive.com/news/inside-fedexs-network-20-overhaul/833618/</id>
     <title>Inside FedEx’s Network 2.0 overhaul</title>
-    <updated>2026-10-26T18:04:49.295948+00:00</updated>
+    <updated>2026-10-26T22:49:10.342152+00:00</updated>
     <link href="https://www.supplychaindive.com/news/inside-fedexs-network-20-overhaul/833618/"/>
     <summary>A facility in a Dallas suburb offers a glimpse into FedEx&amp;rsquo;s newly integrated approach for sorting and delivering packages across the country.</summary>
     <published>2026-10-26T11:20:25-04:00</published>
+  </entry>
+  <entry>
+    <id>https://www.supplychaindive.com/news/usps-to-debut-weekly-fuel-fee-in-2027-matching-fedex-ups-practices/872778/</id>
+    <title>USPS to debut weekly fuel fee in 2027, matching FedEx, UPS practices</title>
+    <updated>2026-10-26T22:49:10.342049+00:00</updated>
+    <link href="https://www.supplychaindive.com/news/usps-to-debut-weekly-fuel-fee-in-2027-matching-fedex-ups-practices/872778/"/>
+    <summary>The surcharge for package shipping services will be tied to diesel and jet fuel prices, which have been climbing this year.</summary>
+    <published>2026-10-26T15:12:00-04:00</published>
+  </entry>
+  <entry>
+    <id>https://www.supplychaindive.com/news/ustr-weighs-extending-pause-on-china-linked-vessel-fees-to-january/872763/</id>
+    <title>USTR weighs extending pause on China-linked vessel fees to January</title>
+    <updated>2026-10-26T22:49:10.341922+00:00</updated>
+    <link href="https://www.supplychaindive.com/news/ustr-weighs-extending-pause-on-china-linked-vessel-fees-to-january/872763/"/>
+    <summary>The suspension is currently set to lift Nov. 9, but the agency said more time would allow the U.S. and China to further negotiations.</summary>
+    <published>2026-10-26T16:48:18-04:00</published>
   </entry>
 </feed>

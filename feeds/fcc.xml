@@ -2,41 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:fcc</id>
   <title>FCC Recent Releases (Combined)</title>
-  <updated>2026-10-26T18:04:48.377247+00:00</updated>
+  <updated>2026-10-26T22:49:09.456414+00:00</updated>
   <link href="file:///feeds/fcc.xml" rel="self"/>
   <link href="https://api2.fcc.gov/api/exp/v1.0.0/edocspublic/rss" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: telecom / Mode: rss</subtitle>
   <entry>
+    <id>426179</id>
+    <title>In the Matter of ASUSTeK Computer Inc. Petition for Expedited Waiver of Sections 2.932(b) and 2.1043(b) of the Commission's Rules to Permit Targeted Class I and Class II Permissive Hardware Changes to</title>
+    <updated>2026-10-26T22:49:09.456488+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426179"/>
+    <summary>The Office of Engineering and Technology grants the request of ASUSTeK Computer Inc. for a waiver of Sections 2.932(b) and 2.1043(b) of the Commission's rules.</summary>
+    <published>2026-10-26T22:49:09.456486+00:00</published>
+  </entry>
+  <entry>
     <id>426172</id>
     <title>Domestic Section 214 Application Filed for the Acquisition of Certain Assets of The Nova Telephone Company by Nova Ohio Telephone LLC</title>
-    <updated>2026-10-26T18:04:48.377281+00:00</updated>
+    <updated>2026-10-26T22:49:09.456474+00:00</updated>
     <link href="https://www.fcc.gov/edoc/426172"/>
     <summary>.</summary>
-    <published>2026-10-26T18:04:48.377280+00:00</published>
+    <published>2026-10-26T22:49:09.456472+00:00</published>
   </entry>
   <entry>
     <id>426170</id>
     <title>Pleadings</title>
-    <updated>2026-10-26T18:04:48.377275+00:00</updated>
+    <updated>2026-10-26T22:49:09.456461+00:00</updated>
     <link href="https://www.fcc.gov/edoc/426170"/>
     <summary>.</summary>
-    <published>2026-10-26T18:04:48.377274+00:00</published>
+    <published>2026-10-26T22:49:09.456459+00:00</published>
   </entry>
   <entry>
     <id>426168</id>
     <title>Applications</title>
-    <updated>2026-10-26T18:04:48.377268+00:00</updated>
+    <updated>2026-10-26T22:49:09.456446+00:00</updated>
     <link href="https://www.fcc.gov/edoc/426168"/>
     <summary>.</summary>
-    <published>2026-10-26T18:04:48.377267+00:00</published>
+    <published>2026-10-26T22:49:09.456443+00:00</published>
   </entry>
   <entry>
     <id>426169</id>
     <title>Actions</title>
-    <updated>2026-10-26T18:04:48.377254+00:00</updated>
+    <updated>2026-10-26T22:49:09.456424+00:00</updated>
     <link href="https://www.fcc.gov/edoc/426169"/>
     <summary>.</summary>
-    <published>2026-10-26T18:04:48.377251+00:00</published>
+    <published>2026-10-26T22:49:09.456418+00:00</published>
   </entry>
 </feed>
