@@ -2,55 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:techcrunch</id>
   <title>TechCrunch - All</title>
-  <updated>2026-10-27T07:06:09.777159+00:00</updated>
+  <updated>2026-10-27T13:26:36.602458+00:00</updated>
   <link href="file:///feeds/techcrunch.xml" rel="self"/>
   <link href="https://techcrunch.com/feed/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: tech / Mode: rss</subtitle>
   <entry>
-    <id>https://techcrunch.com/?p=3181384</id>
-    <title>TechCrunch Mobility: Blue-green is the color of autonomy</title>
-    <updated>2026-10-27T07:06:09.778505+00:00</updated>
-    <link href="https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/"/>
-    <summary>Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.</summary>
-    <published>2026-10-25T16:05:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3181532</id>
-    <title>AI delivers ‘zero financial payoff’ to most companies, Apollo economist says</title>
-    <updated>2026-10-27T07:06:09.778456+00:00</updated>
-    <link href="https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/"/>
-    <summary>"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech."</summary>
-    <published>2026-10-25T16:57:32+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3181538</id>
-    <title>‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead</title>
-    <updated>2026-10-27T07:06:09.778404+00:00</updated>
-    <link href="https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/"/>
-    <summary>"That's a 12-year-old view of the world."</summary>
-    <published>2026-10-25T20:20:08+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3181554</id>
-    <title>Grok releases the first seven minutes of its AI-generated ‘Odyssey’</title>
-    <updated>2026-10-27T07:06:09.778351+00:00</updated>
-    <link href="https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/"/>
-    <summary>The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.</summary>
-    <published>2026-10-25T21:31:16+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=2463158</id>
-    <title>The best apps for tracking your reading and discovering new books</title>
-    <updated>2026-10-27T07:06:09.778299+00:00</updated>
-    <link href="https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/"/>
-    <summary>There are numerous apps on the market that promise to do just that, so we’ve compiled a list of some of the best ones to help you pick the right one for you.</summary>
-    <published>2026-10-26T01:10:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://techcrunch.com/?p=3181547</id>
     <title>Tesla turns to Turo to boost adoption of Full Self-Driving (Supervised)</title>
-    <updated>2026-10-27T07:06:09.778247+00:00</updated>
+    <updated>2026-10-27T13:26:36.604518+00:00</updated>
     <link href="https://techcrunch.com/2026/10/26/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised/"/>
     <summary>Eligible Turo hosts will also get a one-month free trial of Tesla's FSD software.</summary>
     <published>2026-10-26T12:58:40+00:00</published>
@@ -58,7 +18,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3179660</id>
     <title>Matiks raises $10M to expand its math and puzzle gaming platform</title>
-    <updated>2026-10-27T07:06:09.778198+00:00</updated>
+    <updated>2026-10-27T13:26:36.604393+00:00</updated>
     <link href="https://techcrunch.com/2026/10/26/matiks-raises-10m-to-expand-its-math-and-puzzle-gaming-platform/"/>
     <summary>Matiks has introduced a new platform for users to create games using AI.</summary>
     <published>2026-10-26T14:08:04+00:00</published>
@@ -66,7 +26,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3181616</id>
     <title>Apple unveils new iPad mini with OLED display and faster A20 Pro chip</title>
-    <updated>2026-10-27T07:06:09.778145+00:00</updated>
+    <updated>2026-10-27T13:26:36.604306+00:00</updated>
     <link href="https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/"/>
     <summary>The new iPad mini features a thinner and lighter design than its predecessor.</summary>
     <published>2026-10-26T14:25:43+00:00</published>
@@ -74,7 +34,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3181633</id>
     <title>Anthropic officially files for its public debut</title>
-    <updated>2026-10-27T07:06:09.778091+00:00</updated>
+    <updated>2026-10-27T13:26:36.604220+00:00</updated>
     <link href="https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/"/>
     <summary>Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.</summary>
     <published>2026-10-26T14:35:22+00:00</published>
@@ -82,7 +42,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3181685</id>
     <title>Microsoft offers buyouts to around 60,000 employees</title>
-    <updated>2026-10-27T07:06:09.778038+00:00</updated>
+    <updated>2026-10-27T13:26:36.604133+00:00</updated>
     <link href="https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/"/>
     <summary>The buyout offers mark Microsoft's latest efforts to cut costs and rework its workforce.</summary>
     <published>2026-10-26T15:58:25+00:00</published>
@@ -90,7 +50,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3181659</id>
     <title>SpaceX locks in $40B GPU financing deal with Apollo</title>
-    <updated>2026-10-27T07:06:09.777983+00:00</updated>
+    <updated>2026-10-27T13:26:36.604046+00:00</updated>
     <link href="https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/"/>
     <summary>The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.</summary>
     <published>2026-10-26T16:46:36+00:00</published>
@@ -98,7 +58,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3181689</id>
     <title>Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked</title>
-    <updated>2026-10-27T07:06:09.777925+00:00</updated>
+    <updated>2026-10-27T13:26:36.603957+00:00</updated>
     <link href="https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/"/>
     <summary>Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier.</summary>
     <published>2026-10-26T16:49:42+00:00</published>
@@ -106,7 +66,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3181683</id>
     <title>This startup’s self-driving excavators help dig up $600M in new funding</title>
-    <updated>2026-10-27T07:06:09.777869+00:00</updated>
+    <updated>2026-10-27T13:26:36.603870+00:00</updated>
     <link href="https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/"/>
     <summary>Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of skilled operators.</summary>
     <published>2026-10-26T17:45:00+00:00</published>
@@ -114,7 +74,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3181672</id>
     <title>Fusion startups are giving the government shares in exchange for awards. Is it worth it?</title>
-    <updated>2026-10-27T07:06:09.777796+00:00</updated>
+    <updated>2026-10-27T13:26:36.603782+00:00</updated>
     <link href="https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/"/>
     <summary>Fusion startups face a new challenge, one unrelated to plasma physics: Give the government shares in exchange for funding awards or go it alone?</summary>
     <published>2026-10-26T18:59:52+00:00</published>
@@ -122,7 +82,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3181811</id>
     <title>Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it</title>
-    <updated>2026-10-27T07:06:09.777736+00:00</updated>
+    <updated>2026-10-27T13:26:36.603694+00:00</updated>
     <link href="https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/"/>
     <summary>A small number of early adopters of the much-hyped new foldable phone from Apple have complained of screens cracking.</summary>
     <published>2026-10-26T19:22:40+00:00</published>
@@ -130,7 +90,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3181714</id>
     <title>Watch out, YouTube — Instagram goes from short-form to 90-minute videos</title>
-    <updated>2026-10-27T07:06:09.777677+00:00</updated>
+    <updated>2026-10-27T13:26:36.603597+00:00</updated>
     <link href="https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/"/>
     <summary>After years in which every social platform (even LinkedIn!) aggressively pursued short-form video, this is a notable shift in strategy for Instagram.</summary>
     <published>2026-10-26T21:05:11+00:00</published>
@@ -138,7 +98,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3180879</id>
     <title>Databricks co-founder shares his secrets for winning big enterprise customers</title>
-    <updated>2026-10-27T07:06:09.777619+00:00</updated>
+    <updated>2026-10-27T13:26:36.603454+00:00</updated>
     <link href="https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/"/>
     <summary>Turns out selling to big companies isn’t about having the shiniest tech: It’s about hitching a ride on a giant’s sales team.</summary>
     <published>2026-10-26T22:00:00+00:00</published>
@@ -146,7 +106,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3181989</id>
     <title>Cohere says Alibaba’s Qwen model tried to send a file to Beijing</title>
-    <updated>2026-10-27T07:06:09.777547+00:00</updated>
+    <updated>2026-10-27T13:26:36.603362+00:00</updated>
     <link href="https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/"/>
     <summary>An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.</summary>
     <published>2026-10-27T01:12:21+00:00</published>
@@ -154,7 +114,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3181218</id>
     <title>How OpenAI turned its coding tools into dots, an always-on personal assistant</title>
-    <updated>2026-10-27T07:06:09.777447+00:00</updated>
+    <updated>2026-10-27T13:26:36.603263+00:00</updated>
     <link href="https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/"/>
     <summary>Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.</summary>
     <published>2026-10-27T02:00:00+00:00</published>
@@ -162,9 +122,49 @@
   <entry>
     <id>https://techcrunch.com/?p=3182003</id>
     <title>X is nudging users to promote their posts with a pointing hand, and people are confused</title>
-    <updated>2026-10-27T07:06:09.777337+00:00</updated>
+    <updated>2026-10-27T13:26:36.603172+00:00</updated>
     <link href="https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/"/>
     <summary>Whose hand is behind this travesty?</summary>
     <published>2026-10-27T06:34:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3181625</id>
+    <title>Nvidia backs Indian startup helping companies run AI models with fewer GPUs</title>
+    <updated>2026-10-27T13:26:36.603076+00:00</updated>
+    <link href="https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/"/>
+    <summary>Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.</summary>
+    <published>2026-10-27T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3181922</id>
+    <title>Opera introduces a new web standard to let users deploy AI locally in their browser</title>
+    <updated>2026-10-27T13:26:36.602981+00:00</updated>
+    <link href="https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/"/>
+    <summary>The new standard, WebAI, is designed to work with a variety of AI models.</summary>
+    <published>2026-10-27T13:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3181881</id>
+    <title>General Compute raises $100 million Series A, countering the neocloud disaster narrative</title>
+    <updated>2026-10-27T13:26:36.602890+00:00</updated>
+    <link href="https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/"/>
+    <summary>General Compute is betting on inference chips from outside the Nvidia ecosystem.</summary>
+    <published>2026-10-27T13:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3181765</id>
+    <title>Anduril, Qualcomm launch BlueChip, a new kind of US-made laptop</title>
+    <updated>2026-10-27T13:26:36.602793+00:00</updated>
+    <link href="https://techcrunch.com/2026/10/27/anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop/"/>
+    <summary>Anduril founder Palmer Luckey is vowing to bring computer manufacturing back to the U.S. and by that he doesn't just mean assembly, but every individual component, some of which are exclusively made in China today.</summary>
+    <published>2026-10-27T13:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3181875</id>
+    <title>Billionaire Palmer Luckey isn’t leaving California over the wealth tax</title>
+    <updated>2026-10-27T13:26:36.602682+00:00</updated>
+    <link href="https://techcrunch.com/2026/10/27/billionaire-palmer-luckey-isnt-leaving-california-over-the-wealth-tax/"/>
+    <summary>"It's causing a lot of people to run who I don't want to be running," native Californian Palmer Luckey said. "But I'm planning on staying in California. I'm going to keep fighting it."</summary>
+    <published>2026-10-27T13:01:00+00:00</published>
   </entry>
 </feed>
