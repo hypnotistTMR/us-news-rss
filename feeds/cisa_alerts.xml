@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:cisa_alerts</id>
   <title>CISA - KEV Alerts</title>
-  <updated>2026-10-27T13:26:36.799621+00:00</updated>
+  <updated>2026-10-27T18:49:44.378521+00:00</updated>
   <link href="file:///feeds/cisa_alerts.xml" rel="self"/>
   <link href="https://www.cisa.gov/cybersecurity-advisories/alerts.xml" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -10,7 +10,7 @@
   <entry>
     <id>/node/25470</id>
     <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
-    <updated>2026-10-27T13:26:36.802314+00:00</updated>
+    <updated>2026-10-27T18:49:44.380736+00:00</updated>
     <link href="https://www.cisa.gov/news-events/alerts/2026/09/11/cisa-adds-one-known-exploited-vulnerability-catalog"/>
     <summary>CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.
 
@@ -23,7 +23,7 @@ Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based o
   <entry>
     <id>/node/25465</id>
     <title>CISA Adds Three Known Exploited Vulnerabilities to Catalog</title>
-    <updated>2026-10-27T13:26:36.802234+00:00</updated>
+    <updated>2026-10-27T18:49:44.380673+00:00</updated>
     <link href="https://www.cisa.gov/news-events/alerts/2026/09/11/cisa-adds-three-known-exploited-vulnerabilities-catalog"/>
     <summary>CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.
 
@@ -37,7 +37,7 @@ These types of vulnerabilities are a frequent attack vector for malicious cyber 
   <entry>
     <id>/node/25477</id>
     <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
-    <updated>2026-10-27T13:26:36.802153+00:00</updated>
+    <updated>2026-10-27T18:49:44.380609+00:00</updated>
     <link href="https://www.cisa.gov/news-events/alerts/2026/09/14/cisa-adds-one-known-exploited-vulnerability-catalog"/>
     <summary>CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.
 
@@ -50,7 +50,7 @@ Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based o
   <entry>
     <id>/node/25498</id>
     <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
-    <updated>2026-10-27T13:26:36.802072+00:00</updated>
+    <updated>2026-10-27T18:49:44.380543+00:00</updated>
     <link href="https://www.cisa.gov/news-events/alerts/2026/09/16/cisa-adds-two-known-exploited-vulnerabilities-catalog"/>
     <summary>CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.
 
@@ -64,7 +64,7 @@ Binding Operational Directive (BOD) 26-04: Priori</summary>
   <entry>
     <id>/node/25491</id>
     <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
-    <updated>2026-10-27T13:26:36.801991+00:00</updated>
+    <updated>2026-10-27T18:49:44.380478+00:00</updated>
     <link href="https://www.cisa.gov/news-events/alerts/2026/09/16/cisa-adds-one-known-exploited-vulnerability-catalog"/>
     <summary>CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.
 
@@ -77,7 +77,7 @@ Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based o
   <entry>
     <id>/node/25513</id>
     <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
-    <updated>2026-10-27T13:26:36.801910+00:00</updated>
+    <updated>2026-10-27T18:49:44.380413+00:00</updated>
     <link href="https://www.cisa.gov/news-events/alerts/2026/09/18/cisa-adds-two-known-exploited-vulnerabilities-catalog"/>
     <summary>CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.
 
@@ -91,7 +91,7 @@ Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based o
   <entry>
     <id>/node/25515</id>
     <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
-    <updated>2026-10-27T13:26:36.801830+00:00</updated>
+    <updated>2026-10-27T18:49:44.380348+00:00</updated>
     <link href="https://www.cisa.gov/news-events/alerts/2026/09/18/cisa-adds-one-known-exploited-vulnerability-catalog"/>
     <summary>CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.
 
@@ -104,7 +104,7 @@ Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based o
   <entry>
     <id>/node/25518</id>
     <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
-    <updated>2026-10-27T13:26:36.801750+00:00</updated>
+    <updated>2026-10-27T18:49:44.380281+00:00</updated>
     <link href="https://www.cisa.gov/news-events/alerts/2026/09/21/cisa-adds-one-known-exploited-vulnerability-catalog"/>
     <summary>CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.
 
@@ -117,7 +117,7 @@ Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based o
   <entry>
     <id>/node/25536</id>
     <title>CISA Adds Four Known Exploited Vulnerabilities to Catalog</title>
-    <updated>2026-10-27T13:26:36.801667+00:00</updated>
+    <updated>2026-10-27T18:49:44.380204+00:00</updated>
     <link href="https://www.cisa.gov/news-events/alerts/2026/09/22/cisa-adds-four-known-exploited-vulnerabilities-catalog"/>
     <summary>CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.
 
@@ -132,7 +132,7 @@ These types of vulnerabilities are a frequ</summary>
   <entry>
     <id>/node/25545</id>
     <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
-    <updated>2026-10-27T13:26:36.801575+00:00</updated>
+    <updated>2026-10-27T18:49:44.380141+00:00</updated>
     <link href="https://www.cisa.gov/news-events/alerts/2026/09/24/cisa-adds-two-known-exploited-vulnerabilities-catalog"/>
     <summary>&amp;nbsp;CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.
 
@@ -146,7 +146,7 @@ Binding Operational Directive (BOD) 26-04: Prioritizing Security</summary>
   <entry>
     <id>/node/25549</id>
     <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
-    <updated>2026-10-27T13:26:36.801468+00:00</updated>
+    <updated>2026-10-27T18:49:44.380079+00:00</updated>
     <link href="https://www.cisa.gov/news-events/alerts/2026/09/25/cisa-adds-two-known-exploited-vulnerabilities-catalog"/>
     <summary>CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.
 
@@ -160,7 +160,7 @@ Binding Operational Directive (BOD) 26-04: Prioritizing Secu</summary>
   <entry>
     <id>/node/25551</id>
     <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
-    <updated>2026-10-27T13:26:36.801387+00:00</updated>
+    <updated>2026-10-27T18:49:44.380016+00:00</updated>
     <link href="https://www.cisa.gov/news-events/alerts/2026/09/25/cisa-adds-one-known-exploited-vulnerability-catalog"/>
     <summary>CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.
 
@@ -173,7 +173,7 @@ Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based o
   <entry>
     <id>/node/25552</id>
     <title>Critical Zero-Day Vulnerabilities Exploited in Citrix NetScaler ADC, Gateway</title>
-    <updated>2026-10-27T13:26:36.801307+00:00</updated>
+    <updated>2026-10-27T18:49:44.379952+00:00</updated>
     <link href="https://www.cisa.gov/news-events/alerts/2026/09/27/critical-zero-day-vulnerabilities-exploited-citrix-netscaler-adc-gateway"/>
     <summary>Update October 9, 2026:&amp;nbsp;
 
@@ -184,7 +184,7 @@ CISA has updated this Alert to: (1) include CVE-2026-107406; (2) include CVE-202
   <entry>
     <id>/node/25553</id>
     <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
-    <updated>2026-10-27T13:26:36.801226+00:00</updated>
+    <updated>2026-10-27T18:49:44.379884+00:00</updated>
     <link href="https://www.cisa.gov/news-events/alerts/2026/09/27/cisa-adds-two-known-exploited-vulnerabilities-catalog"/>
     <summary>CISA has added two new vulnerabilities to its&amp;nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.
 
@@ -197,7 +197,7 @@ These types of vulnerabilities are frequent attack vectors for malicious cyber a
   <entry>
     <id>/node/25566</id>
     <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
-    <updated>2026-10-27T13:26:36.801145+00:00</updated>
+    <updated>2026-10-27T18:49:44.379820+00:00</updated>
     <link href="https://www.cisa.gov/news-events/alerts/2026/09/29/cisa-adds-one-known-exploited-vulnerability-catalog"/>
     <summary>CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.
 
@@ -210,7 +210,7 @@ Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based o
   <entry>
     <id>/node/25568</id>
     <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
-    <updated>2026-10-27T13:26:36.801063+00:00</updated>
+    <updated>2026-10-27T18:49:44.379753+00:00</updated>
     <link href="https://www.cisa.gov/news-events/alerts/2026/09/30/cisa-adds-one-known-exploited-vulnerability-catalog"/>
     <summary>CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.
 
@@ -223,7 +223,7 @@ Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based o
   <entry>
     <id>/node/25579</id>
     <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
-    <updated>2026-10-27T13:26:36.800981+00:00</updated>
+    <updated>2026-10-27T18:49:44.379689+00:00</updated>
     <link href="https://www.cisa.gov/news-events/alerts/2026/10/01/cisa-adds-one-known-exploited-vulnerability-catalog"/>
     <summary>CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.
 
@@ -236,7 +236,7 @@ Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based o
   <entry>
     <id>/node/25582</id>
     <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
-    <updated>2026-10-27T13:26:36.800898+00:00</updated>
+    <updated>2026-10-27T18:49:44.379624+00:00</updated>
     <link href="https://www.cisa.gov/news-events/alerts/2026/10/02/cisa-adds-two-known-exploited-vulnerabilities-catalog"/>
     <summary>CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.
 
@@ -250,7 +250,7 @@ Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates</summar
   <entry>
     <id>/node/25583</id>
     <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
-    <updated>2026-10-27T13:26:36.800814+00:00</updated>
+    <updated>2026-10-27T18:49:44.379560+00:00</updated>
     <link href="https://www.cisa.gov/news-events/alerts/2026/10/04/cisa-adds-one-known-exploited-vulnerability-catalog"/>
     <summary>CISA has added one new vulnerability to its&amp;nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.
 
@@ -263,7 +263,7 @@ Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based o
   <entry>
     <id>/node/25618</id>
     <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
-    <updated>2026-10-27T13:26:36.800731+00:00</updated>
+    <updated>2026-10-27T18:49:44.379494+00:00</updated>
     <link href="https://www.cisa.gov/news-events/alerts/2026/10/13/cisa-adds-two-known-exploited-vulnerabilities-catalog"/>
     <summary>CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.
 
@@ -277,7 +277,7 @@ Binding Operational Directive (BOD) 26-04: Prioritizing Security </summary>
   <entry>
     <id>/node/25619</id>
     <title>CISA Urges Patching Newly Exploited Vulnerability in Ivanti Connect Secure</title>
-    <updated>2026-10-27T13:26:36.800642+00:00</updated>
+    <updated>2026-10-27T18:49:44.379427+00:00</updated>
     <link href="https://www.cisa.gov/news-events/alerts/2026/10/13/cisa-urges-patching-newly-exploited-vulnerability-ivanti-connect-secure"/>
     <summary>CISA is aware of Ivanti’s disclosure of a newly exploited vulnerability, CVE-2026-104935, affecting Ivanti Connect Secure versions 25.1.1.1 and prior, 25.1.2.2 and prior, and 22.8R2.4 and prior. CISA is aware of cyber threat actors exploiting this zero-day authentication bypass vulnerability, which allows remote, unauthenticated execution of arbitrary commands, to conduct credential theft and data exfiltration. CISA added CVE-2026-104935 to its Known Exploited Vulnerabilities (KEV) Catalog on Oc</summary>
     <published>2026-10-13T12:00:00+00:00</published>
@@ -285,7 +285,7 @@ Binding Operational Directive (BOD) 26-04: Prioritizing Security </summary>
   <entry>
     <id>/node/25626</id>
     <title>CISA Adds Four Known Exploited Vulnerabilities to Catalog</title>
-    <updated>2026-10-27T13:26:36.800548+00:00</updated>
+    <updated>2026-10-27T18:49:44.379359+00:00</updated>
     <link href="https://www.cisa.gov/news-events/alerts/2026/10/14/cisa-adds-four-known-exploited-vulnerabilities-catalog"/>
     <summary>CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&amp;nbsp;
 
@@ -300,7 +300,7 @@ These types of vulnerabilities are a frequent attack vect</summary>
   <entry>
     <id>/node/25637</id>
     <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
-    <updated>2026-10-27T13:26:36.800417+00:00</updated>
+    <updated>2026-10-27T18:49:44.379289+00:00</updated>
     <link href="https://www.cisa.gov/news-events/alerts/2026/10/15/cisa-adds-one-known-exploited-vulnerability-catalog"/>
     <summary>CISA has added one new vulnerability to its&amp;nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.
 
@@ -313,7 +313,7 @@ Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based o
   <entry>
     <id>/node/25642</id>
     <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
-    <updated>2026-10-27T13:26:36.800332+00:00</updated>
+    <updated>2026-10-27T18:49:44.379190+00:00</updated>
     <link href="https://www.cisa.gov/news-events/alerts/2026/10/16/cisa-adds-two-known-exploited-vulnerabilities-catalog"/>
     <summary>CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.
 
@@ -327,7 +327,7 @@ Binding Operational Directive (BOD) 26-04: Prior</summary>
   <entry>
     <id>/node/25643</id>
     <title>CISA Urges Patching Critical Vulnerability in BeyondTrust Remote Support</title>
-    <updated>2026-10-27T13:26:36.800248+00:00</updated>
+    <updated>2026-10-27T18:49:44.379122+00:00</updated>
     <link href="https://www.cisa.gov/news-events/alerts/2026/10/16/cisa-urges-patching-critical-vulnerability-beyondtrust-remote-support"/>
     <summary>CISA is aware of critical authentication bypass vulnerability CVE-2026-102764, affecting BeyondTrust Remote Support (formerly Bomgar) versions 26.2.3 and earlier. Patches are available for supported versions (24.3.1 and later); organizations using older versions must upgrade first. Cyber threat actors are actively exploiting the vulnerability to gain initial access, then establishing persistence, escalating privileges, and moving laterally. CISA added CVE-2026-102764 to its Known Exploited Vulne</summary>
     <published>2026-10-16T12:00:00+00:00</published>
@@ -335,7 +335,7 @@ Binding Operational Directive (BOD) 26-04: Prior</summary>
   <entry>
     <id>/node/25663</id>
     <title>CISA Adds Six Known Exploited Vulnerabilities to Catalog</title>
-    <updated>2026-10-27T13:26:36.800163+00:00</updated>
+    <updated>2026-10-27T18:49:44.379055+00:00</updated>
     <link href="https://www.cisa.gov/news-events/alerts/2026/10/20/cisa-adds-six-known-exploited-vulnerabilities-catalog"/>
     <summary>CISA has added six new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.
 
@@ -349,7 +349,7 @@ CVE-2026-96656 Plex Media Server External Control of File Name or Path Vulnerabi
   <entry>
     <id>/node/25669</id>
     <title>Critical Vulnerabilities in PHP Require Immediate Patching</title>
-    <updated>2026-10-27T13:26:36.800075+00:00</updated>
+    <updated>2026-10-27T18:49:44.378988+00:00</updated>
     <link href="https://www.cisa.gov/news-events/alerts/2026/10/21/critical-vulnerabilities-php-require-immediate-patching"/>
     <summary>Update October 26, 2026:&amp;nbsp;
 CISA has updated this Alert to reflect the addition of CVE-2026-109618 and CVE-2026-109619 to its Known Exploited Vulnerabilities (KEV) Catalog on Oct. 26, 2026.&amp;nbsp;&amp;nbsp;
@@ -362,7 +362,7 @@ CISA strongly urges organizations to immediately p</summary>
   <entry>
     <id>/node/25707</id>
     <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
-    <updated>2026-10-27T13:26:36.799988+00:00</updated>
+    <updated>2026-10-27T18:49:44.378915+00:00</updated>
     <link href="https://www.cisa.gov/news-events/alerts/2026/10/23/cisa-adds-one-known-exploited-vulnerability-catalog"/>
     <summary>CISA has added one new vulnerability to its&amp;nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.
 
@@ -375,7 +375,7 @@ Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based o
   <entry>
     <id>/node/25710</id>
     <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
-    <updated>2026-10-27T13:26:36.799897+00:00</updated>
+    <updated>2026-10-27T18:49:44.378839+00:00</updated>
     <link href="https://www.cisa.gov/news-events/alerts/2026/10/23/cisa-adds-one-known-exploited-vulnerability-catalog-0"/>
     <summary>CISA has added one new vulnerability to its&amp;nbsp;Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.
 
@@ -388,7 +388,7 @@ Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based o
   <entry>
     <id>/node/25716</id>
     <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
-    <updated>2026-10-27T13:26:36.799787+00:00</updated>
+    <updated>2026-10-27T18:49:44.378725+00:00</updated>
     <link href="https://www.cisa.gov/news-events/alerts/2026/10/26/cisa-adds-two-known-exploited-vulnerabilities-catalog"/>
     <summary>CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog and updated the PHP Alert, Critical Vulnerabilities in PHP Require Immediate Patching: &amp;nbsp;
 
