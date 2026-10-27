@@ -2,249 +2,249 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:federal_register</id>
   <title>Federal Register - All Documents</title>
-  <updated>2026-10-27T01:44:53.006576+00:00</updated>
+  <updated>2026-10-27T07:05:36.525825+00:00</updated>
   <link href="file:///feeds/federal_register.xml" rel="self"/>
   <link href="https://www.federalregister.gov/api/v1/documents.json" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: government / Mode: api</subtitle>
   <entry>
-    <id>fr:2026-21795</id>
-    <title>Notice of Public Meeting of the Alaska Advisory Committee to the U.S. Commission on Civil Rights; Time Change</title>
-    <updated>2026-10-27T01:44:53.007303+00:00</updated>
-    <link href="https://www.federalregister.gov/documents/2026/10/26/2026-21795/notice-of-public-meeting-of-the-alaska-advisory-committee-to-the-us-commission-on-civil-rights-time"/>
-    <summary>Civil Rights Commission — 2026-21795</summary>
-    <published>2026-10-26T00:00:00+00:00</published>
+    <id>fr:2026-21879</id>
+    <title>Agency Information Collection Activities; Extension of Previously Approved eCollection eComments Requested; Title-Annual Progress Report for the STOP Formula Grants Program</title>
+    <updated>2026-10-27T07:05:36.526675+00:00</updated>
+    <link href="https://www.federalregister.gov/documents/2026/10/27/2026-21879/agency-information-collection-activities-extension-of-previously-approved-ecollection-ecomments"/>
+    <summary>Justice Department — 2026-21879</summary>
+    <published>2026-10-27T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>fr:2026-21796</id>
-    <title>Cost-of-Living Increase and Other Determinations for 2027</title>
-    <updated>2026-10-27T01:44:53.007287+00:00</updated>
-    <link href="https://www.federalregister.gov/documents/2026/10/26/2026-21796/cost-of-living-increase-and-other-determinations-for-2027"/>
-    <summary>Social Security Administration — 2026-21796</summary>
-    <published>2026-10-26T00:00:00+00:00</published>
+    <id>fr:2026-21880</id>
+    <title>Suspension of the Commonwealth of the Northern Mariana Islands (CNMI) Economic Vitality &amp; Security Travel Authorization Program (EVS-TAP)</title>
+    <updated>2026-10-27T07:05:36.526656+00:00</updated>
+    <link href="https://www.federalregister.gov/documents/2026/10/27/2026-21880/suspension-of-the-commonwealth-of-the-northern-mariana-islands-cnmi-economic-vitality-and-security"/>
+    <summary>Homeland Security Department — 2026-21880</summary>
+    <published>2026-10-27T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>fr:2026-21797</id>
-    <title>Agency Information Collection Activities: Proposed Request</title>
-    <updated>2026-10-27T01:44:53.007270+00:00</updated>
-    <link href="https://www.federalregister.gov/documents/2026/10/26/2026-21797/agency-information-collection-activities-proposed-request"/>
-    <summary>Social Security Administration — 2026-21797</summary>
-    <published>2026-10-26T00:00:00+00:00</published>
+    <id>fr:2026-21881</id>
+    <title>Advisory Committee on the Medical Uses of Isotopes: Call for Nominations</title>
+    <updated>2026-10-27T07:05:36.526637+00:00</updated>
+    <link href="https://www.federalregister.gov/documents/2026/10/27/2026-21881/advisory-committee-on-the-medical-uses-of-isotopes-call-for-nominations"/>
+    <summary>Nuclear Regulatory Commission — 2026-21881</summary>
+    <published>2026-10-27T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>fr:2026-21798</id>
-    <title>Agency Information Collection Activities; Proposed Collection; Comment Request; Extension</title>
-    <updated>2026-10-27T01:44:53.007254+00:00</updated>
-    <link href="https://www.federalregister.gov/documents/2026/10/26/2026-21798/agency-information-collection-activities-proposed-collection-comment-request-extension"/>
-    <summary>Federal Trade Commission — 2026-21798</summary>
-    <published>2026-10-26T00:00:00+00:00</published>
+    <id>fr:2026-21882</id>
+    <title>Agency Information Collection Activities; Extension of Previously Approved eCollection eComments Requested; STOP Match Calculation Worksheet</title>
+    <updated>2026-10-27T07:05:36.526614+00:00</updated>
+    <link href="https://www.federalregister.gov/documents/2026/10/27/2026-21882/agency-information-collection-activities-extension-of-previously-approved-ecollection-ecomments"/>
+    <summary>Justice Department — 2026-21882</summary>
+    <published>2026-10-27T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>fr:2026-21799</id>
-    <title>Vida Janson, M.D.; Decision and Order</title>
-    <updated>2026-10-27T01:44:53.007237+00:00</updated>
-    <link href="https://www.federalregister.gov/documents/2026/10/26/2026-21799/vida-janson-md-decision-and-order"/>
-    <summary>Justice Department — 2026-21799</summary>
-    <published>2026-10-26T00:00:00+00:00</published>
+    <id>fr:2026-21883</id>
+    <title>Advisory Committee on the Medical Uses of Isotopes: Call for Nominations</title>
+    <updated>2026-10-27T07:05:36.526593+00:00</updated>
+    <link href="https://www.federalregister.gov/documents/2026/10/27/2026-21883/advisory-committee-on-the-medical-uses-of-isotopes-call-for-nominations"/>
+    <summary>Nuclear Regulatory Commission — 2026-21883</summary>
+    <published>2026-10-27T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>fr:2026-21800</id>
-    <title>Agency Information Collection Activity: Maintenance of Records Under 38 CFR 36.4333</title>
-    <updated>2026-10-27T01:44:53.007222+00:00</updated>
-    <link href="https://www.federalregister.gov/documents/2026/10/26/2026-21800/agency-information-collection-activity-maintenance-of-records-under-38-cfr-364333"/>
-    <summary>Veterans Affairs Department — 2026-21800</summary>
-    <published>2026-10-26T00:00:00+00:00</published>
+    <id>fr:2026-21884</id>
+    <title>Critical Material List; Addition of Helium</title>
+    <updated>2026-10-27T07:05:36.526572+00:00</updated>
+    <link href="https://www.federalregister.gov/documents/2026/10/27/2026-21884/critical-material-list-addition-of-helium"/>
+    <summary>Energy Department — 2026-21884</summary>
+    <published>2026-10-27T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>fr:2026-21801</id>
-    <title>NRC Reviews of Reactor Designs Previously Authorized by U.S. Department of Energy or Department of War</title>
-    <updated>2026-10-27T01:44:53.007208+00:00</updated>
-    <link href="https://www.federalregister.gov/documents/2026/10/26/2026-21801/nrc-reviews-of-reactor-designs-previously-authorized-by-us-department-of-energy-or-department-of-war"/>
-    <summary>Nuclear Regulatory Commission — 2026-21801</summary>
-    <published>2026-10-26T00:00:00+00:00</published>
+    <id>fr:2026-21885</id>
+    <title>Certain Vaporizer Devices, Cartridges Used Therewith, and Components Thereof; Notice of Request for Submissions on the Public Interest</title>
+    <updated>2026-10-27T07:05:36.526544+00:00</updated>
+    <link href="https://www.federalregister.gov/documents/2026/10/27/2026-21885/certain-vaporizer-devices-cartridges-used-therewith-and-components-thereof-notice-of-request-for"/>
+    <summary>International Trade Commission — 2026-21885</summary>
+    <published>2026-10-27T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>fr:2026-21802</id>
-    <title>Radio Broadcasting Services; AM or FM Proposals To Change the Community of License</title>
-    <updated>2026-10-27T01:44:53.007191+00:00</updated>
-    <link href="https://www.federalregister.gov/documents/2026/10/26/2026-21802/radio-broadcasting-services-am-or-fm-proposals-to-change-the-community-of-license"/>
-    <summary>Federal Communications Commission — 2026-21802</summary>
-    <published>2026-10-26T00:00:00+00:00</published>
+    <id>fr:2026-21886</id>
+    <title>Notice of Regulatory Waiver Requests Granted for the First Quarter of Calendar Year 2026</title>
+    <updated>2026-10-27T07:05:36.526505+00:00</updated>
+    <link href="https://www.federalregister.gov/documents/2026/10/27/2026-21886/notice-of-regulatory-waiver-requests-granted-for-the-first-quarter-of-calendar-year-2026"/>
+    <summary>Housing and Urban Development Department — 2026-21886</summary>
+    <published>2026-10-27T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>fr:2026-21804</id>
-    <title>Privacy Act of 1974; System of Records</title>
-    <updated>2026-10-27T01:44:53.007176+00:00</updated>
-    <link href="https://www.federalregister.gov/documents/2026/10/26/2026-21804/privacy-act-of-1974-system-of-records"/>
-    <summary>Education Department — 2026-21804</summary>
-    <published>2026-10-26T00:00:00+00:00</published>
+    <id>fr:2026-21887</id>
+    <title>Agency Information Collection Activities; on Comment Request Relating to Communications Excise Tax; Prepaid Telephone Cards</title>
+    <updated>2026-10-27T07:05:36.526485+00:00</updated>
+    <link href="https://www.federalregister.gov/documents/2026/10/27/2026-21887/agency-information-collection-activities-on-comment-request-relating-to-communications-excise-tax"/>
+    <summary>Treasury Department — 2026-21887</summary>
+    <published>2026-10-27T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>fr:2026-21805</id>
-    <title>Fisheries of the Exclusive Economic Zone Off Alaska; Reallocation of Pacific Cod in the Bering Sea and Aleutian Islands Management Area</title>
-    <updated>2026-10-27T01:44:53.007160+00:00</updated>
-    <link href="https://www.federalregister.gov/documents/2026/10/26/2026-21805/fisheries-of-the-exclusive-economic-zone-off-alaska-reallocation-of-pacific-cod-in-the-bering-sea"/>
-    <summary>Commerce Department — 2026-21805</summary>
-    <published>2026-10-26T00:00:00+00:00</published>
+    <id>fr:2026-21888</id>
+    <title>Fisheries of the Exclusive Economic Zone Off Alaska; Pacific Cod by Vessels Using Pot Gear in the Western Regulatory Area of the Gulf of Alaska</title>
+    <updated>2026-10-27T07:05:36.526465+00:00</updated>
+    <link href="https://www.federalregister.gov/documents/2026/10/27/2026-21888/fisheries-of-the-exclusive-economic-zone-off-alaska-pacific-cod-by-vessels-using-pot-gear-in-the"/>
+    <summary>Commerce Department — 2026-21888</summary>
+    <published>2026-10-27T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>fr:2026-21807</id>
-    <title>Ohio Regulatory Program</title>
-    <updated>2026-10-27T01:44:53.007144+00:00</updated>
-    <link href="https://www.federalregister.gov/documents/2026/10/26/2026-21807/ohio-regulatory-program"/>
-    <summary>Interior Department — 2026-21807</summary>
-    <published>2026-10-26T00:00:00+00:00</published>
+    <id>fr:2026-21889</id>
+    <title>Notice of Intent To Establish a Negotiated Rulemaking Advisory Committee for Tire Safety; Request for Comments and Solicitation of Nominations for Membership</title>
+    <updated>2026-10-27T07:05:36.526446+00:00</updated>
+    <link href="https://www.federalregister.gov/documents/2026/10/27/2026-21889/notice-of-intent-to-establish-a-negotiated-rulemaking-advisory-committee-for-tire-safety-request-for"/>
+    <summary>Transportation Department — 2026-21889</summary>
+    <published>2026-10-27T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>fr:2026-21808</id>
-    <title>Closed Captioning of Video Programming</title>
-    <updated>2026-10-27T01:44:53.007128+00:00</updated>
-    <link href="https://www.federalregister.gov/documents/2026/10/26/2026-21808/closed-captioning-of-video-programming"/>
-    <summary>Federal Communications Commission — 2026-21808</summary>
-    <published>2026-10-26T00:00:00+00:00</published>
+    <id>fr:2026-21891</id>
+    <title>Patient Protection and Affordable Care Act, Exchange Pre-Eligibility Verification</title>
+    <updated>2026-10-27T07:05:36.526425+00:00</updated>
+    <link href="https://www.federalregister.gov/documents/2026/10/27/2026-21891/patient-protection-and-affordable-care-act-exchange-pre-eligibility-verification"/>
+    <summary>Health and Human Services Department — 2026-21891</summary>
+    <published>2026-10-27T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>fr:2026-21809</id>
-    <title>Information Collection Being Submitted for Review and Approval to Office of Management and Budget</title>
-    <updated>2026-10-27T01:44:53.007111+00:00</updated>
-    <link href="https://www.federalregister.gov/documents/2026/10/26/2026-21809/information-collection-being-submitted-for-review-and-approval-to-office-of-management-and-budget"/>
-    <summary>Federal Communications Commission — 2026-21809</summary>
-    <published>2026-10-26T00:00:00+00:00</published>
+    <id>fr:2026-21892</id>
+    <title>Petition for Exemption; Summary of Petition Received; Placer Mosquito and Vector Control District</title>
+    <updated>2026-10-27T07:05:36.526404+00:00</updated>
+    <link href="https://www.federalregister.gov/documents/2026/10/27/2026-21892/petition-for-exemption-summary-of-petition-received-placer-mosquito-and-vector-control-district"/>
+    <summary>Transportation Department — 2026-21892</summary>
+    <published>2026-10-27T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>fr:2026-21810</id>
-    <title>Petition for Reconsideration of Action in Rulemaking Proceeding</title>
-    <updated>2026-10-27T01:44:53.007093+00:00</updated>
-    <link href="https://www.federalregister.gov/documents/2026/10/26/2026-21810/petition-for-reconsideration-of-action-in-rulemaking-proceeding"/>
-    <summary>Federal Communications Commission — 2026-21810</summary>
-    <published>2026-10-26T00:00:00+00:00</published>
+    <id>fr:2026-21893</id>
+    <title>Agency Information Collection Activities: Requests for Comments; Clearance of a Renewed Approval of Information Collection: Aviation Research Grants Program</title>
+    <updated>2026-10-27T07:05:36.526385+00:00</updated>
+    <link href="https://www.federalregister.gov/documents/2026/10/27/2026-21893/agency-information-collection-activities-requests-for-comments-clearance-of-a-renewed-approval-of"/>
+    <summary>Transportation Department — 2026-21893</summary>
+    <published>2026-10-27T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>fr:2026-21811</id>
-    <title>Information Collection Being Reviewed by the Federal Communications Commission</title>
-    <updated>2026-10-27T01:44:53.007057+00:00</updated>
-    <link href="https://www.federalregister.gov/documents/2026/10/26/2026-21811/information-collection-being-reviewed-by-the-federal-communications-commission"/>
-    <summary>Federal Communications Commission — 2026-21811</summary>
-    <published>2026-10-26T00:00:00+00:00</published>
+    <id>fr:2026-21894</id>
+    <title>Formations of, Acquisitions by, and Mergers of Bank Holding Companies</title>
+    <updated>2026-10-27T07:05:36.526366+00:00</updated>
+    <link href="https://www.federalregister.gov/documents/2026/10/27/2026-21894/formations-of-acquisitions-by-and-mergers-of-bank-holding-companies"/>
+    <summary>Federal Reserve System — 2026-21894</summary>
+    <published>2026-10-27T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>fr:2026-21812</id>
-    <title>Parts and Accessories Necessary for Safe Operation; Application for an Exemption From R.B. Stewart Petroleum Products, Inc., USDOT # 1290158</title>
-    <updated>2026-10-27T01:44:53.007041+00:00</updated>
-    <link href="https://www.federalregister.gov/documents/2026/10/26/2026-21812/parts-and-accessories-necessary-for-safe-operation-application-for-an-exemption-from-rb-stewart"/>
-    <summary>Transportation Department — 2026-21812</summary>
-    <published>2026-10-26T00:00:00+00:00</published>
+    <id>fr:2026-21895</id>
+    <title>Notice of Agreements Filed</title>
+    <updated>2026-10-27T07:05:36.526346+00:00</updated>
+    <link href="https://www.federalregister.gov/documents/2026/10/27/2026-21895/notice-of-agreements-filed"/>
+    <summary>Federal Maritime Commission — 2026-21895</summary>
+    <published>2026-10-27T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>fr:2026-21813</id>
-    <title>Astronomy and Astrophysics Advisory Committee; Notice of Meeting</title>
-    <updated>2026-10-27T01:44:53.007024+00:00</updated>
-    <link href="https://www.federalregister.gov/documents/2026/10/26/2026-21813/astronomy-and-astrophysics-advisory-committee-notice-of-meeting"/>
-    <summary>National Science Foundation — 2026-21813</summary>
-    <published>2026-10-26T00:00:00+00:00</published>
+    <id>fr:2026-21896</id>
+    <title>Notice of Publication of U.S. Resources Management Industry Listing and Opportunity To Apply for the Listing</title>
+    <updated>2026-10-27T07:05:36.526324+00:00</updated>
+    <link href="https://www.federalregister.gov/documents/2026/10/27/2026-21896/notice-of-publication-of-us-resources-management-industry-listing-and-opportunity-to-apply-for-the"/>
+    <summary>Commerce Department — 2026-21896</summary>
+    <published>2026-10-27T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>fr:2026-21814</id>
-    <title>Fogarty International Center; Notice of Meeting</title>
-    <updated>2026-10-27T01:44:53.007006+00:00</updated>
-    <link href="https://www.federalregister.gov/documents/2026/10/26/2026-21814/fogarty-international-center-notice-of-meeting"/>
-    <summary>Health and Human Services Department — 2026-21814</summary>
-    <published>2026-10-26T00:00:00+00:00</published>
+    <id>fr:2026-21897</id>
+    <title>Determination That PEPCID RPD (Famotidine) Orally Disintegrating Tablets, 20 Milligrams and 40 Milligrams Were Not Withdrawn From Sale for Reasons of Safety or Effectiveness</title>
+    <updated>2026-10-27T07:05:36.526304+00:00</updated>
+    <link href="https://www.federalregister.gov/documents/2026/10/27/2026-21897/determination-that-pepcid-rpd-famotidine-orally-disintegrating-tablets-20-milligrams-and-40"/>
+    <summary>Health and Human Services Department — 2026-21897</summary>
+    <published>2026-10-27T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>fr:2026-21815</id>
-    <title>Eunice Kennedy Shriver National Institute of Child Health &amp; Human Development; Notice of Meeting</title>
-    <updated>2026-10-27T01:44:53.006988+00:00</updated>
-    <link href="https://www.federalregister.gov/documents/2026/10/26/2026-21815/eunice-kennedy-shriver-national-institute-of-child-health-and-human-development-notice-of-meeting"/>
-    <summary>Health and Human Services Department — 2026-21815</summary>
-    <published>2026-10-26T00:00:00+00:00</published>
+    <id>fr:2026-21898</id>
+    <title>Agency Information Collection Activities: Comment Request: Survey of Earned Doctorates</title>
+    <updated>2026-10-27T07:05:36.526283+00:00</updated>
+    <link href="https://www.federalregister.gov/documents/2026/10/27/2026-21898/agency-information-collection-activities-comment-request-survey-of-earned-doctorates"/>
+    <summary>National Science Foundation — 2026-21898</summary>
+    <published>2026-10-27T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>fr:2026-21816</id>
+    <id>fr:2026-21900</id>
+    <title>Establishment of Federal Advisory Committees-Advisory Council on Health and Human Performance Optimization</title>
+    <updated>2026-10-27T07:05:36.526261+00:00</updated>
+    <link href="https://www.federalregister.gov/documents/2026/10/27/2026-21900/establishment-of-federal-advisory-committees-advisory-council-on-health-and-human-performance"/>
+    <summary>Defense Department — 2026-21900</summary>
+    <published>2026-10-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>fr:2026-21902</id>
+    <title>Airworthiness Directives; Ontic Engineering and Manufacturing, Inc. (Type Certificate Previously Held by Swearingen, Fairchild Aircraft, and M7 Aerospace) Airplanes</title>
+    <updated>2026-10-27T07:05:36.526237+00:00</updated>
+    <link href="https://www.federalregister.gov/documents/2026/10/27/2026-21902/airworthiness-directives-ontic-engineering-and-manufacturing-inc-type-certificate-previously-held-by"/>
+    <summary>Transportation Department — 2026-21902</summary>
+    <published>2026-10-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>fr:2026-21903</id>
     <title>Center for Scientific Review; Notice of Closed Meetings</title>
-    <updated>2026-10-27T01:44:53.006966+00:00</updated>
-    <link href="https://www.federalregister.gov/documents/2026/10/26/2026-21816/center-for-scientific-review-notice-of-closed-meetings"/>
-    <summary>Health and Human Services Department — 2026-21816</summary>
-    <published>2026-10-26T00:00:00+00:00</published>
+    <updated>2026-10-27T07:05:36.526216+00:00</updated>
+    <link href="https://www.federalregister.gov/documents/2026/10/27/2026-21903/center-for-scientific-review-notice-of-closed-meetings"/>
+    <summary>Health and Human Services Department — 2026-21903</summary>
+    <published>2026-10-27T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>fr:2026-21817</id>
-    <title>Establishment of Class E Airspace; Canton, IL</title>
-    <updated>2026-10-27T01:44:53.006948+00:00</updated>
-    <link href="https://www.federalregister.gov/documents/2026/10/26/2026-21817/establishment-of-class-e-airspace-canton-il"/>
-    <summary>Transportation Department — 2026-21817</summary>
-    <published>2026-10-26T00:00:00+00:00</published>
+    <id>fr:2026-21904</id>
+    <title>Submission for OMB Review; 30-Day Comment Request; The Impact of Clinical Research Training and Medical Education at the Clinical Center on Physician Careers in Academia and Clinical Research</title>
+    <updated>2026-10-27T07:05:36.526196+00:00</updated>
+    <link href="https://www.federalregister.gov/documents/2026/10/27/2026-21904/submission-for-omb-review-30-day-comment-request-the-impact-of-clinical-research-training-and"/>
+    <summary>Health and Human Services Department — 2026-21904</summary>
+    <published>2026-10-27T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>fr:2026-21818</id>
-    <title>Space Modernization for the 21st Century</title>
-    <updated>2026-10-27T01:44:53.006930+00:00</updated>
-    <link href="https://www.federalregister.gov/documents/2026/10/26/2026-21818/space-modernization-for-the-21st-century"/>
-    <summary>Federal Communications Commission — 2026-21818</summary>
-    <published>2026-10-26T00:00:00+00:00</published>
+    <id>fr:2026-21905</id>
+    <title>Government-Owned Inventions; Availability for Licensing</title>
+    <updated>2026-10-27T07:05:36.526174+00:00</updated>
+    <link href="https://www.federalregister.gov/documents/2026/10/27/2026-21905/government-owned-inventions-availability-for-licensing"/>
+    <summary>Health and Human Services Department — 2026-21905</summary>
+    <published>2026-10-27T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>fr:2026-21819</id>
-    <title>Certain Small Vertical Shaft Engines Between 99cc and up to 225cc, and Parts Thereof From the People's Republic of China: Continuation of Antidumping and Countervailing Duty Orders</title>
-    <updated>2026-10-27T01:44:53.006913+00:00</updated>
-    <link href="https://www.federalregister.gov/documents/2026/10/26/2026-21819/certain-small-vertical-shaft-engines-between-99cc-and-up-to-225cc-and-parts-thereof-from-the-peoples"/>
-    <summary>Commerce Department — 2026-21819</summary>
-    <published>2026-10-26T00:00:00+00:00</published>
+    <id>fr:2026-21906</id>
+    <title>Commercial Driver's License: PAM Transport, Inc.; Application for Exemption</title>
+    <updated>2026-10-27T07:05:36.526150+00:00</updated>
+    <link href="https://www.federalregister.gov/documents/2026/10/27/2026-21906/commercial-drivers-license-pam-transport-inc-application-for-exemption"/>
+    <summary>Transportation Department — 2026-21906</summary>
+    <published>2026-10-27T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>fr:2026-21820</id>
-    <title>Modernizing the Ability of Consumers To Control Robocalls</title>
-    <updated>2026-10-27T01:44:53.006895+00:00</updated>
-    <link href="https://www.federalregister.gov/documents/2026/10/26/2026-21820/modernizing-the-ability-of-consumers-to-control-robocalls"/>
-    <summary>Federal Communications Commission — 2026-21820</summary>
-    <published>2026-10-26T00:00:00+00:00</published>
+    <id>fr:2026-21907</id>
+    <title>Special Conditions: Embraer S.A. Model ERJ 190-400 Airplane; Embraer Enhanced Takeoff System</title>
+    <updated>2026-10-27T07:05:36.526124+00:00</updated>
+    <link href="https://www.federalregister.gov/documents/2026/10/27/2026-21907/special-conditions-embraer-sa-model-erj-190-400-airplane-embraer-enhanced-takeoff-system"/>
+    <summary>Transportation Department — 2026-21907</summary>
+    <published>2026-10-27T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>fr:2026-21821</id>
-    <title>Enhancing the Ability of Consumers To Control the Robocalls</title>
-    <updated>2026-10-27T01:44:53.006877+00:00</updated>
-    <link href="https://www.federalregister.gov/documents/2026/10/26/2026-21821/enhancing-the-ability-of-consumers-to-control-the-robocalls"/>
-    <summary>Federal Communications Commission — 2026-21821</summary>
-    <published>2026-10-26T00:00:00+00:00</published>
+    <id>fr:2026-21918</id>
+    <title>Safety Zone; Southern California Annual Firework Events for the Los Angeles-Long Beach Captain of the Port Zone</title>
+    <updated>2026-10-27T07:05:36.526095+00:00</updated>
+    <link href="https://www.federalregister.gov/documents/2026/10/27/2026-21918/safety-zone-southern-california-annual-firework-events-for-the-los-angeles-long-beach-captain-of-the"/>
+    <summary>Homeland Security Department — 2026-21918</summary>
+    <published>2026-10-27T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>fr:2026-21822</id>
-    <title>Submission for OMB Review; Comment Request</title>
-    <updated>2026-10-27T01:44:53.006855+00:00</updated>
-    <link href="https://www.federalregister.gov/documents/2026/10/26/2026-21822/submission-for-omb-review-comment-request"/>
-    <summary>Agriculture Department — 2026-21822</summary>
-    <published>2026-10-26T00:00:00+00:00</published>
+    <id>fr:2026-21920</id>
+    <title>Bipartisan Safer Communities Act of 2022-Criteria for National Instant Criminal Background Check System (“NICS”) Background Checks of Firearm Handlers</title>
+    <updated>2026-10-27T07:05:36.526065+00:00</updated>
+    <link href="https://www.federalregister.gov/documents/2026/10/27/2026-21920/bipartisan-safer-communities-act-of-2022-criteria-for-national-instant-criminal-background-check"/>
+    <summary>Justice Department — 2026-21920</summary>
+    <published>2026-10-27T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>fr:2026-21823</id>
-    <title>Senior Executive Service (SES) Performance Review Board; Notice of Membership</title>
-    <updated>2026-10-27T01:44:53.006833+00:00</updated>
-    <link href="https://www.federalregister.gov/documents/2026/10/26/2026-21823/senior-executive-service-ses-performance-review-board-notice-of-membership"/>
-    <summary>National Foundation on the Arts and the Humanities — 2026-21823</summary>
-    <published>2026-10-26T00:00:00+00:00</published>
+    <id>fr:2026-21922</id>
+    <title>Hazardous Materials: Harmonization With International Standards</title>
+    <updated>2026-10-27T07:05:36.526027+00:00</updated>
+    <link href="https://www.federalregister.gov/documents/2026/10/27/2026-21922/hazardous-materials-harmonization-with-international-standards"/>
+    <summary>Transportation Department — 2026-21922</summary>
+    <published>2026-10-27T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>fr:2026-21825</id>
-    <title>Sunshine Act Meetings</title>
-    <updated>2026-10-27T01:44:53.006809+00:00</updated>
-    <link href="https://www.federalregister.gov/documents/2026/10/26/2026-21825/sunshine-act-meetings"/>
-    <summary>Equal Employment Opportunity Commission — 2026-21825</summary>
-    <published>2026-10-26T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>fr:2026-21835</id>
-    <title>Wyoming Regulatory Program</title>
-    <updated>2026-10-27T01:44:53.006777+00:00</updated>
-    <link href="https://www.federalregister.gov/documents/2026/10/26/2026-21835/wyoming-regulatory-program"/>
-    <summary>Interior Department — 2026-21835</summary>
-    <published>2026-10-26T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>fr:2026-21837</id>
-    <title>Self-Regulatory Organizations; MIAX PEARL, LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend the MIAX Pearl Equities Fee Schedule</title>
-    <updated>2026-10-27T01:44:53.006721+00:00</updated>
-    <link href="https://www.federalregister.gov/documents/2026/10/26/2026-21837/self-regulatory-organizations-miax-pearl-llc-notice-of-filing-and-immediate-effectiveness-of-a"/>
-    <summary>Securities and Exchange Commission — 2026-21837</summary>
-    <published>2026-10-26T00:00:00+00:00</published>
+    <id>fr:2026-21923</id>
+    <title>Implementation of HAVANA Act of 2021</title>
+    <updated>2026-10-27T07:05:36.525963+00:00</updated>
+    <link href="https://www.federalregister.gov/documents/2026/10/27/2026-21923/implementation-of-havana-act-of-2021"/>
+    <summary>Justice Department — 2026-21923</summary>
+    <published>2026-10-27T00:00:00+00:00</published>
   </entry>
 </feed>
