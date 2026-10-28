@@ -2,39 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:techcrunch_ai</id>
   <title>TechCrunch - AI</title>
-  <updated>2026-10-27T22:47:15.781020+00:00</updated>
+  <updated>2026-10-28T01:56:21.948948+00:00</updated>
   <link href="file:///feeds/techcrunch_ai.xml" rel="self"/>
   <link href="https://techcrunch.com/category/artificial-intelligence/feed/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: tech / Mode: rss</subtitle>
   <entry>
-    <id>https://techcrunch.com/?p=3162590</id>
-    <title>The AI graveyard: a running list of projects and startups that didn’t make it</title>
-    <updated>2026-10-27T22:47:15.782243+00:00</updated>
-    <link href="https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"/>
-    <summary>From Apple's repeatedly delayed Siri AI to OpenAI's messy "super app" launch, here's a look at the AI projects that shut down or missed expectations.</summary>
-    <published>2026-10-24T19:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3181514</id>
-    <title>Will AI expose the rickety infrastructure of the internet?</title>
-    <updated>2026-10-27T22:47:15.782193+00:00</updated>
-    <link href="https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/"/>
-    <summary>The moment you realize the internet is "held together by glue and dreams."</summary>
-    <published>2026-10-24T20:15:33+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3067743</id>
-    <title>The hottest AI wearables and gadgets you should know about</title>
-    <updated>2026-10-27T22:47:15.782143+00:00</updated>
-    <link href="https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/"/>
-    <summary>We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.</summary>
-    <published>2026-10-25T14:10:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://techcrunch.com/?p=3181532</id>
     <title>AI delivers ‘zero financial payoff’ to most companies, Apollo economist says</title>
-    <updated>2026-10-27T22:47:15.782094+00:00</updated>
+    <updated>2026-10-28T01:56:21.949912+00:00</updated>
     <link href="https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/"/>
     <summary>"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech."</summary>
     <published>2026-10-25T16:57:32+00:00</published>
@@ -42,7 +18,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3181554</id>
     <title>Grok releases the first seven minutes of its AI-generated ‘Odyssey’</title>
-    <updated>2026-10-27T22:47:15.782046+00:00</updated>
+    <updated>2026-10-28T01:56:21.949871+00:00</updated>
     <link href="https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/"/>
     <summary>The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.</summary>
     <published>2026-10-25T21:31:16+00:00</published>
@@ -50,7 +26,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3181633</id>
     <title>Anthropic officially files for its public debut</title>
-    <updated>2026-10-27T22:47:15.781997+00:00</updated>
+    <updated>2026-10-28T01:56:21.949831+00:00</updated>
     <link href="https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/"/>
     <summary>Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.</summary>
     <published>2026-10-26T14:35:22+00:00</published>
@@ -58,7 +34,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3181659</id>
     <title>SpaceX locks in $40B GPU financing deal with Apollo</title>
-    <updated>2026-10-27T22:47:15.781947+00:00</updated>
+    <updated>2026-10-28T01:56:21.949790+00:00</updated>
     <link href="https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/"/>
     <summary>The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.</summary>
     <published>2026-10-26T16:46:36+00:00</published>
@@ -66,7 +42,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3181689</id>
     <title>Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked</title>
-    <updated>2026-10-27T22:47:15.781897+00:00</updated>
+    <updated>2026-10-28T01:56:21.949749+00:00</updated>
     <link href="https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/"/>
     <summary>Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier.</summary>
     <published>2026-10-26T16:49:42+00:00</published>
@@ -74,7 +50,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3181989</id>
     <title>Cohere says Alibaba’s Qwen model tried to send a file to Beijing</title>
-    <updated>2026-10-27T22:47:15.781845+00:00</updated>
+    <updated>2026-10-28T01:56:21.949706+00:00</updated>
     <link href="https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/"/>
     <summary>An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.</summary>
     <published>2026-10-27T01:12:21+00:00</published>
@@ -82,7 +58,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3181218</id>
     <title>How OpenAI turned its coding tools into dots, an always-on personal assistant</title>
-    <updated>2026-10-27T22:47:15.781796+00:00</updated>
+    <updated>2026-10-28T01:56:21.949665+00:00</updated>
     <link href="https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/"/>
     <summary>Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.</summary>
     <published>2026-10-27T02:00:00+00:00</published>
@@ -90,7 +66,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3181625</id>
     <title>Nvidia backs Indian startup helping companies run AI models with fewer GPUs</title>
-    <updated>2026-10-27T22:47:15.781746+00:00</updated>
+    <updated>2026-10-28T01:56:21.949622+00:00</updated>
     <link href="https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/"/>
     <summary>Simplismart says its annualized revenue run rate has grown fourteenfold in six months, with the U.S. accounting for more than half its revenue.</summary>
     <published>2026-10-27T11:00:00+00:00</published>
@@ -98,7 +74,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3181881</id>
     <title>General Compute raises $100 million Series A, countering the neocloud disaster narrative</title>
-    <updated>2026-10-27T22:47:15.781696+00:00</updated>
+    <updated>2026-10-28T01:56:21.949582+00:00</updated>
     <link href="https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/"/>
     <summary>General Compute is betting on inference chips from outside the Nvidia ecosystem.</summary>
     <published>2026-10-27T13:00:00+00:00</published>
@@ -106,7 +82,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3181922</id>
     <title>Opera introduces a new web standard to let users deploy AI locally in their browser</title>
-    <updated>2026-10-27T22:47:15.781643+00:00</updated>
+    <updated>2026-10-28T01:56:21.949541+00:00</updated>
     <link href="https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/"/>
     <summary>The new standard, WebAI, is designed to work with a variety of AI models.</summary>
     <published>2026-10-27T13:00:00+00:00</published>
@@ -114,7 +90,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3182015</id>
     <title>Japan internet giant GMO says hackers posted stolen customer data</title>
-    <updated>2026-10-27T22:47:15.781581+00:00</updated>
+    <updated>2026-10-28T01:56:21.949500+00:00</updated>
     <link href="https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/"/>
     <summary>Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach.</summary>
     <published>2026-10-27T13:32:57+00:00</published>
@@ -122,7 +98,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3182018</id>
     <title>Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace</title>
-    <updated>2026-10-27T22:47:15.781526+00:00</updated>
+    <updated>2026-10-28T01:56:21.949458+00:00</updated>
     <link href="https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/"/>
     <summary>Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.</summary>
     <published>2026-10-27T14:59:09+00:00</published>
@@ -130,7 +106,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3182045</id>
     <title>Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering</title>
-    <updated>2026-10-27T22:47:15.781468+00:00</updated>
+    <updated>2026-10-28T01:56:21.949417+00:00</updated>
     <link href="https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/"/>
     <summary>Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.</summary>
     <published>2026-10-27T16:30:57+00:00</published>
@@ -138,7 +114,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3182002</id>
     <title>Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?</title>
-    <updated>2026-10-27T22:47:15.781409+00:00</updated>
+    <updated>2026-10-28T01:56:21.949371+00:00</updated>
     <link href="https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/"/>
     <summary>TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.</summary>
     <published>2026-10-27T17:08:08+00:00</published>
@@ -146,7 +122,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3182189</id>
     <title>Disruptive raises $10B fund to make big bets on at least 10 companies</title>
-    <updated>2026-10-27T22:47:15.781349+00:00</updated>
+    <updated>2026-10-28T01:56:21.949328+00:00</updated>
     <link href="https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/"/>
     <summary>Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.</summary>
     <published>2026-10-27T18:55:35+00:00</published>
@@ -154,7 +130,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3182153</id>
     <title>Who’s really in charge at Anthropic after the IPO?</title>
-    <updated>2026-10-27T22:47:15.781260+00:00</updated>
+    <updated>2026-10-28T01:56:21.949281+00:00</updated>
     <link href="https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/"/>
     <summary>Here's a clear explanation of Anthropic's incredibly complex governance structure.</summary>
     <published>2026-10-27T21:38:28+00:00</published>
@@ -162,9 +138,33 @@
   <entry>
     <id>https://techcrunch.com/?p=3182297</id>
     <title>Bank of America kindly asks that you don’t share your banking password with your AI assistant</title>
-    <updated>2026-10-27T22:47:15.781178+00:00</updated>
+    <updated>2026-10-28T01:56:21.949234+00:00</updated>
     <link href="https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/"/>
     <summary>The banking giant reminds customers that "you're responsible for activity" resulting from your AI agents' access.</summary>
     <published>2026-10-27T21:44:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3181301</id>
+    <title>The data center boom has an upside: innovation for the US grid</title>
+    <updated>2026-10-28T01:56:21.949189+00:00</updated>
+    <link href="https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/"/>
+    <summary>As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.</summary>
+    <published>2026-10-27T22:55:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3182387</id>
+    <title>Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication</title>
+    <updated>2026-10-28T01:56:21.949141+00:00</updated>
+    <link href="https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/"/>
+    <summary>A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.</summary>
+    <published>2026-10-27T23:34:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3182406</id>
+    <title>VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more</title>
+    <updated>2026-10-28T01:56:21.949062+00:00</updated>
+    <link href="https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/"/>
+    <summary>Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.</summary>
+    <published>2026-10-28T01:15:28+00:00</published>
   </entry>
 </feed>

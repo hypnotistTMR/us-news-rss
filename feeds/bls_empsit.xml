@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:bls_empsit</id>
   <title>BLS - Employment Situation</title>
-  <updated>2026-10-27T22:48:02.463384+00:00</updated>
+  <updated>2026-10-28T01:57:09.486842+00:00</updated>
   <link href="file:///feeds/bls_empsit.xml" rel="self"/>
   <link href="https://www.bls.gov/feed/empsit.rss" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -10,7 +10,7 @@
   <entry>
     <id>empsit-2025_11_20__08_30_00</id>
     <title>Payroll employment edges up 119,000 in September; unemployment rate changes little at 4.4%</title>
-    <updated>2026-10-27T22:48:02.464023+00:00</updated>
+    <updated>2026-10-28T01:57:09.487394+00:00</updated>
     <link href="https://www.bls.gov/news.release/archives/empsit_11202025.htm"/>
     <summary>Total nonfarm payroll employment edged up in September (+119,000),  and the unemployment rate changed little at 4.4 percent. Employment trended up in health care, food services and drinking places, and  social assistance. Transportation and warehousing and federal  government lost jobs.</summary>
     <published>2025-11-20T08:30:00-05:00</published>
@@ -18,7 +18,7 @@
   <entry>
     <id>empsit-2025_12_16__08_30_00</id>
     <title>Both payroll employment (+64,000) and unemployment rate (4.6%) change little in November</title>
-    <updated>2026-10-27T22:48:02.463986+00:00</updated>
+    <updated>2026-10-28T01:57:09.487364+00:00</updated>
     <link href="https://www.bls.gov/news.release/archives/empsit_12162025.htm"/>
     <summary>Total nonfarm payroll employment changed little in November (+64,000) and has changed little since April. The November unemployment rate was 4.6 percent, little changed from September. Employment rose in health care and construction in November, while federal government continued to lose jobs.</summary>
     <published>2025-12-16T08:30:00-05:00</published>
@@ -26,7 +26,7 @@
   <entry>
     <id>empsit-2026_01_09__08_30_00</id>
     <title>Both payroll employment (+50,000) and unemployment rate (4.4%) change little in December</title>
-    <updated>2026-10-27T22:48:02.463950+00:00</updated>
+    <updated>2026-10-28T01:57:09.487333+00:00</updated>
     <link href="https://www.bls.gov/news.release/archives/empsit_01092026.htm"/>
     <summary>Both total nonfarm payroll employment (+50,000) and the unemployment rate  (4.4 percent) changed little in December. Employment continued to trend up in food services and drinking places, health care, and social assistance. Retail trade lost jobs.</summary>
     <published>2026-01-09T08:30:00-05:00</published>
@@ -34,7 +34,7 @@
   <entry>
     <id>empsit-2026_02_11__08_30_00</id>
     <title>Payroll employment rises by 130,000 in January; unemployment rate changes little at 4.3%</title>
-    <updated>2026-10-27T22:48:02.463913+00:00</updated>
+    <updated>2026-10-28T01:57:09.487303+00:00</updated>
     <link href="https://www.bls.gov/news.release/archives/empsit_02112026.htm"/>
     <summary>Total nonfarm payroll employment rose by 130,000 in January, and the  unemployment rate changed little at 4.3 percent. Job gains occurred in health care, social assistance, and construction, while federal  government and financial activities lost jobs.</summary>
     <published>2026-02-11T08:30:00-05:00</published>
@@ -42,7 +42,7 @@
   <entry>
     <id>empsit-2026_03_06__08_30_00</id>
     <title>Payroll employment edges down 92,000 in February; unemployment rate changes little at 4.4%</title>
-    <updated>2026-10-27T22:48:02.463874+00:00</updated>
+    <updated>2026-10-28T01:57:09.487273+00:00</updated>
     <link href="https://www.bls.gov/news.release/archives/empsit_03062026.htm"/>
     <summary>Total nonfarm payroll employment edged down by 92,000 in February, and the unemployment rate changed little at 4.4 percent. Employment in health care decreased, reflecting strike activity. Employment in information and federal government continued to trend down.</summary>
     <published>2026-03-06T08:30:00-05:00</published>
@@ -50,7 +50,7 @@
   <entry>
     <id>empsit-2026_04_03__08_30_00</id>
     <title>Payroll employment increases by 178,000 in March; unemployment rate changes little at 4.3%</title>
-    <updated>2026-10-27T22:48:02.463833+00:00</updated>
+    <updated>2026-10-28T01:57:09.487240+00:00</updated>
     <link href="https://www.bls.gov/news.release/archives/empsit_04032026.htm"/>
     <summary>Total nonfarm payroll employment increased by 178,000 in March, and the unemployment rate changed little at 4.3 percent. Job gains occurred in health care, in construction, and in transportation and warehousing. Federal government employment continued to decline.</summary>
     <published>2026-04-03T08:30:00-04:00</published>
@@ -58,7 +58,7 @@
   <entry>
     <id>empsit-2026_05_08__08_30_00</id>
     <title>Payroll employment edges up by 115,000 in April; unemployment rate unchanged at 4.3%</title>
-    <updated>2026-10-27T22:48:02.463795+00:00</updated>
+    <updated>2026-10-28T01:57:09.487210+00:00</updated>
     <link href="https://www.bls.gov/news.release/archives/empsit_05082026.htm"/>
     <summary>Total nonfarm payroll employment edged up by 115,000 in April, and the unemployment rate was unchanged at 4.3 percent. Job gains occurred in health care, transportation and warehousing, and retail trade. Federal government employment continued to decline.</summary>
     <published>2026-05-08T08:30:00-04:00</published>
@@ -66,7 +66,7 @@
   <entry>
     <id>empsit-2026_06_05__08_30_00</id>
     <title>Payroll employment increases by 172,000 in May; unemployment rate unchanged at 4.3%</title>
-    <updated>2026-10-27T22:48:02.463756+00:00</updated>
+    <updated>2026-10-28T01:57:09.487178+00:00</updated>
     <link href="https://www.bls.gov/news.release/archives/empsit_06052026.htm"/>
     <summary>Total nonfarm payroll employment increased by 172,000 in May, and the unemployment rate was unchanged at 4.3 percent. Job gains occurred in leisure and hospitality, local government, and health care. Employment in financial activities declined.</summary>
     <published>2026-06-05T08:30:00-04:00</published>
@@ -74,7 +74,7 @@
   <entry>
     <id>empsit-2026_07_02__07_50_52</id>
     <title>Both payroll employment (+57,000) and unemployment rate (4.2%) change little in June</title>
-    <updated>2026-10-27T22:48:02.463716+00:00</updated>
+    <updated>2026-10-28T01:57:09.487143+00:00</updated>
     <link href="https://www.bls.gov/news.release/archives/empsit_07022026.htm"/>
     <summary>Both total nonfarm payroll employment (+57,000) and the unemployment rate (4.2 percent) changed little in June. Employment continued to trend up in professional and business services, social assistance, and health care. Leisure and hospitality lost jobs.</summary>
     <published>2026-07-02T07:50:52.662000-04:00</published>
@@ -82,7 +82,7 @@
   <entry>
     <id>empsit-2026_08_07__07_50_34</id>
     <title>Both payroll employment (-23,000) and unemployment rate (4.1%) change little in July</title>
-    <updated>2026-10-27T22:48:02.463672+00:00</updated>
+    <updated>2026-10-28T01:57:09.487086+00:00</updated>
     <link href="https://www.bls.gov/news.release/archives/empsit_08072026.htm"/>
     <summary>Both nonfarm payroll employment (-23,000) and the unemployment rate (4.1 percent) changed little in July. Employment declined in local government education and retail trade. Employment continued to trend up in health care.</summary>
     <published>2026-08-07T07:50:34.021000-04:00</published>
@@ -90,7 +90,7 @@
   <entry>
     <id>empsit-2026_09_04__07_51_08</id>
     <title>Payroll employment increases by 162,000 in August; unemployment rate unchanged at 4.1%</title>
-    <updated>2026-10-27T22:48:02.463623+00:00</updated>
+    <updated>2026-10-28T01:57:09.487046+00:00</updated>
     <link href="https://www.bls.gov/news.release/archives/empsit_09042026.htm"/>
     <summary>Total nonfarm payroll employment increased by 162,000 in August,  and the unemployment rate was unchanged at 4.1 percent. Employment  increased in food services and drinking places and in local  government education. The information industry lost jobs.</summary>
     <published>2026-09-04T07:51:08.695000-04:00</published>
@@ -98,7 +98,7 @@
   <entry>
     <id>empsit-2026_10_02__07_51_08</id>
     <title>Both payroll employment (+29,000) and unemployment rate (4.2%) change little in September</title>
-    <updated>2026-10-27T22:48:02.463552+00:00</updated>
+    <updated>2026-10-28T01:57:09.486989+00:00</updated>
     <link href="https://www.bls.gov/news.release/archives/empsit_10022026.htm"/>
     <summary>Both nonfarm payroll employment (+29,000) and the unemployment rate  (4.2 percent) changed little in September. Employment in all major  industries changed little over the month.</summary>
     <published>2026-10-02T07:51:08.289000-04:00</published>
