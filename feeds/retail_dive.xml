@@ -2,63 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:retail_dive</id>
   <title>Retail Dive</title>
-  <updated>2026-10-28T14:43:44.180673+00:00</updated>
+  <updated>2026-10-28T20:00:00.370324+00:00</updated>
   <link href="file:///feeds/retail_dive.xml" rel="self"/>
   <link href="https://www.retaildive.com/feeds/news/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: retail / Mode: rss</subtitle>
   <entry>
-    <id>https://www.retaildive.com/news/genre-horror-romance-bookstores-chicago-retail/833673/</id>
-    <title>Genre bookstores are having a moment — especially in Chicago</title>
-    <updated>2026-10-28T14:43:44.181689+00:00</updated>
-    <link href="https://www.retaildive.com/news/genre-horror-romance-bookstores-chicago-retail/833673/"/>
-    <summary>From romance to horror, genre readers are done settling for just a few shelves. Now they are coming for the entire store.&amp;nbsp;</summary>
-    <published>2026-10-26T11:17:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://www.retaildive.com/news/walmart-longer-black-friday-cyber-monday-sales-events/872747/</id>
-    <title>Walmart debuts longer Black Friday, Cyber Monday sales events</title>
-    <updated>2026-10-28T14:43:44.181611+00:00</updated>
-    <link href="https://www.retaildive.com/news/walmart-longer-black-friday-cyber-monday-sales-events/872747/"/>
-    <summary>The mass retailer&amp;#39;s deal events will total 14 days this season, compared to 10 in 2025.</summary>
-    <published>2026-10-26T11:43:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://www.retaildive.com/news/target-soho-store-renovation-fan-shop-remodels-holidays/833925/</id>
-    <title>Target spruces up SoHo store, fan shops ahead of the holidays</title>
-    <updated>2026-10-28T14:43:44.181533+00:00</updated>
-    <link href="https://www.retaildive.com/news/target-soho-store-renovation-fan-shop-remodels-holidays/833925/"/>
-    <summary>In both cases, a localized presentation is key to what the retailer calls its &amp;ldquo;merchandising authority.&amp;rdquo;</summary>
-    <published>2026-10-26T12:13:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://www.retaildive.com/news/cvs-pokemon-collectibles-beauty-seasonal/872755/</id>
-    <title>CVS wants to sell more Pokémon, collectibles</title>
-    <updated>2026-10-28T14:43:44.181453+00:00</updated>
-    <link href="https://www.retaildive.com/news/cvs-pokemon-collectibles-beauty-seasonal/872755/"/>
-    <summary>The pharmacy retailer is expanding its assortment of toys and collectibles as adults fuel growth in those segments.&amp;nbsp;</summary>
-    <published>2026-10-26T12:22:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://www.retaildive.com/news/banana-republic-debuts-tiktok-content-series-in-bid-for-younger-shoppers/833851/</id>
-    <title>Banana Republic debuts TikTok content series in bid for younger shoppers</title>
-    <updated>2026-10-28T14:43:44.181373+00:00</updated>
-    <link href="https://www.retaildive.com/news/banana-republic-debuts-tiktok-content-series-in-bid-for-younger-shoppers/833851/"/>
-    <summary>The effort spotlights various styles and arrives as parent Gap Inc. continues to emphasize entertainment marketing.</summary>
-    <published>2026-10-26T15:58:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://www.retaildive.com/news/dollar-general-sued-ftc-alleged-deceptive-pricing/872790/</id>
-    <title>Dollar General sued by FTC over ‘deceptive pricing practices’</title>
-    <updated>2026-10-28T14:43:44.181294+00:00</updated>
-    <link href="https://www.retaildive.com/news/dollar-general-sued-ftc-alleged-deceptive-pricing/872790/"/>
-    <summary>The agency, along with 20 states, allege that customers are charged more at the register than prices displayed on tags and in ads.</summary>
-    <published>2026-10-26T16:36:00-04:00</published>
-  </entry>
-  <entry>
     <id>https://www.retaildive.com/news/retail-horror-stories-nike-turnaround-lululemon-chip-wilson-2026/833866/</id>
     <title>5 of the biggest retail horror stories of 2026</title>
-    <updated>2026-10-28T14:43:44.181212+00:00</updated>
+    <updated>2026-10-28T20:00:00.370915+00:00</updated>
     <link href="https://www.retaildive.com/news/retail-horror-stories-nike-turnaround-lululemon-chip-wilson-2026/833866/"/>
     <summary>From Nike&amp;rsquo;s turnaround setbacks to Chip Wilson&amp;rsquo;s battle with Lululemon, the spookiest sights weren&amp;rsquo;t found on retailers&amp;rsquo; shelves this year.</summary>
     <published>2026-10-27T07:00:00-04:00</published>
@@ -66,7 +18,7 @@
   <entry>
     <id>https://www.retaildive.com/news/walmart-cmo-breaks-down-retailers-muppet-fueled-holiday-campaign/872773/</id>
     <title>Walmart’s chief marketer breaks down retailer’s Muppet-fueled holiday campaign</title>
-    <updated>2026-10-28T14:43:44.181131+00:00</updated>
+    <updated>2026-10-28T20:00:00.370873+00:00</updated>
     <link href="https://www.retaildive.com/news/walmart-cmo-breaks-down-retailers-muppet-fueled-holiday-campaign/872773/"/>
     <summary>For a unified push during the holidays, the retailer is recreating the world of &amp;ldquo;The Muppet Christmas Carol&amp;rdquo; and extending its &amp;ldquo;Who Knew?&amp;rdquo; brand platform.</summary>
     <published>2026-10-27T10:26:00-04:00</published>
@@ -74,7 +26,7 @@
   <entry>
     <id>https://www.retaildive.com/news/these-department-stores-need-a-good-holiday-kohls-penney-saks/833912/</id>
     <title>These 3 department stores need a good holiday</title>
-    <updated>2026-10-28T14:43:44.181041+00:00</updated>
+    <updated>2026-10-28T20:00:00.370831+00:00</updated>
     <link href="https://www.retaildive.com/news/these-department-stores-need-a-good-holiday-kohls-penney-saks/833912/"/>
     <summary>Kohl&amp;rsquo;s, J.C. Penney and &amp;mdash; once again&amp;mdash; Saks Fifth Avenue have a lot riding on this year&amp;rsquo;s shopping season.</summary>
     <published>2026-10-27T11:41:00-04:00</published>
@@ -82,9 +34,57 @@
   <entry>
     <id>https://www.retaildive.com/news/target-overhauls-threshold-home-goods-brand/872851/</id>
     <title>Target overhauls Threshold home goods brand</title>
-    <updated>2026-10-28T14:43:44.180885+00:00</updated>
+    <updated>2026-10-28T20:00:00.370788+00:00</updated>
     <link href="https://www.retaildive.com/news/target-overhauls-threshold-home-goods-brand/872851/"/>
     <summary>The $3 billion private label has improved quality, merchandising and, in some cases, prices, and added more than 800 items to the assortment.</summary>
     <published>2026-10-27T11:43:00-04:00</published>
+  </entry>
+  <entry>
+    <id>https://www.retaildive.com/news/aritzia-store-openings-product-expansions-double-revenue-growth-plan/873034/</id>
+    <title>Aritzia banks on store openings, product expansions to double revenue in 5 years</title>
+    <updated>2026-10-28T20:00:00.370745+00:00</updated>
+    <link href="https://www.retaildive.com/news/aritzia-store-openings-product-expansions-double-revenue-growth-plan/873034/"/>
+    <summary>The company plans to open as many as 14 U.S. stores a year and expand into bags, beauty and shoes on its path to becoming &amp;ldquo;world famous.&amp;rdquo;</summary>
+    <published>2026-10-28T11:29:00-04:00</published>
+  </entry>
+  <entry>
+    <id>https://www.retaildive.com/news/etsy-ceo-ai-human-creativity-earnings/873009/</id>
+    <title>Etsy CEO addresses friction of AI vs. human creativity</title>
+    <updated>2026-10-28T20:00:00.370701+00:00</updated>
+    <link href="https://www.retaildive.com/news/etsy-ceo-ai-human-creativity-earnings/873009/"/>
+    <summary>The e-commerce marketplace saw active buyers in Q3 grow for the first time in two years and is utilizing AI to improve product recommendations.</summary>
+    <published>2026-10-28T11:41:00-04:00</published>
+  </entry>
+  <entry>
+    <id>https://www.retaildive.com/news/jos-a-bank-new-store-concept/872882/</id>
+    <title>Jos. A. Bank puts customer experience at the center of new store concept</title>
+    <updated>2026-10-28T20:00:00.370658+00:00</updated>
+    <link href="https://www.retaildive.com/news/jos-a-bank-new-store-concept/872882/"/>
+    <summary>The menswear retailer&amp;rsquo;s new space, which was developed using customer insights, features an area for consultations, fittings and personalized service.</summary>
+    <published>2026-10-28T11:56:00-04:00</published>
+  </entry>
+  <entry>
+    <id>https://www.retaildive.com/news/running-brand-rescue-vans-vf-corp-altra/873014/</id>
+    <title>Could this running brand rescue Vans owner VF Corp?</title>
+    <updated>2026-10-28T20:00:00.370614+00:00</updated>
+    <link href="https://www.retaildive.com/news/running-brand-rescue-vans-vf-corp-altra/873014/"/>
+    <summary>The Altra footwear brand&amp;rsquo;s revenue grew 40% in Q2 and is on pace to offset ongoing declines at the company&amp;rsquo;s faltering skater brand.</summary>
+    <published>2026-10-28T12:13:00-04:00</published>
+  </entry>
+  <entry>
+    <id>https://www.retaildive.com/news/hasbro-wizards-of-the-coast-president-dan-ayoub/872998/</id>
+    <title>Hasbro names third Wizards of the Coast president in under 5 years</title>
+    <updated>2026-10-28T20:00:00.370568+00:00</updated>
+    <link href="https://www.retaildive.com/news/hasbro-wizards-of-the-coast-president-dan-ayoub/872998/"/>
+    <summary>Dan Ayoub, who now leads Wizards and Hasbro Digital Games, has been playing D&amp;amp;D with the same group of friends since he was 10 years old.&amp;nbsp;</summary>
+    <published>2026-10-28T12:13:00-04:00</published>
+  </entry>
+  <entry>
+    <id>https://www.retaildive.com/news/sephora-casts-seth-rogen-holiday-ads/873013/</id>
+    <title>Sephora casts Seth Rogen for holiday ads targeted at gift-givers</title>
+    <updated>2026-10-28T20:00:00.370505+00:00</updated>
+    <link href="https://www.retaildive.com/news/sephora-casts-seth-rogen-holiday-ads/873013/"/>
+    <summary>&amp;ldquo;The Studio&amp;rdquo; star plays a clueless shopper in a campaign aimed at consumers who aren&amp;rsquo;t in-the-know about beauty but are seeking thoughtful presents.</summary>
+    <published>2026-10-28T12:58:00-04:00</published>
   </entry>
 </feed>
