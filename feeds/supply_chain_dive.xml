@@ -2,39 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:supply_chain_dive</id>
   <title>Supply Chain Dive</title>
-  <updated>2026-10-28T07:49:27.562559+00:00</updated>
+  <updated>2026-10-28T14:44:19.715918+00:00</updated>
   <link href="file:///feeds/supply_chain_dive.xml" rel="self"/>
   <link href="https://www.supplychaindive.com/feeds/news/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: logistics / Mode: rss</subtitle>
   <entry>
-    <id>https://www.supplychaindive.com/news/csx-sees-rail-conversion-opportunities-from-battered-trucking-market/833858/</id>
-    <title>CSX sees rail conversion opportunities from battered trucking market</title>
-    <updated>2026-10-28T07:49:27.563672+00:00</updated>
-    <link href="https://www.supplychaindive.com/news/csx-sees-rail-conversion-opportunities-from-battered-trucking-market/833858/"/>
-    <summary>The railroad is reviewing shipper truckload files to provide service and cost comparisons for intermodal opportunities.</summary>
-    <published>2026-10-26T10:40:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://www.supplychaindive.com/news/ups-plans-59-rate-increase-on-dec-21/872751/</id>
-    <title>UPS plans 5.9% rate increase on Dec. 21</title>
-    <updated>2026-10-28T07:49:27.563582+00:00</updated>
-    <link href="https://www.supplychaindive.com/news/ups-plans-59-rate-increase-on-dec-21/872751/"/>
-    <summary>The carrier&amp;#39;s average rate bump will match FedEx&amp;#39;s upcoming increase, but UPS also has additional changes in store.</summary>
-    <published>2026-10-26T11:10:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://www.supplychaindive.com/news/inside-fedexs-network-20-overhaul/833618/</id>
-    <title>Inside FedEx’s Network 2.0 overhaul</title>
-    <updated>2026-10-28T07:49:27.563492+00:00</updated>
-    <link href="https://www.supplychaindive.com/news/inside-fedexs-network-20-overhaul/833618/"/>
-    <summary>A facility in a Dallas suburb offers a glimpse into FedEx&amp;rsquo;s newly integrated approach for sorting and delivering packages across the country.</summary>
-    <published>2026-10-26T11:20:25-04:00</published>
-  </entry>
-  <entry>
     <id>https://www.supplychaindive.com/news/usps-to-debut-weekly-fuel-fee-in-2027-matching-fedex-ups-practices/872778/</id>
     <title>USPS to debut weekly fuel fee in 2027, matching FedEx, UPS practices</title>
-    <updated>2026-10-28T07:49:27.563403+00:00</updated>
+    <updated>2026-10-28T14:44:19.716964+00:00</updated>
     <link href="https://www.supplychaindive.com/news/usps-to-debut-weekly-fuel-fee-in-2027-matching-fedex-ups-practices/872778/"/>
     <summary>The surcharge for package shipping services will be tied to diesel and jet fuel prices, which have been climbing this year.</summary>
     <published>2026-10-26T15:12:00-04:00</published>
@@ -42,7 +18,7 @@
   <entry>
     <id>https://www.supplychaindive.com/news/ustr-weighs-extending-pause-on-china-linked-vessel-fees-to-january/872763/</id>
     <title>USTR weighs extending pause on China-linked vessel fees to January</title>
-    <updated>2026-10-28T07:49:27.563312+00:00</updated>
+    <updated>2026-10-28T14:44:19.716854+00:00</updated>
     <link href="https://www.supplychaindive.com/news/ustr-weighs-extending-pause-on-china-linked-vessel-fees-to-january/872763/"/>
     <summary>The suspension is currently set to lift Nov. 9, but the agency said more time would allow the U.S. and China to further negotiations.</summary>
     <published>2026-10-26T16:48:18-04:00</published>
@@ -50,7 +26,7 @@
   <entry>
     <id>https://www.supplychaindive.com/spons/supply-chain-ai-has-an-execution-problem/872776/</id>
     <title>Supply Chain AI Has an Execution Problem</title>
-    <updated>2026-10-28T07:49:27.563215+00:00</updated>
+    <updated>2026-10-28T14:44:19.716763+00:00</updated>
     <link href="https://www.supplychaindive.com/spons/supply-chain-ai-has-an-execution-problem/872776/"/>
     <summary>AI is everywhere in supply chain software now&amp;mdash;but does it actually improve decisions? Here&amp;#39;s why language models need a decision engine underneath, and the test every planner should run before trusting an AI recommendation.</summary>
     <published>2026-10-26T23:00:00-04:00</published>
@@ -58,7 +34,7 @@
   <entry>
     <id>https://www.supplychaindive.com/news/audi-investing-4b-to-build-its-first-us-plant-in-georgia/872866/</id>
     <title>Audi investing $4B to build its first US plant in Georgia</title>
-    <updated>2026-10-28T07:49:27.563070+00:00</updated>
+    <updated>2026-10-28T14:44:19.716675+00:00</updated>
     <link href="https://www.supplychaindive.com/news/audi-investing-4b-to-build-its-first-us-plant-in-georgia/872866/"/>
     <summary>The factory will have a production capacity of up to 200,000 vehicles a year, with construction slated to begin in 2027 and the first vehicles built in the early 2030s.</summary>
     <published>2026-10-27T07:31:00-04:00</published>
@@ -66,7 +42,7 @@
   <entry>
     <id>https://www.supplychaindive.com/news/cycling-apparel-company-unites-planning-sourcing-on-single-platform/833732/</id>
     <title>Cycling apparel company unites planning, sourcing on single platform</title>
-    <updated>2026-10-28T07:49:27.562977+00:00</updated>
+    <updated>2026-10-28T14:44:19.716587+00:00</updated>
     <link href="https://www.supplychaindive.com/news/cycling-apparel-company-unites-planning-sourcing-on-single-platform/833732/"/>
     <summary>MAAP joins Walmart, Pacsun and others who have teamed with technology vendor Bamboo Rose to enhance supply chain operations.</summary>
     <published>2026-10-27T09:43:00-04:00</published>
@@ -74,7 +50,7 @@
   <entry>
     <id>https://www.supplychaindive.com/news/ups-gears-up-for-peak-season-with-less-amazon-volume-in-tow/872845/</id>
     <title>UPS gears up for peak season with less Amazon volume in tow</title>
-    <updated>2026-10-28T07:49:27.562881+00:00</updated>
+    <updated>2026-10-28T14:44:19.716499+00:00</updated>
     <link href="https://www.supplychaindive.com/news/ups-gears-up-for-peak-season-with-less-amazon-volume-in-tow/872845/"/>
     <summary>The carrier expects U.S. volume to dip year over year in Q4, but packages from other customer segments are projected to boost revenue.</summary>
     <published>2026-10-27T12:06:00-04:00</published>
@@ -82,9 +58,33 @@
   <entry>
     <id>https://www.supplychaindive.com/news/kroger-taps-rfid-computer-vision-data-to-boost-inventory-management/872819/</id>
     <title>Kroger taps RFID, computer vision data to boost inventory management</title>
-    <updated>2026-10-28T07:49:27.562759+00:00</updated>
+    <updated>2026-10-28T14:44:19.716409+00:00</updated>
     <link href="https://www.supplychaindive.com/news/kroger-taps-rfid-computer-vision-data-to-boost-inventory-management/872819/"/>
     <summary>The grocery chain is providing machine learning insights to suppliers to improve availability while piloting radio frequency identification at 1,500 store bakeries.</summary>
     <published>2026-10-27T13:49:36-04:00</published>
+  </entry>
+  <entry>
+    <id>https://www.supplychaindive.com/news/wd-40-credits-supply-chain-for-7m-in-cost-savings/872902/</id>
+    <title>WD-40 credits supply chain for $7M in cost savings</title>
+    <updated>2026-10-28T14:44:19.716317+00:00</updated>
+    <link href="https://www.supplychaindive.com/news/wd-40-credits-supply-chain-for-7m-in-cost-savings/872902/"/>
+    <summary>The company cut costs in FY2026 through several operational improvements, such as reducing inventory levels, President and CEO Steven Brass said.</summary>
+    <published>2026-10-28T07:22:00-04:00</published>
+  </entry>
+  <entry>
+    <id>https://www.supplychaindive.com/news/nvidia-forges-supplier-agreements-to-expand-capacity-for-ai/872780/</id>
+    <title>Nvidia forges supplier agreements to expand capacity for AI</title>
+    <updated>2026-10-28T14:44:19.716224+00:00</updated>
+    <link href="https://www.supplychaindive.com/news/nvidia-forges-supplier-agreements-to-expand-capacity-for-ai/872780/"/>
+    <summary>The artificial intelligence chipmaker signed deals with six suppliers to scale production of certain components by as much as 15-fold.</summary>
+    <published>2026-10-28T10:20:20-04:00</published>
+  </entry>
+  <entry>
+    <id>https://www.supplychaindive.com/news/tesla-begins-optimus-humanoid-production-california-shipments-2027/872992/</id>
+    <title>Tesla begins humanoid production in California</title>
+    <updated>2026-10-28T14:44:19.716118+00:00</updated>
+    <link href="https://www.supplychaindive.com/news/tesla-begins-optimus-humanoid-production-california-shipments-2027/872992/"/>
+    <summary>Early customers for Optimus robots would use them for industrial applications, such as dangerous, repetitive tasks, CEO Elon Musk said.</summary>
+    <published>2026-10-28T10:41:23-04:00</published>
   </entry>
 </feed>
