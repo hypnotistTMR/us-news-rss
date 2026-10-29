@@ -2,55 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:techcrunch_ai</id>
   <title>TechCrunch - AI</title>
-  <updated>2026-10-29T10:36:20.058287+00:00</updated>
+  <updated>2026-10-29T17:13:28.613303+00:00</updated>
   <link href="file:///feeds/techcrunch_ai.xml" rel="self"/>
   <link href="https://techcrunch.com/category/artificial-intelligence/feed/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: tech / Mode: rss</subtitle>
   <entry>
-    <id>https://techcrunch.com/?p=3182002</id>
-    <title>Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?</title>
-    <updated>2026-10-29T10:36:20.060245+00:00</updated>
-    <link href="https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/"/>
-    <summary>TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.</summary>
-    <published>2026-10-27T17:08:08+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3182189</id>
-    <title>Disruptive raises $10B fund to make big bets on at least 10 companies</title>
-    <updated>2026-10-29T10:36:20.060135+00:00</updated>
-    <link href="https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/"/>
-    <summary>Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.</summary>
-    <published>2026-10-27T18:55:35+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3182153</id>
-    <title>Who’s really in charge at Anthropic after the IPO?</title>
-    <updated>2026-10-29T10:36:20.060049+00:00</updated>
-    <link href="https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/"/>
-    <summary>Here's a clear explanation of Anthropic's incredibly complex governance structure.</summary>
-    <published>2026-10-27T21:38:28+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3182297</id>
-    <title>Bank of America kindly asks that you don’t share your banking password with your AI assistant</title>
-    <updated>2026-10-29T10:36:20.059964+00:00</updated>
-    <link href="https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/"/>
-    <summary>The banking giant reminds customers that "you're responsible for activity" resulting from your AI agents' access.</summary>
-    <published>2026-10-27T21:44:34+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3181301</id>
-    <title>The data center boom has an upside: innovation for the US grid</title>
-    <updated>2026-10-29T10:36:20.059880+00:00</updated>
-    <link href="https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/"/>
-    <summary>As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.</summary>
-    <published>2026-10-27T22:55:41+00:00</published>
-  </entry>
-  <entry>
     <id>https://techcrunch.com/?p=3182387</id>
     <title>Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication</title>
-    <updated>2026-10-29T10:36:20.059794+00:00</updated>
+    <updated>2026-10-29T17:13:28.614604+00:00</updated>
     <link href="https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/"/>
     <summary>A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.</summary>
     <published>2026-10-27T23:34:27+00:00</published>
@@ -58,7 +18,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3182406</id>
     <title>VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more</title>
-    <updated>2026-10-29T10:36:20.059708+00:00</updated>
+    <updated>2026-10-29T17:13:28.614554+00:00</updated>
     <link href="https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/"/>
     <summary>Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.</summary>
     <published>2026-10-28T01:15:28+00:00</published>
@@ -66,7 +26,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3182455</id>
     <title>7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open</title>
-    <updated>2026-10-29T10:36:20.059622+00:00</updated>
+    <updated>2026-10-29T17:13:28.614502+00:00</updated>
     <link href="https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/"/>
     <summary>In just 7 days, TechCrunch Founder Summit takes over Boston’s SoWa Power Station on November 4. Your chance to save up to $100 on tickets is running out, and the opportunity to learn and connect directly with experienced founders, investors, and startup leaders is almost here.</summary>
     <published>2026-10-28T13:00:00+00:00</published>
@@ -74,7 +34,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3182159</id>
     <title>Voice AI in vogue: Nvidia releases new open transcription model</title>
-    <updated>2026-10-29T10:36:20.059534+00:00</updated>
+    <updated>2026-10-29T17:13:28.614450+00:00</updated>
     <link href="https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/"/>
     <summary>Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs.</summary>
     <published>2026-10-28T15:00:00+00:00</published>
@@ -82,7 +42,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3182513</id>
     <title>South Korea’s financial industry hit by fresh wave of cyberattacks</title>
-    <updated>2026-10-29T10:36:20.059443+00:00</updated>
+    <updated>2026-10-29T17:13:28.614398+00:00</updated>
     <link href="https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/"/>
     <summary>South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia.</summary>
     <published>2026-10-28T15:41:18+00:00</published>
@@ -90,7 +50,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3182042</id>
     <title>AI execs may be too out of touch to build for the general public</title>
-    <updated>2026-10-29T10:36:20.059357+00:00</updated>
+    <updated>2026-10-29T17:13:28.614345+00:00</updated>
     <link href="https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/"/>
     <summary>Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.</summary>
     <published>2026-10-28T15:53:52+00:00</published>
@@ -98,7 +58,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3182509</id>
     <title>As AI agents reshape the web, Google opens Gemini and Search to more apps</title>
-    <updated>2026-10-29T10:36:20.059268+00:00</updated>
+    <updated>2026-10-29T17:13:28.614295+00:00</updated>
     <link href="https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/"/>
     <summary>A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.</summary>
     <published>2026-10-28T17:00:00+00:00</published>
@@ -106,7 +66,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3182578</id>
     <title>Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms</title>
-    <updated>2026-10-29T10:36:20.059138+00:00</updated>
+    <updated>2026-10-29T17:13:28.614243+00:00</updated>
     <link href="https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/"/>
     <summary>The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.</summary>
     <published>2026-10-28T17:00:00+00:00</published>
@@ -114,7 +74,7 @@
   <entry>
     <id>https://techcrunch.com/?post_type=tc_podcast&amp;p=3182774</id>
     <title>The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO</title>
-    <updated>2026-10-29T10:36:20.059051+00:00</updated>
+    <updated>2026-10-29T17:13:28.614190+00:00</updated>
     <link href="https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/"/>
     <summary>The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched. According to researchers who found the [&amp;#8230;]</summary>
     <published>2026-10-28T18:50:39+00:00</published>
@@ -122,7 +82,7 @@
   <entry>
     <id>https://techcrunch.com/?post_type=tc_video&amp;p=3182776</id>
     <title>Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’</title>
-    <updated>2026-10-29T10:36:20.058963+00:00</updated>
+    <updated>2026-10-29T17:13:28.614139+00:00</updated>
     <link href="https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/"/>
     <summary>The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched. According to researchers who found the [&amp;#8230;]</summary>
     <published>2026-10-28T19:05:46+00:00</published>
@@ -130,7 +90,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3182643</id>
     <title>Anthropic just launched tools to show companies what their AI spending is buying</title>
-    <updated>2026-10-29T10:36:20.058873+00:00</updated>
+    <updated>2026-10-29T17:13:28.614088+00:00</updated>
     <link href="https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/"/>
     <summary>The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.</summary>
     <published>2026-10-28T19:19:58+00:00</published>
@@ -138,7 +98,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3182838</id>
     <title>Microsoft hits 10 quarters of record-breaking revenue in a row</title>
-    <updated>2026-10-29T10:36:20.058783+00:00</updated>
+    <updated>2026-10-29T17:13:28.614037+00:00</updated>
     <link href="https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/"/>
     <summary>Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.</summary>
     <published>2026-10-28T21:25:30+00:00</published>
@@ -146,7 +106,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3182880</id>
     <title>Microsoft recorded $10 billion in revenue from OpenAI</title>
-    <updated>2026-10-29T10:36:20.058694+00:00</updated>
+    <updated>2026-10-29T17:13:28.613986+00:00</updated>
     <link href="https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/"/>
     <summary>Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.</summary>
     <published>2026-10-28T21:34:30+00:00</published>
@@ -154,7 +114,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3182884</id>
     <title>Google expands AI Search ads globally as core ad growth slows</title>
-    <updated>2026-10-29T10:36:20.058601+00:00</updated>
+    <updated>2026-10-29T17:13:28.613931+00:00</updated>
     <link href="https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/"/>
     <summary>The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.</summary>
     <published>2026-10-28T21:48:37+00:00</published>
@@ -162,9 +122,49 @@
   <entry>
     <id>https://techcrunch.com/?p=3182841</id>
     <title>Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion</title>
-    <updated>2026-10-29T10:36:20.058492+00:00</updated>
+    <updated>2026-10-29T17:13:28.613871+00:00</updated>
     <link href="https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/"/>
     <summary>Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.</summary>
     <published>2026-10-28T21:58:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3182981</id>
+    <title>Amazon updates Alexa to help you manage shopping lists and subscriptions and update delivery instructions</title>
+    <updated>2026-10-29T17:13:28.613789+00:00</updated>
+    <link href="https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions/"/>
+    <summary>The update allows you to use Alexa to create lists, register them, see what's on them, and add or edit items. You can also manage subscriptions.</summary>
+    <published>2026-10-29T13:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3182652</id>
+    <title>Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure</title>
+    <updated>2026-10-29T17:13:28.613729+00:00</updated>
+    <link href="https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/"/>
+    <summary>With Pipecat, Deepgram will likely gain a deeper understanding of real-time voice and video infrastructure.</summary>
+    <published>2026-10-29T13:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3183066</id>
+    <title>Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round</title>
+    <updated>2026-10-29T17:13:28.613666+00:00</updated>
+    <link href="https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/"/>
+    <summary>On Thursday, AI app Wabi, now describing itself as a "personal agent," said it has raised $55 million at a $1.25 billion valuation.</summary>
+    <published>2026-10-29T14:35:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3183106</id>
+    <title>Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction</title>
+    <updated>2026-10-29T17:13:28.613596+00:00</updated>
+    <link href="https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/"/>
+    <summary>rained on 100 million square feet of building permits, dream wants to disrupt Autodesk with AI.</summary>
+    <published>2026-10-29T16:21:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3183099</id>
+    <title>U.S. investigated Chinese spy plot aimed at Nvidia CEO</title>
+    <updated>2026-10-29T17:13:28.613484+00:00</updated>
+    <link href="https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/"/>
+    <summary>A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.</summary>
+    <published>2026-10-29T16:42:32+00:00</published>
   </entry>
 </feed>
