@@ -2,25 +2,161 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:fcc</id>
   <title>FCC Recent Releases (Combined)</title>
-  <updated>2026-10-30T14:43:42.199267+00:00</updated>
+  <updated>2026-10-30T19:48:30.756008+00:00</updated>
   <link href="file:///feeds/fcc.xml" rel="self"/>
   <link href="https://api2.fcc.gov/api/exp/v1.0.0/edocspublic/rss" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: telecom / Mode: rss</subtitle>
   <entry>
-    <id>426337</id>
-    <title>Review of the Commission's Rules Governing the 896–901/935–940 MHz Band</title>
-    <updated>2026-10-30T14:43:42.199288+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426337"/>
+    <id>426356</id>
+    <title>Unleashing Licensed Spectrum for Direct-to-Device; Single Network Future: Supplemental Coverage from Space</title>
+    <updated>2026-10-30T19:48:30.756156+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426356"/>
+    <summary>In this NPRM, the Commission takes steps to modernize rules for Direct-to-Device services in licensed spectrum.</summary>
+    <published>2026-10-30T19:48:30.756155+00:00</published>
+  </entry>
+  <entry>
+    <id>425631</id>
+    <title>In the Matter of Boomerang Wireless, LLC</title>
+    <updated>2026-10-30T19:48:30.756150+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/425631"/>
+    <summary>FCC proposes over $4 million penalty against Boomerang Wireless, LLC for apparent enrollment of deceased subscribers and wire fraud.</summary>
+    <published>2026-10-30T19:48:30.756149+00:00</published>
+  </entry>
+  <entry>
+    <id>426354</id>
+    <title>Comments Invited On CenturyLink's Section 214 Application To Discontinue Domestic Legacy Voice Service As Part Of A Technology Transition</title>
+    <updated>2026-10-30T19:48:30.756144+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426354"/>
     <summary>.</summary>
-    <published>2026-10-30T14:43:42.199286+00:00</published>
+    <published>2026-10-30T19:48:30.756143+00:00</published>
+  </entry>
+  <entry>
+    <id>426236</id>
+    <title>In the Matter of HKT International et al.</title>
+    <updated>2026-10-30T19:48:30.756138+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426236"/>
+    <summary>Bureaus enter into a consent decree to terminate an order to show cause in exchange for HKT and subsidiaries surrendering their international and domestic 214 authorizations.</summary>
+    <published>2026-10-30T19:48:30.756137+00:00</published>
+  </entry>
+  <entry>
+    <id>426350</id>
+    <title>In the Matter of Connect America Fund: A National Broadband Plan for Our Future High-Cost Universal Service Support</title>
+    <updated>2026-10-30T19:48:30.756132+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426350"/>
+    <summary>The Wireline Competition Bureau partially grants the Petition for Waiver filed by Roosevelt County Rural Telephone Cooperative, Inc.</summary>
+    <published>2026-10-30T19:48:30.756131+00:00</published>
   </entry>
   <entry>
     <id>426346</id>
     <title>FCC Announces Training Webinar for Recipients in the Rip-and-Replace Program</title>
-    <updated>2026-10-30T14:43:42.199275+00:00</updated>
+    <updated>2026-10-30T19:48:30.756127+00:00</updated>
     <link href="https://www.fcc.gov/edoc/426346"/>
     <summary>.</summary>
-    <published>2026-10-30T14:43:42.199271+00:00</published>
+    <published>2026-10-30T19:48:30.756126+00:00</published>
+  </entry>
+  <entry>
+    <id>426333</id>
+    <title>Satellite Licensing Division and Satellite Programs and Policy Division Information - SAT - Accepted for Filing</title>
+    <updated>2026-10-30T19:48:30.756121+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426333"/>
+    <summary>.</summary>
+    <published>2026-10-30T19:48:30.756120+00:00</published>
+  </entry>
+  <entry>
+    <id>426334</id>
+    <title>Satellite Licensing Division and Satellite Programs and Policy Division Information - SAT - Actions Taken</title>
+    <updated>2026-10-30T19:48:30.756115+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426334"/>
+    <summary>.</summary>
+    <published>2026-10-30T19:48:30.756114+00:00</published>
+  </entry>
+  <entry>
+    <id>426340</id>
+    <title>Domestic Section 214 Applications Granted For The Transfer Of Control Of Mountain West Technologies Corporation And The Chugwater Telephone Company</title>
+    <updated>2026-10-30T19:48:30.756110+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426340"/>
+    <summary>.</summary>
+    <published>2026-10-30T19:48:30.756109+00:00</published>
+  </entry>
+  <entry>
+    <id>426342</id>
+    <title>Applications</title>
+    <updated>2026-10-30T19:48:30.756104+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426342"/>
+    <summary>.</summary>
+    <published>2026-10-30T19:48:30.756103+00:00</published>
+  </entry>
+  <entry>
+    <id>426343</id>
+    <title>Actions</title>
+    <updated>2026-10-30T19:48:30.756098+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426343"/>
+    <summary>.</summary>
+    <published>2026-10-30T19:48:30.756097+00:00</published>
+  </entry>
+  <entry>
+    <id>426344</id>
+    <title>Pleadings</title>
+    <updated>2026-10-30T19:48:30.756090+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426344"/>
+    <summary>.</summary>
+    <published>2026-10-30T19:48:30.756089+00:00</published>
+  </entry>
+  <entry>
+    <id>426371</id>
+    <title>In the Matter of Eagle Wireless Holdings, Inc. Petition for Expedited Waiver of Sections 2.932(b) and 2.1043(b) of the Commission's Rules to Permit Targeted Class I and Class II Permissive Hardware Ch</title>
+    <updated>2026-10-30T19:48:30.756081+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426371"/>
+    <summary>The Office of Engineering and Technology grants in part the request of Eagle Wireless Holdings, Inc. for a waiver of Sections 2.932(b) and 2.1043(b) of the Commission's rules.</summary>
+    <published>2026-10-30T19:48:30.756080+00:00</published>
+  </entry>
+  <entry>
+    <id>426337</id>
+    <title>Review of the Commission's Rules Governing the 896–901/935–940 MHz Band</title>
+    <updated>2026-10-30T19:48:30.756072+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426337"/>
+    <summary>.</summary>
+    <published>2026-10-30T19:48:30.756070+00:00</published>
+  </entry>
+  <entry>
+    <id>426379</id>
+    <title>FCC's Fraud Crackdown Saving Taxpayers Billions</title>
+    <updated>2026-10-30T19:48:30.756061+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426379"/>
+    <summary>Combating Waste, Fraud, and Abuse with Enforcement Actions, Rulemakings, and Prosecutions to Protect the American Taxpayer</summary>
+    <published>2026-10-30T19:48:30.756060+00:00</published>
+  </entry>
+  <entry>
+    <id>426370</id>
+    <title>In the Matter of: Connect America Fund: A National Broadband Plan for our Future High-Cost Universal Support;  Reforming the High-Cost Program for an All-IP Future;  Safeguarding Universal Service Fun</title>
+    <updated>2026-10-30T19:48:30.756052+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426370"/>
+    <summary>"The FCC Seeks Comment on Ways to Implement the Rural Broadband Protection Act (RBPA) by Strengthening Vetting Procedures and Application Frameworks for Future High-cost Support Mechanisms."</summary>
+    <published>2026-10-30T19:48:30.756050+00:00</published>
+  </entry>
+  <entry>
+    <id>426361</id>
+    <title>Implementation of Sections 716 and 717 of the Communications Act of 1934, as Enacted by the Twenty-First Century Communications and Video Accessibility Act of 2010</title>
+    <updated>2026-10-30T19:48:30.756043+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426361"/>
+    <summary>In this Notice, the Commission seeks comment on existing marketplace and regulatory barriers that may hinder the accessibility and innovation of new technologies and services, as well as market developments that may render old rules no longer appropriate.</summary>
+    <published>2026-10-30T19:48:30.756041+00:00</published>
+  </entry>
+  <entry>
+    <id>426362</id>
+    <title>Auctioning the 1675-1695 MHz and 2020-2025 MHz Bands, Unleashing Licensed Spectrum for Direct-to-Device, Allocation and Service Rules for the 1675-1680 MHz Band, Further Notice of Proposed Rulemaking</title>
+    <updated>2026-10-30T19:48:30.756033+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426362"/>
+    <summary>In this FNPRM, the Commission proposes rules that could lead to auction of 25 megahertz of prime mid-band spectrum in the 1675–1695 MHz and 2020–2025 MHz bands.</summary>
+    <published>2026-10-30T19:48:30.756032+00:00</published>
+  </entry>
+  <entry>
+    <id>426375</id>
+    <title>Unleashing American Drone Dominance, Spectrum Rules and Policies for the Operation of Unmanned Aircraft Systems, Facilitating Opportunities for Advanced Air Mobility, Report and Order</title>
+    <updated>2026-10-30T19:48:30.756017+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426375"/>
+    <summary>This Order updates the Commision's rules to enable drone operations in the 800 MHz Cellular Band.</summary>
+    <published>2026-10-30T19:48:30.756012+00:00</published>
   </entry>
 </feed>

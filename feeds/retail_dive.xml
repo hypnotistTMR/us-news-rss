@@ -2,47 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:retail_dive</id>
   <title>Retail Dive</title>
-  <updated>2026-10-30T14:43:09.268863+00:00</updated>
+  <updated>2026-10-30T19:47:58.955361+00:00</updated>
   <link href="file:///feeds/retail_dive.xml" rel="self"/>
   <link href="https://www.retaildive.com/feeds/news/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: retail / Mode: rss</subtitle>
   <entry>
-    <id>https://www.retaildive.com/news/sephora-casts-seth-rogen-holiday-ads/873013/</id>
-    <title>Sephora casts Seth Rogen for holiday ads targeted at gift-givers</title>
-    <updated>2026-10-30T14:43:09.270014+00:00</updated>
-    <link href="https://www.retaildive.com/news/sephora-casts-seth-rogen-holiday-ads/873013/"/>
-    <summary>&amp;ldquo;The Studio&amp;rdquo; star plays a clueless shopper in a campaign aimed at consumers who aren&amp;rsquo;t in-the-know about beauty but are seeking thoughtful presents.</summary>
-    <published>2026-10-28T12:58:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://www.retaildive.com/news/gap-ai-hiring-tool-bridgette/872884/</id>
-    <title>Gap Inc. launches AI hiring tool in time for the holidays</title>
-    <updated>2026-10-30T14:43:09.269920+00:00</updated>
-    <link href="https://www.retaildive.com/news/gap-ai-hiring-tool-bridgette/872884/"/>
-    <summary>The retailer expects around 200,000 seasonal employment applications. Its new AI platform aims to reduce the administrative tasks associated with hiring.&amp;nbsp;</summary>
-    <published>2026-10-29T10:32:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://www.retaildive.com/news/nike-jordan-retro-pullback-foot-locker-impact/873154/</id>
-    <title>What Nike’s Jordan pullback means for Foot Locker</title>
-    <updated>2026-10-30T14:43:09.269833+00:00</updated>
-    <link href="https://www.retaildive.com/news/nike-jordan-retro-pullback-foot-locker-impact/873154/"/>
-    <summary>With Jordan accounting for roughly 25% of Foot Locker&amp;rsquo;s revenue, the athletics retailer will have some gaps to fill next year.</summary>
-    <published>2026-10-29T11:10:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://www.retaildive.com/news/consumer-confidence-edges-up-decline-gas-prices-conference-board-inflation-fed-federal-reserve-warsh/873161/</id>
-    <title>Consumer confidence edges up on decline in gas prices: Conference Board</title>
-    <updated>2026-10-30T14:43:09.269745+00:00</updated>
-    <link href="https://www.retaildive.com/news/consumer-confidence-edges-up-decline-gas-prices-conference-board-inflation-fed-federal-reserve-warsh/873161/"/>
-    <summary>&amp;ldquo;The mood among consumers remains pretty bleak,&amp;rdquo; Pantheon Macroeconomics Chief U.S. Economist Samuel Tombs said.</summary>
-    <published>2026-10-29T11:35:00-04:00</published>
-  </entry>
-  <entry>
     <id>https://www.retaildive.com/news/podcast-the-backroom-dynamic-pricing-walmart-consumer-sentiment-holidays/873172/</id>
     <title>The Backroom: Dynamic pricing and the anxious consumer</title>
-    <updated>2026-10-30T14:43:09.269657+00:00</updated>
+    <updated>2026-10-30T19:47:58.956237+00:00</updated>
     <link href="https://www.retaildive.com/news/podcast-the-backroom-dynamic-pricing-walmart-consumer-sentiment-holidays/873172/"/>
     <summary>With the holidays approaching, consumers are zeroed in on price now more than ever &amp;mdash; and Walmart is taking the heat.</summary>
     <published>2026-10-29T11:46:00-04:00</published>
@@ -50,7 +18,7 @@
   <entry>
     <id>https://www.retaildive.com/news/ftc-orders-target-walmart-personalized-pricing-inquiry/873173/</id>
     <title>FTC orders Target, Walmart to provide details in personalized pricing inquiry</title>
-    <updated>2026-10-30T14:43:09.269568+00:00</updated>
+    <updated>2026-10-30T19:47:58.956166+00:00</updated>
     <link href="https://www.retaildive.com/news/ftc-orders-target-walmart-personalized-pricing-inquiry/873173/"/>
     <summary>The agency sent the order to nine companies to examine how personal data is being used, even through loyalty programs, to potentially alter price tags.</summary>
     <published>2026-10-29T11:49:00-04:00</published>
@@ -58,7 +26,7 @@
   <entry>
     <id>https://www.retaildive.com/news/doordash-buys-instacart-delivery-seventeen-billion/873151/</id>
     <title>DoorDash to buy Instacart for $17B</title>
-    <updated>2026-10-30T14:43:09.269479+00:00</updated>
+    <updated>2026-10-30T19:47:58.956101+00:00</updated>
     <link href="https://www.retaildive.com/news/doordash-buys-instacart-delivery-seventeen-billion/873151/"/>
     <summary>The deal marks the consolidation of two major players in the retail delivery industry.</summary>
     <published>2026-10-29T11:51:00-04:00</published>
@@ -66,7 +34,7 @@
   <entry>
     <id>https://www.retaildive.com/news/heydude-north-america-wholesale-crocs-q3/873169/</id>
     <title>Heydude wants to sell more in North America, but is unlikely to open new stores</title>
-    <updated>2026-10-30T14:43:09.269384+00:00</updated>
+    <updated>2026-10-30T19:47:58.956032+00:00</updated>
     <link href="https://www.retaildive.com/news/heydude-north-america-wholesale-crocs-q3/873169/"/>
     <summary>The brand returned to growth in Q3 compared to its weak results last year, thanks largely to wholesale revenue from retail partners.</summary>
     <published>2026-10-29T12:13:00-04:00</published>
@@ -74,7 +42,7 @@
   <entry>
     <id>https://www.retaildive.com/news/most-consumers-arent-using-ai-for-product-discovery-yet/833604/</id>
     <title>Most consumers aren’t using AI for product discovery, yet</title>
-    <updated>2026-10-30T14:43:09.269266+00:00</updated>
+    <updated>2026-10-30T19:47:58.955964+00:00</updated>
     <link href="https://www.retaildive.com/news/most-consumers-arent-using-ai-for-product-discovery-yet/833604/"/>
     <summary>Retailers should consider the quality of their metadata to prepare for a predicted upswing in AI usage, new research finds.</summary>
     <published>2026-10-29T12:32:00-04:00</published>
@@ -82,9 +50,41 @@
   <entry>
     <id>https://www.retaildive.com/news/fanatics-openai-outfit-curation-tool/873180/</id>
     <title>Fanatics revamps outfit curation tool with OpenAI</title>
-    <updated>2026-10-30T14:43:09.269114+00:00</updated>
+    <updated>2026-10-30T19:47:58.955892+00:00</updated>
     <link href="https://www.retaildive.com/news/fanatics-openai-outfit-curation-tool/873180/"/>
     <summary>A new version of the retailer&amp;rsquo;s Shop the Look tool generated 10% higher engagement in a pilot.</summary>
     <published>2026-10-29T12:58:00-04:00</published>
+  </entry>
+  <entry>
+    <id>https://www.retaildive.com/news/victorias-secret-pink-debuts-beauty-mini-bars/873308/</id>
+    <title>Victoria’s Secret’s Pink leans into beauty with ‘Mini Bar’ collection</title>
+    <updated>2026-10-30T19:47:58.955820+00:00</updated>
+    <link href="https://www.retaildive.com/news/victorias-secret-pink-debuts-beauty-mini-bars/873308/"/>
+    <summary>The Pink Mini Bar features collaborations with Vacation, Mario Badescu and Fazit and will have a dedicated section featuring the products in stores.</summary>
+    <published>2026-10-30T11:24:00-04:00</published>
+  </entry>
+  <entry>
+    <id>https://www.retaildive.com/news/roots-ceo-exits-ftc-retailers-prices-brooks-earnings/873246/</id>
+    <title>The Weekly Closeout: Roots CEO exits, the FTC zeroes in on price</title>
+    <updated>2026-10-30T19:47:58.955744+00:00</updated>
+    <link href="https://www.retaildive.com/news/roots-ceo-exits-ftc-retailers-prices-brooks-earnings/873246/"/>
+    <summary>The chief executive stepped down following the outdoor retailer&amp;rsquo;s go-private deal. Meanwhile, the agency has been focused on how retailers set prices.</summary>
+    <published>2026-10-30T11:56:00-04:00</published>
+  </entry>
+  <entry>
+    <id>https://www.retaildive.com/news/amazon-ceo-retail-business-important-q3-earnings/873316/</id>
+    <title>Amazon CEO says retail business is being slept on</title>
+    <updated>2026-10-30T19:47:58.955661+00:00</updated>
+    <link href="https://www.retaildive.com/news/amazon-ceo-retail-business-important-q3-earnings/873316/"/>
+    <summary>Andy Jassy spoke in depth about AWS and AI during a Q3 earnings call, but reiterated the importance of the company&amp;rsquo;s store progress.</summary>
+    <published>2026-10-30T12:05:00-04:00</published>
+  </entry>
+  <entry>
+    <id>https://www.retaildive.com/news/louis-vuitton-merchant-bergdorf-goodman-saks-neiman-marcus/873298/</id>
+    <title>Louis Vuitton merchant to lead Bergdorf Goodman</title>
+    <updated>2026-10-30T19:47:58.955561+00:00</updated>
+    <link href="https://www.retaildive.com/news/louis-vuitton-merchant-bergdorf-goodman-saks-neiman-marcus/873298/"/>
+    <summary>It&amp;rsquo;s full circle for Lanessa Elrod, who had previous stints at all three Exemplar Luxury Group banners &amp;mdash; Bergdorf, Saks Fifth Avenue and Neiman Marcus.</summary>
+    <published>2026-10-30T12:22:00-04:00</published>
   </entry>
 </feed>
