@@ -2,55 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:foodnavigator</id>
   <title>FoodNavigator USA</title>
-  <updated>2026-10-30T07:33:49.944523+00:00</updated>
+  <updated>2026-10-30T14:43:10.587294+00:00</updated>
   <link href="file:///feeds/foodnavigator.xml" rel="self"/>
   <link href="https://www.foodnavigator-usa.com/arc/outboundfeeds/rss/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: food / Mode: rss</subtitle>
   <entry>
-    <id>https://www.bakeryandsnacks.com/Article/2026/10/28/how-europes-302bn-snack-market-challenges-manufacturers/</id>
-    <title>Debunking snacking as we know it</title>
-    <updated>2026-10-30T07:33:49.946568+00:00</updated>
-    <link href="https://www.bakeryandsnacks.com/Article/2026/10/28/how-europes-302bn-snack-market-challenges-manufacturers/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
-    <summary>Circana’s Ananda Roy explains why snack manufacturers need to look beyond healthier recipes to changing meal habits, retail placement and new competitors.</summary>
-    <published>2026-10-28T09:22:38+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.foodnavigator.com/Article/2026/10/28/behind-acais-global-popularity/</id>
-    <title>Why açaí has gone global</title>
-    <updated>2026-10-30T07:33:49.946456+00:00</updated>
-    <link href="https://www.foodnavigator.com/Article/2026/10/28/behind-acais-global-popularity/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
-    <summary>Açaí, a purple berry used in desserts and drinks, is produced almost exclusively in Brazil. Yet consumption has gone global, with consumers in North America, Asia and Europe all embracing it.</summary>
-    <published>2026-10-28T09:53:04+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.foodnavigator.com/Article/2026/10/28/strong-q3-driven-by-nutrition-trends/</id>
-    <title>Danone delivers a strong Q3 performance</title>
-    <updated>2026-10-30T07:33:49.946370+00:00</updated>
-    <link href="https://www.foodnavigator.com/Article/2026/10/28/strong-q3-driven-by-nutrition-trends/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
-    <summary>Danone’s Q3 growth was fuelled by strong demand for high-protein, gut health and medical nutrition products across key global markets</summary>
-    <published>2026-10-28T13:00:58+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.confectionerynews.com/Article/2026/10/28/texture-takes-centre-stage-in-confectionery-innovation/</id>
-    <title>Forget flavour, texture’s transforming confectionery</title>
-    <updated>2026-10-30T07:33:49.946285+00:00</updated>
-    <link href="https://www.confectionerynews.com/Article/2026/10/28/texture-takes-centre-stage-in-confectionery-innovation/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
-    <summary>Texture is emerging as confectionery’s next innovation frontier. From sugar reduction and functional ingredients to AI-powered product development, manufacturers are rethinking crunch, chew and mouthfeel to create the next generation of confectionery experiences.</summary>
-    <published>2026-10-28T13:03:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.foodnavigator.com/Article/2026/10/28/dairy-ma-reshapes-global-rankings-and-growth-strategies/</id>
-    <title>Dairy Farmers of America closes in on Nestlé in global dairy rankings</title>
-    <updated>2026-10-30T07:33:49.946199+00:00</updated>
-    <link href="https://www.foodnavigator.com/Article/2026/10/28/dairy-ma-reshapes-global-rankings-and-growth-strategies/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
-    <summary>Dairy Farmers of America could overtake Nestlé in global dairy sales, RaboResearch says, as acquisitions reshape its Global Dairy Top 20.</summary>
-    <published>2026-10-28T13:44:27+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.foodnavigator.com/Article/2026/10/28/innovative-foods-attract-scepticism-but-consumers-see-potential/</id>
     <title>European consumers see potential in innovative foods – but remain cautious</title>
-    <updated>2026-10-30T07:33:49.946113+00:00</updated>
+    <updated>2026-10-30T14:43:10.589343+00:00</updated>
     <link href="https://www.foodnavigator.com/Article/2026/10/28/innovative-foods-attract-scepticism-but-consumers-see-potential/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
     <summary>Innovative foods - foods made using advanced technologies - still attract a lot of scepticism among European consumers. Yet many see their potential, and some are open to trying them within certain parameters.</summary>
     <published>2026-10-28T16:38:16+00:00</published>
@@ -58,7 +18,7 @@
   <entry>
     <id>https://www.foodnavigator.com/Article/2026/10/28/nestle-taps-two-booming-beverage-trends-with-sanpellegrino-strawberry-crema/</id>
     <title>Nestlé targets two booming beverage trends with latest launch</title>
-    <updated>2026-10-30T07:33:49.946026+00:00</updated>
+    <updated>2026-10-30T14:43:10.589259+00:00</updated>
     <link href="https://www.foodnavigator.com/Article/2026/10/28/nestle-taps-two-booming-beverage-trends-with-sanpellegrino-strawberry-crema/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
     <summary>Nestlé expands Sanpellegrino Zero Added Sugar range with Strawberry Crema, blending dessert-inspired flavour with functional benefits. The low-calorie launch reflects growing demand for premium soft drinks that combine indulgence, wellness and reduced sugar credentials.</summary>
     <published>2026-10-28T16:47:49+00:00</published>
@@ -66,7 +26,7 @@
   <entry>
     <id>https://www.dairyreporter.com/Article/2026/10/28/global-milk-protein-market-forecast-to-reach-241bn-by-2033/</id>
     <title>Global milk protein market forecast to reach $24.1bn by 2033</title>
-    <updated>2026-10-30T07:33:49.945939+00:00</updated>
+    <updated>2026-10-30T14:43:10.589172+00:00</updated>
     <link href="https://www.dairyreporter.com/Article/2026/10/28/global-milk-protein-market-forecast-to-reach-241bn-by-2033/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
     <summary>Global milk protein market forecast to reach $24.1bn by 2033</summary>
     <published>2026-10-28T17:03:31+00:00</published>
@@ -74,7 +34,7 @@
   <entry>
     <id>https://www.foodnavigator.com/Article/2026/10/28/those-vegan-cowboys-get-fda-letter-for-animal-free-casein/</id>
     <title>No cows, no questions: FDA greenlights animal-free casein</title>
-    <updated>2026-10-30T07:33:49.945854+00:00</updated>
+    <updated>2026-10-30T14:43:10.589060+00:00</updated>
     <link href="https://www.foodnavigator.com/Article/2026/10/28/those-vegan-cowboys-get-fda-letter-for-animal-free-casein/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
     <summary>Those Vegan Cowboys and Formo receive an FDA no-questions letter for precision-fermented casein, advancing plans for US food and nutrition products.</summary>
     <published>2026-10-28T18:36:00+00:00</published>
@@ -82,7 +42,7 @@
   <entry>
     <id>https://www.foodnavigator.com/Article/2026/10/29/new-hope-taps-norwegian-red-genetics-for-chinas-premium-milk-market/</id>
     <title>New Hope taps Norwegian Red genetics for China’s premium milk market</title>
-    <updated>2026-10-30T07:33:49.945768+00:00</updated>
+    <updated>2026-10-30T14:43:10.588976+00:00</updated>
     <link href="https://www.foodnavigator.com/Article/2026/10/29/new-hope-taps-norwegian-red-genetics-for-chinas-premium-milk-market/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
     <summary>China’s New Hope Dairy is using Norwegian Red cattle genetics to differentiate its premium milk range, in a partnership with Norwegian breeding company Geno</summary>
     <published>2026-10-29T06:31:27+00:00</published>
@@ -90,7 +50,7 @@
   <entry>
     <id>https://www.foodnavigator.com/Article/2026/10/29/apac-global-food-tech-awards-2026-spotlights-food-waste-compliance-and-functional-foods/</id>
     <title>APAC Global Food Tech Awards 2026 spotlights food waste, compliance and functional foods</title>
-    <updated>2026-10-30T07:33:49.945679+00:00</updated>
+    <updated>2026-10-30T14:43:10.588891+00:00</updated>
     <link href="https://www.foodnavigator.com/Article/2026/10/29/apac-global-food-tech-awards-2026-spotlights-food-waste-compliance-and-functional-foods/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
     <summary>South Korea’s FutureSense won the 2026 APAC Global Food Tech Awards for its food waste-tracking platform, while finalists from Australia and Taiwan focused on regulatory compliance and plant-based functional ingredients respectively.</summary>
     <published>2026-10-29T06:45:23+00:00</published>
@@ -98,7 +58,7 @@
   <entry>
     <id>https://www.foodnavigator.com/Article/2026/10/29/nestle-x-birdlife-collaboration-signals-next-phase-of-regenerative-agriculture/</id>
     <title>Nestlé tackles regenerative agriculture’s missing piece</title>
-    <updated>2026-10-30T07:33:49.945587+00:00</updated>
+    <updated>2026-10-30T14:43:10.588805+00:00</updated>
     <link href="https://www.foodnavigator.com/Article/2026/10/29/nestle-x-birdlife-collaboration-signals-next-phase-of-regenerative-agriculture/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
     <summary>Nestlé and BirdLife Europe launch three-and-a-half-year project to measure how regenerative agriculture impacts biodiversity, signalling a broader shift beyond soil health and carbon towards ecosystem restoration.</summary>
     <published>2026-10-29T10:56:30+00:00</published>
@@ -106,7 +66,7 @@
   <entry>
     <id>https://www.foodnavigator.com/Article/2026/10/29/beyond-candy-halloween-displays-expand-across-store-aisles/</id>
     <title>Beyond candy: Halloween displays expand across store aisles</title>
-    <updated>2026-10-30T07:33:49.945448+00:00</updated>
+    <updated>2026-10-30T14:43:10.588717+00:00</updated>
     <link href="https://www.foodnavigator.com/Article/2026/10/29/beyond-candy-halloween-displays-expand-across-store-aisles/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
     <summary>As Halloween evolves into a three-month shopping season, retailers are expanding cross-category displays and adding better-for-you treats to capture early demand.</summary>
     <published>2026-10-29T13:30:12+00:00</published>
@@ -114,7 +74,7 @@
   <entry>
     <id>https://www.foodnavigator.com/Article/2026/10/29/planet-a-foods-launches-cocoa-booster-replacer/</id>
     <title>New cocoa powder alternative targets GLP-1 trends and supply risks</title>
-    <updated>2026-10-30T07:33:49.945363+00:00</updated>
+    <updated>2026-10-30T14:43:10.588629+00:00</updated>
     <link href="https://www.foodnavigator.com/Article/2026/10/29/planet-a-foods-launches-cocoa-booster-replacer/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
     <summary>Planet A Foods launches Cocoa Booster, a high-fiber cocoa powder replacer that can replace up to 100% of cocoa in select applications amid rising costs and GLP-1-driven demand shifts.</summary>
     <published>2026-10-29T14:03:02+00:00</published>
@@ -122,7 +82,7 @@
   <entry>
     <id>https://www.foodnavigator.com/Article/2026/10/29/futureshop-why-did-the-albertsons-kroger-merger-fail/</id>
     <title>Albertsons argues executive greed at Kroger killed the deal</title>
-    <updated>2026-10-30T07:33:49.945276+00:00</updated>
+    <updated>2026-10-30T14:43:10.588544+00:00</updated>
     <link href="https://www.foodnavigator.com/Article/2026/10/29/futureshop-why-did-the-albertsons-kroger-merger-fail/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
     <summary>Albertsons alleges Kroger’s $400 million executive incentive plan undermined their failed merger. Inside the $9 billion lawsuit and grocery industry fallout.</summary>
     <published>2026-10-29T14:06:27+00:00</published>
@@ -130,7 +90,7 @@
   <entry>
     <id>https://www.foodnavigator.com/Article/2026/10/29/the-magnum-ice-cream-company-q3-trading-update/</id>
     <title>European summer gives the Magnum Ice Cream Company a boost in Q3</title>
-    <updated>2026-10-30T07:33:49.945186+00:00</updated>
+    <updated>2026-10-30T14:43:10.588459+00:00</updated>
     <link href="https://www.foodnavigator.com/Article/2026/10/29/the-magnum-ice-cream-company-q3-trading-update/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
     <summary>The Magnum Ice Cream Company has reported a strong Q3, boosted in part by the extended European summer. The company saw significant growth in key brands, with Magnum and Heartbrand in double-digit growth.</summary>
     <published>2026-10-29T14:18:56+00:00</published>
@@ -138,7 +98,7 @@
   <entry>
     <id>https://www.confectionerynews.com/Article/2026/10/29/mondelez-leans-into-flavour-innovation-with-new-toblerone-flavour/</id>
     <title>Mondelēz turns Toblerone into flavour innovation engine</title>
-    <updated>2026-10-30T07:33:49.945096+00:00</updated>
+    <updated>2026-10-30T14:43:10.588373+00:00</updated>
     <link href="https://www.confectionerynews.com/Article/2026/10/29/mondelez-leans-into-flavour-innovation-with-new-toblerone-flavour/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
     <summary>Toblerone has launched a limited-edition Pistachio Gelato flavour at Istanbul Airport as Mondelēz leans into flavour innovation, travel retail exclusives and destination-inspired confectionery.</summary>
     <published>2026-10-29T16:29:39+00:00</published>
@@ -146,7 +106,7 @@
   <entry>
     <id>https://www.foodnavigator.com/Article/2026/10/29/hershey-halloween-sales-face-test-as-candy-volumes-slide/</id>
     <title>Hershey hopes Halloween candy can ward off declining volume fears</title>
-    <updated>2026-10-30T07:33:49.945004+00:00</updated>
+    <updated>2026-10-30T14:43:10.588285+00:00</updated>
     <link href="https://www.foodnavigator.com/Article/2026/10/29/hershey-halloween-sales-face-test-as-candy-volumes-slide/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
     <summary>Hershey bets on last-minute Halloween candy sales as inflation, higher gas prices and consumer pressures weigh on volumes despite an earnings beat.</summary>
     <published>2026-10-29T22:14:34+00:00</published>
@@ -154,7 +114,7 @@
   <entry>
     <id>https://www.foodnavigator.com/Article/2026/10/30/aleph-farms-among-bezos-backed-protein-innovators-targeting-scale/</id>
     <title>From cultivated beef to fermented soy: Bezos-backed protein innovators target cost and scale</title>
-    <updated>2026-10-30T07:33:49.944903+00:00</updated>
+    <updated>2026-10-30T14:43:10.588192+00:00</updated>
     <link href="https://www.foodnavigator.com/Article/2026/10/30/aleph-farms-among-bezos-backed-protein-innovators-targeting-scale/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
     <summary>Aleph Farms and Mottainai Food Tech secure S$1m each to scale cultivated meat and fermented protein, targeting cost, resilience and commercial growth.</summary>
     <published>2026-10-30T02:49:37+00:00</published>
@@ -162,9 +122,49 @@
   <entry>
     <id>https://www.foodnavigator.com/Article/2026/10/30/google-deepmind-from-alphafold-to-disease-resistant-crops/</id>
     <title>3 ways Google DeepMind is using AI to reshape the food system</title>
-    <updated>2026-10-30T07:33:49.944747+00:00</updated>
+    <updated>2026-10-30T14:43:10.588051+00:00</updated>
     <link href="https://www.foodnavigator.com/Article/2026/10/30/google-deepmind-from-alphafold-to-disease-resistant-crops/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
     <summary>From AlphaFold and disease-resistant crops to virtual cells, Google DeepMind is exploring how AI can accelerate agricultural and food innovation.</summary>
     <published>2026-10-30T06:34:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.foodnavigator.com/Article/2026/10/30/enzymes-the-key-to-clean-label-functionality/</id>
+    <title>Could enzymes be the key to clean-label functionality?</title>
+    <updated>2026-10-30T14:43:10.587965+00:00</updated>
+    <link href="https://www.foodnavigator.com/Article/2026/10/30/enzymes-the-key-to-clean-label-functionality/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
+    <summary>Enzymes are used throughout the food industry for a whole plethora of different functionalities. Because they are catalysts, they often do not need to appear in a food's ingredients list. Therefore, they can be considered clean-label alternatives to additives.</summary>
+    <published>2026-10-30T08:19:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.confectionerynews.com/Article/2026/10/30/mondelez-returns-to-volume-led-growth-as-q3-profits-surge/</id>
+    <title>Mondelēz Q3 profits surge amid surprise acquisition</title>
+    <updated>2026-10-30T14:43:10.587878+00:00</updated>
+    <link href="https://www.confectionerynews.com/Article/2026/10/30/mondelez-returns-to-volume-led-growth-as-q3-profits-surge/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
+    <summary>Mondelēz returns to volume-led growth as Q3 profits surge, shareholders rewarded and Undercover Snacks acquisition signals expansion into permissible indulgence.</summary>
+    <published>2026-10-30T08:42:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.bakeryandsnacks.com/Article/2026/10/30/thanksgiving-snack-trends-flavours-sides-and-new-uses/</id>
+    <title>Thanksgiving flavours go snack-sized</title>
+    <updated>2026-10-30T14:43:10.587778+00:00</updated>
+    <link href="https://www.bakeryandsnacks.com/Article/2026/10/30/thanksgiving-snack-trends-flavours-sides-and-new-uses/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
+    <summary>Campbell’s Thanksgiving findings reveal how comfort flavours and easy recipes give snack producers more ways to reach shoppers before, during and after dinner.</summary>
+    <published>2026-10-30T09:05:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.foodnavigator.com/Article/2026/10/30/doordashs-instacart-deal-cpg-reach-and-antitrust-concerns/</id>
+    <title>DoorDash’s Instacart deal promises CPG better ad reach, raises antitrust concerns</title>
+    <updated>2026-10-30T14:43:10.587676+00:00</updated>
+    <link href="https://www.foodnavigator.com/Article/2026/10/30/doordashs-instacart-deal-cpg-reach-and-antitrust-concerns/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
+    <summary>DoorDash’s $17 billion Instacart deal promises broader reach and advertising tools for CPG brands, but critics warn of a food delivery monopoly.</summary>
+    <published>2026-10-30T13:31:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.foodnavigator.com/Article/2026/10/30/upf-labels-sodium-reformulation-and-digital-commerce/</id>
+    <title>What comes next for reformulation, UPFs and retail?</title>
+    <updated>2026-10-30T14:43:10.587510+00:00</updated>
+    <link href="https://www.foodnavigator.com/Article/2026/10/30/upf-labels-sodium-reformulation-and-digital-commerce/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
+    <summary>The month’s top-read FoodNavigator-USA stories explored how regulators and manufacturers are tackling sodium reduction, defining ultra-processed foods and preparing for the next generation of retail.</summary>
+    <published>2026-10-30T13:33:01+00:00</published>
   </entry>
 </feed>
