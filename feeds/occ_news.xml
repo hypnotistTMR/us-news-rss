@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:occ_news</id>
   <title>OCC Newsroom (scrape)</title>
-  <updated>2026-10-31T19:25:27.799896+00:00</updated>
+  <updated>2026-10-31T22:39:10.022319+00:00</updated>
   <link href="file:///feeds/occ_news.xml" rel="self"/>
   <link href="https://www.occ.gov/news-events/newsroom/index.html" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -10,33 +10,33 @@
   <entry>
     <id>https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-93.html</id>
     <title>OCC Announces Enforcement Actions for October 2026</title>
-    <updated>2026-10-31T19:25:27.799934+00:00</updated>
+    <updated>2026-10-31T22:39:10.022350+00:00</updated>
     <link href="https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-93.html"/>
     <summary>OCC Newsroom</summary>
-    <published>2026-10-31T19:25:27.799933+00:00</published>
+    <published>2026-10-31T22:39:10.022349+00:00</published>
   </entry>
   <entry>
     <id>https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-92.html</id>
     <title>OCC Advances U.S. Digital Asset Leadership with Final Rule to Implement GENIUS Act</title>
-    <updated>2026-10-31T19:25:27.799927+00:00</updated>
+    <updated>2026-10-31T22:39:10.022344+00:00</updated>
     <link href="https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-92.html"/>
     <summary>OCC Newsroom</summary>
-    <published>2026-10-31T19:25:27.799926+00:00</published>
+    <published>2026-10-31T22:39:10.022343+00:00</published>
   </entry>
   <entry>
     <id>https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-94.html</id>
     <title>Comptroller Gould Discusses Efforts to Support Community Banks</title>
-    <updated>2026-10-31T19:25:27.799919+00:00</updated>
+    <updated>2026-10-31T22:39:10.022337+00:00</updated>
     <link href="https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-94.html"/>
     <summary>OCC Newsroom</summary>
-    <published>2026-10-31T19:25:27.799918+00:00</published>
+    <published>2026-10-31T22:39:10.022336+00:00</published>
   </entry>
   <entry>
     <id>https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-95.html</id>
     <title>OCC Raises Concerns with Californiaâs Climate Disclosure Laws</title>
-    <updated>2026-10-31T19:25:27.799905+00:00</updated>
+    <updated>2026-10-31T22:39:10.022323+00:00</updated>
     <link href="https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-95.html"/>
     <summary>OCC Newsroom</summary>
-    <published>2026-10-31T19:25:27.799900+00:00</published>
+    <published>2026-10-31T22:39:10.022321+00:00</published>
   </entry>
 </feed>
