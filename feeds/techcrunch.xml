@@ -2,23 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:techcrunch</id>
   <title>TechCrunch - All</title>
-  <updated>2026-11-01T01:42:57.700583+00:00</updated>
+  <updated>2026-11-01T08:28:32.642883+00:00</updated>
   <link href="file:///feeds/techcrunch.xml" rel="self"/>
   <link href="https://techcrunch.com/feed/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: tech / Mode: rss</subtitle>
   <entry>
-    <id>https://techcrunch.com/?p=3183613</id>
-    <title>Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’</title>
-    <updated>2026-11-01T01:42:57.702556+00:00</updated>
-    <link href="https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/"/>
-    <summary>The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.</summary>
-    <published>2026-10-30T16:03:45+00:00</published>
-  </entry>
-  <entry>
     <id>https://techcrunch.com/?p=3183584</id>
     <title>Google’s first data center satellite is online and writing poetry</title>
-    <updated>2026-11-01T01:42:57.702469+00:00</updated>
+    <updated>2026-11-01T08:28:32.644866+00:00</updated>
     <link href="https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/"/>
     <summary>The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.</summary>
     <published>2026-10-30T17:00:00+00:00</published>
@@ -26,7 +18,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3183083</id>
     <title>Zest’s new AI agent finds restaurants and books reservations over text</title>
-    <updated>2026-11-01T01:42:57.702380+00:00</updated>
+    <updated>2026-11-01T08:28:32.644779+00:00</updated>
     <link href="https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/"/>
     <summary>Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.</summary>
     <published>2026-10-30T17:47:12+00:00</published>
@@ -34,7 +26,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3183618</id>
     <title>Satlyt takes another step toward turning satellites into space data centers</title>
-    <updated>2026-11-01T01:42:57.702289+00:00</updated>
+    <updated>2026-11-01T08:28:32.644666+00:00</updated>
     <link href="https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/"/>
     <summary>Satlyt ran a successful test this month bringing it closer to turning spacecraft, starting with satellites,  into virtual data centers.</summary>
     <published>2026-10-30T18:01:24+00:00</published>
@@ -42,7 +34,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3183733</id>
     <title>AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal</title>
-    <updated>2026-11-01T01:42:57.702204+00:00</updated>
+    <updated>2026-11-01T08:28:32.644581+00:00</updated>
     <link href="https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/"/>
     <summary>Like a real-life episode of "Suits," the demise of famed white-shoe Wall Street law firm Weil, Gotshal &amp;#038; Manges has been the talk of the legal industry. And now an AI firm has entered the picture.</summary>
     <published>2026-10-30T19:55:13+00:00</published>
@@ -50,7 +42,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3183832</id>
     <title>Cracks are emerging in the AI spending boom</title>
-    <updated>2026-11-01T01:42:57.702119+00:00</updated>
+    <updated>2026-11-01T08:28:32.644492+00:00</updated>
     <link href="https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/"/>
     <summary>Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.</summary>
     <published>2026-10-30T21:17:40+00:00</published>
@@ -58,7 +50,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3183738</id>
     <title>Last-minute Halloween costumes for tech nerds</title>
-    <updated>2026-11-01T01:42:57.702036+00:00</updated>
+    <updated>2026-11-01T08:28:32.644408+00:00</updated>
     <link href="https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/"/>
     <summary>No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.</summary>
     <published>2026-10-30T21:26:59+00:00</published>
@@ -66,7 +58,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3183884</id>
     <title>Applebee’s exposed customers’ personal data after leaving database password in app</title>
-    <updated>2026-11-01T01:42:57.701952+00:00</updated>
+    <updated>2026-11-01T08:28:32.644321+00:00</updated>
     <link href="https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/"/>
     <summary>EXCLUSIVE: A security researcher discovered the hardcoded credential in Applebee's app, allowing unrestricted access to customers' personal data.</summary>
     <published>2026-10-30T21:48:53+00:00</published>
@@ -74,7 +66,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3183715</id>
     <title>Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says</title>
-    <updated>2026-11-01T01:42:57.701866+00:00</updated>
+    <updated>2026-11-01T08:28:32.644230+00:00</updated>
     <link href="https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/"/>
     <summary>Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.</summary>
     <published>2026-10-30T21:52:03+00:00</published>
@@ -82,7 +74,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3183862</id>
     <title>Intel’s stock crashes, knocking $12B from government’s stake</title>
-    <updated>2026-11-01T01:42:57.701781+00:00</updated>
+    <updated>2026-11-01T08:28:32.644147+00:00</updated>
     <link href="https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/"/>
     <summary>Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.</summary>
     <published>2026-10-30T21:54:34+00:00</published>
@@ -90,7 +82,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3183846</id>
     <title>Ollie, a privacy-focused AI assistant, is shutting down</title>
-    <updated>2026-11-01T01:42:57.701692+00:00</updated>
+    <updated>2026-11-01T08:28:32.644062+00:00</updated>
     <link href="https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/"/>
     <summary>As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.</summary>
     <published>2026-10-30T22:56:13+00:00</published>
@@ -98,7 +90,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3183971</id>
     <title>Salesforce’s M&amp;A spree continues with a reported $375M deal for defense tech startup Rune</title>
-    <updated>2026-11-01T01:42:57.701579+00:00</updated>
+    <updated>2026-11-01T08:28:32.643976+00:00</updated>
     <link href="https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/"/>
     <summary>The AI logistics startup will bolster the CRM giant's Missionforce defense platform.</summary>
     <published>2026-10-30T23:21:23+00:00</published>
@@ -106,7 +98,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3183989</id>
     <title>Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia</title>
-    <updated>2026-11-01T01:42:57.701490+00:00</updated>
+    <updated>2026-11-01T08:28:32.643889+00:00</updated>
     <link href="https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/"/>
     <summary>When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.</summary>
     <published>2026-10-31T01:20:05+00:00</published>
@@ -114,7 +106,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3183701</id>
     <title>Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up</title>
-    <updated>2026-11-01T01:42:57.701401+00:00</updated>
+    <updated>2026-11-01T08:28:32.643795+00:00</updated>
     <link href="https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/"/>
     <summary>The money behind the money is thrilled, mostly.</summary>
     <published>2026-10-31T04:16:50+00:00</published>
@@ -122,7 +114,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3183829</id>
     <title>I took two iPhones on vacation. The Duo won me over.</title>
-    <updated>2026-11-01T01:42:57.701313+00:00</updated>
+    <updated>2026-11-01T08:28:32.643657+00:00</updated>
     <link href="https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/"/>
     <summary>The iPhone Duo has its frustrations, but it’s also fun and engaging enough that I didn’t want to switch back to my Pro Max.</summary>
     <published>2026-10-31T14:00:00+00:00</published>
@@ -130,7 +122,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3127752</id>
     <title>From restaurant guides to payments, here’s how TikTok is building a super app</title>
-    <updated>2026-11-01T01:42:57.701223+00:00</updated>
+    <updated>2026-11-01T08:28:32.643566+00:00</updated>
     <link href="https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/"/>
     <summary>TikTok may be working to become the app that people use for most of their digital activities.</summary>
     <published>2026-10-31T15:41:57+00:00</published>
@@ -138,7 +130,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3184004</id>
     <title>OpenAI reportedly lowers funding target for new round</title>
-    <updated>2026-11-01T01:42:57.701130+00:00</updated>
+    <updated>2026-11-01T08:28:32.643478+00:00</updated>
     <link href="https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/"/>
     <summary>OpenAI’s latest funding round doesn't seem to be living up to expectations.</summary>
     <published>2026-10-31T16:12:55+00:00</published>
@@ -146,7 +138,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3184013</id>
     <title>Judge allows NAACP lawsuit over xAI data center pollution to move forward</title>
-    <updated>2026-11-01T01:42:57.701024+00:00</updated>
+    <updated>2026-11-01T08:28:32.643390+00:00</updated>
     <link href="https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/"/>
     <summary>An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.</summary>
     <published>2026-10-31T21:17:03+00:00</published>
@@ -154,7 +146,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3184015</id>
     <title>4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale</title>
-    <updated>2026-11-01T01:42:57.700920+00:00</updated>
+    <updated>2026-11-01T08:28:32.643299+00:00</updated>
     <link href="https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/"/>
     <summary>On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.</summary>
     <published>2026-10-31T21:36:07+00:00</published>
@@ -162,9 +154,17 @@
   <entry>
     <id>https://techcrunch.com/?p=3184023</id>
     <title>Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’</title>
-    <updated>2026-11-01T01:42:57.700808+00:00</updated>
+    <updated>2026-11-01T08:28:32.643203+00:00</updated>
     <link href="https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/"/>
     <summary>Apple's new CEO defended the company's current position in the AI landscape.</summary>
     <published>2026-10-31T21:41:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3183712</id>
+    <title>Data centers are now a midterm issue, even in Brooklyn</title>
+    <updated>2026-11-01T08:28:32.643092+00:00</updated>
+    <link href="https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/"/>
+    <summary>At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.</summary>
+    <published>2026-11-01T02:22:10+00:00</published>
   </entry>
 </feed>
