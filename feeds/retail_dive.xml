@@ -2,89 +2,89 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:retail_dive</id>
   <title>Retail Dive</title>
-  <updated>2026-11-02T10:21:18.718702+00:00</updated>
+  <updated>2026-11-02T20:27:18.364434+00:00</updated>
   <link href="file:///feeds/retail_dive.xml" rel="self"/>
   <link href="https://www.retaildive.com/feeds/news/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: retail / Mode: rss</subtitle>
   <entry>
-    <id>https://www.retaildive.com/news/heydude-north-america-wholesale-crocs-q3/873169/</id>
-    <title>Heydude wants to sell more in North America, but is unlikely to open new stores</title>
-    <updated>2026-11-02T10:21:18.719261+00:00</updated>
-    <link href="https://www.retaildive.com/news/heydude-north-america-wholesale-crocs-q3/873169/"/>
-    <summary>The brand returned to growth in Q3 compared to its weak results last year, thanks largely to wholesale revenue from retail partners.</summary>
-    <published>2026-10-29T12:13:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://www.retaildive.com/news/most-consumers-arent-using-ai-for-product-discovery-yet/833604/</id>
-    <title>Most consumers aren’t using AI for product discovery, yet</title>
-    <updated>2026-11-02T10:21:18.719222+00:00</updated>
-    <link href="https://www.retaildive.com/news/most-consumers-arent-using-ai-for-product-discovery-yet/833604/"/>
-    <summary>Retailers should consider the quality of their metadata to prepare for a predicted upswing in AI usage, new research finds.</summary>
-    <published>2026-10-29T12:32:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://www.retaildive.com/news/fanatics-openai-outfit-curation-tool/873180/</id>
-    <title>Fanatics revamps outfit curation tool with OpenAI</title>
-    <updated>2026-11-02T10:21:18.719181+00:00</updated>
-    <link href="https://www.retaildive.com/news/fanatics-openai-outfit-curation-tool/873180/"/>
-    <summary>A new version of the retailer&amp;rsquo;s Shop the Look tool generated 10% higher engagement in a pilot.</summary>
-    <published>2026-10-29T12:58:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://www.retaildive.com/news/victorias-secret-pink-debuts-beauty-mini-bars/873308/</id>
-    <title>Victoria’s Secret’s Pink leans into beauty with ‘Mini Bar’ collection</title>
-    <updated>2026-11-02T10:21:18.719140+00:00</updated>
-    <link href="https://www.retaildive.com/news/victorias-secret-pink-debuts-beauty-mini-bars/873308/"/>
-    <summary>The Pink Mini Bar features collaborations with Vacation, Mario Badescu and Fazit and will have a dedicated section featuring the products in stores.</summary>
-    <published>2026-10-30T11:24:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://www.retaildive.com/news/roots-ceo-exits-ftc-retailers-prices-brooks-earnings/873246/</id>
-    <title>The Weekly Closeout: Roots CEO exits, the FTC zeroes in on price</title>
-    <updated>2026-11-02T10:21:18.719099+00:00</updated>
-    <link href="https://www.retaildive.com/news/roots-ceo-exits-ftc-retailers-prices-brooks-earnings/873246/"/>
-    <summary>The chief executive stepped down following the outdoor retailer&amp;rsquo;s go-private deal. Meanwhile, the agency has been focused on how retailers set prices.</summary>
-    <published>2026-10-30T11:56:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://www.retaildive.com/news/amazon-ceo-retail-business-important-q3-earnings/873316/</id>
-    <title>Amazon CEO says retail business is being slept on</title>
-    <updated>2026-11-02T10:21:18.719057+00:00</updated>
-    <link href="https://www.retaildive.com/news/amazon-ceo-retail-business-important-q3-earnings/873316/"/>
-    <summary>Andy Jassy spoke in depth about AWS and AI during a Q3 earnings call, but reiterated the importance of the company&amp;rsquo;s store progress.</summary>
-    <published>2026-10-30T12:05:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://www.retaildive.com/news/louis-vuitton-merchant-bergdorf-goodman-saks-neiman-marcus/873298/</id>
-    <title>Louis Vuitton exec to lead Bergdorf Goodman</title>
-    <updated>2026-11-02T10:21:18.719015+00:00</updated>
-    <link href="https://www.retaildive.com/news/louis-vuitton-merchant-bergdorf-goodman-saks-neiman-marcus/873298/"/>
-    <summary>It&amp;rsquo;s full circle for Lanessa Elrod, who had previous stints at all three Exemplar Luxury Group banners &amp;mdash; Bergdorf, Saks Fifth Avenue and Neiman Marcus.</summary>
-    <published>2026-10-30T12:22:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://www.retaildive.com/spons/how-can-associates-power-personalization-in-retail/873087/</id>
-    <title>How can associates power personalization in retail?</title>
-    <updated>2026-11-02T10:21:18.718970+00:00</updated>
-    <link href="https://www.retaildive.com/spons/how-can-associates-power-personalization-in-retail/873087/"/>
-    <summary>Empower retail associates with mobile technology to deliver personalized, seamless customer experiences.</summary>
-    <published>2026-11-02T05:00:00-05:00</published>
-  </entry>
-  <entry>
     <id>https://www.retaildive.com/spons/your-catalog-may-already-be-visible-to-ai-agents-making-it-trustworthy-is/872994/</id>
     <title>Your catalog may already be visible to AI agents. Making it trustworthy is the next step.</title>
-    <updated>2026-11-02T10:21:18.718924+00:00</updated>
+    <updated>2026-11-02T20:27:18.365541+00:00</updated>
     <link href="https://www.retaildive.com/spons/your-catalog-may-already-be-visible-to-ai-agents-making-it-trustworthy-is/872994/"/>
     <summary>Three barriers hinder agentic optimization. Discover how AI agents evaluate products and sway shoppers.</summary>
     <published>2026-11-02T05:00:00-05:00</published>
   </entry>
   <entry>
+    <id>https://www.retaildive.com/spons/how-can-associates-power-personalization-in-retail/873087/</id>
+    <title>How can associates power personalization in retail?</title>
+    <updated>2026-11-02T20:27:18.365452+00:00</updated>
+    <link href="https://www.retaildive.com/spons/how-can-associates-power-personalization-in-retail/873087/"/>
+    <summary>Empower retail associates with mobile technology to deliver personalized, seamless customer experiences.</summary>
+    <published>2026-11-02T05:00:00-05:00</published>
+  </entry>
+  <entry>
     <id>https://www.retaildive.com/spons/the-power-of-the-mall-why-the-best-shopping-centers-are-thriving/873217/</id>
     <title>The power of the mall: Why the best shopping centers are thriving</title>
-    <updated>2026-11-02T10:21:18.718863+00:00</updated>
+    <updated>2026-11-02T20:27:18.365364+00:00</updated>
     <link href="https://www.retaildive.com/spons/the-power-of-the-mall-why-the-best-shopping-centers-are-thriving/873217/"/>
     <summary>The mall is thriving. Here&amp;#39;s what&amp;#39;s driving its success and why it matters to retailers.</summary>
     <published>2026-11-02T05:00:00-05:00</published>
+  </entry>
+  <entry>
+    <id>https://www.retaildive.com/news/walmart-holiday-meal-2026-cheaper-2025/873287/</id>
+    <title>Walmart dishes up holiday meal deal</title>
+    <updated>2026-11-02T20:27:18.365275+00:00</updated>
+    <link href="https://www.retaildive.com/news/walmart-holiday-meal-2026-cheaper-2025/873287/"/>
+    <summary>The retailer&amp;#39;s offering for 2026 can feed 10 people for $35 and includes 18% more items than its bundle last year.</summary>
+    <published>2026-11-02T09:59:00-05:00</published>
+  </entry>
+  <entry>
+    <id>https://www.retaildive.com/news/walmart-plans-400m-texas-distribution-center/873426/</id>
+    <title>Walmart plans $400M Texas distribution center</title>
+    <updated>2026-11-02T20:27:18.365184+00:00</updated>
+    <link href="https://www.retaildive.com/news/walmart-plans-400m-texas-distribution-center/873426/"/>
+    <summary>The retailer expects to break ground on the more than 744,000-square-foot facility in Cibolo this February.</summary>
+    <published>2026-11-02T10:38:00-05:00</published>
+  </entry>
+  <entry>
+    <id>https://www.retaildive.com/news/reebok-foot-locker-question-shoe-launch-allen-iverson/873438/</id>
+    <title>Reebok chooses Foot Locker as exclusive partner for Question shoe relaunch</title>
+    <updated>2026-11-02T20:27:18.365094+00:00</updated>
+    <link href="https://www.retaildive.com/news/reebok-foot-locker-question-shoe-launch-allen-iverson/873438/"/>
+    <summary>After reentering the basketball arena last year, the retailer&amp;rsquo;s&amp;nbsp;latest effort in the space is a reimagining of Allen Iverson&amp;rsquo;s 1996 Reebok Question.</summary>
+    <published>2026-11-02T11:20:00-05:00</published>
+  </entry>
+  <entry>
+    <id>https://www.retaildive.com/news/consumers-want-holiday-spirit-store-experience-can-help/873162/</id>
+    <title>Consumers want to feel the holiday spirit. A good store experience can help.</title>
+    <updated>2026-11-02T20:27:18.365003+00:00</updated>
+    <link href="https://www.retaildive.com/news/consumers-want-holiday-spirit-store-experience-can-help/873162/"/>
+    <summary>Minimizing fuss, helping customers keep their holiday traditions alive and righting any problems that come up will be key goals this year.</summary>
+    <published>2026-11-02T11:38:00-05:00</published>
+  </entry>
+  <entry>
+    <id>https://www.retaildive.com/news/carters-chief-product-officer-h-and-m/873406/</id>
+    <title>Carter’s new chief product officer is from H&amp;M</title>
+    <updated>2026-11-02T20:27:18.364902+00:00</updated>
+    <link href="https://www.retaildive.com/news/carters-chief-product-officer-h-and-m/873406/"/>
+    <summary>The children&amp;rsquo;s apparel retailer made a number of other leadership changes. Meanwhile, the company reported a &amp;quot;volatile&amp;rdquo; Q3, according to analysts.&amp;nbsp;</summary>
+    <published>2026-11-02T11:38:00-05:00</published>
+  </entry>
+  <entry>
+    <id>https://www.retaildive.com/news/shakeup-old-navy-amid-merchandising-struggles-walmart/873431/</id>
+    <title>Shakeup at Old Navy continues amid merchandising struggles</title>
+    <updated>2026-11-02T20:27:18.364757+00:00</updated>
+    <link href="https://www.retaildive.com/news/shakeup-old-navy-amid-merchandising-struggles-walmart/873431/"/>
+    <summary>Nicole Colombo, who led fashion at Walmart&amp;rsquo;s marketplace, is now head of women&amp;rsquo;s merchandising at Gap Inc.&amp;rsquo;s value brand.</summary>
+    <published>2026-11-02T12:23:00-05:00</published>
+  </entry>
+  <entry>
+    <id>https://www.retaildive.com/news/boot-barn-ramps-up-store-openings-lower-outlook/873449/</id>
+    <title>Boot Barn ramps up store openings despite lowering outlook</title>
+    <updated>2026-11-02T20:27:18.364642+00:00</updated>
+    <link href="https://www.retaildive.com/news/boot-barn-ramps-up-store-openings-lower-outlook/873449/"/>
+    <summary>Warm weather impacted some sales in the second quarter, but the retailer is refreshing key assortments as it accelerates its footprint expansion.</summary>
+    <published>2026-11-02T12:24:00-05:00</published>
   </entry>
 </feed>

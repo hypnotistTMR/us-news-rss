@@ -2,55 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:supply_chain_dive</id>
   <title>Supply Chain Dive</title>
-  <updated>2026-11-02T10:21:54.770209+00:00</updated>
+  <updated>2026-11-02T20:27:54.425466+00:00</updated>
   <link href="file:///feeds/supply_chain_dive.xml" rel="self"/>
   <link href="https://www.supplychaindive.com/feeds/news/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: logistics / Mode: rss</subtitle>
   <entry>
-    <id>https://www.supplychaindive.com/news/trump-opts-for-trade-talks-over-tariffs-for-robotics-industrial-machinery/873166/</id>
-    <title>Trump opts for trade talks over tariffs for robotics, industrial machinery</title>
-    <updated>2026-11-02T10:21:54.770800+00:00</updated>
-    <link href="https://www.supplychaindive.com/news/trump-opts-for-trade-talks-over-tariffs-for-robotics-industrial-machinery/873166/"/>
-    <summary>For the second time this month, the president directed cabinet officials to negotiate over imports deemed a threat to U.S. commerce and security by a Section 232 probe.</summary>
-    <published>2026-10-29T08:14:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://www.supplychaindive.com/news/fed-holds-main-interest-rate-steady-despite-accelerating-inflation/873147/</id>
-    <title>Fed holds main interest rate steady despite accelerating inflation</title>
-    <updated>2026-11-02T10:21:54.770761+00:00</updated>
-    <link href="https://www.supplychaindive.com/news/fed-holds-main-interest-rate-steady-despite-accelerating-inflation/873147/"/>
-    <summary>Two policymakers on the Federal Open Market Committee dissented in favor of raising the federal funds rate by 0.25 percentage point.</summary>
-    <published>2026-10-29T10:20:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://www.supplychaindive.com/news/opi-nioxin-owner-appoints-chief-supply-chain-officer/872796/</id>
-    <title>OPI, Nioxin owner appoints chief supply chain officer</title>
-    <updated>2026-11-02T10:21:54.770719+00:00</updated>
-    <link href="https://www.supplychaindive.com/news/opi-nioxin-owner-appoints-chief-supply-chain-officer/872796/"/>
-    <summary>Javier Huerta will oversee The Wella Company&amp;rsquo;s sourcing, manufacturing and logistics capabilities, effective Dec. 1</summary>
-    <published>2026-10-29T10:26:34-04:00</published>
-  </entry>
-  <entry>
-    <id>https://www.supplychaindive.com/news/fedex-drawing-parcel-focused-shippers-to-its-air-freight-services/873182/</id>
-    <title>FedEx drawing parcel-focused shippers to its air freight services</title>
-    <updated>2026-11-02T10:21:54.770681+00:00</updated>
-    <link href="https://www.supplychaindive.com/news/fedex-drawing-parcel-focused-shippers-to-its-air-freight-services/873182/"/>
-    <summary>Air freight demand from traditionally parcel-centric customers is rising as the carrier pushes for more business in high-value segments like AI and data centers.</summary>
-    <published>2026-10-29T11:36:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://www.supplychaindive.com/news/kroger-accelerates-direct-sourcing-efforts-for-better-cost-control-visibil/872931/</id>
-    <title>Kroger accelerates direct sourcing efforts for better cost control, visibility</title>
-    <updated>2026-11-02T10:21:54.770643+00:00</updated>
-    <link href="https://www.supplychaindive.com/news/kroger-accelerates-direct-sourcing-efforts-for-better-cost-control-visibil/872931/"/>
-    <summary>The grocery chain seeks to boost first-party procurement volumes to more than 10% while working toward a fully owned import and distribution model.</summary>
-    <published>2026-10-29T12:44:00-04:00</published>
-  </entry>
-  <entry>
     <id>https://www.supplychaindive.com/news/walmart-plans-400m-texas-distribution-center/873218/</id>
     <title>Walmart plans $400M Texas distribution center</title>
-    <updated>2026-11-02T10:21:54.770604+00:00</updated>
+    <updated>2026-11-02T20:27:54.426595+00:00</updated>
     <link href="https://www.supplychaindive.com/news/walmart-plans-400m-texas-distribution-center/873218/"/>
     <summary>The retailer expects to break ground on the more than 744,000-square-foot facility in Cibolo this February.</summary>
     <published>2026-10-30T10:17:45-04:00</published>
@@ -58,7 +18,7 @@
   <entry>
     <id>https://www.supplychaindive.com/news/ups-aims-to-double-rfid-labeled-volume-from-customer-locations/872946/</id>
     <title>UPS aims to double RFID-labeled volume from customer locations</title>
-    <updated>2026-11-02T10:21:54.770563+00:00</updated>
+    <updated>2026-11-02T20:27:54.426504+00:00</updated>
     <link href="https://www.supplychaindive.com/news/ups-aims-to-double-rfid-labeled-volume-from-customer-locations/872946/"/>
     <summary>The carrier expects 6 million packages a day will benefit from the offering in 2027, increasing shipper visibility in the process, CEO Carol Tom&amp;eacute; said.</summary>
     <published>2026-10-30T10:45:39-04:00</published>
@@ -66,7 +26,7 @@
   <entry>
     <id>https://www.supplychaindive.com/news/usda-fund-8-fertilizer-manufacturing-projects-totaling-1-billion/873311/</id>
     <title>USDA to fund 8 fertilizer manufacturing projects totaling more than $1.3B</title>
-    <updated>2026-11-02T10:21:54.770516+00:00</updated>
+    <updated>2026-11-02T20:27:54.426411+00:00</updated>
     <link href="https://www.supplychaindive.com/news/usda-fund-8-fertilizer-manufacturing-projects-totaling-1-billion/873311/"/>
     <summary>The agency said the projects will add production capacity to drive prices lower and reduce the nation&amp;rsquo;s reliance on nutrients from other countries.</summary>
     <published>2026-10-30T10:52:00-04:00</published>
@@ -74,7 +34,7 @@
   <entry>
     <id>https://www.supplychaindive.com/spons/context-changes-everything-what-supplier-contracts-reveal-about-supply-cha/833693/</id>
     <title>Context changes everything: what supplier contracts reveal about supply chain performance</title>
-    <updated>2026-11-02T10:21:54.770445+00:00</updated>
+    <updated>2026-11-02T20:27:54.426322+00:00</updated>
     <link href="https://www.supplychaindive.com/spons/context-changes-everything-what-supplier-contracts-reveal-about-supply-cha/833693/"/>
     <summary>Clarity across supplier contracts helps procurement teams uncover savings, risk and performance insights.</summary>
     <published>2026-11-02T05:00:00-05:00</published>
@@ -82,9 +42,49 @@
   <entry>
     <id>https://www.supplychaindive.com/spons/why-more-inventory-wont-fix-your-supply-chains-fill-rate/873053/</id>
     <title>Why more inventory won’t fix your supply chain’s fill rate</title>
-    <updated>2026-11-02T10:21:54.770367+00:00</updated>
+    <updated>2026-11-02T20:27:54.426234+00:00</updated>
     <link href="https://www.supplychaindive.com/spons/why-more-inventory-wont-fix-your-supply-chains-fill-rate/873053/"/>
     <summary>Record inventory but still missing fill rate targets? The problem isn&amp;#39;t supply or forecasting; it&amp;#39;s your supply chain decision layer. Here&amp;#39;s how to fix it.</summary>
     <published>2026-11-02T05:00:00-05:00</published>
+  </entry>
+  <entry>
+    <id>https://www.supplychaindive.com/news/runnings-unites-forecasting-replenishment-with-ai/872823/</id>
+    <title>Runnings unites forecasting, replenishment with AI</title>
+    <updated>2026-11-02T20:27:54.426145+00:00</updated>
+    <link href="https://www.supplychaindive.com/news/runnings-unites-forecasting-replenishment-with-ai/872823/"/>
+    <summary>The farm, home and outdoor goods retailer is rolling out Relex Solutions&amp;rsquo; artificial-intelligence platform across its store and distribution network in phases.</summary>
+    <published>2026-11-02T07:06:00-05:00</published>
+  </entry>
+  <entry>
+    <id>https://www.supplychaindive.com/news/walmart-commits-6b-to-up-distribution-center-automation-with-symbotic/873356/</id>
+    <title>Walmart commits $6B to up distribution center automation with Symbotic</title>
+    <updated>2026-11-02T20:27:54.426054+00:00</updated>
+    <link href="https://www.supplychaindive.com/news/walmart-commits-6b-to-up-distribution-center-automation-with-symbotic/873356/"/>
+    <summary>The retailer will deploy Symbotic&amp;#39;s technology at 25 regional facilities as it looks to improve speed and inventory replenishment.</summary>
+    <published>2026-11-02T10:07:07-05:00</published>
+  </entry>
+  <entry>
+    <id>https://www.supplychaindive.com/news/norfolk-southern-schneider-national-team-to-scale-east-coast-intermodal-re/873340/</id>
+    <title>Norfolk Southern, Schneider National team to scale East Coast intermodal reach</title>
+    <updated>2026-11-02T20:27:54.425958+00:00</updated>
+    <link href="https://www.supplychaindive.com/news/norfolk-southern-schneider-national-team-to-scale-east-coast-intermodal-re/873340/"/>
+    <summary>The railroad&amp;rsquo;s potential merger with Union Pacific is &amp;ldquo;the icing on the cake&amp;rdquo; of the partnership,&amp;nbsp;Schneider CEO Jim Filter said.&amp;nbsp;</summary>
+    <published>2026-11-02T10:11:00-05:00</published>
+  </entry>
+  <entry>
+    <id>https://www.supplychaindive.com/news/reshoring-foreign-direct-investment-247k-jobs-2025-report-reshoring-initiative/873433/</id>
+    <title>Reshoring and foreign direct investment added 247K manufacturing jobs in 2025</title>
+    <updated>2026-11-02T20:27:54.425842+00:00</updated>
+    <link href="https://www.supplychaindive.com/news/reshoring-foreign-direct-investment-247k-jobs-2025-report-reshoring-initiative/873433/"/>
+    <summary>The result &amp;ldquo;essentially matched&amp;rdquo; the previous year, per the Reshoring Initiative, which expects 25% growth in reshoring-related jobs in 2026.</summary>
+    <published>2026-11-02T10:35:00-05:00</published>
+  </entry>
+  <entry>
+    <id>https://www.supplychaindive.com/news/manufacturing-expands-for-10th-straight-month-but-iran-war-weighs-heavily/873468/</id>
+    <title>Manufacturing expands for 10th straight month, but Iran war weighs heavily</title>
+    <updated>2026-11-02T20:27:54.425682+00:00</updated>
+    <link href="https://www.supplychaindive.com/news/manufacturing-expands-for-10th-straight-month-but-iran-war-weighs-heavily/873468/"/>
+    <summary>Increasingly negative comments from respondents&amp;nbsp;also cite price vitality and trade wars in the latest Purchasing Managers&amp;rsquo; Index from the Institute for Supply Management.</summary>
+    <published>2026-11-02T12:41:00-05:00</published>
   </entry>
 </feed>

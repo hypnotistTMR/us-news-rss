@@ -2,143 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:techcrunch</id>
   <title>TechCrunch - All</title>
-  <updated>2026-11-02T10:21:18.142451+00:00</updated>
+  <updated>2026-11-02T20:27:17.937433+00:00</updated>
   <link href="file:///feeds/techcrunch.xml" rel="self"/>
   <link href="https://techcrunch.com/feed/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: tech / Mode: rss</subtitle>
   <entry>
-    <id>https://techcrunch.com/?p=3183715</id>
-    <title>Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says</title>
-    <updated>2026-11-02T10:21:18.143477+00:00</updated>
-    <link href="https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/"/>
-    <summary>Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.</summary>
-    <published>2026-10-30T21:52:03+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3183862</id>
-    <title>Intel’s stock crashes, knocking $12B from government’s stake</title>
-    <updated>2026-11-02T10:21:18.143436+00:00</updated>
-    <link href="https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/"/>
-    <summary>Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.</summary>
-    <published>2026-10-30T21:54:34+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3183846</id>
-    <title>Ollie, a privacy-focused AI assistant, is shutting down</title>
-    <updated>2026-11-02T10:21:18.143395+00:00</updated>
-    <link href="https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/"/>
-    <summary>As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.</summary>
-    <published>2026-10-30T22:56:13+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3183971</id>
-    <title>Salesforce’s M&amp;A spree continues with a reported $375M deal for defense tech startup Rune</title>
-    <updated>2026-11-02T10:21:18.143354+00:00</updated>
-    <link href="https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/"/>
-    <summary>The AI logistics startup will bolster the CRM giant's Missionforce defense platform.</summary>
-    <published>2026-10-30T23:21:23+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3183989</id>
-    <title>Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia</title>
-    <updated>2026-11-02T10:21:18.143314+00:00</updated>
-    <link href="https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/"/>
-    <summary>When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.</summary>
-    <published>2026-10-31T01:20:05+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3183701</id>
-    <title>Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up</title>
-    <updated>2026-11-02T10:21:18.143273+00:00</updated>
-    <link href="https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/"/>
-    <summary>The money behind the money is thrilled, mostly.</summary>
-    <published>2026-10-31T04:16:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3183829</id>
-    <title>I took two iPhones on vacation. The Duo won me over.</title>
-    <updated>2026-11-02T10:21:18.143233+00:00</updated>
-    <link href="https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/"/>
-    <summary>The iPhone Duo has its frustrations, but it’s also fun and engaging enough that I didn’t want to switch back to my Pro Max.</summary>
-    <published>2026-10-31T14:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3127752</id>
-    <title>From restaurant guides to payments, here’s how TikTok is building a super app</title>
-    <updated>2026-11-02T10:21:18.143193+00:00</updated>
-    <link href="https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/"/>
-    <summary>TikTok may be working to become the app that people use for most of their digital activities.</summary>
-    <published>2026-10-31T15:41:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3184004</id>
-    <title>OpenAI reportedly lowers funding target for new round</title>
-    <updated>2026-11-02T10:21:18.143152+00:00</updated>
-    <link href="https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/"/>
-    <summary>OpenAI’s latest funding round doesn't seem to be living up to expectations.</summary>
-    <published>2026-10-31T16:12:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3184013</id>
-    <title>Judge allows NAACP lawsuit over xAI data center pollution to move forward</title>
-    <updated>2026-11-02T10:21:18.143110+00:00</updated>
-    <link href="https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/"/>
-    <summary>An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.</summary>
-    <published>2026-10-31T21:17:03+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3184015</id>
-    <title>4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale</title>
-    <updated>2026-11-02T10:21:18.143068+00:00</updated>
-    <link href="https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/"/>
-    <summary>On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.</summary>
-    <published>2026-10-31T21:36:07+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3184023</id>
-    <title>Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’</title>
-    <updated>2026-11-02T10:21:18.143026+00:00</updated>
-    <link href="https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/"/>
-    <summary>Apple's new CEO defended the company's current position in the AI landscape.</summary>
-    <published>2026-10-31T21:41:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3183712</id>
-    <title>Data centers are now a midterm issue, even in Brooklyn</title>
-    <updated>2026-11-02T10:21:18.142982+00:00</updated>
-    <link href="https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/"/>
-    <summary>At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.</summary>
-    <published>2026-11-01T02:22:10+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3183622</id>
-    <title>Here’s what ‘renoa’ — the first new fiber in 25 years — feels like</title>
-    <updated>2026-11-02T10:21:18.142938+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/"/>
-    <summary>Startup Everbloom's new material, renoa, is the first new fiber in 25 years, and it feels very familiar.</summary>
-    <published>2026-11-01T14:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3175736</id>
-    <title>Pixel 11 Pro Fold: Sturdy rectangle in a wide wide world</title>
-    <updated>2026-11-02T10:21:18.142893+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/"/>
-    <summary>Google made a sturdy phone, but there is increasing competition in the foldable world.</summary>
-    <published>2026-11-01T15:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3184037</id>
-    <title>Binance resumes withdrawals following $6.3 billion breach</title>
-    <updated>2026-11-02T10:21:18.142847+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/"/>
-    <summary>The cryptocurrency exchange said it's now covered 95% of the stolen assets.</summary>
-    <published>2026-11-01T16:20:10+00:00</published>
-  </entry>
-  <entry>
     <id>https://techcrunch.com/?p=3183874</id>
     <title>TechCrunch Mobility: A new, bigger AV boom is here</title>
-    <updated>2026-11-02T10:21:18.142803+00:00</updated>
+    <updated>2026-11-02T20:27:17.939418+00:00</updated>
     <link href="https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/"/>
     <summary>Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.</summary>
     <published>2026-11-01T17:04:00+00:00</published>
@@ -146,7 +18,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3184041</id>
     <title>AI can make tech CEOs’ lives easier. What about everyone else?</title>
-    <updated>2026-11-02T10:21:18.142757+00:00</updated>
+    <updated>2026-11-02T20:27:17.939333+00:00</updated>
     <link href="https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/"/>
     <summary>On Equity, we discuss why tech CEO statements can seem so tone deaf.</summary>
     <published>2026-11-01T20:57:58+00:00</published>
@@ -154,7 +26,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3184048</id>
     <title>OpenAI might rebrand its data centers as ‘AI compute campuses’</title>
-    <updated>2026-11-02T10:21:18.142697+00:00</updated>
+    <updated>2026-11-02T20:27:17.939247+00:00</updated>
     <link href="https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/"/>
     <summary>Data centers are deeply unpopular. But what if we called them something else?</summary>
     <published>2026-11-01T21:55:23+00:00</published>
@@ -162,9 +34,137 @@
   <entry>
     <id>https://techcrunch.com/?p=3184061</id>
     <title>Borrowed reading: stories from our extended colleagues</title>
-    <updated>2026-11-02T10:21:18.142632+00:00</updated>
+    <updated>2026-11-02T20:27:17.939161+00:00</updated>
     <link href="https://techcrunch.com/2026/11/01/borrowed-reading-stories-from-our-extended-colleagues/"/>
     <summary>Five stories worth your time from our extended colleagues at CIO, Computerworld, Macworld, and PCWorld.</summary>
     <published>2026-11-02T04:23:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3184054</id>
+    <title>Ford launches a ‘privacy promise’ and explains how and why it uses customer data</title>
+    <updated>2026-11-02T20:27:17.939074+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/02/ford-launches-a-privacy-promise-and-explains-how-and-why-it-uses-a-customers-data/"/>
+    <summary>Ford said it's making an "explicit commitment" to its customers that "their vehicle data is safe" with the company.</summary>
+    <published>2026-11-02T11:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3184089</id>
+    <title>OpenAI is finally merging ChatGPT’s Chat and Work tabs</title>
+    <updated>2026-11-02T20:27:17.938979+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/"/>
+    <summary>OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.</summary>
+    <published>2026-11-02T13:57:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3184073</id>
+    <title>2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big</title>
+    <updated>2026-11-02T20:27:17.938893+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/"/>
+    <summary>TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections. Save up to $100 or get discounts with group passes.</summary>
+    <published>2026-11-02T14:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3184095</id>
+    <title>A fresh wave of cyberattacks has hit Europe’s supermarket refrigerators, destroying food across countries</title>
+    <updated>2026-11-02T20:27:17.938799+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/02/a-fresh-wave-of-cyberattacks-has-hit-europes-supermarket-refrigerators-destroying-food-across-countries/"/>
+    <summary>This is the second wave of cyberattacks to hit supermarket refrigerators in a month, spoiling food and disrupting supplies.</summary>
+    <published>2026-11-02T14:08:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3184091</id>
+    <title>Northwood Space raises $375M Series C at a $2B valuation from a16z and DFJ Growth</title>
+    <updated>2026-11-02T20:27:17.938695+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/02/northwood-space-raises-375m-series-c-at-a-2b-valuation-from-a16z-and-dfj-growth/"/>
+    <summary>Space infrastructure company Northwood Space on Monday said it had raised $375 million in a Series C round co-led by Andreessen Horowitz and DFJ Growth, valuing the company at $2 billion.</summary>
+    <published>2026-11-02T14:22:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3183762</id>
+    <title>Ninja’s first-ever microwave just replaced two of my kitchen appliances at once</title>
+    <updated>2026-11-02T20:27:17.938610+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/02/ninjas-first-ever-microwave-just-replaced-two-of-my-kitchen-appliances-at-once/"/>
+    <summary>The Ninja Crispi Microwave stands out for its FusionCrisp technology, which combines the speed of a microwave with the crispy results you'd expect from an air fryer.</summary>
+    <published>2026-11-02T14:42:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3184108</id>
+    <title>Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition</title>
+    <updated>2026-11-02T20:27:17.938526+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/"/>
+    <summary>Two startups tackling the data center water problem are joining forces in a $16 million deal.</summary>
+    <published>2026-11-02T15:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3184148</id>
+    <title>Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs</title>
+    <updated>2026-11-02T20:27:17.938438+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/"/>
+    <summary>Musk recently referred to Grok Bot as having "the fastest growth of a product that I've ever seen in my life."</summary>
+    <published>2026-11-02T16:23:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3184087</id>
+    <title>42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’</title>
+    <updated>2026-11-02T20:27:17.938353+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/"/>
+    <summary>Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?</summary>
+    <published>2026-11-02T16:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3184178</id>
+    <title>SpaceX reportedly wants to buy Boost Mobile to compete with AT&amp;T, T-Mobile, and Verizon</title>
+    <updated>2026-11-02T20:27:17.938264+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/02/spacex-reportedly-wants-to-buy-boost-mobile-to-compete-with-att-t-mobile-and-verizon/"/>
+    <summary>SpaceX has been looking for new ways to use its Starlink network, and a tie-up with cellular operator Boost Mobile could give it the terrestrial access it needs.</summary>
+    <published>2026-11-02T16:44:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3184167</id>
+    <title>Readwise takes on Amazon’s Kindle and Goodreads with its new app for book lovers</title>
+    <updated>2026-11-02T20:27:17.938174+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/02/readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers/"/>
+    <summary>Readwise Books combines an e-book store, reading tracker, detailed reading stats, and AI features in a bid to challenge Amazon's ecosystem.</summary>
+    <published>2026-11-02T17:49:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3184180</id>
+    <title>In one of the largest deals in tech history, Marvell buys Lumentum for $115B</title>
+    <updated>2026-11-02T20:27:17.938083+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/"/>
+    <summary>Marvell's planned purchase of Lumentum is one of the biggest acquisitions in tech history. And they both have the same strategic investor: Nvidia.</summary>
+    <published>2026-11-02T17:54:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3184272</id>
+    <title>Snap settles lawsuit accusing platform of fueling teen depression and eating disorders</title>
+    <updated>2026-11-02T20:27:17.937992+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders/"/>
+    <summary>The plaintiffs said they started using YouTube as young as age 3 and other social media platforms at around age 9 and developed compulsive usage habits that they attributed to features such as autoplay and infinite scrolling.</summary>
+    <published>2026-11-02T19:11:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3184280</id>
+    <title>New York Times and other outlets sue web browser Brave over alleged content scraping</title>
+    <updated>2026-11-02T20:27:17.937893+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/"/>
+    <summary>The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted and unlawfully distributing it to its own customers, like Anthropic and Perplexity.</summary>
+    <published>2026-11-02T19:19:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3184239</id>
+    <title>Web host Squarespace lays off 19% of its employees</title>
+    <updated>2026-11-02T20:27:17.937749+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/"/>
+    <summary>The website builder said that the job losses are part of a broader restructuring of its organization.</summary>
+    <published>2026-11-02T19:25:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3184311</id>
+    <title>Germany says lawmakers’ iPhones may have been hacked with spyware</title>
+    <updated>2026-11-02T20:27:17.937637+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/"/>
+    <summary>German lawmakers and a filmmaker are among the people who received notifications from Apple warning that their phones may have been hacked.</summary>
+    <published>2026-11-02T19:45:54+00:00</published>
   </entry>
 </feed>
