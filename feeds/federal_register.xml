@@ -2,249 +2,249 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:federal_register</id>
   <title>Federal Register - All Documents</title>
-  <updated>2026-11-03T02:31:40.905910+00:00</updated>
+  <updated>2026-11-03T10:19:33.162571+00:00</updated>
   <link href="file:///feeds/federal_register.xml" rel="self"/>
   <link href="https://www.federalregister.gov/api/v1/documents.json" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: government / Mode: api</subtitle>
   <entry>
-    <id>fr:2026-22326</id>
-    <title>Agency Information Collection Activities: Proposed Collection; Comment Request</title>
-    <updated>2026-11-03T02:31:40.906748+00:00</updated>
-    <link href="https://www.federalregister.gov/documents/2026/11/02/2026-22326/agency-information-collection-activities-proposed-collection-comment-request"/>
-    <summary>Health and Human Services Department — 2026-22326</summary>
-    <published>2026-11-02T00:00:00+00:00</published>
+    <id>fr:2026-22409</id>
+    <title>New Postal Products</title>
+    <updated>2026-11-03T10:19:33.163992+00:00</updated>
+    <link href="https://www.federalregister.gov/documents/2026/11/03/2026-22409/new-postal-products"/>
+    <summary>Postal Regulatory Commission — 2026-22409</summary>
+    <published>2026-11-03T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>fr:2026-22327</id>
+    <id>fr:2026-22410</id>
+    <title>Notice of Agreements Filed</title>
+    <updated>2026-11-03T10:19:33.163958+00:00</updated>
+    <link href="https://www.federalregister.gov/documents/2026/11/03/2026-22410/notice-of-agreements-filed"/>
+    <summary>Federal Maritime Commission — 2026-22410</summary>
+    <published>2026-11-03T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>fr:2026-22411</id>
+    <title>Virginia Electric and Power Company; Notice of Application To Update Shoreline Management Plan Accepted for Filing, Soliciting Comments, Motions To Intervene, and Protests</title>
+    <updated>2026-11-03T10:19:33.163924+00:00</updated>
+    <link href="https://www.federalregister.gov/documents/2026/11/03/2026-22411/virginia-electric-and-power-company-notice-of-application-to-update-shoreline-management-plan"/>
+    <summary>Energy Department — 2026-22411</summary>
+    <published>2026-11-03T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>fr:2026-22412</id>
+    <title>Combined Notice of Filings</title>
+    <updated>2026-11-03T10:19:33.163891+00:00</updated>
+    <link href="https://www.federalregister.gov/documents/2026/11/03/2026-22412/combined-notice-of-filings"/>
+    <summary>Energy Department — 2026-22412</summary>
+    <published>2026-11-03T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>fr:2026-22413</id>
+    <title>Combined Notice of Filings #1</title>
+    <updated>2026-11-03T10:19:33.163856+00:00</updated>
+    <link href="https://www.federalregister.gov/documents/2026/11/03/2026-22413/combined-notice-of-filings-1"/>
+    <summary>Energy Department — 2026-22413</summary>
+    <published>2026-11-03T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>fr:2026-22414</id>
+    <title>Public Utility District No. 1 of Chelan County, Washington; Notice of Applications for Approval of Contracts for the Sale of Power Under Section 22 of the Federal Power Act</title>
+    <updated>2026-11-03T10:19:33.163823+00:00</updated>
+    <link href="https://www.federalregister.gov/documents/2026/11/03/2026-22414/public-utility-district-no-1-of-chelan-county-washington-notice-of-applications-for-approval-of"/>
+    <summary>Energy Department — 2026-22414</summary>
+    <published>2026-11-03T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>fr:2026-22415</id>
+    <title>Agency Information Collection Activities: Information Collection Renewal; Comment Request; Mandatory Contractual Stay Requirements for Qualified Financial Contracts</title>
+    <updated>2026-11-03T10:19:33.163791+00:00</updated>
+    <link href="https://www.federalregister.gov/documents/2026/11/03/2026-22415/agency-information-collection-activities-information-collection-renewal-comment-request-mandatory"/>
+    <summary>Treasury Department — 2026-22415</summary>
+    <published>2026-11-03T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>fr:2026-22416</id>
     <title>New England Fishery Management Council; Public Meeting</title>
-    <updated>2026-11-03T02:31:40.906729+00:00</updated>
-    <link href="https://www.federalregister.gov/documents/2026/11/02/2026-22327/new-england-fishery-management-council-public-meeting"/>
-    <summary>Commerce Department — 2026-22327</summary>
-    <published>2026-11-02T00:00:00+00:00</published>
+    <updated>2026-11-03T10:19:33.163759+00:00</updated>
+    <link href="https://www.federalregister.gov/documents/2026/11/03/2026-22416/new-england-fishery-management-council-public-meeting"/>
+    <summary>Commerce Department — 2026-22416</summary>
+    <published>2026-11-03T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>fr:2026-22328</id>
-    <title>Request for Information; Reopening of Comment Period</title>
-    <updated>2026-11-03T02:31:40.906708+00:00</updated>
-    <link href="https://www.federalregister.gov/documents/2026/11/02/2026-22328/request-for-information-reopening-of-comment-period"/>
-    <summary>Management and Budget Office — 2026-22328</summary>
-    <published>2026-11-02T00:00:00+00:00</published>
+    <id>fr:2026-22417</id>
+    <title>30-Day Notice Waiver for Continuum of Care Program (CoC); Notice of Waiver</title>
+    <updated>2026-11-03T10:19:33.163726+00:00</updated>
+    <link href="https://www.federalregister.gov/documents/2026/11/03/2026-22417/30-day-notice-waiver-for-continuum-of-care-program-coc-notice-of-waiver"/>
+    <summary>Housing and Urban Development Department — 2026-22417</summary>
+    <published>2026-11-03T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>fr:2026-22329</id>
-    <title>Agency Forms Undergoing Paperwork Reduction Act Review</title>
-    <updated>2026-11-03T02:31:40.906688+00:00</updated>
-    <link href="https://www.federalregister.gov/documents/2026/11/02/2026-22329/agency-forms-undergoing-paperwork-reduction-act-review"/>
-    <summary>Health and Human Services Department — 2026-22329</summary>
-    <published>2026-11-02T00:00:00+00:00</published>
+    <id>fr:2026-22418</id>
+    <title>Pipeline Safety: LNG Safety Best Practices Workshop Series Presented by the National Center of Excellence for LNG Safety</title>
+    <updated>2026-11-03T10:19:33.163695+00:00</updated>
+    <link href="https://www.federalregister.gov/documents/2026/11/03/2026-22418/pipeline-safety-lng-safety-best-practices-workshop-series-presented-by-the-national-center-of"/>
+    <summary>Transportation Department — 2026-22418</summary>
+    <published>2026-11-03T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>fr:2026-22330</id>
-    <title>Agency Forms Undergoing Paperwork Reduction Act Review</title>
-    <updated>2026-11-03T02:31:40.906668+00:00</updated>
-    <link href="https://www.federalregister.gov/documents/2026/11/02/2026-22330/agency-forms-undergoing-paperwork-reduction-act-review"/>
-    <summary>Health and Human Services Department — 2026-22330</summary>
-    <published>2026-11-02T00:00:00+00:00</published>
+    <id>fr:2026-22420</id>
+    <title>Meeting of the Regional Resource Stewardship Council</title>
+    <updated>2026-11-03T10:19:33.163661+00:00</updated>
+    <link href="https://www.federalregister.gov/documents/2026/11/03/2026-22420/meeting-of-the-regional-resource-stewardship-council"/>
+    <summary>Tennessee Valley Authority — 2026-22420</summary>
+    <published>2026-11-03T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>fr:2026-22331</id>
-    <title>Notice of Final Federal Agency Actions on Transportation Project in Nebraska</title>
-    <updated>2026-11-03T02:31:40.906648+00:00</updated>
-    <link href="https://www.federalregister.gov/documents/2026/11/02/2026-22331/notice-of-final-federal-agency-actions-on-transportation-project-in-nebraska"/>
-    <summary>Transportation Department — 2026-22331</summary>
-    <published>2026-11-02T00:00:00+00:00</published>
+    <id>fr:2026-22421</id>
+    <title>List of Approved Spent Fuel Storage Casks: TN Americas, LLC: Standardized NUHOMS® Horizontal Modular Storage System for Irradiated Nuclear Fuel, Certificate of Compliance No. 1004, Renewed Amendment N</title>
+    <updated>2026-11-03T10:19:33.163601+00:00</updated>
+    <link href="https://www.federalregister.gov/documents/2026/11/03/2026-22421/list-of-approved-spent-fuel-storage-casks-tn-americas-llc-standardized-nuhoms-horizontal-modular"/>
+    <summary>Nuclear Regulatory Commission — 2026-22421</summary>
+    <published>2026-11-03T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>fr:2026-22332</id>
-    <title>Agency Information Collection Activities; Submission to the Office of Management and Budget for Review and Approval; Comment Request; EIB 10-04, Notice of Claim and Proof of Loss, Working Capital Guar</title>
-    <updated>2026-11-03T02:31:40.906628+00:00</updated>
-    <link href="https://www.federalregister.gov/documents/2026/11/02/2026-22332/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-for"/>
-    <summary>Export-Import Bank — 2026-22332</summary>
-    <published>2026-11-02T00:00:00+00:00</published>
+    <id>fr:2026-22422</id>
+    <title>National Register of Historic Places; Notification of Pending Nominations and Related Actions</title>
+    <updated>2026-11-03T10:19:33.163568+00:00</updated>
+    <link href="https://www.federalregister.gov/documents/2026/11/03/2026-22422/national-register-of-historic-places-notification-of-pending-nominations-and-related-actions"/>
+    <summary>Interior Department — 2026-22422</summary>
+    <published>2026-11-03T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>fr:2026-22333</id>
-    <title>Formations of, Acquisitions by, and Mergers of Bank Holding Companies</title>
-    <updated>2026-11-03T02:31:40.906606+00:00</updated>
-    <link href="https://www.federalregister.gov/documents/2026/11/02/2026-22333/formations-of-acquisitions-by-and-mergers-of-bank-holding-companies"/>
-    <summary>Federal Reserve System — 2026-22333</summary>
-    <published>2026-11-02T00:00:00+00:00</published>
+    <id>fr:2026-22423</id>
+    <title>National Register of Historic Places; Notification of Pending Nominations and Related Actions</title>
+    <updated>2026-11-03T10:19:33.163535+00:00</updated>
+    <link href="https://www.federalregister.gov/documents/2026/11/03/2026-22423/national-register-of-historic-places-notification-of-pending-nominations-and-related-actions"/>
+    <summary>Interior Department — 2026-22423</summary>
+    <published>2026-11-03T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>fr:2026-22334</id>
-    <title>Reducing Barriers to Network Improvements and Service Changes, Accelerating Network Modernization; Correction</title>
-    <updated>2026-11-03T02:31:40.906586+00:00</updated>
-    <link href="https://www.federalregister.gov/documents/2026/11/02/2026-22334/reducing-barriers-to-network-improvements-and-service-changes-accelerating-network-modernization"/>
-    <summary>Federal Communications Commission — 2026-22334</summary>
-    <published>2026-11-02T00:00:00+00:00</published>
+    <id>fr:2026-22424</id>
+    <title>National Register of Historic Places; Notification of Pending Nominations and Related Actions</title>
+    <updated>2026-11-03T10:19:33.163497+00:00</updated>
+    <link href="https://www.federalregister.gov/documents/2026/11/03/2026-22424/national-register-of-historic-places-notification-of-pending-nominations-and-related-actions"/>
+    <summary>Interior Department — 2026-22424</summary>
+    <published>2026-11-03T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>fr:2026-22335</id>
-    <title>Notice of Petition for Waiver of Compliance</title>
-    <updated>2026-11-03T02:31:40.906567+00:00</updated>
-    <link href="https://www.federalregister.gov/documents/2026/11/02/2026-22335/notice-of-petition-for-waiver-of-compliance"/>
-    <summary>Transportation Department — 2026-22335</summary>
-    <published>2026-11-02T00:00:00+00:00</published>
+    <id>fr:2026-22425</id>
+    <title>Greater Atlantic Regional Fisheries Office; Public Hearings</title>
+    <updated>2026-11-03T10:19:33.163464+00:00</updated>
+    <link href="https://www.federalregister.gov/documents/2026/11/03/2026-22425/greater-atlantic-regional-fisheries-office-public-hearings"/>
+    <summary>Commerce Department — 2026-22425</summary>
+    <published>2026-11-03T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>fr:2026-22336</id>
-    <title>Notice of Petition for Waiver of Compliance</title>
-    <updated>2026-11-03T02:31:40.906547+00:00</updated>
-    <link href="https://www.federalregister.gov/documents/2026/11/02/2026-22336/notice-of-petition-for-waiver-of-compliance"/>
-    <summary>Transportation Department — 2026-22336</summary>
-    <published>2026-11-02T00:00:00+00:00</published>
+    <id>fr:2026-22426</id>
+    <title>Foreign-Trade Zone 102; Approval of Subzone Status; BASF Agricultural Solutions US LLC; Fenton and Palmyra, Missouri</title>
+    <updated>2026-11-03T10:19:33.163431+00:00</updated>
+    <link href="https://www.federalregister.gov/documents/2026/11/03/2026-22426/foreign-trade-zone-102-approval-of-subzone-status-basf-agricultural-solutions-us-llc-fenton-and"/>
+    <summary>Commerce Department — 2026-22426</summary>
+    <published>2026-11-03T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>fr:2026-22337</id>
-    <title>Unleashing the Power of Unlicensed Ultra-Wideband Devices; Petition of Robert Bosch LLC for Amendment of the Part 15 Subpart F Ultra-Wideband Rules; and Petition of Alliance for Automative Innovation </title>
-    <updated>2026-11-03T02:31:40.906527+00:00</updated>
-    <link href="https://www.federalregister.gov/documents/2026/11/02/2026-22337/unleashing-the-power-of-unlicensed-ultra-wideband-devices-petition-of-robert-bosch-llc-for-amendment"/>
-    <summary>Federal Communications Commission — 2026-22337</summary>
-    <published>2026-11-02T00:00:00+00:00</published>
+    <id>fr:2026-22427</id>
+    <title>Potency Assurance for Cellular and Gene Therapy Products; Guidance for Industry; Availability</title>
+    <updated>2026-11-03T10:19:33.163398+00:00</updated>
+    <link href="https://www.federalregister.gov/documents/2026/11/03/2026-22427/potency-assurance-for-cellular-and-gene-therapy-products-guidance-for-industry-availability"/>
+    <summary>Health and Human Services Department — 2026-22427</summary>
+    <published>2026-11-03T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>fr:2026-22338</id>
-    <title>Information Collections Being Reviewed by the Federal Communications Commission Under Delegated Authority</title>
-    <updated>2026-11-03T02:31:40.906507+00:00</updated>
-    <link href="https://www.federalregister.gov/documents/2026/11/02/2026-22338/information-collections-being-reviewed-by-the-federal-communications-commission-under-delegated"/>
-    <summary>Federal Communications Commission — 2026-22338</summary>
-    <published>2026-11-02T00:00:00+00:00</published>
+    <id>fr:2026-22428</id>
+    <title>Meeting of National Council on the Humanities</title>
+    <updated>2026-11-03T10:19:33.163363+00:00</updated>
+    <link href="https://www.federalregister.gov/documents/2026/11/03/2026-22428/meeting-of-national-council-on-the-humanities"/>
+    <summary>National Foundation on the Arts and the Humanities — 2026-22428</summary>
+    <published>2026-11-03T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>fr:2026-22339</id>
-    <title>Prospective Grant of Exclusive Patent License: Catheter-Based Intramyocardial Ablation for Treating Ventricular Arrhythmia in a Human</title>
-    <updated>2026-11-03T02:31:40.906487+00:00</updated>
-    <link href="https://www.federalregister.gov/documents/2026/11/02/2026-22339/prospective-grant-of-exclusive-patent-license-catheter-based-intramyocardial-ablation-for-treating"/>
-    <summary>Health and Human Services Department — 2026-22339</summary>
-    <published>2026-11-02T00:00:00+00:00</published>
+    <id>fr:2026-22429</id>
+    <title>Foreign-Trade Zone (FTZ) 22; Authorization of Production AFC Specialty Coatings Group, LLC; (Polymer or Silicone Coated Fabrics); Lake in the Hills, Illinois</title>
+    <updated>2026-11-03T10:19:33.163327+00:00</updated>
+    <link href="https://www.federalregister.gov/documents/2026/11/03/2026-22429/foreign-trade-zone-ftz-22-authorization-of-production-afc-specialty-coatings-group-llc-polymer-or"/>
+    <summary>Commerce Department — 2026-22429</summary>
+    <published>2026-11-03T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>fr:2026-22340</id>
-    <title>Annual Determination of Average Cost of Incarceration Fee (COIF)</title>
-    <updated>2026-11-03T02:31:40.906467+00:00</updated>
-    <link href="https://www.federalregister.gov/documents/2026/11/02/2026-22340/annual-determination-of-average-cost-of-incarceration-fee-coif"/>
-    <summary>Justice Department — 2026-22340</summary>
-    <published>2026-11-02T00:00:00+00:00</published>
+    <id>fr:2026-22430</id>
+    <title>Foreign-Trade Zone (FTZ) 93; Authorization of Limited Production Activity; Alder SOL Holdings LLC dba StayOnline; (Power Cords); Henderson, North Carolina</title>
+    <updated>2026-11-03T10:19:33.163290+00:00</updated>
+    <link href="https://www.federalregister.gov/documents/2026/11/03/2026-22430/foreign-trade-zone-ftz-93-authorization-of-limited-production-activity-alder-sol-holdings-llc-dba"/>
+    <summary>Commerce Department — 2026-22430</summary>
+    <published>2026-11-03T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>fr:2026-22341</id>
-    <title>NCES Request for Information, Correction</title>
-    <updated>2026-11-03T02:31:40.906446+00:00</updated>
-    <link href="https://www.federalregister.gov/documents/2026/11/02/2026-22341/nces-request-for-information-correction"/>
-    <summary>Education Department — 2026-22341</summary>
-    <published>2026-11-02T00:00:00+00:00</published>
+    <id>fr:2026-22431</id>
+    <title>Certain Softwood Lumber Products From Canada: Notice of NAFTA Panel Decision</title>
+    <updated>2026-11-03T10:19:33.163253+00:00</updated>
+    <link href="https://www.federalregister.gov/documents/2026/11/03/2026-22431/certain-softwood-lumber-products-from-canada-notice-of-nafta-panel-decision"/>
+    <summary>Commerce Department — 2026-22431</summary>
+    <published>2026-11-03T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>fr:2026-22342</id>
-    <title>Chassis and Subassemblies From China; Determinations</title>
-    <updated>2026-11-03T02:31:40.906426+00:00</updated>
-    <link href="https://www.federalregister.gov/documents/2026/11/02/2026-22342/chassis-and-subassemblies-from-china-determinations"/>
-    <summary>International Trade Commission — 2026-22342</summary>
-    <published>2026-11-02T00:00:00+00:00</published>
+    <id>fr:2026-22432</id>
+    <title>Foreign-Trade Zone 266; Approval of Subzone Status; Tekni-Plex Flexibles LLC (dba TekniPlex Healthcare); Madison, Wisconsin</title>
+    <updated>2026-11-03T10:19:33.163216+00:00</updated>
+    <link href="https://www.federalregister.gov/documents/2026/11/03/2026-22432/foreign-trade-zone-266-approval-of-subzone-status-tekni-plex-flexibles-llc-dba-tekniplex-healthcare"/>
+    <summary>Commerce Department — 2026-22432</summary>
+    <published>2026-11-03T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>fr:2026-22343</id>
-    <title>Large Power Transformers From the Republic of Korea: Preliminary Results of Antidumping Duty Administrative Review; 2024-2025</title>
-    <updated>2026-11-03T02:31:40.906406+00:00</updated>
-    <link href="https://www.federalregister.gov/documents/2026/11/02/2026-22343/large-power-transformers-from-the-republic-of-korea-preliminary-results-of-antidumping-duty"/>
-    <summary>Commerce Department — 2026-22343</summary>
-    <published>2026-11-02T00:00:00+00:00</published>
+    <id>fr:2026-22434</id>
+    <title>Foreign-Trade Zone 168; Application for Subzone; Samsung Electro-Mechanics America, Inc.; Wilmer, Texas</title>
+    <updated>2026-11-03T10:19:33.163178+00:00</updated>
+    <link href="https://www.federalregister.gov/documents/2026/11/03/2026-22434/foreign-trade-zone-168-application-for-subzone-samsung-electro-mechanics-america-inc-wilmer-texas"/>
+    <summary>Commerce Department — 2026-22434</summary>
+    <published>2026-11-03T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>fr:2026-22344</id>
-    <title>Foreign-Trade Zone (FTZ) 38; Authorization of Production Activity; Coroplast Tape Corporation; (Pressure Sensitive Tapes); Rock Hill, South Carolina</title>
-    <updated>2026-11-03T02:31:40.906385+00:00</updated>
-    <link href="https://www.federalregister.gov/documents/2026/11/02/2026-22344/foreign-trade-zone-ftz-38-authorization-of-production-activity-coroplast-tape-corporation-pressure"/>
-    <summary>Commerce Department — 2026-22344</summary>
-    <published>2026-11-02T00:00:00+00:00</published>
+    <id>fr:2026-22435</id>
+    <title>Phosphate Fertilizers From the Kingdom of Morocco: Final Results of First Full Sunset Review of the Countervailing Duty Order</title>
+    <updated>2026-11-03T10:19:33.163141+00:00</updated>
+    <link href="https://www.federalregister.gov/documents/2026/11/03/2026-22435/phosphate-fertilizers-from-the-kingdom-of-morocco-final-results-of-first-full-sunset-review-of-the"/>
+    <summary>Commerce Department — 2026-22435</summary>
+    <published>2026-11-03T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>fr:2026-22345</id>
-    <title>Antidumping or Countervailing Duty Order, Finding, or Suspended Investigation; Opportunity To Request Administrative Review and Join Annual Inquiry Service List; Note Regarding Format of Review Reques</title>
-    <updated>2026-11-03T02:31:40.906363+00:00</updated>
-    <link href="https://www.federalregister.gov/documents/2026/11/02/2026-22345/antidumping-or-countervailing-duty-order-finding-or-suspended-investigation-opportunity-to-request"/>
-    <summary>Commerce Department — 2026-22345</summary>
-    <published>2026-11-02T00:00:00+00:00</published>
+    <id>fr:2026-22436</id>
+    <title>Privacy Act of 1974; System of Records</title>
+    <updated>2026-11-03T10:19:33.163092+00:00</updated>
+    <link href="https://www.federalregister.gov/documents/2026/11/03/2026-22436/privacy-act-of-1974-system-of-records"/>
+    <summary>Transportation Department — 2026-22436</summary>
+    <published>2026-11-03T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>fr:2026-22346</id>
-    <title>Agency Information Collection Activities; Proposed Collection; Comment Request; Extension: Rule 18a-5</title>
-    <updated>2026-11-03T02:31:40.906343+00:00</updated>
-    <link href="https://www.federalregister.gov/documents/2026/11/02/2026-22346/agency-information-collection-activities-proposed-collection-comment-request-extension-rule-18a-5"/>
-    <summary>Securities and Exchange Commission — 2026-22346</summary>
-    <published>2026-11-02T00:00:00+00:00</published>
+    <id>fr:2026-22437</id>
+    <title>Agency Information Collection Activities; Submission to the Office of Management and Budget for Review and Approval; Comment Request; Consolidated Annual Report (CAR) for the Carl D. Perkins Career an</title>
+    <updated>2026-11-03T10:19:33.163034+00:00</updated>
+    <link href="https://www.federalregister.gov/documents/2026/11/03/2026-22437/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-for"/>
+    <summary>Education Department — 2026-22437</summary>
+    <published>2026-11-03T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>fr:2026-22347</id>
-    <title>Potassium Permanganate From China; Institution of a Five-Year Review</title>
-    <updated>2026-11-03T02:31:40.906322+00:00</updated>
-    <link href="https://www.federalregister.gov/documents/2026/11/02/2026-22347/potassium-permanganate-from-china-institution-of-a-five-year-review"/>
-    <summary>International Trade Commission — 2026-22347</summary>
-    <published>2026-11-02T00:00:00+00:00</published>
+    <id>fr:2026-22441</id>
+    <title>Sunshine Act Meetings</title>
+    <updated>2026-11-03T10:19:33.162973+00:00</updated>
+    <link href="https://www.federalregister.gov/documents/2026/11/03/2026-22441/sunshine-act-meetings"/>
+    <summary>Nuclear Regulatory Commission — 2026-22441</summary>
+    <published>2026-11-03T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>fr:2026-22348</id>
-    <title>Certain Mobile Access Equipment (MAE) and Subassemblies Thereof From China; Institution of Five-Year Reviews</title>
-    <updated>2026-11-03T02:31:40.906295+00:00</updated>
-    <link href="https://www.federalregister.gov/documents/2026/11/02/2026-22348/certain-mobile-access-equipment-mae-and-subassemblies-thereof-from-china-institution-of-five-year"/>
-    <summary>International Trade Commission — 2026-22348</summary>
-    <published>2026-11-02T00:00:00+00:00</published>
+    <id>fr:2026-22443</id>
+    <title>Streamlining Contested Adjudications in Licensing Proceedings</title>
+    <updated>2026-11-03T10:19:33.162896+00:00</updated>
+    <link href="https://www.federalregister.gov/documents/2026/11/03/2026-22443/streamlining-contested-adjudications-in-licensing-proceedings"/>
+    <summary>Nuclear Regulatory Commission — 2026-22443</summary>
+    <published>2026-11-03T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>fr:2026-22349</id>
-    <title>Polyester Textured Yarn From Indonesia, Malaysia, Thailand, and Vietnam; Institution of Five-Year Reviews</title>
-    <updated>2026-11-03T02:31:40.906272+00:00</updated>
-    <link href="https://www.federalregister.gov/documents/2026/11/02/2026-22349/polyester-textured-yarn-from-indonesia-malaysia-thailand-and-vietnam-institution-of-five-year"/>
-    <summary>International Trade Commission — 2026-22349</summary>
-    <published>2026-11-02T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>fr:2026-22350</id>
-    <title>Renewal of Agency Information Collection Activities: Submission for OMB Review; Comment Requested; Ocean Transportation Intermediaries; 3072-0018</title>
-    <updated>2026-11-03T02:31:40.906248+00:00</updated>
-    <link href="https://www.federalregister.gov/documents/2026/11/02/2026-22350/renewal-of-agency-information-collection-activities-submission-for-omb-review-comment-requested"/>
-    <summary>Federal Maritime Commission — 2026-22350</summary>
-    <published>2026-11-02T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>fr:2026-22351</id>
-    <title>Corrosion-Resistant Steel Products From Mexico: Notice of Court Decision Not in Harmony With the Final Determination of Antidumping Duty Investigation; Notice of Amended Final Determination; Notice of</title>
-    <updated>2026-11-03T02:31:40.906223+00:00</updated>
-    <link href="https://www.federalregister.gov/documents/2026/11/02/2026-22351/corrosion-resistant-steel-products-from-mexico-notice-of-court-decision-not-in-harmony-with-the"/>
-    <summary>Commerce Department — 2026-22351</summary>
-    <published>2026-11-02T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>fr:2026-22352</id>
-    <title>Foreign-Trade Zone (FTZ) 80; Authorization of Production Activity; StandardAero San Antonio; (Refurbished Engines); San Antonio, Texas</title>
-    <updated>2026-11-03T02:31:40.906194+00:00</updated>
-    <link href="https://www.federalregister.gov/documents/2026/11/02/2026-22352/foreign-trade-zone-ftz-80-authorization-of-production-activity-standardaero-san-antonio-refurbished"/>
-    <summary>Commerce Department — 2026-22352</summary>
-    <published>2026-11-02T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>fr:2026-22353</id>
-    <title>Truck Bed Covers From the People's Republic of China: Amended Preliminary Determination of the Less-Than-Fair-Value Investigation</title>
-    <updated>2026-11-03T02:31:40.906165+00:00</updated>
-    <link href="https://www.federalregister.gov/documents/2026/11/02/2026-22353/truck-bed-covers-from-the-peoples-republic-of-china-amended-preliminary-determination-of-the"/>
-    <summary>Commerce Department — 2026-22353</summary>
-    <published>2026-11-02T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>fr:2026-22385</id>
-    <title>Adjusting Imports of Robotics, Industrial Machinery, and Their Parts and Components Into the United States</title>
-    <updated>2026-11-03T02:31:40.906127+00:00</updated>
-    <link href="https://www.federalregister.gov/documents/2026/11/02/2026-22385/adjusting-imports-of-robotics-industrial-machinery-and-their-parts-and-components-into-the-united"/>
-    <summary>Executive Office of the President — 2026-22385</summary>
-    <published>2026-11-02T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>fr:2026-22386</id>
-    <title>Delegation of Authority Under Section 8335 of the National Defense Authorization Act for Fiscal Year 2026</title>
-    <updated>2026-11-03T02:31:40.906064+00:00</updated>
-    <link href="https://www.federalregister.gov/documents/2026/11/02/2026-22386/delegation-of-authority-under-section-8335-of-the-national-defense-authorization-act-for-fiscal-year"/>
-    <summary>Executive Office of the President — 2026-22386</summary>
-    <published>2026-11-02T00:00:00+00:00</published>
+    <id>fr:C1-2026-20310</id>
+    <title>Potential Designation of Passage of an Accredited Investor Exam To Be Developed by FINRA as Qualifying Natural Persons for Accredited Investor Status</title>
+    <updated>2026-11-03T10:19:33.162793+00:00</updated>
+    <link href="https://www.federalregister.gov/documents/2026/11/03/C1-2026-20310/potential-designation-of-passage-of-an-accredited-investor-exam-to-be-developed-by-finra-as"/>
+    <summary>Securities and Exchange Commission — C1-2026-20310</summary>
+    <published>2026-11-03T00:00:00+00:00</published>
   </entry>
 </feed>
