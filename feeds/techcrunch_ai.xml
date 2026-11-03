@@ -2,63 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:techcrunch_ai</id>
   <title>TechCrunch - AI</title>
-  <updated>2026-11-03T17:57:43.229411+00:00</updated>
+  <updated>2026-11-03T22:53:33.006385+00:00</updated>
   <link href="file:///feeds/techcrunch_ai.xml" rel="self"/>
   <link href="https://techcrunch.com/category/artificial-intelligence/feed/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: tech / Mode: rss</subtitle>
   <entry>
-    <id>https://techcrunch.com/?p=3184041</id>
-    <title>AI can make tech CEOs’ lives easier. What about everyone else?</title>
-    <updated>2026-11-03T17:57:43.231368+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/"/>
-    <summary>On Equity, we discuss why tech CEO statements can seem so tone deaf.</summary>
-    <published>2026-11-01T20:57:58+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3184048</id>
-    <title>OpenAI might rebrand its data centers as ‘AI compute campuses’</title>
-    <updated>2026-11-03T17:57:43.231283+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/"/>
-    <summary>Data centers are deeply unpopular. But what if we called them something else?</summary>
-    <published>2026-11-01T21:55:23+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3184089</id>
-    <title>OpenAI is finally merging ChatGPT’s Chat and Work tabs</title>
-    <updated>2026-11-03T17:57:43.231197+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/"/>
-    <summary>OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.</summary>
-    <published>2026-11-02T13:57:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3184073</id>
-    <title>2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big</title>
-    <updated>2026-11-03T17:57:43.231111+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/"/>
-    <summary>TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections. Save up to $100 or get discounts with group passes.</summary>
-    <published>2026-11-02T14:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3184108</id>
-    <title>Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition</title>
-    <updated>2026-11-03T17:57:43.231020+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/"/>
-    <summary>Two startups tackling the data center water problem are joining forces in a $16 million deal.</summary>
-    <published>2026-11-02T15:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3184148</id>
-    <title>Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs</title>
-    <updated>2026-11-03T17:57:43.230907+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/"/>
-    <summary>Musk recently referred to Grok Bot as having "the fastest growth of a product that I've ever seen in my life."</summary>
-    <published>2026-11-02T16:23:21+00:00</published>
-  </entry>
-  <entry>
     <id>https://techcrunch.com/?p=3184087</id>
     <title>42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’</title>
-    <updated>2026-11-03T17:57:43.230822+00:00</updated>
+    <updated>2026-11-03T22:53:33.007533+00:00</updated>
     <link href="https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/"/>
     <summary>Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?</summary>
     <published>2026-11-02T16:30:00+00:00</published>
@@ -66,7 +18,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3184280</id>
     <title>New York Times and other outlets sue web browser Brave over alleged content scraping</title>
-    <updated>2026-11-03T17:57:43.230736+00:00</updated>
+    <updated>2026-11-03T22:53:33.007485+00:00</updated>
     <link href="https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/"/>
     <summary>The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.</summary>
     <published>2026-11-02T19:19:17+00:00</published>
@@ -74,7 +26,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3184239</id>
     <title>Web host Squarespace lays off 19% of its employees</title>
-    <updated>2026-11-03T17:57:43.230648+00:00</updated>
+    <updated>2026-11-03T22:53:33.007436+00:00</updated>
     <link href="https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/"/>
     <summary>The website builder said that the job losses are part of a broader restructuring of its organization.</summary>
     <published>2026-11-02T19:25:59+00:00</published>
@@ -82,7 +34,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3184332</id>
     <title>Anthropic warns that it’s very close to RSI capability, aka self-building AI</title>
-    <updated>2026-11-03T17:57:43.230555+00:00</updated>
+    <updated>2026-11-03T22:53:33.007388+00:00</updated>
     <link href="https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/"/>
     <summary>RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.</summary>
     <published>2026-11-02T22:14:50+00:00</published>
@@ -90,7 +42,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3184455</id>
     <title>Trajectory raises $45M to make AI model training accessible to nontechnical experts</title>
-    <updated>2026-11-03T17:57:43.230469+00:00</updated>
+    <updated>2026-11-03T22:53:33.007339+00:00</updated>
     <link href="https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/"/>
     <summary>The one-year-old startup is now valued at $300 million.</summary>
     <published>2026-11-02T23:13:53+00:00</published>
@@ -98,7 +50,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3184485</id>
     <title>Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens</title>
-    <updated>2026-11-03T17:57:43.230381+00:00</updated>
+    <updated>2026-11-03T22:53:33.007291+00:00</updated>
     <link href="https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/"/>
     <summary>Y Combinator Garry Tan has jokingly admitted that he's suffered from "cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.</summary>
     <published>2026-11-03T00:35:52+00:00</published>
@@ -106,7 +58,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3184506</id>
     <title>Apple may try to increase revenue by doing…something with third-party AI apps</title>
-    <updated>2026-11-03T17:57:43.230293+00:00</updated>
+    <updated>2026-11-03T22:53:33.007242+00:00</updated>
     <link href="https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/"/>
     <summary>Apple hinted at ways that it could spur revenue through third-party "opportunities" during its Monday night earnings call.</summary>
     <published>2026-11-03T01:49:52+00:00</published>
@@ -114,7 +66,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3184353</id>
     <title>Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses</title>
-    <updated>2026-11-03T17:57:43.230205+00:00</updated>
+    <updated>2026-11-03T22:53:33.007191+00:00</updated>
     <link href="https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/"/>
     <summary>Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.</summary>
     <published>2026-11-03T03:30:00+00:00</published>
@@ -122,7 +74,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3184378</id>
     <title>Apple Watch’s AI features for rewinding and recapping conversations begin beta testing</title>
-    <updated>2026-11-03T17:57:43.230117+00:00</updated>
+    <updated>2026-11-03T22:53:33.007141+00:00</updated>
     <link href="https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/"/>
     <summary>Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.</summary>
     <published>2026-11-03T07:20:00+00:00</published>
@@ -130,7 +82,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3184568</id>
     <title>Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase</title>
-    <updated>2026-11-03T17:57:43.230020+00:00</updated>
+    <updated>2026-11-03T22:53:33.007086+00:00</updated>
     <link href="https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/"/>
     <summary>Secure your TechCrunch Founder Summit pass savings before prices increase tomorrow at 9 a.m. ET. Save up to $100 on your pass, and get a second for free.</summary>
     <published>2026-11-03T14:00:00+00:00</published>
@@ -138,7 +90,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3184579</id>
     <title>The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4</title>
-    <updated>2026-11-03T17:57:43.229888+00:00</updated>
+    <updated>2026-11-03T22:53:33.007011+00:00</updated>
     <link href="https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/"/>
     <summary>On Nov. 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door.</summary>
     <published>2026-11-03T14:30:00+00:00</published>
@@ -146,7 +98,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3184598</id>
     <title>Apple restricts dating apps and AI companions to users 18 and up</title>
-    <updated>2026-11-03T17:57:43.229795+00:00</updated>
+    <updated>2026-11-03T22:53:33.006961+00:00</updated>
     <link href="https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/"/>
     <summary>Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content.</summary>
     <published>2026-11-03T15:38:27+00:00</published>
@@ -154,7 +106,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3184603</id>
     <title>Google will let schools disable its AI tools, but not without sacrificing Search</title>
-    <updated>2026-11-03T17:57:43.229700+00:00</updated>
+    <updated>2026-11-03T22:53:33.006913+00:00</updated>
     <link href="https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/"/>
     <summary>Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.</summary>
     <published>2026-11-03T16:30:34+00:00</published>
@@ -162,9 +114,57 @@
   <entry>
     <id>https://techcrunch.com/?p=3184638</id>
     <title>Anthropic is still grappling with the economics of compute</title>
-    <updated>2026-11-03T17:57:43.229588+00:00</updated>
+    <updated>2026-11-03T22:53:33.006863+00:00</updated>
     <link href="https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/"/>
     <summary>At a moment when Anthropic's compute margins should be getting better, they’re getting worse.</summary>
     <published>2026-11-03T17:07:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3184717</id>
+    <title>Netflix’s new AI Discover tab helps you find something to watch based on your mood</title>
+    <updated>2026-11-03T22:53:33.006812+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/"/>
+    <summary>The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.</summary>
+    <published>2026-11-03T18:42:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3184774</id>
+    <title>AI inference startup Fal doubles its valuation to $16B as demand surges</title>
+    <updated>2026-11-03T22:53:33.006757+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/"/>
+    <summary>The five-year-old startup raised a $1.3  billion round led by Bessemer.</summary>
+    <published>2026-11-03T19:34:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3184699</id>
+    <title>Hiding inside Palantir’s skyrocketing quarter is a foreboding signal</title>
+    <updated>2026-11-03T22:53:33.006705+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/"/>
+    <summary>Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever.</summary>
+    <published>2026-11-03T21:05:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3184842</id>
+    <title>Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom</title>
+    <updated>2026-11-03T22:53:33.006651+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/"/>
+    <summary>Cybersecurity focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.</summary>
+    <published>2026-11-03T21:43:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3184896</id>
+    <title>Data centers are turning to old jet engines as the wait for power grows</title>
+    <updated>2026-11-03T22:53:33.006579+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/"/>
+    <summary>The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less efficient and less environmentally friendly solution: once-discarded jet engines.</summary>
+    <published>2026-11-03T22:19:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3184891</id>
+    <title>Anthropic is working on a system to prove AI models’ identity</title>
+    <updated>2026-11-03T22:53:33.006506+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/"/>
+    <summary>Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.</summary>
+    <published>2026-11-03T22:41:03+00:00</published>
   </entry>
 </feed>
