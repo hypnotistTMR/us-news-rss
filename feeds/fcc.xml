@@ -2,105 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:fcc</id>
   <title>FCC Recent Releases (Combined)</title>
-  <updated>2026-11-03T10:20:39.778222+00:00</updated>
+  <updated>2026-11-03T17:58:16.909593+00:00</updated>
   <link href="file:///feeds/fcc.xml" rel="self"/>
   <link href="https://api2.fcc.gov/api/exp/v1.0.0/edocspublic/rss" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: telecom / Mode: rss</subtitle>
   <entry>
-    <id>426408</id>
-    <title>Voice Telephone Services: Status as of December 31, 2025</title>
-    <updated>2026-11-03T10:20:39.778366+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426408"/>
-    <summary>Office of Economics and Analytics Releases Data on Voice Telephone Services as of December 31, 2025</summary>
-    <published>2026-11-03T10:20:39.778363+00:00</published>
+    <id>426413</id>
+    <title>Order Extending the 2026 IPCS Mandatory Data Collection Filing Deadline for Incarcerated People's Communications Service Providers</title>
+    <updated>2026-11-03T17:58:16.909660+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426413"/>
+    <summary>The Order grants in part a motion to extend the filing deadline for IPCS providers' Mandatory Data Collection submissions by 45 days to February 4, 2027.</summary>
+    <published>2026-11-03T17:58:16.909659+00:00</published>
   </entry>
   <entry>
-    <id>426406</id>
-    <title>Internet Access Services: Status as of December 31, 2025</title>
-    <updated>2026-11-03T10:20:39.778354+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426406"/>
-    <summary>Office of Economics and Analytics Releases Data on Internet Access Services as of December 31, 2025</summary>
-    <published>2026-11-03T10:20:39.778352+00:00</published>
-  </entry>
-  <entry>
-    <id>426105</id>
-    <title>Denial of Clarity Telecom, LLC's Waiver Request; Dismissal of Auction 105 Long-Form Application; Notice and Demand for Payment of Interim Default Payment for Licenses Won in Auction 105</title>
-    <updated>2026-11-03T10:20:39.778341+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426105"/>
-    <summary>Letter Order denying Clarity Telecom, LLC's waiver request, dismissing its Auction 105 long-form application, and providing notice and a demand for payment of its interim default payment obligation for licenses won in Auction 105</summary>
-    <published>2026-11-03T10:20:39.778339+00:00</published>
-  </entry>
-  <entry>
-    <id>426404</id>
-    <title>Domestic Section 214 Application Granted for the Transfer of Control of Hooper Telephone Company dba Westel Systems  and its Subsidiary, HTC Communications, L.L.C., to Northeast Nebraska Telephone Com</title>
-    <updated>2026-11-03T10:20:39.778329+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426404"/>
-    <summary>.</summary>
-    <published>2026-11-03T10:20:39.778327+00:00</published>
-  </entry>
-  <entry>
-    <id>426178</id>
-    <title>Streamlined Resolution of Request to Actions by the Universal Service Administrative</title>
-    <updated>2026-11-03T10:20:39.778319+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426178"/>
-    <summary>.</summary>
-    <published>2026-11-03T10:20:39.778316+00:00</published>
-  </entry>
-  <entry>
-    <id>426399</id>
-    <title>Application for Consent to the Assignment of WBSF(TV), Bay City, MI from Flint Licensee, Inc. to WSMH Licensee, LLC</title>
-    <updated>2026-11-03T10:20:39.778307+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426399"/>
-    <summary>Granted the application to assign license of WBSF(TV), Bay City, MI from a subsidiary of Cunningham Broadcasting Corporation to a subsidiary of Sinclair, Inc.</summary>
-    <published>2026-11-03T10:20:39.778305+00:00</published>
-  </entry>
-  <entry>
-    <id>426401</id>
-    <title>Comments Invited On Georgetown Telephone Company's Section 214 Application To Discontinue Domestic Legacy Voice Service As Part Of A Technology Transition</title>
-    <updated>2026-11-03T10:20:39.778297+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426401"/>
-    <summary>.</summary>
-    <published>2026-11-03T10:20:39.778294+00:00</published>
-  </entry>
-  <entry>
-    <id>426104</id>
-    <title>Notice of Max Frequency, LLC's Interim Default Payment Obligation for Construction Permits Won in Auction 109 and Demand for Payment</title>
-    <updated>2026-11-03T10:20:39.778283+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426104"/>
-    <summary>Providing notice and a demand for payment of the interim default payment obligation for Max Frequency LLC for construction permits won in Auction 109</summary>
-    <published>2026-11-03T10:20:39.778281+00:00</published>
-  </entry>
-  <entry>
-    <id>426397</id>
-    <title>Forfeiture Order, Green River City Television</title>
-    <updated>2026-11-03T10:20:39.778273+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426397"/>
-    <summary>Issued a Forfeiture Order to Green River City Television in the amount of $150 for violations of Commission rules.</summary>
-    <published>2026-11-03T10:20:39.778271+00:00</published>
-  </entry>
-  <entry>
-    <id>426394</id>
-    <title>Pleadings</title>
-    <updated>2026-11-03T10:20:39.778262+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426394"/>
-    <summary>.</summary>
-    <published>2026-11-03T10:20:39.778260+00:00</published>
-  </entry>
-  <entry>
-    <id>426393</id>
+    <id>426411</id>
     <title>Actions</title>
-    <updated>2026-11-03T10:20:39.778250+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426393"/>
+    <updated>2026-11-03T17:58:16.909649+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426411"/>
     <summary>.</summary>
-    <published>2026-11-03T10:20:39.778248+00:00</published>
+    <published>2026-11-03T17:58:16.909647+00:00</published>
   </entry>
   <entry>
-    <id>426392</id>
+    <id>426410</id>
     <title>Applications</title>
-    <updated>2026-11-03T10:20:39.778232+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426392"/>
+    <updated>2026-11-03T17:58:16.909636+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426410"/>
     <summary>.</summary>
-    <published>2026-11-03T10:20:39.778227+00:00</published>
+    <published>2026-11-03T17:58:16.909634+00:00</published>
+  </entry>
+  <entry>
+    <id>426412</id>
+    <title>Pleadings</title>
+    <updated>2026-11-03T17:58:16.909621+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426412"/>
+    <summary>.</summary>
+    <published>2026-11-03T17:58:16.909619+00:00</published>
+  </entry>
+  <entry>
+    <id>426262</id>
+    <title>Office of the Secretary Reference Information Center Petition for Rulemaking Filed</title>
+    <updated>2026-11-03T17:58:16.909600+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426262"/>
+    <summary>.</summary>
+    <published>2026-11-03T17:58:16.909596+00:00</published>
   </entry>
 </feed>

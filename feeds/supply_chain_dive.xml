@@ -2,47 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:supply_chain_dive</id>
   <title>Supply Chain Dive</title>
-  <updated>2026-11-03T10:20:41.635930+00:00</updated>
+  <updated>2026-11-03T17:58:18.520009+00:00</updated>
   <link href="file:///feeds/supply_chain_dive.xml" rel="self"/>
   <link href="https://www.supplychaindive.com/feeds/news/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: logistics / Mode: rss</subtitle>
   <entry>
-    <id>https://www.supplychaindive.com/news/walmart-plans-400m-texas-distribution-center/873218/</id>
-    <title>Walmart plans $400M Texas distribution center</title>
-    <updated>2026-11-03T10:20:41.636869+00:00</updated>
-    <link href="https://www.supplychaindive.com/news/walmart-plans-400m-texas-distribution-center/873218/"/>
-    <summary>The retailer expects to break ground on the more than 744,000-square-foot facility in Cibolo this February.</summary>
-    <published>2026-10-30T10:17:45-04:00</published>
-  </entry>
-  <entry>
-    <id>https://www.supplychaindive.com/news/ups-aims-to-double-rfid-labeled-volume-from-customer-locations/872946/</id>
-    <title>UPS aims to double RFID-labeled volume from customer locations</title>
-    <updated>2026-11-03T10:20:41.636792+00:00</updated>
-    <link href="https://www.supplychaindive.com/news/ups-aims-to-double-rfid-labeled-volume-from-customer-locations/872946/"/>
-    <summary>The carrier expects 6 million packages a day will benefit from the offering in 2027, increasing shipper visibility in the process, CEO Carol Tom&amp;eacute; said.</summary>
-    <published>2026-10-30T10:45:39-04:00</published>
-  </entry>
-  <entry>
-    <id>https://www.supplychaindive.com/news/usda-fund-8-fertilizer-manufacturing-projects-totaling-1-billion/873311/</id>
-    <title>USDA to fund 8 fertilizer manufacturing projects totaling more than $1.3B</title>
-    <updated>2026-11-03T10:20:41.636712+00:00</updated>
-    <link href="https://www.supplychaindive.com/news/usda-fund-8-fertilizer-manufacturing-projects-totaling-1-billion/873311/"/>
-    <summary>The agency said the projects will add production capacity to drive prices lower and reduce the nation&amp;rsquo;s reliance on nutrients from other countries.</summary>
-    <published>2026-10-30T10:52:00-04:00</published>
-  </entry>
-  <entry>
-    <id>https://www.supplychaindive.com/spons/context-changes-everything-what-supplier-contracts-reveal-about-supply-cha/833693/</id>
-    <title>Context changes everything: what supplier contracts reveal about supply chain performance</title>
-    <updated>2026-11-03T10:20:41.636625+00:00</updated>
-    <link href="https://www.supplychaindive.com/spons/context-changes-everything-what-supplier-contracts-reveal-about-supply-cha/833693/"/>
-    <summary>Clarity across supplier contracts helps procurement teams uncover savings, risk and performance insights.</summary>
-    <published>2026-11-02T05:00:00-05:00</published>
-  </entry>
-  <entry>
     <id>https://www.supplychaindive.com/spons/why-more-inventory-wont-fix-your-supply-chains-fill-rate/873053/</id>
     <title>Why more inventory won’t fix your supply chain’s fill rate</title>
-    <updated>2026-11-03T10:20:41.636531+00:00</updated>
+    <updated>2026-11-03T17:58:18.521094+00:00</updated>
     <link href="https://www.supplychaindive.com/spons/why-more-inventory-wont-fix-your-supply-chains-fill-rate/873053/"/>
     <summary>Record inventory but still missing fill rate targets? The problem isn&amp;#39;t supply or forecasting; it&amp;#39;s your supply chain decision layer. Here&amp;#39;s how to fix it.</summary>
     <published>2026-11-02T05:00:00-05:00</published>
@@ -50,7 +18,7 @@
   <entry>
     <id>https://www.supplychaindive.com/news/runnings-unites-forecasting-replenishment-with-ai/872823/</id>
     <title>Runnings unites forecasting, replenishment with AI</title>
-    <updated>2026-11-03T10:20:41.636451+00:00</updated>
+    <updated>2026-11-03T17:58:18.520991+00:00</updated>
     <link href="https://www.supplychaindive.com/news/runnings-unites-forecasting-replenishment-with-ai/872823/"/>
     <summary>The farm, home and outdoor goods retailer is rolling out Relex Solutions&amp;rsquo; artificial-intelligence platform across its store and distribution network in phases.</summary>
     <published>2026-11-02T07:06:00-05:00</published>
@@ -58,7 +26,7 @@
   <entry>
     <id>https://www.supplychaindive.com/news/walmart-commits-6b-to-up-distribution-center-automation-with-symbotic/873356/</id>
     <title>Walmart commits $6B to up distribution center automation with Symbotic</title>
-    <updated>2026-11-03T10:20:41.636373+00:00</updated>
+    <updated>2026-11-03T17:58:18.520865+00:00</updated>
     <link href="https://www.supplychaindive.com/news/walmart-commits-6b-to-up-distribution-center-automation-with-symbotic/873356/"/>
     <summary>The retailer will deploy Symbotic&amp;#39;s technology at 25 regional facilities as it looks to improve speed and inventory replenishment.</summary>
     <published>2026-11-02T10:07:07-05:00</published>
@@ -66,7 +34,7 @@
   <entry>
     <id>https://www.supplychaindive.com/news/norfolk-southern-schneider-national-team-to-scale-east-coast-intermodal-re/873340/</id>
     <title>Norfolk Southern, Schneider National team to scale East Coast intermodal reach</title>
-    <updated>2026-11-03T10:20:41.636294+00:00</updated>
+    <updated>2026-11-03T17:58:18.520780+00:00</updated>
     <link href="https://www.supplychaindive.com/news/norfolk-southern-schneider-national-team-to-scale-east-coast-intermodal-re/873340/"/>
     <summary>The railroad&amp;rsquo;s potential merger with Union Pacific is &amp;ldquo;the icing on the cake&amp;rdquo; of the partnership,&amp;nbsp;Schneider CEO Jim Filter said.&amp;nbsp;</summary>
     <published>2026-11-02T10:11:00-05:00</published>
@@ -74,7 +42,7 @@
   <entry>
     <id>https://www.supplychaindive.com/news/reshoring-foreign-direct-investment-247k-jobs-2025-report-reshoring-initiative/873433/</id>
     <title>Reshoring and foreign direct investment added 247K manufacturing jobs in 2025</title>
-    <updated>2026-11-03T10:20:41.636211+00:00</updated>
+    <updated>2026-11-03T17:58:18.520692+00:00</updated>
     <link href="https://www.supplychaindive.com/news/reshoring-foreign-direct-investment-247k-jobs-2025-report-reshoring-initiative/873433/"/>
     <summary>The result &amp;ldquo;essentially matched&amp;rdquo; the previous year, per the Reshoring Initiative, which expects 25% growth in reshoring-related jobs in 2026.</summary>
     <published>2026-11-02T10:35:00-05:00</published>
@@ -82,9 +50,41 @@
   <entry>
     <id>https://www.supplychaindive.com/news/manufacturing-expands-for-10th-straight-month-but-iran-war-weighs-heavily/873468/</id>
     <title>Manufacturing expands for 10th straight month, but Iran war weighs heavily</title>
-    <updated>2026-11-03T10:20:41.636117+00:00</updated>
+    <updated>2026-11-03T17:58:18.520604+00:00</updated>
     <link href="https://www.supplychaindive.com/news/manufacturing-expands-for-10th-straight-month-but-iran-war-weighs-heavily/873468/"/>
     <summary>Increasingly negative comments from respondents&amp;nbsp;also cite price vitality and trade wars in the latest Purchasing Managers&amp;rsquo; Index from the Institute for Supply Management.</summary>
     <published>2026-11-02T12:41:00-05:00</published>
+  </entry>
+  <entry>
+    <id>https://www.supplychaindive.com/news/is-warehouse-demand-shifting-towards-inland-markets/872921/</id>
+    <title>Is warehouse demand shifting towards inland markets?</title>
+    <updated>2026-11-03T17:58:18.520515+00:00</updated>
+    <link href="https://www.supplychaindive.com/news/is-warehouse-demand-shifting-towards-inland-markets/872921/"/>
+    <summary>Uncertainty has led shippers to move an increased amount of inventory across inland markets versus port markets, according to experts, but it may not necessarily translate to a shift in demand.</summary>
+    <published>2026-11-03T07:35:00-05:00</published>
+  </entry>
+  <entry>
+    <id>https://www.supplychaindive.com/news/coty-upgrades-warehouse-lighting-to-slash-emissions/872961/</id>
+    <title>Coty upgrades warehouse lighting to slash emissions</title>
+    <updated>2026-11-03T17:58:18.520422+00:00</updated>
+    <link href="https://www.supplychaindive.com/news/coty-upgrades-warehouse-lighting-to-slash-emissions/872961/"/>
+    <summary>As part of its sustainability strategy, Coty swapped out nearly 2,600 fixtures in a Maryland facility, cutting lighting-related energy consumption by 25%.</summary>
+    <published>2026-11-03T10:05:00-05:00</published>
+  </entry>
+  <entry>
+    <id>https://www.supplychaindive.com/news/fedex-network-20-headed-to-los-angeles-other-markets-post-holidays/873453/</id>
+    <title>FedEx Network 2.0 headed to Los Angeles, other markets post-holidays</title>
+    <updated>2026-11-03T17:58:18.520326+00:00</updated>
+    <link href="https://www.supplychaindive.com/news/fedex-network-20-headed-to-los-angeles-other-markets-post-holidays/873453/"/>
+    <summary>The integration plan, slated to wrap up in 2027, is already complete in markets like Dallas and San Francisco as the carrier preps for the peak season.</summary>
+    <published>2026-11-03T10:08:40-05:00</published>
+  </entry>
+  <entry>
+    <id>https://www.supplychaindive.com/news/trump-sparked-growth-widened-trade-deficit-slowed-hiring-iw/873576/</id>
+    <title>Trump sparked growth but widened trade deficit, slowed hiring</title>
+    <updated>2026-11-03T17:58:18.520204+00:00</updated>
+    <link href="https://www.supplychaindive.com/news/trump-sparked-growth-widened-trade-deficit-slowed-hiring-iw/873576/"/>
+    <summary>President Donald Trump&amp;rsquo;s sweeping tariffs and efforts to boost foreign direct investment have fallen short of their objectives, per the German Economic Institute.&amp;nbsp;</summary>
+    <published>2026-11-03T11:37:00-05:00</published>
   </entry>
 </feed>
