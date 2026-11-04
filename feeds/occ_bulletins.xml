@@ -2,41 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:occ_bulletins</id>
   <title>OCC Bulletins (scrape)</title>
-  <updated>2026-11-04T02:49:54.559998+00:00</updated>
+  <updated>2026-11-04T18:07:47.440532+00:00</updated>
   <link href="file:///feeds/occ_bulletins.xml" rel="self"/>
   <link href="https://www.occ.gov/news-events/index-news-events.html" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: financial / Mode: scrape</subtitle>
   <entry>
-    <id>https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-51.html</id>
-    <title>GENIUS Act: Waivers and Application Submission Guidance</title>
-    <updated>2026-11-04T02:49:54.560051+00:00</updated>
-    <link href="https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-51.html"/>
-    <summary>OCC Bulletin</summary>
-    <published>2026-11-04T02:49:54.560049+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-52.html</id>
     <title>GENIUS Act: Revised Reporting Forms and Instructions for Permitted Payment Stablecoin Issuers Subject to the Jurisdiction of the Office of the Comptroller of the Currency</title>
-    <updated>2026-11-04T02:49:54.560035+00:00</updated>
+    <updated>2026-11-04T18:07:47.440556+00:00</updated>
     <link href="https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-52.html"/>
     <summary>OCC Bulletin</summary>
-    <published>2026-11-04T02:49:54.560034+00:00</published>
+    <published>2026-11-04T18:07:47.440556+00:00</published>
   </entry>
   <entry>
     <id>https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-53.html</id>
     <title>Interest Rate Risk: Interest Rate Risk Statistics Report</title>
-    <updated>2026-11-04T02:49:54.560026+00:00</updated>
+    <updated>2026-11-04T18:07:47.440552+00:00</updated>
     <link href="https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-53.html"/>
     <summary>OCC Bulletin</summary>
-    <published>2026-11-04T02:49:54.560024+00:00</published>
+    <published>2026-11-04T18:07:47.440552+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-54.html</id>
+    <title>Super Intelligence: Supervisory Framework</title>
+    <updated>2026-11-04T18:07:47.440548+00:00</updated>
+    <link href="https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-54.html"/>
+    <summary>OCC Bulletin</summary>
+    <published>2026-11-04T18:07:47.440547+00:00</published>
   </entry>
   <entry>
     <id>https://www.occ.gov/news-issuances/bulletins/2023/bulletin-2023-17.html</id>
     <title>Third-Party Relationships: Interagency Guidance on Risk Management</title>
-    <updated>2026-11-04T02:49:54.560008+00:00</updated>
+    <updated>2026-11-04T18:07:47.440538+00:00</updated>
     <link href="https://www.occ.gov/news-issuances/bulletins/2023/bulletin-2023-17.html"/>
     <summary>OCC Bulletin</summary>
-    <published>2026-11-04T02:49:54.560003+00:00</published>
+    <published>2026-11-04T18:07:47.440535+00:00</published>
   </entry>
 </feed>

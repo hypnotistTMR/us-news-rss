@@ -2,49 +2,217 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:fcc</id>
   <title>FCC Recent Releases (Combined)</title>
-  <updated>2026-11-03T17:58:16.909593+00:00</updated>
+  <updated>2026-11-04T18:08:49.549420+00:00</updated>
   <link href="file:///feeds/fcc.xml" rel="self"/>
   <link href="https://api2.fcc.gov/api/exp/v1.0.0/edocspublic/rss" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: telecom / Mode: rss</subtitle>
   <entry>
-    <id>426413</id>
-    <title>Order Extending the 2026 IPCS Mandatory Data Collection Filing Deadline for Incarcerated People's Communications Service Providers</title>
-    <updated>2026-11-03T17:58:16.909660+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426413"/>
-    <summary>The Order grants in part a motion to extend the filing deadline for IPCS providers' Mandatory Data Collection submissions by 45 days to February 4, 2027.</summary>
-    <published>2026-11-03T17:58:16.909659+00:00</published>
+    <id>426421</id>
+    <title>Public Safety and Homeland Security Bureau Assignment of License authorization Applications, Transfer of Control of Licensee Applications, De Facto Transfer Lease Applications and Spectrum Manager Lea</title>
+    <updated>2026-11-04T18:08:49.549525+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426421"/>
+    <summary>Eligibility Event Applications, and Designated Entity Annual Reports Action</summary>
+    <published>2026-11-04T18:08:49.549524+00:00</published>
   </entry>
   <entry>
-    <id>426411</id>
-    <title>Actions</title>
-    <updated>2026-11-03T17:58:16.909649+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426411"/>
+    <id>426424</id>
+    <title>Wireless Telecommunications Bureau Market Based Licenses Termination Pending Public Notice</title>
+    <updated>2026-11-04T18:08:49.549521+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426424"/>
     <summary>.</summary>
-    <published>2026-11-03T17:58:16.909647+00:00</published>
+    <published>2026-11-04T18:08:49.549520+00:00</published>
   </entry>
   <entry>
-    <id>426410</id>
+    <id>426426</id>
+    <title>Public Safety and Homeland Security Bureau Site Based Licenses Termination Pending Public Notice</title>
+    <updated>2026-11-04T18:08:49.549517+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426426"/>
+    <summary>.</summary>
+    <published>2026-11-04T18:08:49.549516+00:00</published>
+  </entry>
+  <entry>
+    <id>426420</id>
+    <title>Wireless Telecommunications Bureau Assignment of License Authorization Applications, Transfer of Control of Licensee Applications, and De Facto Transfer Lease Applications, and Designated Entity Repor</title>
+    <updated>2026-11-04T18:08:49.549513+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426420"/>
+    <summary>Filing</summary>
+    <published>2026-11-04T18:08:49.549512+00:00</published>
+  </entry>
+  <entry>
+    <id>426419</id>
+    <title>Public Safety and Homeland Security Bureau Assignment of License Authorization Applications, Transfer of Control of Licensee Applications, and De Facto Transfer Lease Applications, and Designated Enti</title>
+    <updated>2026-11-04T18:08:49.549509+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426419"/>
+    <summary>For Filing</summary>
+    <published>2026-11-04T18:08:49.549509+00:00</published>
+  </entry>
+  <entry>
+    <id>426427</id>
+    <title>Wireless Telecommunications Bureau Site Based Licenses Termination Pending Public Notice</title>
+    <updated>2026-11-04T18:08:49.549506+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426427"/>
+    <summary>.</summary>
+    <published>2026-11-04T18:08:49.549505+00:00</published>
+  </entry>
+  <entry>
+    <id>426414</id>
+    <title>Public Safety and Homeland Security Bureau Site-By-Site Accepted for Filing</title>
+    <updated>2026-11-04T18:08:49.549502+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426414"/>
+    <summary>.</summary>
+    <published>2026-11-04T18:08:49.549502+00:00</published>
+  </entry>
+  <entry>
+    <id>426434</id>
+    <title>Wireless Telecommunications Bureau Market-Based Applications Accepted for Filing</title>
+    <updated>2026-11-04T18:08:49.549499+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426434"/>
+    <summary>.</summary>
+    <published>2026-11-04T18:08:49.549498+00:00</published>
+  </entry>
+  <entry>
+    <id>426437</id>
+    <title>Public Safety and Homeland Security Bureau Market-Based Applications Action</title>
+    <updated>2026-11-04T18:08:49.549495+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426437"/>
+    <summary>.</summary>
+    <published>2026-11-04T18:08:49.549494+00:00</published>
+  </entry>
+  <entry>
+    <id>426439</id>
+    <title>Wireless Telecommunications Bureau Market-Based Applications Action</title>
+    <updated>2026-11-04T18:08:49.549491+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426439"/>
+    <summary>.</summary>
+    <published>2026-11-04T18:08:49.549490+00:00</published>
+  </entry>
+  <entry>
+    <id>426417</id>
+    <title>Wireless Telecommunications Bureau Site-By-Site Action</title>
+    <updated>2026-11-04T18:08:49.549487+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426417"/>
+    <summary>.</summary>
+    <published>2026-11-04T18:08:49.549486+00:00</published>
+  </entry>
+  <entry>
+    <id>426415</id>
+    <title>Wireless Telecommunications Bureau Site-By-Site Accepted for Filing</title>
+    <updated>2026-11-04T18:08:49.549484+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426415"/>
+    <summary>.</summary>
+    <published>2026-11-04T18:08:49.549483+00:00</published>
+  </entry>
+  <entry>
+    <id>426460</id>
     <title>Applications</title>
-    <updated>2026-11-03T17:58:16.909636+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426410"/>
+    <updated>2026-11-04T18:08:49.549480+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426460"/>
     <summary>.</summary>
-    <published>2026-11-03T17:58:16.909634+00:00</published>
+    <published>2026-11-04T18:08:49.549480+00:00</published>
   </entry>
   <entry>
-    <id>426412</id>
+    <id>426461</id>
+    <title>Actions</title>
+    <updated>2026-11-04T18:08:49.549477+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426461"/>
+    <summary>.</summary>
+    <published>2026-11-04T18:08:49.549476+00:00</published>
+  </entry>
+  <entry>
+    <id>426149</id>
+    <title>In the Matter of Wireless Community Partners, LLC -- Tampa, Florida</title>
+    <updated>2026-11-04T18:08:49.549473+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426149"/>
+    <summary>Notice of Violation issued for violation(s) as noted in the attached.</summary>
+    <published>2026-11-04T18:08:49.549473+00:00</published>
+  </entry>
+  <entry>
+    <id>426163</id>
+    <title>Roy Grant -- Marietta, Georgia</title>
+    <updated>2026-11-04T18:08:49.549470+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426163"/>
+    <summary>NOUO for operating overpowered CB Radio Service station</summary>
+    <published>2026-11-04T18:08:49.549469+00:00</published>
+  </entry>
+  <entry>
+    <id>426462</id>
     <title>Pleadings</title>
-    <updated>2026-11-03T17:58:16.909621+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426412"/>
+    <updated>2026-11-04T18:08:49.549466+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426462"/>
     <summary>.</summary>
-    <published>2026-11-03T17:58:16.909619+00:00</published>
+    <published>2026-11-04T18:08:49.549465+00:00</published>
   </entry>
   <entry>
-    <id>426262</id>
-    <title>Office of the Secretary Reference Information Center Petition for Rulemaking Filed</title>
-    <updated>2026-11-03T17:58:16.909600+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426262"/>
+    <id>426058</id>
+    <title>Jerry Lee Seehaas -- Oceanside, California</title>
+    <updated>2026-11-04T18:08:49.549462+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426058"/>
+    <summary>NOHI/NOUO for interference to GMRS frequencies</summary>
+    <published>2026-11-04T18:08:49.549461+00:00</published>
+  </entry>
+  <entry>
+    <id>426464</id>
+    <title>Public Safety and Homeland Security Bureau Reminds Emergency Alert System Participants of Requirements Related to the November 17, 2026, Nationwide Emergency Alert System Test</title>
+    <updated>2026-11-04T18:08:49.549459+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426464"/>
+    <summary>PSHSB reminds EAS Participants that on November 17, 2026, FEMA and the FCC will conduct a nationwide Emergency Alert System (EAS) test.</summary>
+    <published>2026-11-04T18:08:49.549458+00:00</published>
+  </entry>
+  <entry>
+    <id>426423</id>
+    <title>Public Safety and Homeland Security Bureau Market Based Licenses Termination Pending Public Notice</title>
+    <updated>2026-11-04T18:08:49.549455+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426423"/>
     <summary>.</summary>
-    <published>2026-11-03T17:58:16.909596+00:00</published>
+    <published>2026-11-04T18:08:49.549455+00:00</published>
+  </entry>
+  <entry>
+    <id>426466</id>
+    <title>Wireline Competition Bureau Adopts Protective Order in IP Transition Proceedings</title>
+    <updated>2026-11-04T18:08:49.549452+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426466"/>
+    <summary>Adopts a Protective Order governing the filing and disclosure of confidential information in the Commission's IP Transition Dockets</summary>
+    <published>2026-11-04T18:08:49.549451+00:00</published>
+  </entry>
+  <entry>
+    <id>426468</id>
+    <title>Satellite Communications Services - SES</title>
+    <updated>2026-11-04T18:08:49.549448+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426468"/>
+    <summary>.</summary>
+    <published>2026-11-04T18:08:49.549447+00:00</published>
+  </entry>
+  <entry>
+    <id>426467</id>
+    <title>Satellite Communications Services - SES</title>
+    <updated>2026-11-04T18:08:49.549444+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426467"/>
+    <summary>.</summary>
+    <published>2026-11-04T18:08:49.549443+00:00</published>
+  </entry>
+  <entry>
+    <id>426428</id>
+    <title>Public Safety and Homeland Security Bureau Market-Based Applications Accepted for Filing</title>
+    <updated>2026-11-04T18:08:49.549440+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426428"/>
+    <summary>.</summary>
+    <published>2026-11-04T18:08:49.549439+00:00</published>
+  </entry>
+  <entry>
+    <id>426422</id>
+    <title>Wireless Telecommunications Bureau Assignment of License Authorization Applications, Transfer of Control of Licensee Applications, De Facto Transfer Lease Applications and Spectrum Manager Lease Notif</title>
+    <updated>2026-11-04T18:08:49.549435+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426422"/>
+    <summary>Event Applications, and Designated Entity Annual Reports Action</summary>
+    <published>2026-11-04T18:08:49.549434+00:00</published>
+  </entry>
+  <entry>
+    <id>426416</id>
+    <title>Public Safety and Homeland Security Bureau Site-By-Site Action</title>
+    <updated>2026-11-04T18:08:49.549425+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426416"/>
+    <summary>.</summary>
+    <published>2026-11-04T18:08:49.549423+00:00</published>
   </entry>
 </feed>

@@ -2,79 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:techcrunch</id>
   <title>TechCrunch - All</title>
-  <updated>2026-11-04T02:50:24.753994+00:00</updated>
+  <updated>2026-11-04T18:08:15.532406+00:00</updated>
   <link href="file:///feeds/techcrunch.xml" rel="self"/>
   <link href="https://techcrunch.com/feed/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: tech / Mode: rss</subtitle>
   <entry>
-    <id>https://techcrunch.com/?p=3184143</id>
-    <title>Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene</title>
-    <updated>2026-11-04T02:50:24.755936+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene/"/>
-    <summary>Evertrue Capital announces $17M debut fund to back early-stage AI and fintech.</summary>
-    <published>2026-11-03T08:01:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3184568</id>
-    <title>Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase</title>
-    <updated>2026-11-04T02:50:24.755849+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/"/>
-    <summary>Secure your TechCrunch Founder Summit pass savings before prices increase tomorrow at 9 a.m. ET. Save up to $100 on your pass, and get a second for free.</summary>
-    <published>2026-11-03T14:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3184579</id>
-    <title>The TechCrunch Founder Summit agenda is only half the reason to be in Boston on November 4</title>
-    <updated>2026-11-04T02:50:24.755760+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/"/>
-    <summary>On November 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door.</summary>
-    <published>2026-11-03T14:30:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3184598</id>
-    <title>Apple restricts dating apps and AI companions to users 18 and up</title>
-    <updated>2026-11-04T02:50:24.755673+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/"/>
-    <summary>Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content.</summary>
-    <published>2026-11-03T15:38:27+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3184613</id>
-    <title>New York City’s Mamdani criticizes Madison Square Garden owner over surveillance tech</title>
-    <updated>2026-11-04T02:50:24.755588+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/03/new-york-citys-mamdani-criticizes-madison-square-garden-owner-over-surveillance-tech/"/>
-    <summary>The mayor's comments come after the entertainment giant's data breach last year, which exposed James Dolan's surveillance.</summary>
-    <published>2026-11-03T16:04:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3184603</id>
-    <title>Google will let schools disable its AI tools, but not without sacrificing Search</title>
-    <updated>2026-11-04T02:50:24.755503+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/"/>
-    <summary>Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.</summary>
-    <published>2026-11-03T16:30:34+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3183082</id>
-    <title>Rivian spinout Also was working on an e-moto project in Kenya — until it walked away</title>
-    <updated>2026-11-04T02:50:24.755419+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/03/rivian-spinout-also-owns-up-to-mistakes-in-delayed-e-bike-launch/"/>
-    <summary>Also co-founder and president Chris Yu told TechCrunch that he wanted to prioritize autonomous vehicles.</summary>
-    <published>2026-11-03T16:49:09+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3184638</id>
-    <title>Anthropic is still grappling with the economics of compute</title>
-    <updated>2026-11-04T02:50:24.755334+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/"/>
-    <summary>At a moment when Anthropic's compute margins should be getting better, they’re getting worse.</summary>
-    <published>2026-11-03T17:07:01+00:00</published>
-  </entry>
-  <entry>
     <id>https://techcrunch.com/?p=3184611</id>
     <title>CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off</title>
-    <updated>2026-11-04T02:50:24.755248+00:00</updated>
+    <updated>2026-11-04T18:08:15.533589+00:00</updated>
     <link href="https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/"/>
     <summary>CrowdStrike said it will buy Fiddler AI, which makes AI agent observability software, and Dreadnode, which helps companies automate AI security testing.</summary>
     <published>2026-11-03T17:56:52+00:00</published>
@@ -82,7 +18,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3184717</id>
     <title>Netflix’s new AI Discover tab helps you find something to watch based on your mood</title>
-    <updated>2026-11-04T02:50:24.755154+00:00</updated>
+    <updated>2026-11-04T18:08:15.533539+00:00</updated>
     <link href="https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/"/>
     <summary>The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.</summary>
     <published>2026-11-03T18:42:16+00:00</published>
@@ -90,7 +26,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3184691</id>
     <title>Ferrari’s controversial Luce EV is sold out for 2027</title>
-    <updated>2026-11-04T02:50:24.755024+00:00</updated>
+    <updated>2026-11-04T18:08:15.533490+00:00</updated>
     <link href="https://techcrunch.com/2026/11/03/ferraris-controversial-luce-ev-is-sold-out-for-2027/"/>
     <summary>The Luce, Ferrari's first electric car and one of its most polarizing models, is "fully allocated" through 2027, according to CEO Benedetto Vigna.</summary>
     <published>2026-11-03T18:51:33+00:00</published>
@@ -98,7 +34,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3184607</id>
     <title>Ten years later, ‘Pokémon Go to the polls’ still haunts the internet</title>
-    <updated>2026-11-04T02:50:24.754939+00:00</updated>
+    <updated>2026-11-04T18:08:15.533440+00:00</updated>
     <link href="https://techcrunch.com/2026/11/03/ten-years-later-pokemon-go-to-the-polls-still-haunts-the-internet/"/>
     <summary>Hillary Clinton's 2016 political gaffe has become an irony-shrouded rallying cry for jaded young voters who still dare to hope for change.</summary>
     <published>2026-11-03T19:04:52+00:00</published>
@@ -106,7 +42,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3184712</id>
     <title>Reddit tests ads in search results as traffic declines and growth concerns mount</title>
-    <updated>2026-11-04T02:50:24.754853+00:00</updated>
+    <updated>2026-11-04T18:08:15.533390+00:00</updated>
     <link href="https://techcrunch.com/2026/11/03/reddit-tests-ads-in-search-results-as-traffic-declines-and-growth-concerns-mount/"/>
     <summary>The new ad placements could help Reddit squeeze more revenue from existing users as Google's AI search changes how people discover its content.</summary>
     <published>2026-11-03T19:24:37+00:00</published>
@@ -114,7 +50,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3184774</id>
     <title>AI inference startup Fal doubles its valuation to $16B as demand surges</title>
-    <updated>2026-11-04T02:50:24.754767+00:00</updated>
+    <updated>2026-11-04T18:08:15.533322+00:00</updated>
     <link href="https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/"/>
     <summary>The five-year-old startup raised a $1.3  billion round led by Bessemer.</summary>
     <published>2026-11-03T19:34:43+00:00</published>
@@ -122,7 +58,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3184762</id>
     <title>Researchers warned of North Korean hacking tactics years before record $6.3B Binance heist</title>
-    <updated>2026-11-04T02:50:24.754679+00:00</updated>
+    <updated>2026-11-04T18:08:15.533273+00:00</updated>
     <link href="https://techcrunch.com/2026/11/03/researchers-warned-of-north-korean-hacking-tactics-years-before-record-6-3b-binance-heist/"/>
     <summary>Cybersecurity experts have long warned of the persistent and patient threat from North Korea's long-running hacks. The world's largest crypto exchange was still caught off-guard.</summary>
     <published>2026-11-03T19:45:48+00:00</published>
@@ -130,7 +66,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3184737</id>
     <title>Orbital Matter 3D-printed the first rigid beam in the vacuum of space</title>
-    <updated>2026-11-04T02:50:24.754587+00:00</updated>
+    <updated>2026-11-04T18:08:15.533224+00:00</updated>
     <link href="https://techcrunch.com/2026/11/03/orbital-matter-3d-printed-the-first-rigid-beam-in-the-vacuum-of-space/"/>
     <summary>An in-space construction first could be an enabler for the space data centers of the future.</summary>
     <published>2026-11-03T20:57:17+00:00</published>
@@ -138,7 +74,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3184699</id>
     <title>Hiding inside Palantir’s skyrocketing quarter is a foreboding signal</title>
-    <updated>2026-11-04T02:50:24.754495+00:00</updated>
+    <updated>2026-11-04T18:08:15.533175+00:00</updated>
     <link href="https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/"/>
     <summary>Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever.</summary>
     <published>2026-11-03T21:05:55+00:00</published>
@@ -146,7 +82,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3184842</id>
     <title>Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom</title>
-    <updated>2026-11-04T02:50:24.754402+00:00</updated>
+    <updated>2026-11-04T18:08:15.533125+00:00</updated>
     <link href="https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/"/>
     <summary>Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.</summary>
     <published>2026-11-03T21:43:08+00:00</published>
@@ -154,7 +90,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3184896</id>
     <title>Data centers are turning to old jet engines as the wait for power grows</title>
-    <updated>2026-11-04T02:50:24.754307+00:00</updated>
+    <updated>2026-11-04T18:08:15.533076+00:00</updated>
     <link href="https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/"/>
     <summary>The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.</summary>
     <published>2026-11-03T22:19:53+00:00</published>
@@ -162,9 +98,73 @@
   <entry>
     <id>https://techcrunch.com/?p=3184891</id>
     <title>Anthropic is working on a system to prove AI models’ identity</title>
-    <updated>2026-11-04T02:50:24.754198+00:00</updated>
+    <updated>2026-11-04T18:08:15.533026+00:00</updated>
     <link href="https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/"/>
     <summary>Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.</summary>
     <published>2026-11-03T22:41:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3184575</id>
+    <title>India’s EloElo nabs $80M from NBCUniversal to bet on the country’s rising microdrama market</title>
+    <updated>2026-11-04T18:08:15.532975+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/03/indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market/"/>
+    <summary>More than 118 million users watch microdramas every month as the serialized format has taken off in India. EloElo's Story TV is one of the top apps for microdramas, with over 33 million active users, according to analysts.</summary>
+    <published>2026-11-04T04:45:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3185037</id>
+    <title>Canva lays off over 1,200 people amid slowing growth</title>
+    <updated>2026-11-04T18:08:15.532924+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/04/canva-lays-off-over-1200-people-amid-slowing-growth/"/>
+    <summary>Canva is cutting 22% of its staff as it faces its 'hardest year' yet.</summary>
+    <published>2026-11-04T11:59:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3185013</id>
+    <title>TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston</title>
+    <updated>2026-11-04T18:08:15.532869+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/"/>
+    <summary>Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today.</summary>
+    <published>2026-11-04T13:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3185050</id>
+    <title>Revolut’s valuation jumps 53% to $115B in new share sale as it prepares to launch US bank</title>
+    <updated>2026-11-04T18:08:15.532810+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/04/revoluts-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank/"/>
+    <summary>Glade Brook, Coatue, and T. Rowe Price were among the investors that led the share sale.</summary>
+    <published>2026-11-04T14:10:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3185043</id>
+    <title>Titan OS raises $46 million to expand its smart TV OS internationally</title>
+    <updated>2026-11-04T18:08:15.532756+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/04/titan-os-raises-46-million-to-expand-its-smart-tv-os-internationally/"/>
+    <summary>Titan OS has raised $110 million in funding to date.</summary>
+    <published>2026-11-04T15:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3185072</id>
+    <title>Google faces backlash for plan that would turn off Search for schools that restrict AI</title>
+    <updated>2026-11-04T18:08:15.532701+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/"/>
+    <summary>Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly.</summary>
+    <published>2026-11-04T16:17:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3185071</id>
+    <title>I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling</title>
+    <updated>2026-11-04T18:08:15.532642+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/"/>
+    <summary>Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement.</summary>
+    <published>2026-11-04T16:51:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3185073</id>
+    <title>Sequoia hits rewind, undoing 20 years of expansion</title>
+    <updated>2026-11-04T18:08:15.532570+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/"/>
+    <summary>Sequoia is consolidating into a smaller, Bay Area–centered firm, shutting down the programs and offices it built during a 20-year expansion while announcing roughly $10 billion in new funds.</summary>
+    <published>2026-11-04T17:11:15+00:00</published>
   </entry>
 </feed>
