@@ -2,71 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:retail_dive</id>
   <title>Retail Dive</title>
-  <updated>2026-11-05T12:37:11.968432+00:00</updated>
+  <updated>2026-11-05T20:26:01.942767+00:00</updated>
   <link href="file:///feeds/retail_dive.xml" rel="self"/>
   <link href="https://www.retaildive.com/feeds/news/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: retail / Mode: rss</subtitle>
   <entry>
-    <id>https://www.retaildive.com/news/why-jcpenney-is-taking-on-deal-fatigue-for-its-holiday-campaign/873484/</id>
-    <title>Why J.C. Penney is taking on deal fatigue for its holiday campaign</title>
-    <updated>2026-11-05T12:37:11.969716+00:00</updated>
-    <link href="https://www.retaildive.com/news/why-jcpenney-is-taking-on-deal-fatigue-for-its-holiday-campaign/873484/"/>
-    <summary>Marisa Thalberg, chief customer and marketing officer at parent Catalyst Brands, explains the retailer&amp;rsquo;s latest push with agency Mischief.&amp;nbsp;</summary>
-    <published>2026-11-03T10:06:00-05:00</published>
-  </entry>
-  <entry>
-    <id>https://www.retaildive.com/news/bed-bath-beyonds-turnaround-strategy-needs-reset-neighborhood-intelligence/873479/</id>
-    <title>Bed Bath &amp; Beyond’s strategy needs a reset</title>
-    <updated>2026-11-05T12:37:11.969605+00:00</updated>
-    <link href="https://www.retaildive.com/news/bed-bath-beyonds-turnaround-strategy-needs-reset-neighborhood-intelligence/873479/"/>
-    <summary>The company, now known as Neighborhood Intelligence, relied on acquisitions to expand its business beyond retail. With two deals called off, where does that leave its turnaround?</summary>
-    <published>2026-11-03T10:35:00-05:00</published>
-  </entry>
-  <entry>
-    <id>https://www.retaildive.com/news/ai-recommendations-returns/873075/</id>
-    <title>AI recommendations are leading to returns</title>
-    <updated>2026-11-05T12:37:11.969458+00:00</updated>
-    <link href="https://www.retaildive.com/news/ai-recommendations-returns/873075/"/>
-    <summary>The problem may not have to do with the technology itself, but rather the product description data, according to a new report.</summary>
-    <published>2026-11-03T10:59:00-05:00</published>
-  </entry>
-  <entry>
-    <id>https://www.retaildive.com/news/lee-authentic-brands-group-activewear-workwear-expansion/873590/</id>
-    <title>With new ownership, Lee eyes activewear and workwear</title>
-    <updated>2026-11-05T12:37:11.969357+00:00</updated>
-    <link href="https://www.retaildive.com/news/lee-authentic-brands-group-activewear-workwear-expansion/873590/"/>
-    <summary>The denim label is officially part of the Authentic Brands Group stable and will expand into adjacent &amp;ldquo;lifestyle offerings.&amp;rdquo;</summary>
-    <published>2026-11-03T11:28:00-05:00</published>
-  </entry>
-  <entry>
-    <id>https://www.retaildive.com/news/at-home-former-cfo-new-chief-executive/873593/</id>
-    <title>At Home taps former CFO as new chief executive</title>
-    <updated>2026-11-05T12:37:11.969223+00:00</updated>
-    <link href="https://www.retaildive.com/news/at-home-former-cfo-new-chief-executive/873593/"/>
-    <summary>Judd Nystrom returns to the company&amp;#39;s C-suite several years after supporting its move into the public trading market.</summary>
-    <published>2026-11-03T11:36:00-05:00</published>
-  </entry>
-  <entry>
-    <id>https://www.retaildive.com/news/hydro-flask-osprey-owner-receives-acquisition-proposal-valued-at-16b/873719/</id>
-    <title>Hydro Flask, Osprey owner receives acquisition proposal valued at $1.6B</title>
-    <updated>2026-11-05T12:37:11.969120+00:00</updated>
-    <link href="https://www.retaildive.com/news/hydro-flask-osprey-owner-receives-acquisition-proposal-valued-at-16b/873719/"/>
-    <summary>Empower Brands made an unsolicited offer to purchase all outstanding common stock at $37 per share, alleging Helen of Troy&amp;#39;s board destroyed shareholder value.</summary>
-    <published>2026-11-04T11:31:00-05:00</published>
-  </entry>
-  <entry>
-    <id>https://www.retaildive.com/news/adidas-q3-earnings-sales-growth-lifestyle-footwear-market/873640/</id>
-    <title>‘This will normalize’: What Adidas’ Q3 reveals about the broader footwear market</title>
-    <updated>2026-11-05T12:37:11.969029+00:00</updated>
-    <link href="https://www.retaildive.com/news/adidas-q3-earnings-sales-growth-lifestyle-footwear-market/873640/"/>
-    <summary>CEO Bj&amp;oslash;rn Gulden acknowledged difficulties in the lifestyle footwear market but said growth won&amp;rsquo;t happen until &amp;ldquo;the market is clean.&amp;rdquo;</summary>
-    <published>2026-11-04T11:51:00-05:00</published>
-  </entry>
-  <entry>
     <id>https://www.retaildive.com/news/outdoor-voices-expands-uk-eu/873730/</id>
     <title>Outdoor Voices inks licensing deal for UK and EU</title>
-    <updated>2026-11-05T12:37:11.968934+00:00</updated>
+    <updated>2026-11-05T20:26:01.943314+00:00</updated>
     <link href="https://www.retaildive.com/news/outdoor-voices-expands-uk-eu/873730/"/>
     <summary>The activewear lifestyle brand is partnering with Focus Brands to expand into new markets, with an initial focus on wholesale and e-commerce.</summary>
     <published>2026-11-04T11:57:00-05:00</published>
@@ -74,7 +18,7 @@
   <entry>
     <id>https://www.retaildive.com/news/wayfair-strongest-quarter-since-pandemic/873740/</id>
     <title>Wayfair notches ‘strongest quarter of growth’ since the pandemic</title>
-    <updated>2026-11-05T12:37:11.968831+00:00</updated>
+    <updated>2026-11-05T20:26:01.943273+00:00</updated>
     <link href="https://www.retaildive.com/news/wayfair-strongest-quarter-since-pandemic/873740/"/>
     <summary>The retailer posted nearly 10% revenue gains and 4.7% growth in active customers in Q3, even as consumer spending habits change in the home category.</summary>
     <published>2026-11-04T12:18:00-05:00</published>
@@ -82,9 +26,65 @@
   <entry>
     <id>https://www.retaildive.com/news/google-wallet-digital-agentic-retail/873721/</id>
     <title>Google makes big plans for wallet</title>
-    <updated>2026-11-05T12:37:11.968668+00:00</updated>
+    <updated>2026-11-05T20:26:01.943231+00:00</updated>
     <link href="https://www.retaildive.com/news/google-wallet-digital-agentic-retail/873721/"/>
     <summary>The tech giant thinks a digital wallet should act as a repository for receipts, track online orders and arrange refunds, among other tasks.</summary>
     <published>2026-11-04T16:41:00-05:00</published>
+  </entry>
+  <entry>
+    <id>https://www.retaildive.com/news/hydro-flask-owner-rejects-opportunistic-takeover-proposal-empower-brands/873837/</id>
+    <title>Hydro Flask owner rejects ‘opportunistic’ takeover proposal</title>
+    <updated>2026-11-05T20:26:01.943190+00:00</updated>
+    <link href="https://www.retaildive.com/news/hydro-flask-owner-rejects-opportunistic-takeover-proposal-empower-brands/873837/"/>
+    <summary>Helen of Troy said Empower Brands&amp;rsquo; unsolicited offer was timed to exploit a low stock price, which has been partly impacted by U.S. tariff policies.</summary>
+    <published>2026-11-05T10:59:00-05:00</published>
+  </entry>
+  <entry>
+    <id>https://www.retaildive.com/news/revolve-q3-earnings-sales-growth-store-strength-expand-fleet/873747/</id>
+    <title>Revolve points to stores’ strengths but won’t rush to expand its fleet</title>
+    <updated>2026-11-05T20:26:01.943149+00:00</updated>
+    <link href="https://www.retaildive.com/news/revolve-q3-earnings-sales-growth-store-strength-expand-fleet/873747/"/>
+    <summary>At the apparel retailer&amp;rsquo;s three locations, its private labels thrive and margins are higher, but it&amp;rsquo;s &amp;ldquo;years away&amp;rdquo; from having an extensive global footprint, co-founder Michael Mente said Tuesday.</summary>
+    <published>2026-11-05T11:18:00-05:00</published>
+  </entry>
+  <entry>
+    <id>https://www.retaildive.com/news/ethan-allen-ceo-out-as-chair-after-activist-board-shakeup/873850/</id>
+    <title>Ethan Allen CEO out as chair after activist board shakeup</title>
+    <updated>2026-11-05T20:26:01.943106+00:00</updated>
+    <link href="https://www.retaildive.com/news/ethan-allen-ceo-out-as-chair-after-activist-board-shakeup/873850/"/>
+    <summary>Financier Doug Bergeron, who will be one of the furniture retailer&amp;rsquo;s new directors, has slammed the company&amp;rsquo;s leadership for months.</summary>
+    <published>2026-11-05T11:41:00-05:00</published>
+  </entry>
+  <entry>
+    <id>https://www.retaildive.com/news/elf-beauty-q2-earnings-sales-growth-innovation-pricing-power/873868/</id>
+    <title>E.l.f. Beauty growth driven by innovation, not just pricing power</title>
+    <updated>2026-11-05T20:26:01.943063+00:00</updated>
+    <link href="https://www.retaildive.com/news/elf-beauty-q2-earnings-sales-growth-innovation-pricing-power/873868/"/>
+    <summary>The company&amp;rsquo;s Q2 net sales jumped 51%, with industry analysts in awe of its go-to-market capabilities and Rhode brand strength.</summary>
+    <published>2026-11-05T12:02:00-05:00</published>
+  </entry>
+  <entry>
+    <id>https://www.retaildive.com/news/ikea-holiday-market-store-events/873869/</id>
+    <title>Ikea leans into events for the holidays</title>
+    <updated>2026-11-05T20:26:01.943017+00:00</updated>
+    <link href="https://www.retaildive.com/news/ikea-holiday-market-store-events/873869/"/>
+    <summary>Two locations will feature outdoor markets, while all stores will host holiday events this month. The furniture retailer also expanded its assortment.</summary>
+    <published>2026-11-05T12:22:00-05:00</published>
+  </entry>
+  <entry>
+    <id>https://www.retaildive.com/news/amazon-adds-alexa-ai-shopping-functions/873602/</id>
+    <title>Amazon adds over 100 Alexa for Shopping functions</title>
+    <updated>2026-11-05T20:26:01.942969+00:00</updated>
+    <link href="https://www.retaildive.com/news/amazon-adds-alexa-ai-shopping-functions/873602/"/>
+    <summary>New capabilities include managing subscriptions, resolving billing questions, and creating and editing lists and registries.&amp;nbsp;</summary>
+    <published>2026-11-05T12:38:00-05:00</published>
+  </entry>
+  <entry>
+    <id>https://www.retaildive.com/news/walmart-sparky-features-AI-holidays/873718/</id>
+    <title>Walmart ramps up Sparky features in time for the holidays</title>
+    <updated>2026-11-05T20:26:01.942907+00:00</updated>
+    <link href="https://www.retaildive.com/news/walmart-sparky-features-AI-holidays/873718/"/>
+    <summary>New visual recognition and cart generation capabilities for the AI assistant aim to ease the pain of holiday shopping, both online and in stores.</summary>
+    <published>2026-11-05T13:01:00-05:00</published>
   </entry>
 </feed>
