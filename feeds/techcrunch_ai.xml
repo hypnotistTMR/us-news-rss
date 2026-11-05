@@ -2,23 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:techcrunch_ai</id>
   <title>TechCrunch - AI</title>
-  <updated>2026-11-05T04:25:02.471397+00:00</updated>
+  <updated>2026-11-05T12:37:11.701309+00:00</updated>
   <link href="file:///feeds/techcrunch_ai.xml" rel="self"/>
   <link href="https://techcrunch.com/category/artificial-intelligence/feed/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: tech / Mode: rss</subtitle>
   <entry>
-    <id>https://techcrunch.com/?p=3184638</id>
-    <title>Anthropic is still grappling with the economics of compute</title>
-    <updated>2026-11-05T04:25:02.473364+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/"/>
-    <summary>At a moment when Anthropic's compute margins should be getting better, they’re getting worse.</summary>
-    <published>2026-11-03T17:07:01+00:00</published>
-  </entry>
-  <entry>
     <id>https://techcrunch.com/?p=3184717</id>
     <title>Netflix’s new AI Discover tab helps you find something to watch based on your mood</title>
-    <updated>2026-11-05T04:25:02.473279+00:00</updated>
+    <updated>2026-11-05T12:37:11.703362+00:00</updated>
     <link href="https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/"/>
     <summary>The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.</summary>
     <published>2026-11-03T18:42:16+00:00</published>
@@ -26,7 +18,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3184774</id>
     <title>AI inference startup Fal doubles its valuation to $16B as demand surges</title>
-    <updated>2026-11-05T04:25:02.473193+00:00</updated>
+    <updated>2026-11-05T12:37:11.703232+00:00</updated>
     <link href="https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/"/>
     <summary>The five-year-old startup raised a $1.3  billion round led by Bessemer.</summary>
     <published>2026-11-03T19:34:43+00:00</published>
@@ -34,7 +26,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3184699</id>
     <title>Hiding inside Palantir’s skyrocketing quarter is a foreboding signal</title>
-    <updated>2026-11-05T04:25:02.473108+00:00</updated>
+    <updated>2026-11-05T12:37:11.703146+00:00</updated>
     <link href="https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/"/>
     <summary>Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever.</summary>
     <published>2026-11-03T21:05:55+00:00</published>
@@ -42,7 +34,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3184842</id>
     <title>Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom</title>
-    <updated>2026-11-05T04:25:02.473023+00:00</updated>
+    <updated>2026-11-05T12:37:11.703061+00:00</updated>
     <link href="https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/"/>
     <summary>Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.</summary>
     <published>2026-11-03T21:43:08+00:00</published>
@@ -50,7 +42,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3184896</id>
     <title>Data centers are turning to old jet engines as the wait for power grows</title>
-    <updated>2026-11-05T04:25:02.472937+00:00</updated>
+    <updated>2026-11-05T12:37:11.702977+00:00</updated>
     <link href="https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/"/>
     <summary>The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.</summary>
     <published>2026-11-03T22:19:53+00:00</published>
@@ -58,7 +50,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3184891</id>
     <title>Anthropic is working on a system to prove AI models’ identity</title>
-    <updated>2026-11-05T04:25:02.472852+00:00</updated>
+    <updated>2026-11-05T12:37:11.702893+00:00</updated>
     <link href="https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/"/>
     <summary>Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.</summary>
     <published>2026-11-03T22:41:03+00:00</published>
@@ -66,7 +58,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3185013</id>
     <title>TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston</title>
-    <updated>2026-11-05T04:25:02.472765+00:00</updated>
+    <updated>2026-11-05T12:37:11.702808+00:00</updated>
     <link href="https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/"/>
     <summary>Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today.</summary>
     <published>2026-11-04T13:00:00+00:00</published>
@@ -74,7 +66,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3185072</id>
     <title>Google faces backlash for plan that would turn off Search for schools that restrict AI</title>
-    <updated>2026-11-05T04:25:02.472676+00:00</updated>
+    <updated>2026-11-05T12:37:11.702721+00:00</updated>
     <link href="https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/"/>
     <summary>Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly.</summary>
     <published>2026-11-04T16:17:22+00:00</published>
@@ -82,7 +74,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3185071</id>
     <title>I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling</title>
-    <updated>2026-11-05T04:25:02.472578+00:00</updated>
+    <updated>2026-11-05T12:37:11.702635+00:00</updated>
     <link href="https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/"/>
     <summary>Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement.</summary>
     <published>2026-11-04T16:51:35+00:00</published>
@@ -90,7 +82,7 @@
   <entry>
     <id>https://techcrunch.com/?post_type=tc_podcast&amp;p=3185167</id>
     <title>Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs</title>
-    <updated>2026-11-05T04:25:02.472449+00:00</updated>
+    <updated>2026-11-05T12:37:11.702548+00:00</updated>
     <link href="https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/"/>
     <summary>Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up?&amp;#160; On this episode of [&amp;#8230;]</summary>
     <published>2026-11-04T18:44:57+00:00</published>
@@ -98,7 +90,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3185129</id>
     <title>DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy</title>
-    <updated>2026-11-05T04:25:02.472363+00:00</updated>
+    <updated>2026-11-05T12:37:11.702459+00:00</updated>
     <link href="https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/"/>
     <summary>DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.</summary>
     <published>2026-11-04T19:29:52+00:00</published>
@@ -106,7 +98,7 @@
   <entry>
     <id>https://techcrunch.com/?post_type=tc_video&amp;p=3185186</id>
     <title>Open source AI is booming. Hugging Face explains who profits.</title>
-    <updated>2026-11-05T04:25:02.472277+00:00</updated>
+    <updated>2026-11-05T12:37:11.702360+00:00</updated>
     <link href="https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/"/>
     <summary>Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up?&amp;#160; On this episode of [&amp;#8230;]</summary>
     <published>2026-11-04T19:30:04+00:00</published>
@@ -114,7 +106,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3185181</id>
     <title>Meta acquires AI coding startup Conductor</title>
-    <updated>2026-11-05T04:25:02.472188+00:00</updated>
+    <updated>2026-11-05T12:37:11.702210+00:00</updated>
     <link href="https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/"/>
     <summary>The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.</summary>
     <published>2026-11-04T21:10:56+00:00</published>
@@ -122,7 +114,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3185152</id>
     <title>OpenAI is already trying to shape the 2028 election</title>
-    <updated>2026-11-05T04:25:02.472100+00:00</updated>
+    <updated>2026-11-05T12:37:11.702121+00:00</updated>
     <link href="https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/"/>
     <summary>OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.</summary>
     <published>2026-11-04T21:25:44+00:00</published>
@@ -130,7 +122,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3185205</id>
     <title>Almost no one uses AI agents to book their Uber, company says</title>
-    <updated>2026-11-05T04:25:02.472009+00:00</updated>
+    <updated>2026-11-05T12:37:11.702033+00:00</updated>
     <link href="https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/"/>
     <summary>During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.</summary>
     <published>2026-11-04T21:56:01+00:00</published>
@@ -138,7 +130,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3185172</id>
     <title>Nothing CEO says company’s mysterious AI-first device is dropping next month</title>
-    <updated>2026-11-05T04:25:02.471920+00:00</updated>
+    <updated>2026-11-05T12:37:11.701943+00:00</updated>
     <link href="https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/"/>
     <summary>While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.</summary>
     <published>2026-11-04T22:13:16+00:00</published>
@@ -146,7 +138,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3185268</id>
     <title>AI PACs spent millions trying to shape Congress — here’s how they fared</title>
-    <updated>2026-11-05T04:25:02.471830+00:00</updated>
+    <updated>2026-11-05T12:37:11.701852+00:00</updated>
     <link href="https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/"/>
     <summary>AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.</summary>
     <published>2026-11-04T22:45:09+00:00</published>
@@ -154,7 +146,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3185307</id>
     <title>After the midterms, a bigger clash over data centers could be coming</title>
-    <updated>2026-11-05T04:25:02.471733+00:00</updated>
+    <updated>2026-11-05T12:37:11.701758+00:00</updated>
     <link href="https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/"/>
     <summary>Data center opposition crossed party lines in Tuesday’s midterms.</summary>
     <published>2026-11-05T01:02:14+00:00</published>
@@ -162,9 +154,17 @@
   <entry>
     <id>https://techcrunch.com/?p=3185305</id>
     <title>Apple is reportedly cutting budgets for its internal AI usage</title>
-    <updated>2026-11-05T04:25:02.471612+00:00</updated>
+    <updated>2026-11-05T12:37:11.701660+00:00</updated>
     <link href="https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/"/>
     <summary>The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.</summary>
     <published>2026-11-05T01:26:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3185147</id>
+    <title>Agility is the first pure humanoid robot company on the stock market. Are you buying?</title>
+    <updated>2026-11-05T12:37:11.701527+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/"/>
+    <summary>Agility arrives on the Nasdaq today as the first publicly-traded pure-play humanoid robotics company.</summary>
+    <published>2026-11-05T12:00:00+00:00</published>
   </entry>
 </feed>
