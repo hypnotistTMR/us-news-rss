@@ -2,31 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:techcrunch</id>
   <title>TechCrunch - All</title>
-  <updated>2026-11-04T23:50:20.803420+00:00</updated>
+  <updated>2026-11-05T04:25:02.440952+00:00</updated>
   <link href="file:///feeds/techcrunch.xml" rel="self"/>
   <link href="https://techcrunch.com/feed/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: tech / Mode: rss</subtitle>
   <entry>
-    <id>https://techcrunch.com/?p=3184891</id>
-    <title>Anthropic is working on a system to prove AI models’ identity</title>
-    <updated>2026-11-04T23:50:20.805395+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/"/>
-    <summary>Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.</summary>
-    <published>2026-11-03T22:41:03+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3184575</id>
-    <title>India’s EloElo nabs $80M from NBCUniversal to bet on the country’s rising microdrama market</title>
-    <updated>2026-11-04T23:50:20.805304+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/03/indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market/"/>
-    <summary>More than 118 million users watch microdramas every month as the serialized format has taken off in India. EloElo's Story TV is one of the top apps for microdramas, with over 33 million active users, according to analysts.</summary>
-    <published>2026-11-04T04:45:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://techcrunch.com/?p=3185037</id>
     <title>Canva lays off over 1,200 people amid slowing growth</title>
-    <updated>2026-11-04T23:50:20.805191+00:00</updated>
+    <updated>2026-11-05T04:25:02.442968+00:00</updated>
     <link href="https://techcrunch.com/2026/11/04/canva-lays-off-over-1200-people-amid-slowing-growth/"/>
     <summary>Canva is cutting 22% of its staff as it faces its 'hardest year' yet.</summary>
     <published>2026-11-04T11:59:00+00:00</published>
@@ -34,7 +18,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3185013</id>
     <title>TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston</title>
-    <updated>2026-11-04T23:50:20.805108+00:00</updated>
+    <updated>2026-11-05T04:25:02.442883+00:00</updated>
     <link href="https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/"/>
     <summary>Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today.</summary>
     <published>2026-11-04T13:00:00+00:00</published>
@@ -42,7 +26,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3185050</id>
     <title>Revolut’s valuation jumps 53% to $115B in new share sale as it prepares to launch US bank</title>
-    <updated>2026-11-04T23:50:20.805023+00:00</updated>
+    <updated>2026-11-05T04:25:02.442796+00:00</updated>
     <link href="https://techcrunch.com/2026/11/04/revoluts-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank/"/>
     <summary>Glade Brook, Coatue, and T. Rowe Price were among the investors that led the share sale.</summary>
     <published>2026-11-04T14:10:10+00:00</published>
@@ -50,7 +34,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3185043</id>
     <title>Titan OS raises $46 million to expand its smart TV OS internationally</title>
-    <updated>2026-11-04T23:50:20.804938+00:00</updated>
+    <updated>2026-11-05T04:25:02.442705+00:00</updated>
     <link href="https://techcrunch.com/2026/11/04/titan-os-raises-46-million-to-expand-its-smart-tv-os-internationally/"/>
     <summary>Titan OS has raised $110 million in funding to date.</summary>
     <published>2026-11-04T15:00:00+00:00</published>
@@ -58,7 +42,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3185072</id>
     <title>Google faces backlash for plan that would turn off Search for schools that restrict AI</title>
-    <updated>2026-11-04T23:50:20.804853+00:00</updated>
+    <updated>2026-11-05T04:25:02.442617+00:00</updated>
     <link href="https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/"/>
     <summary>Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly.</summary>
     <published>2026-11-04T16:17:22+00:00</published>
@@ -66,7 +50,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3185071</id>
     <title>I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling</title>
-    <updated>2026-11-04T23:50:20.804768+00:00</updated>
+    <updated>2026-11-05T04:25:02.442524+00:00</updated>
     <link href="https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/"/>
     <summary>Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement.</summary>
     <published>2026-11-04T16:51:35+00:00</published>
@@ -74,7 +58,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3185073</id>
     <title>Sequoia hits rewind, undoing 20 years of expansion</title>
-    <updated>2026-11-04T23:50:20.804684+00:00</updated>
+    <updated>2026-11-05T04:25:02.442421+00:00</updated>
     <link href="https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/"/>
     <summary>Sequoia is consolidating into a smaller, Bay Area–centered firm, shutting down the programs and offices it built during a 20-year expansion while announcing roughly $10 billion in new funds.</summary>
     <published>2026-11-04T17:11:15+00:00</published>
@@ -82,7 +66,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3185126</id>
     <title>‘You Can See Everything’ is getting an outer space release and it hasn’t even come out in Europe yet</title>
-    <updated>2026-11-04T23:50:20.804598+00:00</updated>
+    <updated>2026-11-05T04:25:02.442338+00:00</updated>
     <link href="https://techcrunch.com/2026/11/04/you-can-see-everything-is-getting-an-outer-space-release-and-it-hasnt-even-come-out-in-europe-yet/"/>
     <summary>It is easier to watch the Elizabeth Holmes documentary "You Can See Everything" in low Earth orbit than in London.</summary>
     <published>2026-11-04T18:10:11+00:00</published>
@@ -90,7 +74,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3185132</id>
     <title>Waymo confirms it’s shaking up its Uber relationship in January 2028</title>
-    <updated>2026-11-04T23:50:20.804513+00:00</updated>
+    <updated>2026-11-05T04:25:02.442253+00:00</updated>
     <link href="https://techcrunch.com/2026/11/04/waymo-confirms-its-shaking-up-its-uber-relationship-in-january-2028/"/>
     <summary>The change will set up direct competition in those markets, as Uber has many other autonomous vehicle partners on its network.</summary>
     <published>2026-11-04T18:12:30+00:00</published>
@@ -98,7 +82,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3185129</id>
     <title>DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy</title>
-    <updated>2026-11-04T23:50:20.804426+00:00</updated>
+    <updated>2026-11-05T04:25:02.442167+00:00</updated>
     <link href="https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/"/>
     <summary>DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.</summary>
     <published>2026-11-04T19:29:52+00:00</published>
@@ -106,7 +90,7 @@
   <entry>
     <id>https://techcrunch.com/?post_type=tc_video&amp;p=3185186</id>
     <title>Open source AI is booming. Hugging Face explains who profits.</title>
-    <updated>2026-11-04T23:50:20.804322+00:00</updated>
+    <updated>2026-11-05T04:25:02.442080+00:00</updated>
     <link href="https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/"/>
     <summary>Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up?&amp;#160; On this episode of [&amp;#8230;]</summary>
     <published>2026-11-04T19:30:04+00:00</published>
@@ -114,7 +98,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3185215</id>
     <title>Hackers stole DreamHost customer files and inboxes during months-long attack</title>
-    <updated>2026-11-04T23:50:20.804197+00:00</updated>
+    <updated>2026-11-05T04:25:02.441996+00:00</updated>
     <link href="https://techcrunch.com/2026/11/04/hackers-stole-dreamhost-customer-files-and-inboxes-during-months-long-attack/"/>
     <summary>The web host said hackers exploited a vulnerability to access customer emails and files during a "deliberate attack."</summary>
     <published>2026-11-04T20:36:57+00:00</published>
@@ -122,7 +106,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3185181</id>
     <title>Meta acquires AI coding startup Conductor</title>
-    <updated>2026-11-04T23:50:20.804110+00:00</updated>
+    <updated>2026-11-05T04:25:02.441909+00:00</updated>
     <link href="https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/"/>
     <summary>The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.</summary>
     <published>2026-11-04T21:10:56+00:00</published>
@@ -130,7 +114,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3185152</id>
     <title>OpenAI is already trying to shape the 2028 election</title>
-    <updated>2026-11-04T23:50:20.804022+00:00</updated>
+    <updated>2026-11-05T04:25:02.441822+00:00</updated>
     <link href="https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/"/>
     <summary>OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.</summary>
     <published>2026-11-04T21:25:44+00:00</published>
@@ -138,7 +122,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3185247</id>
     <title>Snapchat surpasses 30M paid subscribers</title>
-    <updated>2026-11-04T23:50:20.803933+00:00</updated>
+    <updated>2026-11-05T04:25:02.441733+00:00</updated>
     <link href="https://techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers/"/>
     <summary>The milestone comes a year after Snapchat announced a controversial limit on free storage for its Memories feature and informed users it would start requiring users to pay $1.99 per month for additional storage or subscribe to Snapchat+ to retain their Memories.</summary>
     <published>2026-11-04T21:49:29+00:00</published>
@@ -146,7 +130,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3185205</id>
     <title>Almost no one uses AI agents to book their Uber, company says</title>
-    <updated>2026-11-04T23:50:20.803843+00:00</updated>
+    <updated>2026-11-05T04:25:02.441640+00:00</updated>
     <link href="https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/"/>
     <summary>During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.</summary>
     <published>2026-11-04T21:56:01+00:00</published>
@@ -154,7 +138,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3185172</id>
     <title>Nothing CEO says company’s mysterious AI-first device is dropping next month</title>
-    <updated>2026-11-04T23:50:20.803747+00:00</updated>
+    <updated>2026-11-05T04:25:02.441495+00:00</updated>
     <link href="https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/"/>
     <summary>While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.</summary>
     <published>2026-11-04T22:13:16+00:00</published>
@@ -162,9 +146,25 @@
   <entry>
     <id>https://techcrunch.com/?p=3185268</id>
     <title>AI PACs spent millions trying to shape Congress — here’s how they fared</title>
-    <updated>2026-11-04T23:50:20.803629+00:00</updated>
+    <updated>2026-11-05T04:25:02.441404+00:00</updated>
     <link href="https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/"/>
     <summary>AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.</summary>
     <published>2026-11-04T22:45:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3185307</id>
+    <title>After the midterms, a bigger clash over data centers could be coming</title>
+    <updated>2026-11-05T04:25:02.441300+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/"/>
+    <summary>Data center opposition crossed party lines in Tuesday’s midterms.</summary>
+    <published>2026-11-05T01:02:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3185305</id>
+    <title>Apple is reportedly cutting budgets for its internal AI usage</title>
+    <updated>2026-11-05T04:25:02.441179+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/"/>
+    <summary>The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.</summary>
+    <published>2026-11-05T01:26:22+00:00</published>
   </entry>
 </feed>
