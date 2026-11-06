@@ -2,23 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:techcrunch_ai</id>
   <title>TechCrunch - AI</title>
-  <updated>2026-11-05T20:26:01.420750+00:00</updated>
+  <updated>2026-11-06T01:00:54.291350+00:00</updated>
   <link href="file:///feeds/techcrunch_ai.xml" rel="self"/>
   <link href="https://techcrunch.com/category/artificial-intelligence/feed/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: tech / Mode: rss</subtitle>
   <entry>
-    <id>https://techcrunch.com/?p=3185129</id>
-    <title>DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy</title>
-    <updated>2026-11-05T20:26:01.421670+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/"/>
-    <summary>DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.</summary>
-    <published>2026-11-04T19:29:52+00:00</published>
-  </entry>
-  <entry>
     <id>https://techcrunch.com/?post_type=tc_video&amp;p=3185186</id>
     <title>Open source AI is booming. Hugging Face explains who profits.</title>
-    <updated>2026-11-05T20:26:01.421630+00:00</updated>
+    <updated>2026-11-06T01:00:54.292636+00:00</updated>
     <link href="https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/"/>
     <summary>Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up?&amp;#160; On this episode of [&amp;#8230;]</summary>
     <published>2026-11-04T19:30:04+00:00</published>
@@ -26,7 +18,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3185181</id>
     <title>Meta acquires AI coding startup Conductor</title>
-    <updated>2026-11-05T20:26:01.421586+00:00</updated>
+    <updated>2026-11-06T01:00:54.292587+00:00</updated>
     <link href="https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/"/>
     <summary>The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.</summary>
     <published>2026-11-04T21:10:56+00:00</published>
@@ -34,7 +26,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3185152</id>
     <title>OpenAI is already trying to shape the 2028 election</title>
-    <updated>2026-11-05T20:26:01.421529+00:00</updated>
+    <updated>2026-11-06T01:00:54.292536+00:00</updated>
     <link href="https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/"/>
     <summary>OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.</summary>
     <published>2026-11-04T21:25:44+00:00</published>
@@ -42,7 +34,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3185205</id>
     <title>Almost no one uses AI agents to book their Uber, company says</title>
-    <updated>2026-11-05T20:26:01.421490+00:00</updated>
+    <updated>2026-11-06T01:00:54.292487+00:00</updated>
     <link href="https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/"/>
     <summary>During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.</summary>
     <published>2026-11-04T21:56:01+00:00</published>
@@ -50,7 +42,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3185172</id>
     <title>Nothing CEO says company’s mysterious AI-first device is dropping next month</title>
-    <updated>2026-11-05T20:26:01.421450+00:00</updated>
+    <updated>2026-11-06T01:00:54.292437+00:00</updated>
     <link href="https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/"/>
     <summary>While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.</summary>
     <published>2026-11-04T22:13:16+00:00</published>
@@ -58,7 +50,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3185268</id>
     <title>AI PACs spent millions trying to shape Congress — here’s how they fared</title>
-    <updated>2026-11-05T20:26:01.421410+00:00</updated>
+    <updated>2026-11-06T01:00:54.292386+00:00</updated>
     <link href="https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/"/>
     <summary>AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.</summary>
     <published>2026-11-04T22:45:09+00:00</published>
@@ -66,7 +58,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3185307</id>
     <title>After the midterms, a bigger clash over data centers could be coming</title>
-    <updated>2026-11-05T20:26:01.421370+00:00</updated>
+    <updated>2026-11-06T01:00:54.292309+00:00</updated>
     <link href="https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/"/>
     <summary>Data center opposition crossed party lines in Tuesday’s midterms.</summary>
     <published>2026-11-05T01:02:14+00:00</published>
@@ -74,7 +66,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3185305</id>
     <title>Apple is reportedly cutting budgets for its internal AI usage</title>
-    <updated>2026-11-05T20:26:01.421330+00:00</updated>
+    <updated>2026-11-06T01:00:54.292257+00:00</updated>
     <link href="https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/"/>
     <summary>The tokenmaxxing frenzy has been short-lived as bills for said tokens came due, and companies decided that token rationing might be a more fiscally sensible approach.</summary>
     <published>2026-11-05T01:26:22+00:00</published>
@@ -82,7 +74,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3185147</id>
     <title>Agility is the first pure humanoid robot company on the stock market. Are you buying?</title>
-    <updated>2026-11-05T20:26:01.421290+00:00</updated>
+    <updated>2026-11-06T01:00:54.292205+00:00</updated>
     <link href="https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/"/>
     <summary>Agility arrives on the Nasdaq today as the first publicly traded pure-play humanoid robotics company.</summary>
     <published>2026-11-05T12:00:00+00:00</published>
@@ -90,7 +82,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3185211</id>
     <title>A YC startup is putting $1M behind 5 unsolved materials science problems for AI</title>
-    <updated>2026-11-05T20:26:01.421249+00:00</updated>
+    <updated>2026-11-06T01:00:54.292152+00:00</updated>
     <link href="https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/"/>
     <summary>While frontier AI models have solved a remarkable series of outstanding mathematics problems and made progress in the life sciences, they have yet to truly plumb the complex physics in advanced materials.</summary>
     <published>2026-11-05T13:00:00+00:00</published>
@@ -98,7 +90,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3185377</id>
     <title>Box taps Nvidia’s Nemotron for new agent-first content retrieval system</title>
-    <updated>2026-11-05T20:26:01.421209+00:00</updated>
+    <updated>2026-11-06T01:00:54.292098+00:00</updated>
     <link href="https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/"/>
     <summary>The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.</summary>
     <published>2026-11-05T14:00:00+00:00</published>
@@ -106,7 +98,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3185356</id>
     <title>Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents</title>
-    <updated>2026-11-05T20:26:01.421168+00:00</updated>
+    <updated>2026-11-06T01:00:54.292040+00:00</updated>
     <link href="https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/"/>
     <summary>Aina's ring can also take calls and help you dictate notes on your Mac.</summary>
     <published>2026-11-05T14:42:00+00:00</published>
@@ -114,7 +106,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3185428</id>
     <title>Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure</title>
-    <updated>2026-11-05T20:26:01.421126+00:00</updated>
+    <updated>2026-11-06T01:00:54.291988+00:00</updated>
     <link href="https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/"/>
     <summary>The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.</summary>
     <published>2026-11-05T15:19:05+00:00</published>
@@ -122,7 +114,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3185344</id>
     <title>Axiom Math wants to keep AI slop out of mathematics</title>
-    <updated>2026-11-05T20:26:01.421083+00:00</updated>
+    <updated>2026-11-06T01:00:54.291933+00:00</updated>
     <link href="https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/"/>
     <summary>As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.</summary>
     <published>2026-11-05T16:16:45+00:00</published>
@@ -130,7 +122,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3185468</id>
     <title>Claude can now analyze your spending with its new Personal Finance tool</title>
-    <updated>2026-11-05T20:26:01.421038+00:00</updated>
+    <updated>2026-11-06T01:00:54.291877+00:00</updated>
     <link href="https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/"/>
     <summary>With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.</summary>
     <published>2026-11-05T18:00:00+00:00</published>
@@ -138,15 +130,15 @@
   <entry>
     <id>https://techcrunch.com/?p=3185500</id>
     <title>OpenAI president Greg Brockman says company could be IPO ready in 2027</title>
-    <updated>2026-11-05T20:26:01.420994+00:00</updated>
+    <updated>2026-11-06T01:00:54.291817+00:00</updated>
     <link href="https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/"/>
-    <summary>OpenAI president Greg Brockman says the company could be ready to go public in 2027, pointing to accelerating enterprise revenue and a turnaround in its business.</summary>
+    <summary>Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.</summary>
     <published>2026-11-05T18:02:27+00:00</published>
   </entry>
   <entry>
     <id>https://techcrunch.com/?p=3185414</id>
     <title>OpenAI released a new cybersecurity model. Is that enough?</title>
-    <updated>2026-11-05T20:26:01.420949+00:00</updated>
+    <updated>2026-11-06T01:00:54.291760+00:00</updated>
     <link href="https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/"/>
     <summary>OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.</summary>
     <published>2026-11-05T19:06:12+00:00</published>
@@ -154,7 +146,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3185548</id>
     <title>Meta warns that election backlash against data centers could make AI expansion harder</title>
-    <updated>2026-11-05T20:26:01.420900+00:00</updated>
+    <updated>2026-11-06T01:00:54.291703+00:00</updated>
     <link href="https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/"/>
     <summary>Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.</summary>
     <published>2026-11-05T19:12:39+00:00</published>
@@ -162,9 +154,17 @@
   <entry>
     <id>https://techcrunch.com/?p=3185610</id>
     <title>Meta says US users can now video chat with their Muse AI avatar</title>
-    <updated>2026-11-05T20:26:01.420841+00:00</updated>
+    <updated>2026-11-06T01:00:54.291639+00:00</updated>
     <link href="https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/"/>
     <summary>Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.</summary>
     <published>2026-11-05T19:48:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3185656</id>
+    <title>Airbnb says it’s launching an AI travel agent in the first half of 2027</title>
+    <updated>2026-11-06T01:00:54.291531+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/"/>
+    <summary>Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.</summary>
+    <published>2026-11-05T22:40:55+00:00</published>
   </entry>
 </feed>
