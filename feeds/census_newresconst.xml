@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:census_newresconst</id>
   <title>Census - New Residential Construction (scrape)</title>
-  <updated>2026-11-06T16:04:37.268734+00:00</updated>
+  <updated>2026-11-06T21:41:21.541957+00:00</updated>
   <link href="file:///feeds/census_newresconst.xml" rel="self"/>
   <link href="https://www.census.gov/construction/nrc/index.html" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -10,9 +10,9 @@
   <entry>
     <id>https://www.census.gov/construction/nrc/pdf/quarterly_starts_completions.pdf</id>
     <title>Quarterly Starts and Completions by Purpose and Design</title>
-    <updated>2026-11-06T16:04:37.268744+00:00</updated>
+    <updated>2026-11-06T21:41:21.541964+00:00</updated>
     <link href="https://www.census.gov/construction/nrc/pdf/quarterly_starts_completions.pdf"/>
     <summary>Census PDF</summary>
-    <published>2026-11-06T16:04:37.268738+00:00</published>
+    <published>2026-11-06T21:41:21.541960+00:00</published>
   </entry>
 </feed>
