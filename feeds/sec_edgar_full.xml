@@ -2,249 +2,249 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:sec_edgar_full</id>
   <title>SEC EDGAR - Form 8-K (full-text via API)</title>
-  <updated>2026-11-06T08:08:26.597649+00:00</updated>
+  <updated>2026-11-06T16:04:04.920536+00:00</updated>
   <link href="file:///feeds/sec_edgar_full.xml" rel="self"/>
   <link href="https://efts.sec.gov/LATEST/search-index" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: government / Mode: api</subtitle>
   <entry>
-    <id>edgar:000184085626000025</id>
-    <title>SOUNDHOUND AI, INC.  (SOUN, SOUNW)  (CIK 0001840856) - 8-K</title>
-    <updated>2026-11-06T08:08:26.598272+00:00</updated>
-    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001840856&amp;type=8-K"/>
-    <summary>0001840856-26-000025:soun-20261105.htm</summary>
-    <published>2026-11-05T00:00:00+00:00</published>
+    <id>edgar:000162828026071270</id>
+    <title>Marcus &amp; Millichap, Inc.  (MMI)  (CIK 0001578732) - 8-K</title>
+    <updated>2026-11-06T16:04:04.921157+00:00</updated>
+    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001578732&amp;type=8-K"/>
+    <summary>0001628280-26-071270:mmi-20261105.htm</summary>
+    <published>2026-11-06T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>edgar:000184606926000195</id>
-    <title>Nextdoor Holdings, Inc.  (NXDR)  (CIK 0001846069) - 8-K</title>
-    <updated>2026-11-06T08:08:26.598256+00:00</updated>
-    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001846069&amp;type=8-K"/>
-    <summary>0001846069-26-000195:nxdr-20261105.htm</summary>
-    <published>2026-11-05T00:00:00+00:00</published>
+    <id>edgar:000162828026071276</id>
+    <title>Ares Commercial Real Estate Corp  (ACRE)  (CIK 0001529377) - 8-K</title>
+    <updated>2026-11-06T16:04:04.921142+00:00</updated>
+    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001529377&amp;type=8-K"/>
+    <summary>0001628280-26-071276:acre-20261106.htm</summary>
+    <published>2026-11-06T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>edgar:000185314526000044</id>
-    <title>EverCommerce Inc.  (EVCM)  (CIK 0001853145) - 8-K</title>
-    <updated>2026-11-06T08:08:26.598240+00:00</updated>
-    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001853145&amp;type=8-K"/>
-    <summary>0001853145-26-000044:evcm-20261105.htm</summary>
-    <published>2026-11-05T00:00:00+00:00</published>
+    <id>edgar:000162828026071284</id>
+    <title>EVERTEC, Inc.  (EVTC)  (CIK 0001559865) - 8-K</title>
+    <updated>2026-11-06T16:04:04.921127+00:00</updated>
+    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001559865&amp;type=8-K"/>
+    <summary>0001628280-26-071284:evtc-20261105.htm</summary>
+    <published>2026-11-06T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>edgar:000185574726000071</id>
-    <title>Blend Labs, Inc.  (BLND)  (CIK 0001855747) - 8-K</title>
-    <updated>2026-11-06T08:08:26.598223+00:00</updated>
-    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001855747&amp;type=8-K"/>
-    <summary>0001855747-26-000071:blnd-20261105.htm</summary>
-    <published>2026-11-05T00:00:00+00:00</published>
+    <id>edgar:000162828026071294</id>
+    <title>Delek US Holdings, Inc.  (DK)  (CIK 0001694426) - 8-K</title>
+    <updated>2026-11-06T16:04:04.921112+00:00</updated>
+    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001694426&amp;type=8-K"/>
+    <summary>0001628280-26-071294:dk-20261106.htm</summary>
+    <published>2026-11-06T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>edgar:000185715426000057</id>
-    <title>Krispy Kreme, Inc.  (DNUT)  (CIK 0001857154) - 8-K</title>
-    <updated>2026-11-06T08:08:26.598207+00:00</updated>
-    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001857154&amp;type=8-K"/>
-    <summary>0001857154-26-000057:dnut-20261030.htm</summary>
-    <published>2026-11-05T00:00:00+00:00</published>
+    <id>edgar:000162828026071295</id>
+    <title>Delek Logistics Partners, LP  (DKL)  (CIK 0001552797) - 8-K</title>
+    <updated>2026-11-06T16:04:04.921097+00:00</updated>
+    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001552797&amp;type=8-K"/>
+    <summary>0001628280-26-071295:dkl-20261106.htm</summary>
+    <published>2026-11-06T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>edgar:000186663326000021</id>
-    <title>Consensus Cloud Solutions, Inc.  (CCSI)  (CIK 0001866633) - 8-K</title>
-    <updated>2026-11-06T08:08:26.598191+00:00</updated>
-    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001866633&amp;type=8-K"/>
-    <summary>0001866633-26-000021:ccs-20261105.htm</summary>
-    <published>2026-11-05T00:00:00+00:00</published>
+    <id>edgar:000162828026071296</id>
+    <title>Utz Brands, Inc.  (UTZ)  (CIK 0001739566) - 8-K</title>
+    <updated>2026-11-06T16:04:04.921082+00:00</updated>
+    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001739566&amp;type=8-K"/>
+    <summary>0001628280-26-071296:utz-20261106.htm</summary>
+    <published>2026-11-06T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>edgar:000186709626000114</id>
-    <title>Xeris Biopharma Holdings, Inc.  (XERS)  (CIK 0001867096) - 8-K</title>
-    <updated>2026-11-06T08:08:26.598176+00:00</updated>
-    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001867096&amp;type=8-K"/>
-    <summary>0001867096-26-000114:xers-20261105.htm</summary>
-    <published>2026-11-05T00:00:00+00:00</published>
+    <id>edgar:000162828026071304</id>
+    <title>PRECISION BIOSCIENCES INC  (DTIL)  (CIK 0001357874) - 8-K</title>
+    <updated>2026-11-06T16:04:04.921067+00:00</updated>
+    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001357874&amp;type=8-K"/>
+    <summary>0001628280-26-071304:dtil-20261105.htm</summary>
+    <published>2026-11-06T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>edgar:000187150926000070</id>
-    <title>Portillo's Inc.  (PTLO)  (CIK 0001871509) - 8-K</title>
-    <updated>2026-11-06T08:08:26.598159+00:00</updated>
-    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001871509&amp;type=8-K"/>
-    <summary>0001871509-26-000070:ptlo-20261105.htm</summary>
-    <published>2026-11-05T00:00:00+00:00</published>
+    <id>edgar:000162828026071306</id>
+    <title>TERAWULF INC.  (WULF)  (CIK 0001083301) - 8-K</title>
+    <updated>2026-11-06T16:04:04.921052+00:00</updated>
+    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001083301&amp;type=8-K"/>
+    <summary>0001628280-26-071306:wulf-20261106.htm</summary>
+    <published>2026-11-06T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>edgar:000187163826000087</id>
-    <title>Blaize Holdings, Inc.  (BZAI, BZAIW)  (CIK 0001871638) - 8-K</title>
-    <updated>2026-11-06T08:08:26.598145+00:00</updated>
-    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001871638&amp;type=8-K"/>
-    <summary>0001871638-26-000087:blz-20261030.htm</summary>
-    <published>2026-11-05T00:00:00+00:00</published>
+    <id>edgar:000162828026071321</id>
+    <title>MSG Knickerbockers Corp.  (MSGK, MSGS)  (CIK 0001636519) - 8-K</title>
+    <updated>2026-11-06T16:04:04.921037+00:00</updated>
+    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001636519&amp;type=8-K"/>
+    <summary>0001628280-26-071321:msgs-20261106.htm</summary>
+    <published>2026-11-06T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>edgar:000187392326000116</id>
-    <title>Orion Properties Inc.  (ONL)  (CIK 0001873923) - 8-K</title>
-    <updated>2026-11-06T08:08:26.598130+00:00</updated>
-    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001873923&amp;type=8-K"/>
-    <summary>0001873923-26-000116:onl-20261105.htm</summary>
-    <published>2026-11-05T00:00:00+00:00</published>
+    <id>edgar:000162828026071324</id>
+    <title>MSG Rangers Corp.  (MSGR)  (CIK 0002132873) - 8-K</title>
+    <updated>2026-11-06T16:04:04.921022+00:00</updated>
+    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0002132873&amp;type=8-K"/>
+    <summary>0001628280-26-071324:msgr-20261106.htm</summary>
+    <published>2026-11-06T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>edgar:000187544426000036</id>
-    <title>Arhaus, Inc.  (ARHS)  (CIK 0001875444) - 8-K</title>
-    <updated>2026-11-06T08:08:26.598114+00:00</updated>
-    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001875444&amp;type=8-K"/>
-    <summary>0001875444-26-000036:arhs-20261105.htm</summary>
-    <published>2026-11-05T00:00:00+00:00</published>
+    <id>edgar:000162828026071331</id>
+    <title>Strive, Inc.  (ASST, SATA, SATS)  (CIK 0001920406) - 8-K</title>
+    <updated>2026-11-06T16:04:04.921006+00:00</updated>
+    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001920406&amp;type=8-K"/>
+    <summary>0001628280-26-071331:asst-20261106.htm</summary>
+    <published>2026-11-06T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>edgar:000187884826000065</id>
-    <title>IREN Ltd  (IREN)  (CIK 0001878848) - 8-K</title>
-    <updated>2026-11-06T08:08:26.598099+00:00</updated>
-    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001878848&amp;type=8-K"/>
-    <summary>0001878848-26-000065:iren-20261105.htm</summary>
-    <published>2026-11-05T00:00:00+00:00</published>
+    <id>edgar:000162828026071347</id>
+    <title>TREDEGAR CORP  (TG)  (CIK 0000850429) - 8-K</title>
+    <updated>2026-11-06T16:04:04.920991+00:00</updated>
+    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0000850429&amp;type=8-K"/>
+    <summary>0001628280-26-071347:tg-20261106.htm</summary>
+    <published>2026-11-06T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>edgar:000188031926000054</id>
-    <title>Perimeter Group Inc.  (PRM)  (CIK 0001880319) - 8-K</title>
-    <updated>2026-11-06T08:08:26.598082+00:00</updated>
-    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001880319&amp;type=8-K"/>
-    <summary>0001880319-26-000054:prm-20261102.htm</summary>
-    <published>2026-11-05T00:00:00+00:00</published>
+    <id>edgar:000164038426000005</id>
+    <title>POWERCOMPUTE, INC.  (PWCM)  (CIK 0001640384) - 8-K</title>
+    <updated>2026-11-06T16:04:04.920975+00:00</updated>
+    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001640384&amp;type=8-K"/>
+    <summary>0001640384-26-000005:lmfa-20261102.htm</summary>
+    <published>2026-11-06T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>edgar:000188331326000072</id>
-    <title>Savers Value Village, Inc.  (SVV)  (CIK 0001883313) - 8-K</title>
-    <updated>2026-11-06T08:08:26.598066+00:00</updated>
-    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001883313&amp;type=8-K"/>
-    <summary>0001883313-26-000072:svv-20261105.htm</summary>
-    <published>2026-11-05T00:00:00+00:00</published>
+    <id>edgar:000165495426009581</id>
+    <title>Federal Home Loan Bank of New York  (CIK 0001329842) - 8-K</title>
+    <updated>2026-11-06T16:04:04.920959+00:00</updated>
+    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001329842&amp;type=8-K"/>
+    <summary>0001654954-26-009581:fhlbny_8k.htm</summary>
+    <published>2026-11-06T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>edgar:000189988326000042</id>
-    <title>FTAI Infrastructure Inc.  (FIP)  (CIK 0001899883) - 8-K</title>
-    <updated>2026-11-06T08:08:26.598049+00:00</updated>
-    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001899883&amp;type=8-K"/>
-    <summary>0001899883-26-000042:ftai-20261105.htm</summary>
-    <published>2026-11-05T00:00:00+00:00</published>
+    <id>edgar:000165495426009589</id>
+    <title>MEXICO FUND INC  (MXF)  (CIK 0000065433) - 8-K</title>
+    <updated>2026-11-06T16:04:04.920943+00:00</updated>
+    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0000065433&amp;type=8-K"/>
+    <summary>0001654954-26-009589:mxf_8k.htm</summary>
+    <published>2026-11-06T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>edgar:000192844626000064</id>
-    <title>Granite Ridge Resources, Inc.  (GRNT)  (CIK 0001928446) - 8-K</title>
-    <updated>2026-11-06T08:08:26.598032+00:00</updated>
-    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001928446&amp;type=8-K"/>
-    <summary>0001928446-26-000064:grnt-20261105.htm</summary>
-    <published>2026-11-05T00:00:00+00:00</published>
+    <id>edgar:000167192726000034</id>
+    <title>Immunocore Holdings plc  (IMCR)  (CIK 0001671927) - 8-K</title>
+    <updated>2026-11-06T16:04:04.920926+00:00</updated>
+    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001671927&amp;type=8-K"/>
+    <summary>0001671927-26-000034:imcr-20261106.htm</summary>
+    <published>2026-11-06T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>edgar:000193239326000063</id>
-    <title>GE HealthCare Technologies Inc.  (GEHC)  (CIK 0001932393) - 8-K</title>
-    <updated>2026-11-06T08:08:26.598015+00:00</updated>
-    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001932393&amp;type=8-K"/>
-    <summary>0001932393-26-000063:gehc-20261104.htm</summary>
-    <published>2026-11-05T00:00:00+00:00</published>
+    <id>edgar:000168285226000194</id>
+    <title>Moderna, Inc.  (MRNA)  (CIK 0001682852) - 8-K</title>
+    <updated>2026-11-06T16:04:04.920910+00:00</updated>
+    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001682852&amp;type=8-K"/>
+    <summary>0001682852-26-000194:mrna-20261106.htm</summary>
+    <published>2026-11-06T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>edgar:000193485026000105</id>
-    <title>F&amp;G Annuities &amp; Life, Inc.  (FG, FGN, FGSN)  (CIK 0001934850) - 8-K</title>
-    <updated>2026-11-06T08:08:26.597998+00:00</updated>
-    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001934850&amp;type=8-K"/>
-    <summary>0001934850-26-000105:fg-20261105.htm</summary>
-    <published>2026-11-05T00:00:00+00:00</published>
+    <id>edgar:000169281926000023</id>
+    <title>Vistra Corp.  (VST)  (CIK 0001692819) - 8-K</title>
+    <updated>2026-11-06T16:04:04.920893+00:00</updated>
+    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001692819&amp;type=8-K"/>
+    <summary>0001692819-26-000023:vistra-20261106.htm</summary>
+    <published>2026-11-06T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>edgar:000194136526000084</id>
-    <title>MasterBrand, Inc.  (MBC)  (CIK 0001941365) - 8-K</title>
-    <updated>2026-11-06T08:08:26.597982+00:00</updated>
-    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001941365&amp;type=8-K"/>
-    <summary>0001941365-26-000084:mbc-20261104.htm</summary>
-    <published>2026-11-05T00:00:00+00:00</published>
+    <id>edgar:000170471526000041</id>
+    <title>Alpha Metallurgical Resources, Inc.  (AMR)  (CIK 0001704715) - 8-K</title>
+    <updated>2026-11-06T16:04:04.920877+00:00</updated>
+    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001704715&amp;type=8-K"/>
+    <summary>0001704715-26-000041:amr-20261106.htm</summary>
+    <published>2026-11-06T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>edgar:000195107026000053</id>
-    <title>McGraw Hill, Inc.  (MH)  (CIK 0001951070) - 8-K</title>
-    <updated>2026-11-06T08:08:26.597965+00:00</updated>
-    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001951070&amp;type=8-K"/>
-    <summary>0001951070-26-000053:mh-20261105.htm</summary>
-    <published>2026-11-05T00:00:00+00:00</published>
+    <id>edgar:000170472026000170</id>
+    <title>Cannae Holdings, Inc.  (CNNE)  (CIK 0001704720) - 8-K</title>
+    <updated>2026-11-06T16:04:04.920862+00:00</updated>
+    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001704720&amp;type=8-K"/>
+    <summary>0001704720-26-000170:cnne-20261104.htm</summary>
+    <published>2026-11-06T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>edgar:000196473826000055</id>
-    <title>Solventum Corp  (SOLV)  (CIK 0001964738) - 8-K</title>
-    <updated>2026-11-06T08:08:26.597948+00:00</updated>
-    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001964738&amp;type=8-K"/>
-    <summary>0001964738-26-000055:solv-20261105.htm</summary>
-    <published>2026-11-05T00:00:00+00:00</published>
+    <id>edgar:000173910426000054</id>
+    <title>Elanco Animal Health Inc  (ELAN)  (CIK 0001739104) - 8-K</title>
+    <updated>2026-11-06T16:04:04.920846+00:00</updated>
+    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001739104&amp;type=8-K"/>
+    <summary>0001739104-26-000054:elan-20261106.htm</summary>
+    <published>2026-11-06T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>edgar:000198159926000135</id>
-    <title>Centuri Holdings, Inc.  (CTRI)  (CIK 0001981599) - 8-K</title>
-    <updated>2026-11-06T08:08:26.597931+00:00</updated>
-    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001981599&amp;type=8-K"/>
-    <summary>0001981599-26-000135:ctri-20261105.htm</summary>
-    <published>2026-11-05T00:00:00+00:00</published>
+    <id>edgar:000182912626012048</id>
+    <title>STARRY SEA ACQUISITION CORP  (SSEA, SSEAR, SSEAU)  (CIK 0002059165) - 8-K</title>
+    <updated>2026-11-06T16:04:04.920829+00:00</updated>
+    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0002059165&amp;type=8-K"/>
+    <summary>0001829126-26-012048:starryseaacq_8k.htm</summary>
+    <published>2026-11-06T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>edgar:000199300426000060</id>
-    <title>NorthWestern Energy Group, Inc.  (NWE)  (CIK 0001993004) - 8-K</title>
-    <updated>2026-11-06T08:08:26.597914+00:00</updated>
-    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001993004&amp;type=8-K"/>
-    <summary>0001993004-26-000060:nwe-20261104.htm</summary>
-    <published>2026-11-05T00:00:00+00:00</published>
+    <id>edgar:000183687526000091</id>
+    <title>Nuvve Holding Corp.  (NVVE)  (CIK 0001836875) - 8-K</title>
+    <updated>2026-11-06T16:04:04.920812+00:00</updated>
+    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001836875&amp;type=8-K"/>
+    <summary>0001836875-26-000091:nvve-20261105.htm</summary>
+    <published>2026-11-06T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>edgar:000199900126000103</id>
-    <title>Six Flags Entertainment Corporation/NEW  (FUN)  (CIK 0001999001) - 8-K</title>
-    <updated>2026-11-06T08:08:26.597897+00:00</updated>
-    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001999001&amp;type=8-K"/>
-    <summary>0001999001-26-000103:fun-20261105.htm</summary>
-    <published>2026-11-05T00:00:00+00:00</published>
+    <id>edgar:000185648526000041</id>
+    <title>Sylvamo Corp  (SLVM)  (CIK 0001856485) - 8-K</title>
+    <updated>2026-11-06T16:04:04.920776+00:00</updated>
+    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001856485&amp;type=8-K"/>
+    <summary>0001856485-26-000041:syl-20261106.htm</summary>
+    <published>2026-11-06T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>edgar:000201459626000070</id>
-    <title>Concentra Group Holdings Parent, Inc.  (CON)  (CIK 0002014596) - 8-K</title>
-    <updated>2026-11-06T08:08:26.597879+00:00</updated>
-    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0002014596&amp;type=8-K"/>
-    <summary>0002014596-26-000070:cghp-20261104.htm</summary>
-    <published>2026-11-05T00:00:00+00:00</published>
+    <id>edgar:000187094026000054</id>
+    <title>Airsculpt Technologies, Inc.  (AIRS)  (CIK 0001870940) - 8-K</title>
+    <updated>2026-11-06T16:04:04.920758+00:00</updated>
+    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001870940&amp;type=8-K"/>
+    <summary>0001870940-26-000054:airs-20261105.htm</summary>
+    <published>2026-11-06T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>edgar:000202541026000019</id>
-    <title>StandardAero, Inc.  (SARO)  (CIK 0002025410) - 8-K</title>
-    <updated>2026-11-06T08:08:26.597859+00:00</updated>
-    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0002025410&amp;type=8-K"/>
-    <summary>0002025410-26-000019:saro-20261105.htm</summary>
-    <published>2026-11-05T00:00:00+00:00</published>
+    <id>edgar:000187793926000098</id>
+    <title>Castellum, Inc.  (CTM)  (CIK 0001877939) - 8-K</title>
+    <updated>2026-11-06T16:04:04.920740+00:00</updated>
+    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001877939&amp;type=8-K"/>
+    <summary>0001877939-26-000098:ctm-20261105.htm</summary>
+    <published>2026-11-06T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>edgar:000203542826000068</id>
-    <title>Franklin BSP Real Estate Debt, Inc.  (CIK 0002035428) - 8-K</title>
-    <updated>2026-11-06T08:08:26.597840+00:00</updated>
-    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0002035428&amp;type=8-K"/>
-    <summary>0002035428-26-000068:fbred-20261102.htm</summary>
-    <published>2026-11-05T00:00:00+00:00</published>
+    <id>edgar:000188368526000039</id>
+    <title>DraftKings Inc.  (DKNG)  (CIK 0001883685) - 8-K</title>
+    <updated>2026-11-06T16:04:04.920720+00:00</updated>
+    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001883685&amp;type=8-K"/>
+    <summary>0001883685-26-000039:dkng-20261106.htm</summary>
+    <published>2026-11-06T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>edgar:000205295926000079</id>
-    <title>Lionsgate Studios Corp.  (LION)  (CIK 0002052959) - 8-K</title>
-    <updated>2026-11-06T08:08:26.597819+00:00</updated>
-    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0002052959&amp;type=8-K"/>
-    <summary>0002052959-26-000079:lion-20261105.htm</summary>
-    <published>2026-11-05T00:00:00+00:00</published>
+    <id>edgar:000192196326000079</id>
+    <title>Atmus Filtration Technologies Inc.  (ATMU)  (CIK 0001921963) - 8-K</title>
+    <updated>2026-11-06T16:04:04.920699+00:00</updated>
+    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001921963&amp;type=8-K"/>
+    <summary>0001921963-26-000079:atmu-20261106.htm</summary>
+    <published>2026-11-06T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>edgar:000205746326000025</id>
-    <title>Liberty Capital Corp/NV  (GLIBA, GLIBB, GLIBK)  (CIK 0002057463) - 8-K</title>
-    <updated>2026-11-06T08:08:26.597794+00:00</updated>
-    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0002057463&amp;type=8-K"/>
-    <summary>0002057463-26-000025:glbk-20261105x8k.htm</summary>
-    <published>2026-11-05T00:00:00+00:00</published>
+    <id>edgar:000199179226000011</id>
+    <title>CG Oncology, Inc.  (CGON)  (CIK 0001991792) - 8-K</title>
+    <updated>2026-11-06T16:04:04.920672+00:00</updated>
+    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001991792&amp;type=8-K"/>
+    <summary>0001991792-26-000011:cgon-20261106.htm</summary>
+    <published>2026-11-06T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>edgar:000210405226000141</id>
-    <title>Enviri Corp  (NVRI)  (CIK 0002104052) - 8-K</title>
-    <updated>2026-11-06T08:08:26.597759+00:00</updated>
-    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0002104052&amp;type=8-K"/>
-    <summary>0002104052-26-000141:nvri-20261105.htm</summary>
-    <published>2026-11-05T00:00:00+00:00</published>
+    <id>edgar:000201374526000032</id>
+    <title>Calumet, Inc. /DE  (CLMT)  (CIK 0002013745) - 8-K</title>
+    <updated>2026-11-06T16:04:04.920630+00:00</updated>
+    <link href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0002013745&amp;type=8-K"/>
+    <summary>0002013745-26-000032:clmt-20261106.htm</summary>
+    <published>2026-11-06T00:00:00+00:00</published>
   </entry>
 </feed>

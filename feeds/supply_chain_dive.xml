@@ -2,39 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:supply_chain_dive</id>
   <title>Supply Chain Dive</title>
-  <updated>2026-11-06T08:09:55.600174+00:00</updated>
+  <updated>2026-11-06T16:05:29.337497+00:00</updated>
   <link href="file:///feeds/supply_chain_dive.xml" rel="self"/>
   <link href="https://www.supplychaindive.com/feeds/news/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: logistics / Mode: rss</subtitle>
   <entry>
-    <id>https://www.supplychaindive.com/news/3m-closes-16-factories-plans-changes-at-10-more-in-network-revamp/873536/</id>
-    <title>3M closes 16 factories, plans changes at 10 more in network revamp</title>
-    <updated>2026-11-06T08:09:55.600790+00:00</updated>
-    <link href="https://www.supplychaindive.com/news/3m-closes-16-factories-plans-changes-at-10-more-in-network-revamp/873536/"/>
-    <summary>The industrial conglomerate is aiming for $1 billion in annual productivity gains by the end of 2027 through an operational overhaul, CEO William Brown said.</summary>
-    <published>2026-11-03T12:20:00-05:00</published>
-  </entry>
-  <entry>
-    <id>https://www.supplychaindive.com/news/defense-tech-company-aims-to-build-us-supply-chain-for-new-laptop-line/873658/</id>
-    <title>Defense tech company aims to build US supply chain for new laptop line</title>
-    <updated>2026-11-06T08:09:55.600749+00:00</updated>
-    <link href="https://www.supplychaindive.com/news/defense-tech-company-aims-to-build-us-supply-chain-for-new-laptop-line/873658/"/>
-    <summary>Anduril is assembling the circuit board and partnering with Qualcomm for the chip that powers the BlueChip line while looking for domestic suppliers for other parts.</summary>
-    <published>2026-11-04T07:32:00-05:00</published>
-  </entry>
-  <entry>
-    <id>https://www.supplychaindive.com/news/can-battman-secure-the-us-battery-manufacturing-supply-chain/873699/</id>
-    <title>Can ‘BattMan’ secure the US battery manufacturing supply chain?</title>
-    <updated>2026-11-06T08:09:55.600702+00:00</updated>
-    <link href="https://www.supplychaindive.com/news/can-battman-secure-the-us-battery-manufacturing-supply-chain/873699/"/>
-    <summary>The Energy Department&amp;rsquo;s Battery Manufacturing Accelerator aims to plug gaps in domestic material and component supplies over the next few years as U.S. battery demand looks set to quadruple.</summary>
-    <published>2026-11-04T07:54:00-05:00</published>
-  </entry>
-  <entry>
     <id>https://www.supplychaindive.com/news/amazon-deploys-thousands-of-smart-glasses-to-delivery-drivers/873620/</id>
     <title>Amazon deploys thousands of smart glasses to delivery drivers</title>
-    <updated>2026-11-06T08:09:55.600636+00:00</updated>
+    <updated>2026-11-06T16:05:29.338090+00:00</updated>
     <link href="https://www.supplychaindive.com/news/amazon-deploys-thousands-of-smart-glasses-to-delivery-drivers/873620/"/>
     <summary>The glasses provide navigation and drop-off instructions within drivers&amp;#39; field of view, part of the company&amp;#39;s effort to boost delivery efficiency.</summary>
     <published>2026-11-04T09:47:00-05:00</published>
@@ -42,7 +18,7 @@
   <entry>
     <id>https://www.supplychaindive.com/news/ustr-urged-to-permanently-suspend-china-linked-ship-fees/873618/</id>
     <title>USTR urged to permanently suspend China-linked ship fees</title>
-    <updated>2026-11-06T08:09:55.600593+00:00</updated>
+    <updated>2026-11-06T16:05:29.338049+00:00</updated>
     <link href="https://www.supplychaindive.com/news/ustr-urged-to-permanently-suspend-china-linked-ship-fees/873618/"/>
     <summary>Stakeholders such as the World Shipping Council and the National Retail Federation are concerned fees will &amp;ldquo;add another cost layer to an already strained transportation system.&amp;rdquo;</summary>
     <published>2026-11-04T14:58:00-05:00</published>
@@ -50,7 +26,7 @@
   <entry>
     <id>https://www.supplychaindive.com/news/logitech-launches-supply-chain-decarbonization-program/873778/</id>
     <title>Logitech launches supply chain decarbonization program</title>
-    <updated>2026-11-06T08:09:55.600548+00:00</updated>
+    <updated>2026-11-06T16:05:29.338007+00:00</updated>
     <link href="https://www.supplychaindive.com/news/logitech-launches-supply-chain-decarbonization-program/873778/"/>
     <summary>The computer peripheral manufacturer&amp;rsquo;s Chain Reaction initiative will start with 17 suppliers pooling purchasing power to collectively buy renewable electricity.</summary>
     <published>2026-11-05T07:44:00-05:00</published>
@@ -58,7 +34,7 @@
   <entry>
     <id>https://www.supplychaindive.com/news/ebay-trims-depop-shipping-rates-bolsters-delivery-features/873710/</id>
     <title>EBay trims Depop shipping rates, bolsters delivery features</title>
-    <updated>2026-11-06T08:09:55.600505+00:00</updated>
+    <updated>2026-11-06T16:05:29.337966+00:00</updated>
     <link href="https://www.supplychaindive.com/news/ebay-trims-depop-shipping-rates-bolsters-delivery-features/873710/"/>
     <summary>The company is using AI to enable fast-but-reliable delivery promises and help sellers determine shipping costs more easily, CEO Jamie Iannone said.</summary>
     <published>2026-11-05T09:38:18-05:00</published>
@@ -66,7 +42,7 @@
   <entry>
     <id>https://www.supplychaindive.com/news/urban-outfitters-seeks-material-cost-visibility-from-expanded-technology-su/873642/</id>
     <title>Urban Outfitters seeks material cost visibility from expanded technology suite</title>
-    <updated>2026-11-06T08:09:55.600460+00:00</updated>
+    <updated>2026-11-06T16:05:29.337924+00:00</updated>
     <link href="https://www.supplychaindive.com/news/urban-outfitters-seeks-material-cost-visibility-from-expanded-technology-su/873642/"/>
     <summary>The parent of several retail brands&amp;nbsp;is tacking on additional features to its current production lifecycle management platform to improve supply chain efficiency.&amp;nbsp;</summary>
     <published>2026-11-05T10:00:00-05:00</published>
@@ -74,7 +50,7 @@
   <entry>
     <id>https://www.supplychaindive.com/news/schneider-national-says-rail-partner-shift-offers-network-boost/873847/</id>
     <title>Schneider National says rail partner shift offers network boost</title>
-    <updated>2026-11-06T08:09:55.600411+00:00</updated>
+    <updated>2026-11-06T16:05:29.337880+00:00</updated>
     <link href="https://www.supplychaindive.com/news/schneider-national-says-rail-partner-shift-offers-network-boost/873847/"/>
     <summary>CEO Jim Filter said the company brings 35 years of intermodal service experience to its new partnership with Norfolk Southern.&amp;nbsp;</summary>
     <published>2026-11-05T10:08:00-05:00</published>
@@ -82,9 +58,33 @@
   <entry>
     <id>https://www.supplychaindive.com/news/unilever-ramps-up-pricing-to-offset-higher-commodity-costs/873793/</id>
     <title>Unilever ramps up pricing to offset higher commodity costs</title>
-    <updated>2026-11-06T08:09:55.600343+00:00</updated>
+    <updated>2026-11-06T16:05:29.337837+00:00</updated>
     <link href="https://www.supplychaindive.com/news/unilever-ramps-up-pricing-to-offset-higher-commodity-costs/873793/"/>
     <summary>Improved visibility over supply of key inputs gave the CPG clarity to implement hikes after keeping prices flat during the first half of the year.</summary>
     <published>2026-11-05T15:09:00-05:00</published>
+  </entry>
+  <entry>
+    <id>https://www.supplychaindive.com/news/tilray-brands-targets-20m-in-cost-savings-after-craft-brewery-closures/873848/</id>
+    <title>Tilray Brands targets $20M in cost savings after craft brewery closures</title>
+    <updated>2026-11-06T16:05:29.337775+00:00</updated>
+    <link href="https://www.supplychaindive.com/news/tilray-brands-targets-20m-in-cost-savings-after-craft-brewery-closures/873848/"/>
+    <summary>The Shock Top owner has reduced its SKU count and closed four facilities as it adapts to beverage industry shifts.</summary>
+    <published>2026-11-06T07:15:00-05:00</published>
+  </entry>
+  <entry>
+    <id>https://www.supplychaindive.com/news/lear-to-open-automated-factory-as-blueprint-for-global-network/873888/</id>
+    <title>Lear to open automated factory as ‘blueprint’ for global network</title>
+    <updated>2026-11-06T16:05:29.337728+00:00</updated>
+    <link href="https://www.supplychaindive.com/news/lear-to-open-automated-factory-as-blueprint-for-global-network/873888/"/>
+    <summary>The Michigan facility is expected to go live next year and be equipped with a host of automation tools, including two separate automated storage and retrieval systems.</summary>
+    <published>2026-11-06T09:43:00-05:00</published>
+  </entry>
+  <entry>
+    <id>https://www.supplychaindive.com/news/auroras-truck-production-schedule-delayed-by-supply-quality-issues/873995/</id>
+    <title>Aurora’s truck production schedule delayed by supply, quality issues</title>
+    <updated>2026-11-06T16:05:29.337666+00:00</updated>
+    <link href="https://www.supplychaindive.com/news/auroras-truck-production-schedule-delayed-by-supply-quality-issues/873995/"/>
+    <summary>The autonomous trucking company is working with Roush to upfit trucks, and despite the delay, still expects to have more than 1,000 trucks ready by the end of 2027.</summary>
+    <published>2026-11-06T10:54:00-05:00</published>
   </entry>
 </feed>
