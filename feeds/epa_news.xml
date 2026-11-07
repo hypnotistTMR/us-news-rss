@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:epa_news</id>
   <title>EPA News Releases (scrape)</title>
-  <updated>2026-11-07T14:33:17.351454+00:00</updated>
+  <updated>2026-11-07T19:14:08.736652+00:00</updated>
   <link href="file:///feeds/epa_news.xml" rel="self"/>
   <link href="https://www.epa.gov/newsreleases" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -10,177 +10,177 @@
   <entry>
     <id>https://www.epa.gov/newsreleases/search?f%5B0%5D=news_releases_language%3Apt</id>
     <title>Português (Portuguese)</title>
-    <updated>2026-11-07T14:33:17.351707+00:00</updated>
+    <updated>2026-11-07T19:14:08.736820+00:00</updated>
     <link href="https://www.epa.gov/newsreleases/search?f%5B0%5D=news_releases_language%3Apt"/>
     <summary>EPA News Release</summary>
-    <published>2026-11-07T14:33:17.351705+00:00</published>
+    <published>2026-11-07T19:14:08.736819+00:00</published>
   </entry>
   <entry>
     <id>https://www.epa.gov/newsreleases/search?f%5B0%5D=news_releases_language%3Aht</id>
     <title>Kreyòl ayisyen (Haitian Creole)</title>
-    <updated>2026-11-07T14:33:17.351696+00:00</updated>
+    <updated>2026-11-07T19:14:08.736814+00:00</updated>
     <link href="https://www.epa.gov/newsreleases/search?f%5B0%5D=news_releases_language%3Aht"/>
     <summary>EPA News Release</summary>
-    <published>2026-11-07T14:33:17.351695+00:00</published>
+    <published>2026-11-07T19:14:08.736813+00:00</published>
   </entry>
   <entry>
     <id>https://www.epa.gov/newsreleases/search?f%5B0%5D=news_releases_language%3Azh-hant</id>
     <title>中文: 繁體版 (Traditional Chinese)</title>
-    <updated>2026-11-07T14:33:17.351687+00:00</updated>
+    <updated>2026-11-07T19:14:08.736809+00:00</updated>
     <link href="https://www.epa.gov/newsreleases/search?f%5B0%5D=news_releases_language%3Azh-hant"/>
     <summary>EPA News Release</summary>
-    <published>2026-11-07T14:33:17.351685+00:00</published>
+    <published>2026-11-07T19:14:08.736808+00:00</published>
   </entry>
   <entry>
     <id>https://www.epa.gov/newsreleases/search?f%5B0%5D=news_releases_language%3Azh-hans</id>
     <title>中文: 简体版 (Simplified Chinese)</title>
-    <updated>2026-11-07T14:33:17.351676+00:00</updated>
+    <updated>2026-11-07T19:14:08.736804+00:00</updated>
     <link href="https://www.epa.gov/newsreleases/search?f%5B0%5D=news_releases_language%3Azh-hans"/>
     <summary>EPA News Release</summary>
-    <published>2026-11-07T14:33:17.351674+00:00</published>
+    <published>2026-11-07T19:14:08.736803+00:00</published>
   </entry>
   <entry>
     <id>https://www.epa.gov/newsreleases/search?f%5B0%5D=news_releases_language%3Avi</id>
     <title>Tiếng Việt (Vietnamese)</title>
-    <updated>2026-11-07T14:33:17.351663+00:00</updated>
+    <updated>2026-11-07T19:14:08.736798+00:00</updated>
     <link href="https://www.epa.gov/newsreleases/search?f%5B0%5D=news_releases_language%3Avi"/>
     <summary>EPA News Release</summary>
-    <published>2026-11-07T14:33:17.351660+00:00</published>
+    <published>2026-11-07T19:14:08.736797+00:00</published>
   </entry>
   <entry>
     <id>https://www.epa.gov/newsreleases/search?f%5B0%5D=press_office%3A226129</id>
     <title>All headquarters releases</title>
-    <updated>2026-11-07T14:33:17.351635+00:00</updated>
+    <updated>2026-11-07T19:14:08.736793+00:00</updated>
     <link href="https://www.epa.gov/newsreleases/search?f%5B0%5D=press_office%3A226129"/>
     <summary>EPA News Release</summary>
-    <published>2026-11-07T14:33:17.351633+00:00</published>
+    <published>2026-11-07T19:14:08.736792+00:00</published>
   </entry>
   <entry>
     <id>https://www.epa.gov/newsreleases/search?f%5B0%5D=press_office%3A226157</id>
     <title>Research and Development</title>
-    <updated>2026-11-07T14:33:17.351625+00:00</updated>
+    <updated>2026-11-07T19:14:08.736788+00:00</updated>
     <link href="https://www.epa.gov/newsreleases/search?f%5B0%5D=press_office%3A226157"/>
     <summary>EPA News Release</summary>
-    <published>2026-11-07T14:33:17.351623+00:00</published>
+    <published>2026-11-07T19:14:08.736787+00:00</published>
   </entry>
   <entry>
     <id>https://www.epa.gov/newsreleases/search?f%5B0%5D=press_office%3A226153</id>
     <title>Land and Emergency Management</title>
-    <updated>2026-11-07T14:33:17.351616+00:00</updated>
+    <updated>2026-11-07T19:14:08.736783+00:00</updated>
     <link href="https://www.epa.gov/newsreleases/search?f%5B0%5D=press_office%3A226153"/>
     <summary>EPA News Release</summary>
-    <published>2026-11-07T14:33:17.351614+00:00</published>
+    <published>2026-11-07T19:14:08.736782+00:00</published>
   </entry>
   <entry>
     <id>https://www.epa.gov/newsreleases/search?f%5B0%5D=press_office%3A226151</id>
     <title>International and Tribal Affairs</title>
-    <updated>2026-11-07T14:33:17.351607+00:00</updated>
+    <updated>2026-11-07T19:14:08.736778+00:00</updated>
     <link href="https://www.epa.gov/newsreleases/search?f%5B0%5D=press_office%3A226151"/>
     <summary>EPA News Release</summary>
-    <published>2026-11-07T14:33:17.351606+00:00</published>
+    <published>2026-11-07T19:14:08.736777+00:00</published>
   </entry>
   <entry>
     <id>https://www.epa.gov/newsreleases/search?f%5B0%5D=press_office%3A226137</id>
     <title>Enforcement and Compliance Assurance</title>
-    <updated>2026-11-07T14:33:17.351598+00:00</updated>
+    <updated>2026-11-07T19:14:08.736772+00:00</updated>
     <link href="https://www.epa.gov/newsreleases/search?f%5B0%5D=press_office%3A226137"/>
     <summary>EPA News Release</summary>
-    <published>2026-11-07T14:33:17.351597+00:00</published>
+    <published>2026-11-07T19:14:08.736771+00:00</published>
   </entry>
   <entry>
     <id>https://www.epa.gov/newsreleases/search?f%5B0%5D=press_office%3A226135</id>
     <title>Chief Financial Officer</title>
-    <updated>2026-11-07T14:33:17.351589+00:00</updated>
+    <updated>2026-11-07T19:14:08.736760+00:00</updated>
     <link href="https://www.epa.gov/newsreleases/search?f%5B0%5D=press_office%3A226135"/>
     <summary>EPA News Release</summary>
-    <published>2026-11-07T14:33:17.351587+00:00</published>
+    <published>2026-11-07T19:14:08.736759+00:00</published>
   </entry>
   <entry>
     <id>https://www.epa.gov/newsreleases/search?f%5B0%5D=press_office%3A226133</id>
     <title>Chemical Safety and Pollution Prevention</title>
-    <updated>2026-11-07T14:33:17.351579+00:00</updated>
+    <updated>2026-11-07T19:14:08.736753+00:00</updated>
     <link href="https://www.epa.gov/newsreleases/search?f%5B0%5D=press_office%3A226133"/>
     <summary>EPA News Release</summary>
-    <published>2026-11-07T14:33:17.351578+00:00</published>
+    <published>2026-11-07T19:14:08.736751+00:00</published>
   </entry>
   <entry>
     <id>https://www.epa.gov/newsreleases/search?f%5B0%5D=press_office%3A226155</id>
     <title>Office of the Administrator</title>
-    <updated>2026-11-07T14:33:17.351570+00:00</updated>
+    <updated>2026-11-07T19:14:08.736744+00:00</updated>
     <link href="https://www.epa.gov/newsreleases/search?f%5B0%5D=press_office%3A226155"/>
     <summary>EPA News Release</summary>
-    <published>2026-11-07T14:33:17.351569+00:00</published>
+    <published>2026-11-07T19:14:08.736743+00:00</published>
   </entry>
   <entry>
     <id>https://www.epa.gov/newsreleases/search</id>
     <title>news releases list page</title>
-    <updated>2026-11-07T14:33:17.351561+00:00</updated>
+    <updated>2026-11-07T19:14:08.736736+00:00</updated>
     <link href="https://www.epa.gov/newsreleases/search"/>
     <summary>EPA News Release</summary>
-    <published>2026-11-07T14:33:17.351559+00:00</published>
+    <published>2026-11-07T19:14:08.736734+00:00</published>
   </entry>
   <entry>
     <id>https://www.epa.gov/newsreleases/search?f%5B0%5D=subject%3A226217</id>
     <title>Underground Storage Tanks</title>
-    <updated>2026-11-07T14:33:17.351552+00:00</updated>
+    <updated>2026-11-07T19:14:08.736727+00:00</updated>
     <link href="https://www.epa.gov/newsreleases/search?f%5B0%5D=subject%3A226217"/>
     <summary>EPA News Release</summary>
-    <published>2026-11-07T14:33:17.351550+00:00</published>
+    <published>2026-11-07T19:14:08.736726+00:00</published>
   </entry>
   <entry>
     <id>https://www.epa.gov/newsreleases/search?f%5B0%5D=subject%3A226213</id>
     <title>Superfund and Brownfields</title>
-    <updated>2026-11-07T14:33:17.351543+00:00</updated>
+    <updated>2026-11-07T19:14:08.736718+00:00</updated>
     <link href="https://www.epa.gov/newsreleases/search?f%5B0%5D=subject%3A226213"/>
     <summary>EPA News Release</summary>
-    <published>2026-11-07T14:33:17.351541+00:00</published>
+    <published>2026-11-07T19:14:08.736717+00:00</published>
   </entry>
   <entry>
     <id>https://www.epa.gov/newsreleases/search?f%5B0%5D=subject%3A226223</id>
     <title>Pesticides and Toxic Chemicals</title>
-    <updated>2026-11-07T14:33:17.351534+00:00</updated>
+    <updated>2026-11-07T19:14:08.736710+00:00</updated>
     <link href="https://www.epa.gov/newsreleases/search?f%5B0%5D=subject%3A226223"/>
     <summary>EPA News Release</summary>
-    <published>2026-11-07T14:33:17.351532+00:00</published>
+    <published>2026-11-07T19:14:08.736708+00:00</published>
   </entry>
   <entry>
     <id>https://www.epa.gov/newsreleases/search?f%5B0%5D=subject%3A226205</id>
     <title>Partnerships and Stewardship</title>
-    <updated>2026-11-07T14:33:17.351524+00:00</updated>
+    <updated>2026-11-07T19:14:08.736700+00:00</updated>
     <link href="https://www.epa.gov/newsreleases/search?f%5B0%5D=subject%3A226205"/>
     <summary>EPA News Release</summary>
-    <published>2026-11-07T14:33:17.351522+00:00</published>
+    <published>2026-11-07T19:14:08.736698+00:00</published>
   </entry>
   <entry>
     <id>https://www.epa.gov/newsreleases/search?f%5B0%5D=subject%3A334062</id>
     <title>Infrastructure Investment and Jobs Act</title>
-    <updated>2026-11-07T14:33:17.351512+00:00</updated>
+    <updated>2026-11-07T19:14:08.736692+00:00</updated>
     <link href="https://www.epa.gov/newsreleases/search?f%5B0%5D=subject%3A334062"/>
     <summary>EPA News Release</summary>
-    <published>2026-11-07T14:33:17.351510+00:00</published>
+    <published>2026-11-07T19:14:08.736690+00:00</published>
   </entry>
   <entry>
     <id>https://www.epa.gov/newsreleases/search?f%5B0%5D=subject%3A337722</id>
     <title>Inflation Reduction Act</title>
-    <updated>2026-11-07T14:33:17.351499+00:00</updated>
+    <updated>2026-11-07T19:14:08.736685+00:00</updated>
     <link href="https://www.epa.gov/newsreleases/search?f%5B0%5D=subject%3A337722"/>
     <summary>EPA News Release</summary>
-    <published>2026-11-07T14:33:17.351497+00:00</published>
+    <published>2026-11-07T19:14:08.736683+00:00</published>
   </entry>
   <entry>
     <id>https://www.epa.gov/newsreleases/search?f%5B0%5D=subject%3A226191</id>
     <title>Compliance and Enforcement</title>
-    <updated>2026-11-07T14:33:17.351486+00:00</updated>
+    <updated>2026-11-07T19:14:08.736676+00:00</updated>
     <link href="https://www.epa.gov/newsreleases/search?f%5B0%5D=subject%3A226191"/>
     <summary>EPA News Release</summary>
-    <published>2026-11-07T14:33:17.351483+00:00</published>
+    <published>2026-11-07T19:14:08.736674+00:00</published>
   </entry>
   <entry>
     <id>https://www.epa.gov/newsreleases/search?f%5B0%5D=subject%3A226185</id>
     <title>Awards and Recognition</title>
-    <updated>2026-11-07T14:33:17.351461+00:00</updated>
+    <updated>2026-11-07T19:14:08.736660+00:00</updated>
     <link href="https://www.epa.gov/newsreleases/search?f%5B0%5D=subject%3A226185"/>
     <summary>EPA News Release</summary>
-    <published>2026-11-07T14:33:17.351458+00:00</published>
+    <published>2026-11-07T19:14:08.736656+00:00</published>
   </entry>
 </feed>

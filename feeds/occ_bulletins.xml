@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:occ_bulletins</id>
   <title>OCC Bulletins (scrape)</title>
-  <updated>2026-11-07T14:31:48.392172+00:00</updated>
+  <updated>2026-11-07T19:12:44.662009+00:00</updated>
   <link href="file:///feeds/occ_bulletins.xml" rel="self"/>
   <link href="https://www.occ.gov/news-events/index-news-events.html" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -10,33 +10,33 @@
   <entry>
     <id>https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-53.html</id>
     <title>Interest Rate Risk: Interest Rate Risk Statistics Report</title>
-    <updated>2026-11-07T14:31:48.392226+00:00</updated>
+    <updated>2026-11-07T19:12:44.662045+00:00</updated>
     <link href="https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-53.html"/>
     <summary>OCC Bulletin</summary>
-    <published>2026-11-07T14:31:48.392225+00:00</published>
+    <published>2026-11-07T19:12:44.662043+00:00</published>
   </entry>
   <entry>
     <id>https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-54.html</id>
     <title>Super Intelligence: Supervisory Framework</title>
-    <updated>2026-11-07T14:31:48.392219+00:00</updated>
+    <updated>2026-11-07T19:12:44.662038+00:00</updated>
     <link href="https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-54.html"/>
     <summary>OCC Bulletin</summary>
-    <published>2026-11-07T14:31:48.392217+00:00</published>
+    <published>2026-11-07T19:12:44.662037+00:00</published>
   </entry>
   <entry>
     <id>https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-55.html</id>
     <title>Homeownership Counseling: Revised Comptrollerâs Handbook Booklet</title>
-    <updated>2026-11-07T14:31:48.392206+00:00</updated>
+    <updated>2026-11-07T19:12:44.662031+00:00</updated>
     <link href="https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-55.html"/>
     <summary>OCC Bulletin</summary>
-    <published>2026-11-07T14:31:48.392203+00:00</published>
+    <published>2026-11-07T19:12:44.662029+00:00</published>
   </entry>
   <entry>
     <id>https://www.occ.gov/news-issuances/bulletins/2023/bulletin-2023-17.html</id>
     <title>Third-Party Relationships: Interagency Guidance on Risk Management</title>
-    <updated>2026-11-07T14:31:48.392183+00:00</updated>
+    <updated>2026-11-07T19:12:44.662017+00:00</updated>
     <link href="https://www.occ.gov/news-issuances/bulletins/2023/bulletin-2023-17.html"/>
     <summary>OCC Bulletin</summary>
-    <published>2026-11-07T14:31:48.392177+00:00</published>
+    <published>2026-11-07T19:12:44.662014+00:00</published>
   </entry>
 </feed>
