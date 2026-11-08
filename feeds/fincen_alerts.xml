@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:fincen_alerts</id>
   <title>FinCEN Alerts &amp; Notices (scrape)</title>
-  <updated>2026-11-08T20:03:56.102640+00:00</updated>
+  <updated>2026-11-08T23:51:40.194358+00:00</updated>
   <link href="file:///feeds/fincen_alerts.xml" rel="self"/>
   <link href="https://fincen.gov/resources/advisoriesbulletinsfact-sheets" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -10,241 +10,241 @@
   <entry>
     <id>https://fincen.gov/system/files/2024-12/Alert-FinCEN-Scams-FINAL508.pdf</id>
     <title>FIN-2024-Alert005</title>
-    <updated>2026-11-08T20:03:56.103289+00:00</updated>
+    <updated>2026-11-08T23:51:40.194508+00:00</updated>
     <link href="https://fincen.gov/system/files/2024-12/Alert-FinCEN-Scams-FINAL508.pdf"/>
     <summary>FinCEN</summary>
-    <published>2026-11-08T20:03:56.103289+00:00</published>
+    <published>2026-11-08T23:51:40.194507+00:00</published>
   </entry>
   <entry>
     <id>https://fincen.gov/system/files/shared/BCS-Alert-FINAL-508C.pdf</id>
     <title>FIN-2025-Alert001</title>
-    <updated>2026-11-08T20:03:56.103178+00:00</updated>
+    <updated>2026-11-08T23:51:40.194503+00:00</updated>
     <link href="https://fincen.gov/system/files/shared/BCS-Alert-FINAL-508C.pdf"/>
     <summary>FinCEN</summary>
-    <published>2026-11-08T20:03:56.103177+00:00</published>
+    <published>2026-11-08T23:51:40.194502+00:00</published>
   </entry>
   <entry>
     <id>https://fincen.gov/system/files/shared/FinCEN-Alert-Oil-Smuggling-FINAL-508C.pdf</id>
     <title>FIN-2025-Alert002</title>
-    <updated>2026-11-08T20:03:56.103174+00:00</updated>
+    <updated>2026-11-08T23:51:40.194498+00:00</updated>
     <link href="https://fincen.gov/system/files/shared/FinCEN-Alert-Oil-Smuggling-FINAL-508C.pdf"/>
     <summary>FinCEN</summary>
-    <published>2026-11-08T20:03:56.103174+00:00</published>
+    <published>2026-11-08T23:51:40.194498+00:00</published>
   </entry>
   <entry>
     <id>https://fincen.gov/system/files/2025-08/FinCEN-Alert-on-Cartel-Oil-Smuggling-Spanish-508C.pdf</id>
     <title>FIN-2025-Alert002 Spanish</title>
-    <updated>2026-11-08T20:03:56.103171+00:00</updated>
+    <updated>2026-11-08T23:51:40.194494+00:00</updated>
     <link href="https://fincen.gov/system/files/2025-08/FinCEN-Alert-on-Cartel-Oil-Smuggling-Spanish-508C.pdf"/>
     <summary>FinCEN</summary>
-    <published>2026-11-08T20:03:56.103171+00:00</published>
+    <published>2026-11-08T23:51:40.194493+00:00</published>
   </entry>
   <entry>
     <id>https://fincen.gov/system/files/FinCEN_Alert_Cross_Border_FINAL508.pdf</id>
     <title>FIN-2025-Alert003</title>
-    <updated>2026-11-08T20:03:56.103168+00:00</updated>
+    <updated>2026-11-08T23:51:40.194489+00:00</updated>
     <link href="https://fincen.gov/system/files/FinCEN_Alert_Cross_Border_FINAL508.pdf"/>
     <summary>FinCEN</summary>
-    <published>2026-11-08T20:03:56.103167+00:00</published>
+    <published>2026-11-08T23:51:40.194489+00:00</published>
   </entry>
   <entry>
     <id>https://fincen.gov/system/files/2026-01/FinCEN-Alert-Federal-Child-Nutrition-Programs.pdf</id>
     <title>FIN-2026-Alert001</title>
-    <updated>2026-11-08T20:03:56.103165+00:00</updated>
+    <updated>2026-11-08T23:51:40.194484+00:00</updated>
     <link href="https://fincen.gov/system/files/2026-01/FinCEN-Alert-Federal-Child-Nutrition-Programs.pdf"/>
     <summary>FinCEN</summary>
-    <published>2026-11-08T20:03:56.103164+00:00</published>
+    <published>2026-11-08T23:51:40.194484+00:00</published>
   </entry>
   <entry>
     <id>https://fincen.gov/system/files/2026-05/FinCEN-Alert-IRGC.pdf</id>
     <title>FIN-2026-Alert002</title>
-    <updated>2026-11-08T20:03:56.103161+00:00</updated>
+    <updated>2026-11-08T23:51:40.194480+00:00</updated>
     <link href="https://fincen.gov/system/files/2026-05/FinCEN-Alert-IRGC.pdf"/>
     <summary>FinCEN</summary>
-    <published>2026-11-08T20:03:56.103161+00:00</published>
+    <published>2026-11-08T23:51:40.194479+00:00</published>
   </entry>
   <entry>
     <id>https://fincen.gov/system/files/2026-06/FinCEN-Alert-Fiscal-Fuel-Theft.pdf</id>
     <title>FIN-2026-Alert003</title>
-    <updated>2026-11-08T20:03:56.103052+00:00</updated>
+    <updated>2026-11-08T23:51:40.194475+00:00</updated>
     <link href="https://fincen.gov/system/files/2026-06/FinCEN-Alert-Fiscal-Fuel-Theft.pdf"/>
     <summary>FinCEN</summary>
-    <published>2026-11-08T20:03:56.103051+00:00</published>
+    <published>2026-11-08T23:51:40.194475+00:00</published>
   </entry>
   <entry>
     <id>https://fincen.gov/system/files/2026-07/FinCEN-Alert-Fraud-Schemes-Targeting-Federal-Student-Aid.pdf</id>
     <title>FIN-2026-Alert004</title>
-    <updated>2026-11-08T20:03:56.103013+00:00</updated>
+    <updated>2026-11-08T23:51:40.194471+00:00</updated>
     <link href="https://fincen.gov/system/files/2026-07/FinCEN-Alert-Fraud-Schemes-Targeting-Federal-Student-Aid.pdf"/>
     <summary>FinCEN</summary>
-    <published>2026-11-08T20:03:56.103012+00:00</published>
+    <published>2026-11-08T23:51:40.194470+00:00</published>
   </entry>
   <entry>
     <id>https://fincen.gov/system/files/2026-08/FinCEN-Alert-Scam-Centers.pdf</id>
     <title>FIN-2026-Alert005</title>
-    <updated>2026-11-08T20:03:56.103008+00:00</updated>
+    <updated>2026-11-08T23:51:40.194466+00:00</updated>
     <link href="https://fincen.gov/system/files/2026-08/FinCEN-Alert-Scam-Centers.pdf"/>
     <summary>FinCEN</summary>
-    <published>2026-11-08T20:03:56.103007+00:00</published>
+    <published>2026-11-08T23:51:40.194465+00:00</published>
   </entry>
   <entry>
     <id>https://fincen.gov/system/files/2026-09/FinCEN-Alert-Iranian-Commercial-Aviation.pdf</id>
     <title>FIN-2026-Alert006</title>
-    <updated>2026-11-08T20:03:56.102999+00:00</updated>
+    <updated>2026-11-08T23:51:40.194461+00:00</updated>
     <link href="https://fincen.gov/system/files/2026-09/FinCEN-Alert-Iranian-Commercial-Aviation.pdf"/>
     <summary>FinCEN</summary>
-    <published>2026-11-08T20:03:56.102998+00:00</published>
+    <published>2026-11-08T23:51:40.194461+00:00</published>
   </entry>
   <entry>
     <id>https://fincen.gov/system/files/2026-10/FinCEN-Alert-A7-Network.pdf</id>
     <title>FIN-2026-Alert007</title>
-    <updated>2026-11-08T20:03:56.102994+00:00</updated>
+    <updated>2026-11-08T23:51:40.194457+00:00</updated>
     <link href="https://fincen.gov/system/files/2026-10/FinCEN-Alert-A7-Network.pdf"/>
     <summary>FinCEN</summary>
-    <published>2026-11-08T20:03:56.102993+00:00</published>
+    <published>2026-11-08T23:51:40.194456+00:00</published>
   </entry>
   <entry>
     <id>https://fincen.gov/system/files/2026-10/FinCEN-Alert-Iranian-Charity-Network-Abuse.pdf</id>
     <title>FIN-2026-Alert008</title>
-    <updated>2026-11-08T20:03:56.102980+00:00</updated>
+    <updated>2026-11-08T23:51:40.194452+00:00</updated>
     <link href="https://fincen.gov/system/files/2026-10/FinCEN-Alert-Iranian-Charity-Network-Abuse.pdf"/>
     <summary>FinCEN</summary>
-    <published>2026-11-08T20:03:56.102977+00:00</published>
+    <published>2026-11-08T23:51:40.194451+00:00</published>
   </entry>
   <entry>
     <id>https://fincen.gov/system/files/2026-10/FinCEN-Alert-Foreign-Agent-Directed-Transactions.pdf</id>
     <title>FIN-2026-Alert009</title>
-    <updated>2026-11-08T20:03:56.102972+00:00</updated>
+    <updated>2026-11-08T23:51:40.194447+00:00</updated>
     <link href="https://fincen.gov/system/files/2026-10/FinCEN-Alert-Foreign-Agent-Directed-Transactions.pdf"/>
     <summary>FinCEN</summary>
-    <published>2026-11-08T20:03:56.102964+00:00</published>
+    <published>2026-11-08T23:51:40.194446+00:00</published>
   </entry>
   <entry>
     <id>https://fincen.gov/news/sar-technical-bulletins</id>
     <title>SAR Technical Bulletins</title>
-    <updated>2026-11-08T20:03:56.102959+00:00</updated>
+    <updated>2026-11-08T23:51:40.194442+00:00</updated>
     <link href="https://fincen.gov/news/sar-technical-bulletins"/>
     <summary>FinCEN</summary>
-    <published>2026-11-08T20:03:56.102958+00:00</published>
+    <published>2026-11-08T23:51:40.194441+00:00</published>
   </entry>
   <entry>
     <id>https://fincen.gov/news/enforcement-actions</id>
     <title>Enforcement Actions</title>
-    <updated>2026-11-08T20:03:56.102953+00:00</updated>
+    <updated>2026-11-08T23:51:40.194437+00:00</updated>
     <link href="https://fincen.gov/news/enforcement-actions"/>
     <summary>FinCEN</summary>
-    <published>2026-11-08T20:03:56.102952+00:00</published>
+    <published>2026-11-08T23:51:40.194436+00:00</published>
   </entry>
   <entry>
     <id>https://fincen.gov/news/remarks-statements</id>
     <title>Remarks and Statements</title>
-    <updated>2026-11-08T20:03:56.102802+00:00</updated>
+    <updated>2026-11-08T23:51:40.194432+00:00</updated>
     <link href="https://fincen.gov/news/remarks-statements"/>
     <summary>FinCEN</summary>
-    <published>2026-11-08T20:03:56.102801+00:00</published>
+    <published>2026-11-08T23:51:40.194431+00:00</published>
   </entry>
   <entry>
     <id>https://fincen.gov/whistleblower-program</id>
     <title>Whistleblower Program</title>
-    <updated>2026-11-08T20:03:56.102751+00:00</updated>
+    <updated>2026-11-08T23:51:40.194427+00:00</updated>
     <link href="https://fincen.gov/whistleblower-program"/>
     <summary>FinCEN</summary>
-    <published>2026-11-08T20:03:56.102750+00:00</published>
+    <published>2026-11-08T23:51:40.194426+00:00</published>
   </entry>
   <entry>
     <id>https://fincen.gov/resources/fincens-legal-authorities</id>
     <title>Statutes and Regulations</title>
-    <updated>2026-11-08T20:03:56.102745+00:00</updated>
+    <updated>2026-11-08T23:51:40.194423+00:00</updated>
     <link href="https://fincen.gov/resources/fincens-legal-authorities"/>
     <summary>FinCEN</summary>
-    <published>2026-11-08T20:03:56.102743+00:00</published>
+    <published>2026-11-08T23:51:40.194422+00:00</published>
   </entry>
   <entry>
     <id>https://fincen.gov/resources/suspicious-activity-report-sar-advisory-key-terms</id>
     <title>Suspicious Activity Report (SAR)</title>
-    <updated>2026-11-08T20:03:56.102734+00:00</updated>
+    <updated>2026-11-08T23:51:40.194417+00:00</updated>
     <link href="https://fincen.gov/resources/suspicious-activity-report-sar-advisory-key-terms"/>
     <summary>FinCEN</summary>
-    <published>2026-11-08T20:03:56.102729+00:00</published>
+    <published>2026-11-08T23:51:40.194416+00:00</published>
   </entry>
   <entry>
     <id>https://fincen.gov/rre</id>
     <title>Residential Real Estate Reporting</title>
-    <updated>2026-11-08T20:03:56.102723+00:00</updated>
+    <updated>2026-11-08T23:51:40.194411+00:00</updated>
     <link href="https://fincen.gov/rre"/>
     <summary>FinCEN</summary>
-    <published>2026-11-08T20:03:56.102717+00:00</published>
+    <published>2026-11-08T23:51:40.194410+00:00</published>
   </entry>
   <entry>
     <id>https://fincen.gov/resources/financial-institutions</id>
     <title>Financial Institutions</title>
-    <updated>2026-11-08T20:03:56.102712+00:00</updated>
+    <updated>2026-11-08T23:51:40.194403+00:00</updated>
     <link href="https://fincen.gov/resources/financial-institutions"/>
     <summary>FinCEN</summary>
-    <published>2026-11-08T20:03:56.102710+00:00</published>
+    <published>2026-11-08T23:51:40.194402+00:00</published>
   </entry>
   <entry>
     <id>https://fincen.gov/resources/financial-trend-analyses</id>
     <title>Financial Trend Analyses</title>
-    <updated>2026-11-08T20:03:56.102706+00:00</updated>
+    <updated>2026-11-08T23:51:40.194400+00:00</updated>
     <link href="https://fincen.gov/resources/financial-trend-analyses"/>
     <summary>FinCEN</summary>
-    <published>2026-11-08T20:03:56.102706+00:00</published>
+    <published>2026-11-08T23:51:40.194399+00:00</published>
   </entry>
   <entry>
     <id>https://fincen.gov/boi</id>
     <title>Beneficial Ownership Information Reporting</title>
-    <updated>2026-11-08T20:03:56.102702+00:00</updated>
+    <updated>2026-11-08T23:51:40.194396+00:00</updated>
     <link href="https://fincen.gov/boi"/>
     <summary>FinCEN</summary>
-    <published>2026-11-08T20:03:56.102701+00:00</published>
+    <published>2026-11-08T23:51:40.194396+00:00</published>
   </entry>
   <entry>
     <id>https://fincen.gov/resources/filing-information</id>
     <title>Bank Secrecy Act Filing Information</title>
-    <updated>2026-11-08T20:03:56.102692+00:00</updated>
+    <updated>2026-11-08T23:51:40.194393+00:00</updated>
     <link href="https://fincen.gov/resources/filing-information"/>
     <summary>FinCEN</summary>
-    <published>2026-11-08T20:03:56.102692+00:00</published>
+    <published>2026-11-08T23:51:40.194392+00:00</published>
   </entry>
   <entry>
     <id>https://fincen.gov/resources/advisoriesbulletinsfact-sheets</id>
     <title>Alerts/Advisories/Notices/ Bulletins/Fact Sheets</title>
-    <updated>2026-11-08T20:03:56.102688+00:00</updated>
+    <updated>2026-11-08T23:51:40.194389+00:00</updated>
     <link href="https://fincen.gov/resources/advisoriesbulletinsfact-sheets"/>
     <summary>FinCEN</summary>
-    <published>2026-11-08T20:03:56.102687+00:00</published>
+    <published>2026-11-08T23:51:40.194389+00:00</published>
   </entry>
   <entry>
     <id>https://fincen.gov/about-fincen/fincen-year-review</id>
     <title>FinCEN Year In Review</title>
-    <updated>2026-11-08T20:03:56.102683+00:00</updated>
+    <updated>2026-11-08T23:51:40.194385+00:00</updated>
     <link href="https://fincen.gov/about-fincen/fincen-year-review"/>
     <summary>FinCEN</summary>
-    <published>2026-11-08T20:03:56.102682+00:00</published>
+    <published>2026-11-08T23:51:40.194385+00:00</published>
   </entry>
   <entry>
     <id>https://fincen.gov/about-fincen/contract-opportunities</id>
     <title>Contract Opportunities</title>
-    <updated>2026-11-08T20:03:56.102671+00:00</updated>
+    <updated>2026-11-08T23:51:40.194381+00:00</updated>
     <link href="https://fincen.gov/about-fincen/contract-opportunities"/>
     <summary>FinCEN</summary>
-    <published>2026-11-08T20:03:56.102670+00:00</published>
+    <published>2026-11-08T23:51:40.194381+00:00</published>
   </entry>
   <entry>
     <id>https://fincen.gov/</id>
     <title>Financial Crimes Enforcement Network</title>
-    <updated>2026-11-08T20:03:56.102665+00:00</updated>
+    <updated>2026-11-08T23:51:40.194377+00:00</updated>
     <link href="https://fincen.gov/"/>
     <summary>FinCEN</summary>
-    <published>2026-11-08T20:03:56.102664+00:00</published>
+    <published>2026-11-08T23:51:40.194376+00:00</published>
   </entry>
   <entry>
     <id>#main-content</id>
     <title>Skip to main content</title>
-    <updated>2026-11-08T20:03:56.102650+00:00</updated>
+    <updated>2026-11-08T23:51:40.194365+00:00</updated>
     <link href="#main-content"/>
     <summary>FinCEN</summary>
-    <published>2026-11-08T20:03:56.102645+00:00</published>
+    <published>2026-11-08T23:51:40.194361+00:00</published>
   </entry>
 </feed>
