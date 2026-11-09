@@ -2,97 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:fcc</id>
   <title>FCC Recent Releases (Combined)</title>
-  <updated>2026-11-09T12:22:51.536156+00:00</updated>
+  <updated>2026-11-09T22:36:54.660455+00:00</updated>
   <link href="file:///feeds/fcc.xml" rel="self"/>
   <link href="https://api2.fcc.gov/api/exp/v1.0.0/edocspublic/rss" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: telecom / Mode: rss</subtitle>
   <entry>
-    <id>426545</id>
-    <title>The Public Safety and Homeland Security Bureau Announces Conditional Approval and Exemption of Certain Uncrewed Aircraft Systems, Routers, Power Inverters, and Advanced Robotic Devices from FCC Covere</title>
-    <updated>2026-11-09T12:22:51.536236+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426545"/>
+    <id>426667</id>
+    <title>Domestic Section 214 Application Filed for the Transfer of Control of Citizens Telephone Company of Kecksburg, Citizens Telecom Solutions, LLC, and Citizens Telecommunications Technologies, Inc. to Om</title>
+    <updated>2026-11-09T22:36:54.660556+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426667"/>
     <summary>.</summary>
-    <published>2026-11-09T12:22:51.536234+00:00</published>
+    <published>2026-11-09T22:36:54.660554+00:00</published>
   </entry>
   <entry>
-    <id>426550</id>
-    <title>Non Streamlined International Applications/Petitions Accepted For Filing - ITC</title>
-    <updated>2026-11-09T12:22:51.536229+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426550"/>
-    <summary>.</summary>
-    <published>2026-11-09T12:22:51.536228+00:00</published>
+    <id>426668</id>
+    <title>Opposition to Pet. for Writ of Mandamus - In re Media and Democracy Project, No. 26-1183 (D.C. Cir.)</title>
+    <updated>2026-11-09T22:36:54.660548+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426668"/>
+    <summary>Opp'n to Pet. for Writ of Mandamus - In re Media and Democracy Project</summary>
+    <published>2026-11-09T22:36:54.660546+00:00</published>
   </entry>
   <entry>
-    <id>426548</id>
-    <title>Streamlined International Applications Accepted For Filing - ITC</title>
-    <updated>2026-11-09T12:22:51.536222+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426548"/>
-    <summary>.</summary>
-    <published>2026-11-09T12:22:51.536220+00:00</published>
+    <id>426665</id>
+    <title>Vantiva USA LLC Petition for Expedited Waiver of Sections 2.932(b) and 2.1043(b) of the Commission's Rules to Permit Targeted Class I and Class II Permissive Hardware Changes to Covered Routers</title>
+    <updated>2026-11-09T22:36:54.660535+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426665"/>
+    <summary>OET grant the request of Vantiva USA LLC for a waiver of Sections 2.932(b) and 2.1043(b) of the Commission's rules to permit it to make necessary Class I and Class II permissive hardware changes .</summary>
+    <published>2026-11-09T22:36:54.660533+00:00</published>
   </entry>
   <entry>
-    <id>426546</id>
-    <title>Non-Streamlined Submarine Cable Landing License Applications - SCL</title>
-    <updated>2026-11-09T12:22:51.536215+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426546"/>
-    <summary>.</summary>
-    <published>2026-11-09T12:22:51.536214+00:00</published>
+    <id>426662</id>
+    <title>PSHSB Announces Region 17 (Kentucky) RPCs to Hold 700 MHZ and 800 MHZ Meetings</title>
+    <updated>2026-11-09T22:36:54.660528+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426662"/>
+    <summary>Announces Region 17 (Kentucky) RPC Meetings for 700 MHZ and 800 MHZ</summary>
+    <published>2026-11-09T22:36:54.660527+00:00</published>
   </entry>
   <entry>
-    <id>426541</id>
-    <title>Satellite Licensing Division and Satellite Programs and Policy Division Information - SAT - Accepted for Filing</title>
-    <updated>2026-11-09T12:22:51.536208+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426541"/>
-    <summary>.</summary>
-    <published>2026-11-09T12:22:51.536206+00:00</published>
-  </entry>
-  <entry>
-    <id>426534</id>
-    <title>Applications</title>
-    <updated>2026-11-09T12:22:51.536196+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426534"/>
-    <summary>.</summary>
-    <published>2026-11-09T12:22:51.536194+00:00</published>
-  </entry>
-  <entry>
-    <id>426535</id>
-    <title>Actions</title>
-    <updated>2026-11-09T12:22:51.536189+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426535"/>
-    <summary>.</summary>
-    <published>2026-11-09T12:22:51.536188+00:00</published>
-  </entry>
-  <entry>
-    <id>426537</id>
-    <title>Effective Dates for Telecommunications Relay Services Rules Requiring OMB Approval</title>
-    <updated>2026-11-09T12:22:51.536184+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426537"/>
-    <summary>Announcing the effective date of certain TRS rules after OMB approval and publication in the Federal Register.</summary>
-    <published>2026-11-09T12:22:51.536183+00:00</published>
-  </entry>
-  <entry>
-    <id>426538</id>
-    <title>Media Bureau Extends the Filing Window for New Noncommercial Educational Reserved Band FM Translator Station Applications</title>
-    <updated>2026-11-09T12:22:51.536179+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426538"/>
-    <summary>.</summary>
-    <published>2026-11-09T12:22:51.536179+00:00</published>
-  </entry>
-  <entry>
-    <id>426536</id>
+    <id>426656</id>
     <title>Pleadings</title>
-    <updated>2026-11-09T12:22:51.536174+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426536"/>
+    <updated>2026-11-09T22:36:54.660518+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426656"/>
     <summary>.</summary>
-    <published>2026-11-09T12:22:51.536173+00:00</published>
+    <published>2026-11-09T22:36:54.660516+00:00</published>
   </entry>
   <entry>
-    <id>426542</id>
-    <title>Satellite Licensing Division and Satellite Programs and Policy Division Information - SAT - Actions Taken</title>
-    <updated>2026-11-09T12:22:51.536163+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426542"/>
+    <id>426654</id>
+    <title>Applications</title>
+    <updated>2026-11-09T22:36:54.660490+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426654"/>
     <summary>.</summary>
-    <published>2026-11-09T12:22:51.536159+00:00</published>
+    <published>2026-11-09T22:36:54.660489+00:00</published>
+  </entry>
+  <entry>
+    <id>426655</id>
+    <title>Actions</title>
+    <updated>2026-11-09T22:36:54.660481+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426655"/>
+    <summary>.</summary>
+    <published>2026-11-09T22:36:54.660479+00:00</published>
+  </entry>
+  <entry>
+    <id>426658</id>
+    <title>Chairman Carr Announces New Legal Advisor</title>
+    <updated>2026-11-09T22:36:54.660464+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426658"/>
+    <summary>.</summary>
+    <published>2026-11-09T22:36:54.660459+00:00</published>
   </entry>
 </feed>
