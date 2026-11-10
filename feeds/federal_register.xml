@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:federal_register</id>
   <title>Federal Register - All Documents</title>
-  <updated>2026-11-10T12:51:26.734972+00:00</updated>
+  <updated>2026-11-10T20:06:32.759021+00:00</updated>
   <link href="file:///feeds/federal_register.xml" rel="self"/>
   <link href="https://www.federalregister.gov/api/v1/documents.json" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -10,7 +10,7 @@
   <entry>
     <id>fr:2026-22917</id>
     <title>Office of the Secretary; Notice of Meeting</title>
-    <updated>2026-11-10T12:51:26.736421+00:00</updated>
+    <updated>2026-11-10T20:06:32.759935+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/11/10/2026-22917/office-of-the-secretary-notice-of-meeting"/>
     <summary>Health and Human Services Department — 2026-22917</summary>
     <published>2026-11-10T00:00:00+00:00</published>
@@ -18,7 +18,7 @@
   <entry>
     <id>fr:2026-22918</id>
     <title>President's Council of Advisors on Science and Technology (PCAST)</title>
-    <updated>2026-11-10T12:51:26.736384+00:00</updated>
+    <updated>2026-11-10T20:06:32.759912+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/11/10/2026-22918/presidents-council-of-advisors-on-science-and-technology-pcast"/>
     <summary>Energy Department — 2026-22918</summary>
     <published>2026-11-10T00:00:00+00:00</published>
@@ -26,7 +26,7 @@
   <entry>
     <id>fr:2026-22919</id>
     <title>Airworthiness Directives; Airbus Canada Limited Partnership (Type Certificate Previously Held by C Series Aircraft Limited Partnership (CSALP); Bombardier, Inc.) Airplanes</title>
-    <updated>2026-11-10T12:51:26.736344+00:00</updated>
+    <updated>2026-11-10T20:06:32.759891+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/11/10/2026-22919/airworthiness-directives-airbus-canada-limited-partnership-type-certificate-previously-held-by-c"/>
     <summary>Transportation Department — 2026-22919</summary>
     <published>2026-11-10T00:00:00+00:00</published>
@@ -34,7 +34,7 @@
   <entry>
     <id>fr:2026-22920</id>
     <title>Notice of Public Meeting of the Wisconsin Advisory Committee to the U.S. Commission on Civil Rights</title>
-    <updated>2026-11-10T12:51:26.736302+00:00</updated>
+    <updated>2026-11-10T20:06:32.759866+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/11/10/2026-22920/notice-of-public-meeting-of-the-wisconsin-advisory-committee-to-the-us-commission-on-civil-rights"/>
     <summary>Civil Rights Commission — 2026-22920</summary>
     <published>2026-11-10T00:00:00+00:00</published>
@@ -42,7 +42,7 @@
   <entry>
     <id>fr:2026-22921</id>
     <title>Notice of Public Meeting of the Tennessee Advisory Committee</title>
-    <updated>2026-11-10T12:51:26.736264+00:00</updated>
+    <updated>2026-11-10T20:06:32.759843+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/11/10/2026-22921/notice-of-public-meeting-of-the-tennessee-advisory-committee"/>
     <summary>Civil Rights Commission — 2026-22921</summary>
     <published>2026-11-10T00:00:00+00:00</published>
@@ -50,7 +50,7 @@
   <entry>
     <id>fr:2026-22923</id>
     <title>Prestressed Concrete Steel Wire Strand From China; Determinations</title>
-    <updated>2026-11-10T12:51:26.736226+00:00</updated>
+    <updated>2026-11-10T20:06:32.759821+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/11/10/2026-22923/prestressed-concrete-steel-wire-strand-from-china-determinations"/>
     <summary>International Trade Commission — 2026-22923</summary>
     <published>2026-11-10T00:00:00+00:00</published>
@@ -58,7 +58,7 @@
   <entry>
     <id>fr:2026-22924</id>
     <title>Agency Information Collection Activities; Submission to the Office of Management and Budget for Review and Approval; Comment Request; Response to Office Action and Voluntary Amendment Forms</title>
-    <updated>2026-11-10T12:51:26.736190+00:00</updated>
+    <updated>2026-11-10T20:06:32.759800+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/11/10/2026-22924/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-for"/>
     <summary>Commerce Department — 2026-22924</summary>
     <published>2026-11-10T00:00:00+00:00</published>
@@ -66,7 +66,7 @@
   <entry>
     <id>fr:2026-22925</id>
     <title>Notice of Product Exclusion Extensions: China's Acts, Policies, and Practices Related to Technology Transfer, Intellectual Property, and Innovation</title>
-    <updated>2026-11-10T12:51:26.736153+00:00</updated>
+    <updated>2026-11-10T20:06:32.759780+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/11/10/2026-22925/notice-of-product-exclusion-extensions-chinas-acts-policies-and-practices-related-to-technology"/>
     <summary>Trade Representative, Office of United States — 2026-22925</summary>
     <published>2026-11-10T00:00:00+00:00</published>
@@ -74,7 +74,7 @@
   <entry>
     <id>fr:2026-22926</id>
     <title>Notice of Petition for Extension of Waiver of Compliance</title>
-    <updated>2026-11-10T12:51:26.736115+00:00</updated>
+    <updated>2026-11-10T20:06:32.759759+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/11/10/2026-22926/notice-of-petition-for-extension-of-waiver-of-compliance"/>
     <summary>Transportation Department — 2026-22926</summary>
     <published>2026-11-10T00:00:00+00:00</published>
@@ -82,7 +82,7 @@
   <entry>
     <id>fr:2026-22927</id>
     <title>North Pacific Fishery Management Council; Public Meeting</title>
-    <updated>2026-11-10T12:51:26.736077+00:00</updated>
+    <updated>2026-11-10T20:06:32.759739+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/11/10/2026-22927/north-pacific-fishery-management-council-public-meeting"/>
     <summary>Commerce Department — 2026-22927</summary>
     <published>2026-11-10T00:00:00+00:00</published>
@@ -90,7 +90,7 @@
   <entry>
     <id>fr:2026-22928</id>
     <title>Airworthiness Directives; Leonardo S.p.a. Helicopters</title>
-    <updated>2026-11-10T12:51:26.736039+00:00</updated>
+    <updated>2026-11-10T20:06:32.759718+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/11/10/2026-22928/airworthiness-directives-leonardo-spa-helicopters"/>
     <summary>Transportation Department — 2026-22928</summary>
     <published>2026-11-10T00:00:00+00:00</published>
@@ -98,7 +98,7 @@
   <entry>
     <id>fr:2026-22929</id>
     <title>Notice of Petition for Extension of Waiver of Compliance</title>
-    <updated>2026-11-10T12:51:26.736001+00:00</updated>
+    <updated>2026-11-10T20:06:32.759698+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/11/10/2026-22929/notice-of-petition-for-extension-of-waiver-of-compliance"/>
     <summary>Transportation Department — 2026-22929</summary>
     <published>2026-11-10T00:00:00+00:00</published>
@@ -106,7 +106,7 @@
   <entry>
     <id>fr:2026-22930</id>
     <title>Commission Meeting</title>
-    <updated>2026-11-10T12:51:26.735962+00:00</updated>
+    <updated>2026-11-10T20:06:32.759676+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/11/10/2026-22930/commission-meeting"/>
     <summary>Susquehanna River Basin Commission — 2026-22930</summary>
     <published>2026-11-10T00:00:00+00:00</published>
@@ -114,7 +114,7 @@
   <entry>
     <id>fr:2026-22931</id>
     <title>Projects Approved for Consumptive Uses of Water</title>
-    <updated>2026-11-10T12:51:26.735923+00:00</updated>
+    <updated>2026-11-10T20:06:32.759655+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/11/10/2026-22931/projects-approved-for-consumptive-uses-of-water"/>
     <summary>Susquehanna River Basin Commission — 2026-22931</summary>
     <published>2026-11-10T00:00:00+00:00</published>
@@ -122,7 +122,7 @@
   <entry>
     <id>fr:2026-22932</id>
     <title>Minor Modification Approval</title>
-    <updated>2026-11-10T12:51:26.735884+00:00</updated>
+    <updated>2026-11-10T20:06:32.759634+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/11/10/2026-22932/minor-modification-approval"/>
     <summary>Susquehanna River Basin Commission — 2026-22932</summary>
     <published>2026-11-10T00:00:00+00:00</published>
@@ -130,7 +130,7 @@
   <entry>
     <id>fr:2026-22933</id>
     <title>Membership of the Performance Review Boards</title>
-    <updated>2026-11-10T12:51:26.735846+00:00</updated>
+    <updated>2026-11-10T20:06:32.759612+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/11/10/2026-22933/membership-of-the-performance-review-boards"/>
     <summary>Commerce Department — 2026-22933</summary>
     <published>2026-11-10T00:00:00+00:00</published>
@@ -138,7 +138,7 @@
   <entry>
     <id>fr:2026-22934</id>
     <title>Amtrak's Request To Amend Its Positive Train Control Safety Plan and Positive Train Control System</title>
-    <updated>2026-11-10T12:51:26.735808+00:00</updated>
+    <updated>2026-11-10T20:06:32.759592+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/11/10/2026-22934/amtraks-request-to-amend-its-positive-train-control-safety-plan-and-positive-train-control-system"/>
     <summary>Transportation Department — 2026-22934</summary>
     <published>2026-11-10T00:00:00+00:00</published>
@@ -146,7 +146,7 @@
   <entry>
     <id>fr:2026-22935</id>
     <title>Foreign-Trade Zone (FTZ) 216; Authorization of Production Activity; Essex Laboratories LLC; (Mint Oil Blends); Chehalis, Washington</title>
-    <updated>2026-11-10T12:51:26.735769+00:00</updated>
+    <updated>2026-11-10T20:06:32.759570+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/11/10/2026-22935/foreign-trade-zone-ftz-216-authorization-of-production-activity-essex-laboratories-llc-mint-oil"/>
     <summary>Commerce Department — 2026-22935</summary>
     <published>2026-11-10T00:00:00+00:00</published>
@@ -154,7 +154,7 @@
   <entry>
     <id>fr:2026-22936</id>
     <title>Supplemental Nutrition Assistance Program: Reforming Categorical Eligibility</title>
-    <updated>2026-11-10T12:51:26.735729+00:00</updated>
+    <updated>2026-11-10T20:06:32.759548+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/11/10/2026-22936/supplemental-nutrition-assistance-program-reforming-categorical-eligibility"/>
     <summary>Agriculture Department — 2026-22936</summary>
     <published>2026-11-10T00:00:00+00:00</published>
@@ -162,7 +162,7 @@
   <entry>
     <id>fr:2026-22937</id>
     <title>Tin Mill Products From the Republic of Türkiye: Preliminary Affirmative Determination of Sales at Less Than Fair Value, and Preliminary Affirmative Determination of Critical Circumstances, in Part</title>
-    <updated>2026-11-10T12:51:26.735688+00:00</updated>
+    <updated>2026-11-10T20:06:32.759524+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/11/10/2026-22937/tin-mill-products-from-the-republic-of-trkiye-preliminary-affirmative-determination-of-sales-at-less"/>
     <summary>Commerce Department — 2026-22937</summary>
     <published>2026-11-10T00:00:00+00:00</published>
@@ -170,7 +170,7 @@
   <entry>
     <id>fr:2026-22938</id>
     <title>Tin Mill Products From Taiwan: Preliminary Affirmative Determination of Sales at Less Than Fair Value, Postponement of Final Determination, and Extension of Provisional Measures</title>
-    <updated>2026-11-10T12:51:26.735648+00:00</updated>
+    <updated>2026-11-10T20:06:32.759502+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/11/10/2026-22938/tin-mill-products-from-taiwan-preliminary-affirmative-determination-of-sales-at-less-than-fair-value"/>
     <summary>Commerce Department — 2026-22938</summary>
     <published>2026-11-10T00:00:00+00:00</published>
@@ -178,7 +178,7 @@
   <entry>
     <id>fr:2026-22939</id>
     <title>Polytetramethylene Ether Glycol From the Socialist Republic of Vietnam: Preliminary Affirmative Determination of Sales at Less Than Fair Value, Postponement of Final Determination, and Extension of Pr</title>
-    <updated>2026-11-10T12:51:26.735605+00:00</updated>
+    <updated>2026-11-10T20:06:32.759480+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/11/10/2026-22939/polytetramethylene-ether-glycol-from-the-socialist-republic-of-vietnam-preliminary-affirmative"/>
     <summary>Commerce Department — 2026-22939</summary>
     <published>2026-11-10T00:00:00+00:00</published>
@@ -186,7 +186,7 @@
   <entry>
     <id>fr:2026-22940</id>
     <title>Polytetramethylene Ether Glycol From Taiwan: Preliminary Affirmative Determination of Sales at Less Than Fair Value, Postponement of Final Determination, and Extension of Provisional Measures</title>
-    <updated>2026-11-10T12:51:26.735551+00:00</updated>
+    <updated>2026-11-10T20:06:32.759458+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/11/10/2026-22940/polytetramethylene-ether-glycol-from-taiwan-preliminary-affirmative-determination-of-sales-at-less"/>
     <summary>Commerce Department — 2026-22940</summary>
     <published>2026-11-10T00:00:00+00:00</published>
@@ -194,7 +194,7 @@
   <entry>
     <id>fr:2026-22941</id>
     <title>Polytetramethylene Ether Glycol From the Republic of Korea: Preliminary Affirmative Determination of Sales at Less Than Fair Value, Postponement of Final Determination, and Extension of Provisional Me</title>
-    <updated>2026-11-10T12:51:26.735474+00:00</updated>
+    <updated>2026-11-10T20:06:32.759435+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/11/10/2026-22941/polytetramethylene-ether-glycol-from-the-republic-of-korea-preliminary-affirmative-determination-of"/>
     <summary>Commerce Department — 2026-22941</summary>
     <published>2026-11-10T00:00:00+00:00</published>
@@ -202,7 +202,7 @@
   <entry>
     <id>fr:2026-22942</id>
     <title>Polytetramethylene Ether Glycol From the People's Republic of China: Preliminary Affirmative Determination of Sales at Less Than Fair Value</title>
-    <updated>2026-11-10T12:51:26.735434+00:00</updated>
+    <updated>2026-11-10T20:06:32.759409+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/11/10/2026-22942/polytetramethylene-ether-glycol-from-the-peoples-republic-of-china-preliminary-affirmative"/>
     <summary>Commerce Department — 2026-22942</summary>
     <published>2026-11-10T00:00:00+00:00</published>
@@ -210,7 +210,7 @@
   <entry>
     <id>fr:2026-22943</id>
     <title>Certain Magnesia Carbon Bricks From the People's Republic of China: Initiation of Circumvention Inquiry on the Antidumping and Countervailing Duty Orders</title>
-    <updated>2026-11-10T12:51:26.735391+00:00</updated>
+    <updated>2026-11-10T20:06:32.759380+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/11/10/2026-22943/certain-magnesia-carbon-bricks-from-the-peoples-republic-of-china-initiation-of-circumvention"/>
     <summary>Commerce Department — 2026-22943</summary>
     <published>2026-11-10T00:00:00+00:00</published>
@@ -218,7 +218,7 @@
   <entry>
     <id>fr:2026-22944</id>
     <title>Modification to Work Requirements for Able-Bodied Adults</title>
-    <updated>2026-11-10T12:51:26.735345+00:00</updated>
+    <updated>2026-11-10T20:06:32.759348+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/11/10/2026-22944/modification-to-work-requirements-for-able-bodied-adults"/>
     <summary>Agriculture Department — 2026-22944</summary>
     <published>2026-11-10T00:00:00+00:00</published>
@@ -226,7 +226,7 @@
   <entry>
     <id>fr:2026-22951</id>
     <title>Special Conditions: Gulfstream Aerospace Corporation, Model GVII-G400 Airplane; Flight Envelope Protection: Takeoff Stall Protection</title>
-    <updated>2026-11-10T12:51:26.735299+00:00</updated>
+    <updated>2026-11-10T20:06:32.759314+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/11/10/2026-22951/special-conditions-gulfstream-aerospace-corporation-model-gvii-g400-airplane-flight-envelope"/>
     <summary>Transportation Department — 2026-22951</summary>
     <published>2026-11-10T00:00:00+00:00</published>
@@ -234,7 +234,7 @@
   <entry>
     <id>fr:2026-22953</id>
     <title>Inspection Programs for Single-Engine Turbine-Powered Airplanes and Unmanned Aircraft; and Miscellaneous Maintenance-Related Updates</title>
-    <updated>2026-11-10T12:51:26.735232+00:00</updated>
+    <updated>2026-11-10T20:06:32.759263+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/11/10/2026-22953/inspection-programs-for-single-engine-turbine-powered-airplanes-and-unmanned-aircraft-and"/>
     <summary>Transportation Department — 2026-22953</summary>
     <published>2026-11-10T00:00:00+00:00</published>
@@ -242,7 +242,7 @@
   <entry>
     <id>fr:2026-22962</id>
     <title>Imposition of Special Measure Prohibiting the Transmittal of Funds Involving MEXC Global</title>
-    <updated>2026-11-10T12:51:26.735136+00:00</updated>
+    <updated>2026-11-10T20:06:32.759177+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/11/10/2026-22962/imposition-of-special-measure-prohibiting-the-transmittal-of-funds-involving-mexc-global"/>
     <summary>Treasury Department — 2026-22962</summary>
     <published>2026-11-10T00:00:00+00:00</published>
