@@ -2,47 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:techcrunch</id>
   <title>TechCrunch - All</title>
-  <updated>2026-11-09T22:36:00.789622+00:00</updated>
+  <updated>2026-11-10T04:26:34.868260+00:00</updated>
   <link href="file:///feeds/techcrunch.xml" rel="self"/>
   <link href="https://techcrunch.com/feed/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: tech / Mode: rss</subtitle>
   <entry>
-    <id>https://techcrunch.com/?p=3102406</id>
-    <title>Apps to distract you from the endless cycle of doomscrolling</title>
-    <updated>2026-11-09T22:36:00.791197+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/"/>
-    <summary>It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content that’s engaging and productive.</summary>
-    <published>2026-11-08T22:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3186150</id>
-    <title>Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s ‘about a 50-50’</title>
-    <updated>2026-11-09T22:36:00.791133+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/"/>
-    <summary>Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.</summary>
-    <published>2026-11-09T05:26:29+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3186162</id>
-    <title>Tesla expands robotaxi service to San Antonio</title>
-    <updated>2026-11-09T22:36:00.791068+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/"/>
-    <summary>This will be the next Texas city in which Tesla will launch robotaxis.</summary>
-    <published>2026-11-09T11:30:24+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3186189</id>
-    <title>Musk says Tesla will refund some Cybertruck deposits, defends decision to end production</title>
-    <updated>2026-11-09T22:36:00.791004+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/"/>
-    <summary>Elon Musk defended the company's decision to stop making the Cybertruck, which will go out of production in around eight months.</summary>
-    <published>2026-11-09T13:43:28+00:00</published>
-  </entry>
-  <entry>
     <id>https://techcrunch.com/?p=3186097</id>
     <title>Automattic debuts a platform to deploy vibe-coding apps amid a changing internet</title>
-    <updated>2026-11-09T22:36:00.790940+00:00</updated>
+    <updated>2026-11-10T04:26:34.870212+00:00</updated>
     <link href="https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/"/>
     <summary>Automattic aims to compete with the likes of Lovable with Spacefast.</summary>
     <published>2026-11-09T14:00:00+00:00</published>
@@ -50,7 +18,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3185971</id>
     <title>Meet Drops, the new music app bringing back the fun of sharing songs with friends</title>
-    <updated>2026-11-09T22:36:00.790875+00:00</updated>
+    <updated>2026-11-10T04:26:34.870107+00:00</updated>
     <link href="https://techcrunch.com/2026/11/09/meet-drops-the-new-music-app-bringing-back-the-fun-of-sharing-songs-with-friends/"/>
     <summary>The new music discovery app lets users scroll through 10- to 30-second snippets of songs, comment, and share with friends.</summary>
     <published>2026-11-09T14:00:00+00:00</published>
@@ -58,7 +26,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3186228</id>
     <title>Waymo robotaxis kept illegally passing school buses after software fix, feds say</title>
-    <updated>2026-11-09T22:36:00.790812+00:00</updated>
+    <updated>2026-11-10T04:26:34.870022+00:00</updated>
     <link href="https://techcrunch.com/2026/11/09/waymo-robotaxis-kept-illegally-passing-school-buses-after-software-fix-feds-say/"/>
     <summary>The update to Waymo's self-driving system was rolled out nearly a year ago.</summary>
     <published>2026-11-09T15:24:59+00:00</published>
@@ -66,7 +34,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3186230</id>
     <title>Meta expands Instagram’s AI age-guessing tech globally</title>
-    <updated>2026-11-09T22:36:00.790749+00:00</updated>
+    <updated>2026-11-10T04:26:34.869936+00:00</updated>
     <link href="https://techcrunch.com/2026/11/09/meta-expands-instagrams-ai-age-guessing-tech-globally/"/>
     <summary>Meta says it will use its AI technology to look for clues about people it suspects to be teenagers — even if they use an adult birthday.</summary>
     <published>2026-11-09T15:32:27+00:00</published>
@@ -74,7 +42,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3186240</id>
     <title>Medium’s new TK app brings AI assistance directly into the writing process</title>
-    <updated>2026-11-09T22:36:00.790681+00:00</updated>
+    <updated>2026-11-10T04:26:34.869851+00:00</updated>
     <link href="https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/"/>
     <summary>Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.</summary>
     <published>2026-11-09T16:12:28+00:00</published>
@@ -82,7 +50,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3186273</id>
     <title>Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines</title>
-    <updated>2026-11-09T22:36:00.790613+00:00</updated>
+    <updated>2026-11-10T04:26:34.869765+00:00</updated>
     <link href="https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/"/>
     <summary>Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse.</summary>
     <published>2026-11-09T16:56:54+00:00</published>
@@ -90,7 +58,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3186165</id>
     <title>Uber launches parking service following SpotHero acquisition, with an eye on robotaxis</title>
-    <updated>2026-11-09T22:36:00.790541+00:00</updated>
+    <updated>2026-11-10T04:26:34.869679+00:00</updated>
     <link href="https://techcrunch.com/2026/11/09/uber-launches-parking-service-following-spothero-acquisition-with-an-eye-on-robotaxis/"/>
     <summary>Uber Parking is the latest example of the company offering products beyond its core ride-hailing service.</summary>
     <published>2026-11-09T17:00:00+00:00</published>
@@ -98,7 +66,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3186298</id>
     <title>Meta releases Muse Ember, a new lightweight model for agent execution</title>
-    <updated>2026-11-09T22:36:00.790445+00:00</updated>
+    <updated>2026-11-10T04:26:34.869594+00:00</updated>
     <link href="https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/"/>
     <summary>At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.</summary>
     <published>2026-11-09T18:00:00+00:00</published>
@@ -106,7 +74,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3186336</id>
     <title>Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny</title>
-    <updated>2026-11-09T22:36:00.790371+00:00</updated>
+    <updated>2026-11-10T04:26:34.869508+00:00</updated>
     <link href="https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/"/>
     <summary>Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.</summary>
     <published>2026-11-09T18:09:52+00:00</published>
@@ -114,7 +82,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3186412</id>
     <title>France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks</title>
-    <updated>2026-11-09T22:36:00.790296+00:00</updated>
+    <updated>2026-11-10T04:26:34.869422+00:00</updated>
     <link href="https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks/"/>
     <summary>France's foreign minister blamed Iran for launching at least two waves of cyberattacks targeting industrial refrigerated and freezer units across France and wider Europe.</summary>
     <published>2026-11-09T19:19:24+00:00</published>
@@ -122,7 +90,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3186344</id>
     <title>AI hardware startup Nominal triples valuation to $3B in 8 months</title>
-    <updated>2026-11-09T22:36:00.790223+00:00</updated>
+    <updated>2026-11-10T04:26:34.869334+00:00</updated>
     <link href="https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/"/>
     <summary>Nominal, a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer, has raised another big round of financing that triples its valuation.</summary>
     <published>2026-11-09T19:21:46+00:00</published>
@@ -130,7 +98,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3186369</id>
     <title>Anthropic releases new Mythos and Fable models amid RSI concerns</title>
-    <updated>2026-11-09T22:36:00.790148+00:00</updated>
+    <updated>2026-11-10T04:26:34.869239+00:00</updated>
     <link href="https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/"/>
     <summary>Anthropic says the new models "show improvements in areas like coding, reasoning, and vision," as well as in communicating more clearly with users.</summary>
     <published>2026-11-09T19:24:51+00:00</published>
@@ -138,7 +106,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3186464</id>
     <title>YouTube streaming data returns to Billboard charts, ending major disagreement</title>
-    <updated>2026-11-09T22:36:00.790069+00:00</updated>
+    <updated>2026-11-10T04:26:34.869116+00:00</updated>
     <link href="https://techcrunch.com/2026/11/09/youtube-streaming-data-returns-to-billboard-charts-ending-major-disagreement/"/>
     <summary>YouTube will resume sharing streaming data with Billboard in 2027 after changes to the chart formula give more weight to free, ad-supported music streams.</summary>
     <published>2026-11-09T19:39:41+00:00</published>
@@ -146,7 +114,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3186477</id>
     <title>Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy</title>
-    <updated>2026-11-09T22:36:00.789990+00:00</updated>
+    <updated>2026-11-10T04:26:34.869028+00:00</updated>
     <link href="https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/"/>
     <summary>The Nvidia CEO also pulled out of an Anthropic event earlier.</summary>
     <published>2026-11-09T20:09:06+00:00</published>
@@ -154,7 +122,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3186406</id>
     <title>Fervo now has $12B in orders for its geothermal power tech</title>
-    <updated>2026-11-09T22:36:00.789907+00:00</updated>
+    <updated>2026-11-10T04:26:34.868936+00:00</updated>
     <link href="https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/"/>
     <summary>Geothermal company Fervo is targeting natural gas as it brings down geothermal drilling costs at its 8.4 GW resource in Utah.</summary>
     <published>2026-11-09T20:55:34+00:00</published>
@@ -162,9 +130,41 @@
   <entry>
     <id>https://techcrunch.com/?p=3186479</id>
     <title>The race is on to sue Nvidia</title>
-    <updated>2026-11-09T22:36:00.789808+00:00</updated>
+    <updated>2026-11-10T04:26:34.868845+00:00</updated>
     <link href="https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/"/>
     <summary>Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a very expensive problem.</summary>
     <published>2026-11-09T22:23:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3186581</id>
+    <title>A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal</title>
+    <updated>2026-11-10T04:26:34.868746+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/"/>
+    <summary>Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.</summary>
+    <published>2026-11-09T22:46:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3186559</id>
+    <title>Hotel giant Wyndham exposed customer data after app security lapse</title>
+    <updated>2026-11-10T04:26:34.868651+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/"/>
+    <summary>Exclusive: Wyndham left a hardcoded credential in its customer app, allowing anyone to access customer data. The hotel giant wouldn't say if it has the ability to check for any past unauthorized access.</summary>
+    <published>2026-11-09T23:03:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3186628</id>
+    <title>Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago</title>
+    <updated>2026-11-10T04:26:34.868557+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/"/>
+    <summary>The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.</summary>
+    <published>2026-11-09T23:28:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3186715</id>
+    <title>Anthropic reportedly plans to move forward with IPO plans</title>
+    <updated>2026-11-10T04:26:34.868447+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/"/>
+    <summary>The AI company is expected to set its valuation range this week, the Wall Street Journal reported.</summary>
+    <published>2026-11-10T01:27:12+00:00</published>
   </entry>
 </feed>

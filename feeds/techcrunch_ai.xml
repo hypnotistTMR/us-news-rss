@@ -2,39 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:techcrunch_ai</id>
   <title>TechCrunch - AI</title>
-  <updated>2026-11-09T22:36:00.827151+00:00</updated>
+  <updated>2026-11-10T04:26:34.886030+00:00</updated>
   <link href="file:///feeds/techcrunch_ai.xml" rel="self"/>
   <link href="https://techcrunch.com/category/artificial-intelligence/feed/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: tech / Mode: rss</subtitle>
   <entry>
-    <id>https://techcrunch.com/?p=3185848</id>
-    <title>Ramp data shows AI spending stalling just as Anthropic nears its IPO</title>
-    <updated>2026-11-09T22:36:00.828839+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/"/>
-    <summary>AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.</summary>
-    <published>2026-11-06T15:54:47+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?post_type=tc_video&amp;p=3185895</id>
-    <title>After the midterms, is the AI industry in for a rough two years?</title>
-    <updated>2026-11-09T22:36:00.828777+00:00</updated>
-    <link href="https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/"/>
-    <summary>Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a [&amp;#8230;]</summary>
-    <published>2026-11-06T17:23:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?post_type=tc_podcast&amp;p=3185898</id>
-    <title>How a Blue Wave midterm might reshape the AI industry</title>
-    <updated>2026-11-09T22:36:00.828714+00:00</updated>
-    <link href="https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/"/>
-    <summary>Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a [&amp;#8230;]</summary>
-    <published>2026-11-06T18:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://techcrunch.com/?p=3185929</id>
     <title>Meta introduces Spaces, a new way to collaborate with your Muse agent</title>
-    <updated>2026-11-09T22:36:00.828649+00:00</updated>
+    <updated>2026-11-10T04:26:34.888070+00:00</updated>
     <link href="https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/"/>
     <summary>Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.</summary>
     <published>2026-11-06T18:44:20+00:00</published>
@@ -42,7 +18,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3185905</id>
     <title>Hundreds of Artex AI hacking tools found publicly exposed to the web</title>
-    <updated>2026-11-09T22:36:00.828586+00:00</updated>
+    <updated>2026-11-10T04:26:34.887985+00:00</updated>
     <link href="https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/"/>
     <summary>Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.</summary>
     <published>2026-11-06T18:44:38+00:00</published>
@@ -50,7 +26,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3186034</id>
     <title>OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation</title>
-    <updated>2026-11-09T22:36:00.828490+00:00</updated>
+    <updated>2026-11-10T04:26:34.887900+00:00</updated>
     <link href="https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"/>
     <summary>OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.</summary>
     <published>2026-11-06T22:53:46+00:00</published>
@@ -58,7 +34,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3186051</id>
     <title>Crusoe sells troubled Wyoming data center project to Google</title>
-    <updated>2026-11-09T22:36:00.828426+00:00</updated>
+    <updated>2026-11-10T04:26:34.887814+00:00</updated>
     <link href="https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/"/>
     <summary>The deal highlights the challenges of developing massive AI data centers.</summary>
     <published>2026-11-07T01:40:28+00:00</published>
@@ -66,7 +42,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3186018</id>
     <title>From the front row to the hot seat — what the midterms mean for Big Tech</title>
-    <updated>2026-11-09T22:36:00.828360+00:00</updated>
+    <updated>2026-11-10T04:26:34.887729+00:00</updated>
     <link href="https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/"/>
     <summary>After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do.</summary>
     <published>2026-11-07T04:16:43+00:00</published>
@@ -74,7 +50,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3186087</id>
     <title>Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo</title>
-    <updated>2026-11-09T22:36:00.828293+00:00</updated>
+    <updated>2026-11-10T04:26:34.887645+00:00</updated>
     <link href="https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/"/>
     <summary>A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.</summary>
     <published>2026-11-07T21:17:08+00:00</published>
@@ -82,7 +58,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3186091</id>
     <title>After the midterms, things are looking rocky for Elon Musk and data centers</title>
-    <updated>2026-11-09T22:36:00.828228+00:00</updated>
+    <updated>2026-11-10T04:26:34.887560+00:00</updated>
     <link href="https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/"/>
     <summary>On Equity, we unpacked what the midterms mean for the tech industry.</summary>
     <published>2026-11-07T22:07:22+00:00</published>
@@ -90,7 +66,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3186128</id>
     <title>Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy</title>
-    <updated>2026-11-09T22:36:00.828160+00:00</updated>
+    <updated>2026-11-10T04:26:34.887476+00:00</updated>
     <link href="https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/"/>
     <summary>In a memo to the company, Huang admitted that he had an affair.</summary>
     <published>2026-11-08T21:00:11+00:00</published>
@@ -98,7 +74,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3186150</id>
     <title>Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s ‘about a 50-50’</title>
-    <updated>2026-11-09T22:36:00.828091+00:00</updated>
+    <updated>2026-11-10T04:26:34.887390+00:00</updated>
     <link href="https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/"/>
     <summary>Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.</summary>
     <published>2026-11-09T05:26:29+00:00</published>
@@ -106,7 +82,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3186097</id>
     <title>Automattic debuts a platform to deploy vibe-coding apps amid a changing internet</title>
-    <updated>2026-11-09T22:36:00.828025+00:00</updated>
+    <updated>2026-11-10T04:26:34.887304+00:00</updated>
     <link href="https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/"/>
     <summary>Automattic aims to compete with the likes of Lovable with Spacefast.</summary>
     <published>2026-11-09T14:00:00+00:00</published>
@@ -114,7 +90,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3186240</id>
     <title>Medium’s new TK app brings AI assistance directly into the writing process</title>
-    <updated>2026-11-09T22:36:00.827947+00:00</updated>
+    <updated>2026-11-10T04:26:34.887210+00:00</updated>
     <link href="https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/"/>
     <summary>Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.</summary>
     <published>2026-11-09T16:12:28+00:00</published>
@@ -122,7 +98,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3186273</id>
     <title>Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines</title>
-    <updated>2026-11-09T22:36:00.827874+00:00</updated>
+    <updated>2026-11-10T04:26:34.887092+00:00</updated>
     <link href="https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/"/>
     <summary>Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse.</summary>
     <published>2026-11-09T16:56:54+00:00</published>
@@ -130,7 +106,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3186298</id>
     <title>Meta releases Muse Ember, a new lightweight model for agent execution</title>
-    <updated>2026-11-09T22:36:00.827802+00:00</updated>
+    <updated>2026-11-10T04:26:34.887002+00:00</updated>
     <link href="https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/"/>
     <summary>At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.</summary>
     <published>2026-11-09T18:00:00+00:00</published>
@@ -138,7 +114,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3186336</id>
     <title>Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny</title>
-    <updated>2026-11-09T22:36:00.827725+00:00</updated>
+    <updated>2026-11-10T04:26:34.886907+00:00</updated>
     <link href="https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/"/>
     <summary>Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.</summary>
     <published>2026-11-09T18:09:52+00:00</published>
@@ -146,7 +122,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3186369</id>
     <title>Anthropic releases new Mythos and Fable models amid RSI concerns</title>
-    <updated>2026-11-09T22:36:00.827637+00:00</updated>
+    <updated>2026-11-10T04:26:34.886818+00:00</updated>
     <link href="https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/"/>
     <summary>Anthropic says the new models "show improvements in areas like coding, reasoning, and vision," as well as in communicating more clearly with users.</summary>
     <published>2026-11-09T19:24:51+00:00</published>
@@ -154,7 +130,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3186477</id>
     <title>Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy</title>
-    <updated>2026-11-09T22:36:00.827472+00:00</updated>
+    <updated>2026-11-10T04:26:34.886727+00:00</updated>
     <link href="https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/"/>
     <summary>The Nvidia CEO also pulled out of an Anthropic event earlier.</summary>
     <published>2026-11-09T20:09:06+00:00</published>
@@ -162,9 +138,33 @@
   <entry>
     <id>https://techcrunch.com/?p=3186479</id>
     <title>The race is on to sue Nvidia</title>
-    <updated>2026-11-09T22:36:00.827335+00:00</updated>
+    <updated>2026-11-10T04:26:34.886627+00:00</updated>
     <link href="https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/"/>
     <summary>Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a very expensive problem.</summary>
     <published>2026-11-09T22:23:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3186581</id>
+    <title>A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal</title>
+    <updated>2026-11-10T04:26:34.886479+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/"/>
+    <summary>Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.</summary>
+    <published>2026-11-09T22:46:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3186628</id>
+    <title>Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago</title>
+    <updated>2026-11-10T04:26:34.886326+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/"/>
+    <summary>The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.</summary>
+    <published>2026-11-09T23:28:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3186715</id>
+    <title>Anthropic reportedly plans to move forward with IPO plans</title>
+    <updated>2026-11-10T04:26:34.886193+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/"/>
+    <summary>The AI company is expected to set its valuation range this week, the Wall Street Journal reported.</summary>
+    <published>2026-11-10T01:27:12+00:00</published>
   </entry>
 </feed>
