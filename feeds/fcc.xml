@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:fcc</id>
   <title>FCC Recent Releases (Combined)</title>
-  <updated>2026-11-10T20:07:54.246221+00:00</updated>
+  <updated>2026-11-11T00:45:34.572232+00:00</updated>
   <link href="file:///feeds/fcc.xml" rel="self"/>
   <link href="https://api2.fcc.gov/api/exp/v1.0.0/edocspublic/rss" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -10,137 +10,145 @@
   <entry>
     <id>426723</id>
     <title>Wireless Telecommunications Bureau Accepts for Filing Starlink Spectrum Holdings, LLC, Space Exploration Technologies Corp., NewLevel IV, L.P., Prism License Co. 1 LLC, and Prism License Co. 2 LCC Tra</title>
-    <updated>2026-11-10T20:07:54.246339+00:00</updated>
+    <updated>2026-11-11T00:45:34.572360+00:00</updated>
     <link href="https://www.fcc.gov/edoc/426723"/>
     <summary>Public Notice announcing that the SpaceX-Grain Transfer of Control Applications have been found to be acceptable for filing</summary>
-    <published>2026-11-10T20:07:54.246337+00:00</published>
+    <published>2026-11-11T00:45:34.572359+00:00</published>
+  </entry>
+  <entry>
+    <id>426741</id>
+    <title>In the Matter of Modernizing the E-Rate Program for Schools and Libraries</title>
+    <updated>2026-11-11T00:45:34.572353+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426741"/>
+    <summary>WCB adopts the proposals set forth in the Bureau's Public Notice seeking comment on the proposed eligible services list for funding year 2027.</summary>
+    <published>2026-11-11T00:45:34.572352+00:00</published>
   </entry>
   <entry>
     <id>426164</id>
     <title>Samuel Connelly -- Ambridge, Pennsylvania</title>
-    <updated>2026-11-10T20:07:54.246332+00:00</updated>
+    <updated>2026-11-11T00:45:34.572347+00:00</updated>
     <link href="https://www.fcc.gov/edoc/426164"/>
     <summary>NOHI/NOUO for transmitting interference to licensed public safety communications network</summary>
-    <published>2026-11-10T20:07:54.246331+00:00</published>
+    <published>2026-11-11T00:45:34.572346+00:00</published>
   </entry>
   <entry>
     <id>426720</id>
     <title>Opposition to Motion for Emergency Stay - C. Kleiber v. FCC, No. 26-1298 (D.C. Cir.)</title>
-    <updated>2026-11-10T20:07:54.246326+00:00</updated>
+    <updated>2026-11-11T00:45:34.572341+00:00</updated>
     <link href="https://www.fcc.gov/edoc/426720"/>
     <summary>Opposition to Motion for Emergency Stay</summary>
-    <published>2026-11-10T20:07:54.246325+00:00</published>
+    <published>2026-11-11T00:45:34.572339+00:00</published>
   </entry>
   <entry>
     <id>426718</id>
     <title>Reply in support of motion to dismiss - SZ DJI Tech. v. FCC, No. 26-1029</title>
-    <updated>2026-11-10T20:07:54.246321+00:00</updated>
+    <updated>2026-11-11T00:45:34.572334+00:00</updated>
     <link href="https://www.fcc.gov/edoc/426718"/>
     <summary>Reply in support of Respondents' Renewed Motion to Dismiss</summary>
-    <published>2026-11-10T20:07:54.246319+00:00</published>
+    <published>2026-11-11T00:45:34.572333+00:00</published>
   </entry>
   <entry>
     <id>426702</id>
     <title>PSHSB Announces Region 8 (New York Metropolitan and Northern New Jersey) RPCs to Hold 700 MHZ and 800 MHZ Meetings</title>
-    <updated>2026-11-10T20:07:54.246314+00:00</updated>
+    <updated>2026-11-11T00:45:34.572327+00:00</updated>
     <link href="https://www.fcc.gov/edoc/426702"/>
     <summary>Announces Region 8 (New York Metropolitan and Northern New Jersey) RPC Meetings for 700 MHZ and 800 MHZ</summary>
-    <published>2026-11-10T20:07:54.246313+00:00</published>
+    <published>2026-11-11T00:45:34.572326+00:00</published>
   </entry>
   <entry>
     <id>426508</id>
     <title>Auction of FM Broadcast Construction Permits Scheduled for February 2, 2027; Status of Applications to Participate in Auction 114</title>
-    <updated>2026-11-10T20:07:54.246308+00:00</updated>
+    <updated>2026-11-11T00:45:34.572321+00:00</updated>
     <link href="https://www.fcc.gov/edoc/426508"/>
     <summary>Announces the status of short-form applications to participate in Auction 114 (FM Broadcast)</summary>
-    <published>2026-11-10T20:07:54.246307+00:00</published>
+    <published>2026-11-11T00:45:34.572319+00:00</published>
   </entry>
   <entry>
     <id>426694</id>
     <title>Applications Accepted for Filing for the Transfer of Control of Subsidiaries of British Telecommunications Limited and Assignment, Transfer, and Acquisition of Assets of Verizon Communications, Inc. t</title>
-    <updated>2026-11-10T20:07:54.246302+00:00</updated>
+    <updated>2026-11-11T00:45:34.572314+00:00</updated>
     <link href="https://www.fcc.gov/edoc/426694"/>
     <summary>.</summary>
-    <published>2026-11-10T20:07:54.246301+00:00</published>
+    <published>2026-11-11T00:45:34.572313+00:00</published>
   </entry>
   <entry>
     <id>426706</id>
     <title>PSHSB Announces Region 28 (Delaware, Eastern Pennsylvania, and Southern New Jersey) RPCs to Hold 700 MHZ and 800 MHZ Meetings</title>
-    <updated>2026-11-10T20:07:54.246296+00:00</updated>
+    <updated>2026-11-11T00:45:34.572307+00:00</updated>
     <link href="https://www.fcc.gov/edoc/426706"/>
     <summary>Announces Region 28 (DE, PA, and NJ) RPC Meetings for 700 MHZ and 800 MHZ</summary>
-    <published>2026-11-10T20:07:54.246295+00:00</published>
+    <published>2026-11-11T00:45:34.572306+00:00</published>
   </entry>
   <entry>
     <id>426692</id>
     <title>Domestic Section 214 Application Filed for the Transfer of Control of Affinity Network Incorporated, NOS Communications, Inc., and NOSVA Limited Partnership to The Samuel P. Delug Living Trust</title>
-    <updated>2026-11-10T20:07:54.246291+00:00</updated>
+    <updated>2026-11-11T00:45:34.572301+00:00</updated>
     <link href="https://www.fcc.gov/edoc/426692"/>
     <summary>.</summary>
-    <published>2026-11-10T20:07:54.246289+00:00</published>
+    <published>2026-11-11T00:45:34.572300+00:00</published>
   </entry>
   <entry>
     <id>426689</id>
     <title>Satellite Communications Services - SES</title>
-    <updated>2026-11-10T20:07:54.246285+00:00</updated>
+    <updated>2026-11-11T00:45:34.572295+00:00</updated>
     <link href="https://www.fcc.gov/edoc/426689"/>
     <summary>.</summary>
-    <published>2026-11-10T20:07:54.246283+00:00</published>
+    <published>2026-11-11T00:45:34.572294+00:00</published>
   </entry>
   <entry>
     <id>426688</id>
     <title>Satellite Communications Services - SES</title>
-    <updated>2026-11-10T20:07:54.246278+00:00</updated>
+    <updated>2026-11-11T00:45:34.572289+00:00</updated>
     <link href="https://www.fcc.gov/edoc/426688"/>
     <summary>.</summary>
-    <published>2026-11-10T20:07:54.246276+00:00</published>
+    <published>2026-11-11T00:45:34.572288+00:00</published>
   </entry>
   <entry>
     <id>426685</id>
     <title>Actions</title>
-    <updated>2026-11-10T20:07:54.246272+00:00</updated>
+    <updated>2026-11-11T00:45:34.572283+00:00</updated>
     <link href="https://www.fcc.gov/edoc/426685"/>
     <summary>.</summary>
-    <published>2026-11-10T20:07:54.246271+00:00</published>
+    <published>2026-11-11T00:45:34.572282+00:00</published>
   </entry>
   <entry>
     <id>426686</id>
     <title>Pleadings</title>
-    <updated>2026-11-10T20:07:54.246266+00:00</updated>
+    <updated>2026-11-11T00:45:34.572277+00:00</updated>
     <link href="https://www.fcc.gov/edoc/426686"/>
     <summary>.</summary>
-    <published>2026-11-10T20:07:54.246265+00:00</published>
+    <published>2026-11-11T00:45:34.572275+00:00</published>
   </entry>
   <entry>
     <id>426684</id>
     <title>Applications</title>
-    <updated>2026-11-10T20:07:54.246260+00:00</updated>
+    <updated>2026-11-11T00:45:34.572269+00:00</updated>
     <link href="https://www.fcc.gov/edoc/426684"/>
     <summary>.</summary>
-    <published>2026-11-10T20:07:54.246259+00:00</published>
+    <published>2026-11-11T00:45:34.572268+00:00</published>
   </entry>
   <entry>
     <id>426700</id>
     <title>Domestic Section 214 Application Filed For The Transfer of Control of Sangoma U.S. Inc. to BRC Group Holdings, Inc.</title>
-    <updated>2026-11-10T20:07:54.246254+00:00</updated>
+    <updated>2026-11-11T00:45:34.572262+00:00</updated>
     <link href="https://www.fcc.gov/edoc/426700"/>
     <summary>Streamlined Pleading Cycle Established</summary>
-    <published>2026-11-10T20:07:54.246253+00:00</published>
+    <published>2026-11-11T00:45:34.572261+00:00</published>
   </entry>
   <entry>
     <id>426710</id>
     <title>Grant of Certification for Bond Communications, Inc., to Provide Video Relay Service</title>
-    <updated>2026-11-10T20:07:54.246246+00:00</updated>
+    <updated>2026-11-11T00:45:34.572254+00:00</updated>
     <link href="https://www.fcc.gov/edoc/426710"/>
     <summary>The FCC grants Bond Communications full five-year certification to provide Video Relay Service supported by the Interstate TRS Fund.</summary>
-    <published>2026-11-10T20:07:54.246244+00:00</published>
+    <published>2026-11-11T00:45:34.572253+00:00</published>
   </entry>
   <entry>
     <id>426703</id>
     <title>Domestic Section 214 Application Filed For The Transfer of Control of Easton Telecom Services, L.L.C. to RSTN Communications LLC</title>
-    <updated>2026-11-10T20:07:54.246228+00:00</updated>
+    <updated>2026-11-11T00:45:34.572240+00:00</updated>
     <link href="https://www.fcc.gov/edoc/426703"/>
     <summary>Non-Streamlined Pleading Cycle Established</summary>
-    <published>2026-11-10T20:07:54.246224+00:00</published>
+    <published>2026-11-11T00:45:34.572235+00:00</published>
   </entry>
 </feed>

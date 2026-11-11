@@ -2,31 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:restaurant_business</id>
   <title>Restaurant Business - All</title>
-  <updated>2026-11-10T20:07:04.352454+00:00</updated>
+  <updated>2026-11-11T00:44:41.982859+00:00</updated>
   <link href="file:///feeds/restaurant_business.xml" rel="self"/>
   <link href="https://www.restaurantbusinessonline.com/feed/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: food / Mode: rss</subtitle>
   <entry>
-    <id>214810</id>
-    <title>Taco Bell doubles down on Voice AI</title>
-    <updated>2026-11-10T20:07:04.354459+00:00</updated>
-    <link href="https://restaurantbusinessonline.com/technology/taco-bell-doubles-down-voice-ai?utm_source=Taco%20Bell%20doubles%20down%20on%20Voice%20AI%20&amp;utm_medium=rb-feed&amp;utm_campaign=RSS-Feeds"/>
-    <summary>With measurable gains in speed, sales, and retention, the chain’s rollout of the technology is expected to reach 1,500 restaurants by the end of the year.</summary>
-    <published>2026-11-04T12:11:00+00:00</published>
-  </entry>
-  <entry>
-    <id>214804</id>
-    <title>How bread is changing in America</title>
-    <updated>2026-11-10T20:07:04.354401+00:00</updated>
-    <link href="https://restaurantbusinessonline.com/food/how-bread-changing-america?utm_source=How%20bread%20is%20changing%20in%20America&amp;utm_medium=rb-feed&amp;utm_campaign=RSS-Feeds"/>
-    <summary>Long a staple in dining, it’s being reworked and given new prestige in a wide variety of applications.</summary>
-    <published>2026-11-04T12:11:00+00:00</published>
-  </entry>
-  <entry>
     <id>214816</id>
     <title>How would an Instacart acquisition boost DoorDash’s market share?</title>
-    <updated>2026-11-10T20:07:04.354344+00:00</updated>
+    <updated>2026-11-11T00:44:41.984650+00:00</updated>
     <link href="https://restaurantbusinessonline.com/financing/how-would-instacart-acquisition-boost-doordashs-market-share?utm_source=How%20would%20an%20Instacart%20acquisition%20boost%20DoorDash%E2%80%99s%20market%20share%3F&amp;utm_medium=rb-feed&amp;utm_campaign=RSS-Feeds"/>
     <summary>A Deeper Dive: This week’s episode of the weekly restaurant finance podcast features Michael Gunther, SVP of research and market intelligence for Consumer Edge.</summary>
     <published>2026-11-04T12:11:00+00:00</published>
@@ -34,47 +18,47 @@
   <entry>
     <id>214807</id>
     <title>The KFC U.S. comeback has merged into the chain’s global modernization push</title>
-    <updated>2026-11-10T20:07:04.354283+00:00</updated>
+    <updated>2026-11-11T00:44:41.984597+00:00</updated>
     <link href="https://restaurantbusinessonline.com/marketing/kfc-us-comeback-has-merged-chains-global-modernization-push?utm_source=The%20KFC%20U.S.%20comeback%20has%20merged%20into%20the%20chain%E2%80%99s%20global%20modernization%20push&amp;utm_medium=rb-feed&amp;utm_campaign=RSS-Feeds"/>
     <summary>Yum Brands’ Q3 earnings call offered few domestic details, but the brand's broader ambitions are taking shape abroad.</summary>
     <published>2026-11-04T12:11:00+00:00</published>
   </entry>
   <entry>
-    <id>214820</id>
-    <title>Sharing the inside scoop on McDonald's menu signatures</title>
-    <updated>2026-11-10T20:07:04.354225+00:00</updated>
-    <link href="https://restaurantbusinessonline.com/food/sharing-inside-scoop-mcdonalds-menu-signatures?utm_source=Sharing%20the%20inside%20scoop%20on%20McDonald%27s%20menu%20signatures&amp;utm_medium=rb-feed&amp;utm_campaign=RSS-Feeds"/>
-    <summary>Behind the Menu: How did the Egg McMuffin, Chicken McNuggets, and Quarter Pounder become American culinary icons? We went inside the Golden Arches to find out.</summary>
-    <published>2026-11-04T12:11:00+00:00</published>
-  </entry>
-  <entry>
     <id>214812</id>
     <title>Several restaurant chains are shaking up marketing leadership. Will it move the needle?</title>
-    <updated>2026-11-10T20:07:04.354164+00:00</updated>
+    <updated>2026-11-11T00:44:41.984548+00:00</updated>
     <link href="https://restaurantbusinessonline.com/marketing/several-restaurant-chains-are-shaking-marketing-leadership-will-it-move-needle?utm_source=Several%20restaurant%20chains%20are%20shaking%20up%20marketing%20leadership.%20Will%20it%20move%20the%20needle%3F%20&amp;utm_medium=rb-feed&amp;utm_campaign=RSS-Feeds"/>
     <summary>Marketing Bites: A string of CMO exits across the industry's biggest chains highlights marketing's outsized role as a turnaround lever.</summary>
     <published>2026-11-04T12:11:00+00:00</published>
   </entry>
   <entry>
+    <id>214820</id>
+    <title>Sharing the inside scoop on McDonald's menu signatures</title>
+    <updated>2026-11-11T00:44:41.984498+00:00</updated>
+    <link href="https://restaurantbusinessonline.com/food/sharing-inside-scoop-mcdonalds-menu-signatures?utm_source=Sharing%20the%20inside%20scoop%20on%20McDonald%27s%20menu%20signatures&amp;utm_medium=rb-feed&amp;utm_campaign=RSS-Feeds"/>
+    <summary>Behind the Menu: How did the Egg McMuffin, Chicken McNuggets, and Quarter Pounder become American culinary icons? We went inside the Golden Arches to find out.</summary>
+    <published>2026-11-04T12:11:00+00:00</published>
+  </entry>
+  <entry>
+    <id>214810</id>
+    <title>Taco Bell doubles down on Voice AI</title>
+    <updated>2026-11-11T00:44:41.984448+00:00</updated>
+    <link href="https://restaurantbusinessonline.com/technology/taco-bell-doubles-down-voice-ai?utm_source=Taco%20Bell%20doubles%20down%20on%20Voice%20AI%20&amp;utm_medium=rb-feed&amp;utm_campaign=RSS-Feeds"/>
+    <summary>With measurable gains in speed, sales, and retention, the chain’s rollout of the technology is expected to reach 1,500 restaurants by the end of the year.</summary>
+    <published>2026-11-04T12:11:00+00:00</published>
+  </entry>
+  <entry>
     <id>214805</id>
     <title>McDonald's looks for the right value offer</title>
-    <updated>2026-11-10T20:07:04.354078+00:00</updated>
+    <updated>2026-11-11T00:44:41.984397+00:00</updated>
     <link href="https://restaurantbusinessonline.com/financing/mcdonalds-looks-right-value-offer?utm_source=McDonald%27s%20looks%20for%20the%20right%20value%20offer&amp;utm_medium=rb-feed&amp;utm_campaign=RSS-Feeds"/>
     <summary>The fast-food giant showed some progress in its sluggish U.S. market. Now it is searching for an entry-level value deal to combat weak traffic.</summary>
     <published>2026-11-04T12:11:00+00:00</published>
   </entry>
   <entry>
-    <id>214835</id>
-    <title>Benihana's owner bets on a fast-casual offshoot</title>
-    <updated>2026-11-10T20:07:04.354020+00:00</updated>
-    <link href="https://restaurantbusinessonline.com/financing/benihanas-owner-bets-fast-casual-offshoot?utm_source=Benihana%27s%20owner%20bets%20on%20a%20fast-casual%20offshoot&amp;utm_medium=rb-feed&amp;utm_campaign=RSS-Feeds"/>
-    <summary>The two-unit Benihana Express is faster and more economical than its full-service counterpart. The One Group hopes to open a lot more of them.</summary>
-    <published>2026-11-05T12:11:00+00:00</published>
-  </entry>
-  <entry>
     <id>214839</id>
     <title>Papa Johns bets local marketing shift will blunt promotional pressures</title>
-    <updated>2026-11-10T20:07:04.353963+00:00</updated>
+    <updated>2026-11-11T00:44:41.984348+00:00</updated>
     <link href="https://restaurantbusinessonline.com/marketing/papa-johns-bets-local-marketing-shift-will-blunt-promotional-pressures?utm_source=Papa%20Johns%20bets%20local%20marketing%20shift%20will%20blunt%20promotional%20pressures&amp;utm_medium=rb-feed&amp;utm_campaign=RSS-Feeds"/>
     <summary>CEO Todd Penegor says quality and customer feedback — not deep discounting — will drive the chain's recovery.</summary>
     <published>2026-11-05T12:11:00+00:00</published>
@@ -82,7 +66,7 @@
   <entry>
     <id>214821</id>
     <title>Dutch Bros again confronts a skeptical investor</title>
-    <updated>2026-11-10T20:07:04.353904+00:00</updated>
+    <updated>2026-11-11T00:44:41.984297+00:00</updated>
     <link href="https://restaurantbusinessonline.com/financing/dutch-bros-again-confronts-skeptical-investor?utm_source=Dutch%20Bros%20again%20confronts%20a%20skeptical%20investor&amp;utm_medium=rb-feed&amp;utm_campaign=RSS-Feeds"/>
     <summary>The Bottom Line: The drive-thru beverage chain’s stock is again under pressure after sales came in under expectations and traffic slowed.</summary>
     <published>2026-11-05T12:11:00+00:00</published>
@@ -90,7 +74,7 @@
   <entry>
     <id>214823</id>
     <title>Cava wants to give general managers an owner-operator mentality</title>
-    <updated>2026-11-10T20:07:04.353846+00:00</updated>
+    <updated>2026-11-11T00:44:41.984248+00:00</updated>
     <link href="https://restaurantbusinessonline.com/financing/cava-wants-give-general-managers-owner-operator-mentality?utm_source=Cava%20wants%20to%20give%20general%20managers%20an%20owner-operator%20mentality&amp;utm_medium=rb-feed&amp;utm_campaign=RSS-Feeds"/>
     <summary>Same-store sales growth slowed in the third quarter for the fast-casual chain, but guidance was raised for the year. A key for maintaining momentum will be investments in leaders, the company said.</summary>
     <published>2026-11-05T12:11:00+00:00</published>
@@ -98,15 +82,23 @@
   <entry>
     <id>214840</id>
     <title>Portillo's rethinks strategy for growth outside Chicagoland</title>
-    <updated>2026-11-10T20:07:04.353789+00:00</updated>
+    <updated>2026-11-11T00:44:41.984198+00:00</updated>
     <link href="https://restaurantbusinessonline.com/financing/portillos-rethinks-strategy-growth-outside-chicagoland?utm_source=Portillo%27s%20rethinks%20strategy%20for%20growth%20outside%20Chicagoland&amp;utm_medium=rb-feed&amp;utm_campaign=RSS-Feeds"/>
     <summary>The fast-casual chain expects to shutter five to nine underperforming units this year. What Chicagoans love about the brand hasn't translated well to new markets.</summary>
     <published>2026-11-05T12:11:00+00:00</published>
   </entry>
   <entry>
+    <id>214835</id>
+    <title>Benihana's owner bets on a fast-casual offshoot</title>
+    <updated>2026-11-11T00:44:41.984144+00:00</updated>
+    <link href="https://restaurantbusinessonline.com/financing/benihanas-owner-bets-fast-casual-offshoot?utm_source=Benihana%27s%20owner%20bets%20on%20a%20fast-casual%20offshoot&amp;utm_medium=rb-feed&amp;utm_campaign=RSS-Feeds"/>
+    <summary>The two-unit Benihana Express is faster and more economical than its full-service counterpart. The One Group hopes to open a lot more of them.</summary>
+    <published>2026-11-05T12:11:00+00:00</published>
+  </entry>
+  <entry>
     <id>214841</id>
     <title>The go-private fallacy</title>
-    <updated>2026-11-10T20:07:04.353730+00:00</updated>
+    <updated>2026-11-11T00:44:41.984078+00:00</updated>
     <link href="https://restaurantbusinessonline.com/financing/go-private-fallacy?utm_source=The%20go-private%20fallacy&amp;utm_medium=rb-feed&amp;utm_campaign=RSS-Feeds"/>
     <summary>The Bottom Line: Wendy’s and Dine Brands are both weighing offers to be taken private, with buyers arguing that it will help them in the long run. The data says otherwise.</summary>
     <published>2026-11-06T12:11:00+00:00</published>
@@ -114,15 +106,31 @@
   <entry>
     <id>214856</id>
     <title>Sweetgreen's third quarter marks a turning point</title>
-    <updated>2026-11-10T20:07:04.353672+00:00</updated>
+    <updated>2026-11-11T00:44:41.984026+00:00</updated>
     <link href="https://restaurantbusinessonline.com/operations/sweetgreens-third-quarter-marks-turning-point?utm_source=Sweetgreen%27s%20third%20quarter%20marks%20a%20turning%20point&amp;utm_medium=rb-feed&amp;utm_campaign=RSS-Feeds"/>
     <summary>With the cyclospora impact behind it, the fast-casual chain said its momentum is beginning to show in results. CEO Jonathan Neman projects same-store sales will turn positive in the fourth quarter.</summary>
     <published>2026-11-06T12:11:00+00:00</published>
   </entry>
   <entry>
+    <id>214842</id>
+    <title>Here’s a deep look at Wendy's turnaround plan</title>
+    <updated>2026-11-11T00:44:41.983973+00:00</updated>
+    <link href="https://restaurantbusinessonline.com/financing/heres-deep-look-wendys-turnaround-plan?utm_source=Here%E2%80%99s%20a%20deep%20look%20at%20Wendy%27s%20turnaround%20plan&amp;utm_medium=rb-feed&amp;utm_campaign=RSS-Feeds"/>
+    <summary>The fast-food chain has opted against a sale to Nelson Peltz and Greg Flynn and is putting its faith in CEO Bob Wright’s “Dave’s Way” strategy to turn the brand around. Here’s a look at it.</summary>
+    <published>2026-11-06T12:11:00+00:00</published>
+  </entry>
+  <entry>
+    <id>214855</id>
+    <title>In unfamiliar territory, Texas Roadhouse falls back on the basics</title>
+    <updated>2026-11-11T00:44:41.983921+00:00</updated>
+    <link href="https://restaurantbusinessonline.com/financing/unfamiliar-territory-texas-roadhouse-falls-back-basics?utm_source=In%20unfamiliar%20territory%2C%20Texas%20Roadhouse%20falls%20back%20on%20the%20basics&amp;utm_medium=rb-feed&amp;utm_campaign=RSS-Feeds"/>
+    <summary>A social media hoax has the chain in a rare slump. It’s rebuilding the only way it knows how. “Our operators are busting their butts.”</summary>
+    <published>2026-11-06T12:11:00+00:00</published>
+  </entry>
+  <entry>
     <id>214864</id>
     <title>How one restaurateur practices frugality without diminishing the experience</title>
-    <updated>2026-11-10T20:07:04.353614+00:00</updated>
+    <updated>2026-11-11T00:44:41.983869+00:00</updated>
     <link href="https://restaurantbusinessonline.com/operations/how-one-restaurateur-practices-frugality-without-diminishing-experience?utm_source=How%20one%20restaurateur%20practices%20frugality%20without%20diminishing%20the%20experience&amp;utm_medium=rb-feed&amp;utm_campaign=RSS-Feeds"/>
     <summary>The costs of operating a restaurant have skyrocketed, but Erik Niel has found unique ways to save money at his three indies in Chattanooga, Tennessee.</summary>
     <published>2026-11-06T12:11:00+00:00</published>
@@ -130,39 +138,31 @@
   <entry>
     <id>214844</id>
     <title>More franchisees are filing for bankruptcy</title>
-    <updated>2026-11-10T20:07:04.353555+00:00</updated>
+    <updated>2026-11-11T00:44:41.983813+00:00</updated>
     <link href="https://restaurantbusinessonline.com/financing/more-franchisees-are-filing-bankruptcy?utm_source=More%20franchisees%20are%20filing%20for%20bankruptcy&amp;utm_medium=rb-feed&amp;utm_campaign=RSS-Feeds"/>
     <summary>The Week in Restaurants: This week’s episode of the weekly restaurant news discussion podcast looks at franchisee bankruptcies, Portillo’s closures, and Wendy’s buyout rejections.</summary>
     <published>2026-11-06T12:11:00+00:00</published>
   </entry>
   <entry>
-    <id>214855</id>
-    <title>In unfamiliar territory, Texas Roadhouse falls back on the basics</title>
-    <updated>2026-11-10T20:07:04.353498+00:00</updated>
-    <link href="https://restaurantbusinessonline.com/financing/unfamiliar-territory-texas-roadhouse-falls-back-basics?utm_source=In%20unfamiliar%20territory%2C%20Texas%20Roadhouse%20falls%20back%20on%20the%20basics&amp;utm_medium=rb-feed&amp;utm_campaign=RSS-Feeds"/>
-    <summary>A social media hoax has the chain in a rare slump. It’s rebuilding the only way it knows how. “Our operators are busting their butts.”</summary>
-    <published>2026-11-06T12:11:00+00:00</published>
-  </entry>
-  <entry>
-    <id>214842</id>
-    <title>Here’s a deep look at Wendy's turnaround plan</title>
-    <updated>2026-11-10T20:07:04.353441+00:00</updated>
-    <link href="https://restaurantbusinessonline.com/financing/heres-deep-look-wendys-turnaround-plan?utm_source=Here%E2%80%99s%20a%20deep%20look%20at%20Wendy%27s%20turnaround%20plan&amp;utm_medium=rb-feed&amp;utm_campaign=RSS-Feeds"/>
-    <summary>The fast-food chain has opted against a sale to Nelson Peltz and Greg Flynn and is putting its faith in CEO Bob Wright’s “Dave’s Way” strategy to turn the brand around. Here’s a look at it.</summary>
-    <published>2026-11-06T12:11:00+00:00</published>
-  </entry>
-  <entry>
     <id>214873</id>
     <title>Shake Shack bets on expansion without cannibalization</title>
-    <updated>2026-11-10T20:07:04.353381+00:00</updated>
+    <updated>2026-11-11T00:44:41.983763+00:00</updated>
     <link href="https://restaurantbusinessonline.com/financing/shake-shack-bets-expansion-without-cannibalization?utm_source=Shake%20Shack%20bets%20on%20expansion%20without%20cannibalization&amp;utm_medium=rb-feed&amp;utm_campaign=RSS-Feeds"/>
     <summary>The fast-casual burger chain added more locations than it ever has last quarter and says that cannibalization is limited. Wall Street is starting to believe.</summary>
     <published>2026-11-09T12:11:00+00:00</published>
   </entry>
   <entry>
+    <id>214882</id>
+    <title>Get ready for some holiday sparkle</title>
+    <updated>2026-11-11T00:44:41.983711+00:00</updated>
+    <link href="https://restaurantbusinessonline.com/food/get-ready-some-holiday-sparkle?utm_source=Get%20ready%20for%20some%20holiday%20sparkle&amp;utm_medium=rb-feed&amp;utm_campaign=RSS-Feeds"/>
+    <summary>Taste Tracker: Ziggi’s, 7 Brew, Peet’s, Dunkin’, Panda Express, BJs, Popeyes, Qdoba, Chicken Salad Chick, Salt &amp; Straw, Denny’s, and Tropical Smoothie headline restaurant menu news and trends.</summary>
+    <published>2026-11-09T12:11:00+00:00</published>
+  </entry>
+  <entry>
     <id>214871</id>
     <title>Uber Eats and Amazon say not so fast, DoorDash</title>
-    <updated>2026-11-10T20:07:04.353323+00:00</updated>
+    <updated>2026-11-11T00:44:41.983657+00:00</updated>
     <link href="https://restaurantbusinessonline.com/technology/uber-eats-amazon-say-not-so-fast-doordash?utm_source=Uber%20Eats%20and%20Amazon%20say%20not%20so%20fast%2C%20DoorDash&amp;utm_medium=rb-feed&amp;utm_campaign=RSS-Feeds"/>
     <summary>Tech Check: Just days after DoorDash announced plans to buy Instacart, two rivals have responded, showing that the delivery wars are far from decided.</summary>
     <published>2026-11-09T12:11:00+00:00</published>
@@ -170,81 +170,81 @@
   <entry>
     <id>214867</id>
     <title>Wendy's breakfast was an apparent disaster</title>
-    <updated>2026-11-10T20:07:04.353264+00:00</updated>
+    <updated>2026-11-11T00:44:41.983603+00:00</updated>
     <link href="https://restaurantbusinessonline.com/financing/wendys-breakfast-was-apparent-disaster?utm_source=Wendy%27s%20breakfast%20was%20an%20apparent%20disaster&amp;utm_medium=rb-feed&amp;utm_campaign=RSS-Feeds"/>
     <summary>The Bottom Line: This week’s edition of the weekly restaurant finance newsletter looks at the fast-food chain’s decision to let franchisees opt out of the morning daypart.</summary>
     <published>2026-11-09T12:11:00+00:00</published>
   </entry>
   <entry>
-    <id>214876</id>
-    <title>Dine Brands' turnaround strategy faces a test as takeover pressure mounts</title>
-    <updated>2026-11-10T20:07:04.353205+00:00</updated>
-    <link href="https://restaurantbusinessonline.com/operations/dine-brands-turnaround-strategy-faces-test-takeover-pressure-mounts?utm_source=Dine%20Brands%27%20turnaround%20strategy%20faces%20a%20test%20as%20takeover%20pressure%20mounts&amp;utm_medium=rb-feed&amp;utm_campaign=RSS-Feeds"/>
-    <summary>After rejecting an acquisition proposal and adopting a poison pill, Dine Brands is betting on continued recovery at Applebee's to strengthen its value.</summary>
-    <published>2026-11-09T12:11:00+00:00</published>
-  </entry>
-  <entry>
     <id>214868</id>
     <title>What do consumers like so much about casual-dining chains right now?</title>
-    <updated>2026-11-10T20:07:04.353126+00:00</updated>
+    <updated>2026-11-11T00:44:41.983549+00:00</updated>
     <link href="https://restaurantbusinessonline.com/consumer-trends/what-do-consumers-so-much-about-casual-dining-chains-right-now?utm_source=What%20do%20consumers%20like%20so%20much%20about%20casual-dining%20chains%20right%20now%3F%20&amp;utm_medium=rb-feed&amp;utm_campaign=RSS-Feeds"/>
     <summary>Guest Check: The full-service segment is outperforming limited service. It can’t just be about value.</summary>
     <published>2026-11-09T12:11:00+00:00</published>
   </entry>
   <entry>
-    <id>214882</id>
-    <title>Get ready for some holiday sparkle</title>
-    <updated>2026-11-10T20:07:04.353047+00:00</updated>
-    <link href="https://restaurantbusinessonline.com/food/get-ready-some-holiday-sparkle?utm_source=Get%20ready%20for%20some%20holiday%20sparkle&amp;utm_medium=rb-feed&amp;utm_campaign=RSS-Feeds"/>
-    <summary>Taste Tracker: Ziggi’s, 7 Brew, Peet’s, Dunkin’, Panda Express, BJs, Popeyes, Qdoba, Chicken Salad Chick, Salt &amp; Straw, Denny’s, and Tropical Smoothie headline restaurant menu news and trends.</summary>
+    <id>214876</id>
+    <title>Dine Brands' turnaround strategy faces a test as takeover pressure mounts</title>
+    <updated>2026-11-11T00:44:41.983492+00:00</updated>
+    <link href="https://restaurantbusinessonline.com/operations/dine-brands-turnaround-strategy-faces-test-takeover-pressure-mounts?utm_source=Dine%20Brands%27%20turnaround%20strategy%20faces%20a%20test%20as%20takeover%20pressure%20mounts&amp;utm_medium=rb-feed&amp;utm_campaign=RSS-Feeds"/>
+    <summary>After rejecting an acquisition proposal and adopting a poison pill, Dine Brands is betting on continued recovery at Applebee's to strengthen its value.</summary>
     <published>2026-11-09T12:11:00+00:00</published>
-  </entry>
-  <entry>
-    <id>214886</id>
-    <title>For Bob Wright, coming back to Wendy’s was personal</title>
-    <updated>2026-11-10T20:07:04.352980+00:00</updated>
-    <link href="https://restaurantbusinessonline.com/financing/bob-wright-coming-back-wendys-was-personal?utm_source=For%20Bob%20Wright%2C%20coming%20back%20to%20Wendy%E2%80%99s%20was%20personal&amp;utm_medium=rb-feed&amp;utm_campaign=RSS-Feeds"/>
-    <summary>The Bottom Line: The fast-food chain’s CEO, who spent two decades with the chain before he went to Potbelly, said it is a “personal mission” to turn the brand around.</summary>
-    <published>2026-11-10T12:11:00+00:00</published>
-  </entry>
-  <entry>
-    <id>214893</id>
-    <title>How BJ's Restaurants built a stronger foundation for its next phase of growth</title>
-    <updated>2026-11-10T20:07:04.352921+00:00</updated>
-    <link href="https://restaurantbusinessonline.com/operations/how-bjs-restaurants-built-stronger-foundation-its-next-phase-growth?utm_source=How%20BJ%27s%20Restaurants%20built%20a%20stronger%20foundation%20for%20its%20next%20phase%20of%20growth&amp;utm_medium=rb-feed&amp;utm_campaign=RSS-Feeds"/>
-    <summary>The casual-dining chain spent the past two years working on profitability, traffic, and store-level operations. Now BJ’s can focus on future expansion.</summary>
-    <published>2026-11-10T12:11:00+00:00</published>
-  </entry>
-  <entry>
-    <id>214883</id>
-    <title>Surprising things I learned at Worlds of Flavor</title>
-    <updated>2026-11-10T20:07:04.352859+00:00</updated>
-    <link href="https://restaurantbusinessonline.com/topics/surprising-things-i-learned-worlds-flavor?utm_source=Surprising%20things%20I%20learned%20at%20Worlds%20of%20Flavor&amp;utm_medium=rb-feed&amp;utm_campaign=RSS-Feeds"/>
-    <summary>Food Writer’s Diary: The annual conference at The Culinary Institute of America explored the food of five Asian countries.</summary>
-    <published>2026-11-10T12:11:00+00:00</published>
   </entry>
   <entry>
     <id>214884</id>
     <title>Scott Rodriguez is changing it up at Perkins and Huddle House</title>
-    <updated>2026-11-10T20:07:04.352794+00:00</updated>
+    <updated>2026-11-11T00:44:41.983437+00:00</updated>
     <link href="https://restaurantbusinessonline.com/food/scott-rodriguez-changing-it-perkins-huddle-house?utm_source=Scott%20Rodriguez%20is%20changing%20it%20up%20at%20Perkins%20and%20Huddle%20House&amp;utm_medium=rb-feed&amp;utm_campaign=RSS-Feeds"/>
     <summary>Menu Talk: The VP of culinary and product innovation for Ascent Hospitality is elevating family-dining menus and giving guests more reasons to visit the restaurants.</summary>
     <published>2026-11-10T12:11:00+00:00</published>
   </entry>
   <entry>
-    <id>214751</id>
-    <title>Nick &amp; Sam's is Dallas' steakhouse</title>
-    <updated>2026-11-10T20:07:04.352726+00:00</updated>
-    <link href="https://restaurantbusinessonline.com/emerging-brands/nick-sams-dallas-steakhouse?utm_source=Nick%20%26%20Sam%27s%20is%20Dallas%27%20steakhouse&amp;utm_medium=rb-feed&amp;utm_campaign=RSS-Feeds"/>
-    <summary>This palace of meat founded 27 years ago is one of the top-grossing independent restaurants in America, raking in nearly $23 million in sales last year.</summary>
-    <published>2026-11-11T12:11:00+00:00</published>
+    <id>214898</id>
+    <title>At McDonald’s in France, an innovative market is under pressure</title>
+    <updated>2026-11-11T00:44:41.983383+00:00</updated>
+    <link href="https://restaurantbusinessonline.com/financing/mcdonalds-france-innovative-market-under-pressure?utm_source=At%20McDonald%E2%80%99s%20in%20France%2C%20an%20innovative%20market%20is%20under%20pressure&amp;utm_medium=rb-feed&amp;utm_campaign=RSS-Feeds"/>
+    <summary>The Bottom Line: The market is one of the fast-food chain’s largest and most innovative. But it is also under pressure amid economic concerns and nationwide protests.</summary>
+    <published>2026-11-10T12:11:00+00:00</published>
+  </entry>
+  <entry>
+    <id>214883</id>
+    <title>Surprising things I learned at Worlds of Flavor</title>
+    <updated>2026-11-11T00:44:41.983326+00:00</updated>
+    <link href="https://restaurantbusinessonline.com/topics/surprising-things-i-learned-worlds-flavor?utm_source=Surprising%20things%20I%20learned%20at%20Worlds%20of%20Flavor&amp;utm_medium=rb-feed&amp;utm_campaign=RSS-Feeds"/>
+    <summary>Food Writer’s Diary: The annual conference at The Culinary Institute of America explored the food of five Asian countries.</summary>
+    <published>2026-11-10T12:11:00+00:00</published>
+  </entry>
+  <entry>
+    <id>214893</id>
+    <title>How BJ's Restaurants built a stronger foundation for its next phase of growth</title>
+    <updated>2026-11-11T00:44:41.983267+00:00</updated>
+    <link href="https://restaurantbusinessonline.com/operations/how-bjs-restaurants-built-stronger-foundation-its-next-phase-growth?utm_source=How%20BJ%27s%20Restaurants%20built%20a%20stronger%20foundation%20for%20its%20next%20phase%20of%20growth&amp;utm_medium=rb-feed&amp;utm_campaign=RSS-Feeds"/>
+    <summary>The casual-dining chain spent the past two years working on profitability, traffic, and store-level operations. Now BJ’s can focus on future expansion.</summary>
+    <published>2026-11-10T12:11:00+00:00</published>
+  </entry>
+  <entry>
+    <id>214886</id>
+    <title>For Bob Wright, coming back to Wendy’s was personal</title>
+    <updated>2026-11-11T00:44:41.983207+00:00</updated>
+    <link href="https://restaurantbusinessonline.com/financing/bob-wright-coming-back-wendys-was-personal?utm_source=For%20Bob%20Wright%2C%20coming%20back%20to%20Wendy%E2%80%99s%20was%20personal&amp;utm_medium=rb-feed&amp;utm_campaign=RSS-Feeds"/>
+    <summary>The Bottom Line: The fast-food chain’s CEO, who spent two decades with the chain before he went to Potbelly, said it is a “personal mission” to turn the brand around.</summary>
+    <published>2026-11-10T12:11:00+00:00</published>
   </entry>
   <entry>
     <id>214803</id>
     <title>America’s Top 100 Independent Restaurants top $2 billion in sales</title>
-    <updated>2026-11-10T20:07:04.352649+00:00</updated>
+    <updated>2026-11-11T00:44:41.983140+00:00</updated>
     <link href="https://restaurantbusinessonline.com/operations/americas-top-100-independent-restaurants-top-2-billion-sales?utm_source=America%E2%80%99s%20Top%20100%20Independent%20Restaurants%20top%20%242%20billion%20in%20sales&amp;utm_medium=rb-feed&amp;utm_campaign=RSS-Feeds"/>
     <summary>Both average check and number of meals served grew in 2025 among the highest-grossing concepts across the country.</summary>
+    <published>2026-11-11T12:11:00+00:00</published>
+  </entry>
+  <entry>
+    <id>214751</id>
+    <title>Nick &amp; Sam's is Dallas' steakhouse</title>
+    <updated>2026-11-11T00:44:41.983037+00:00</updated>
+    <link href="https://restaurantbusinessonline.com/emerging-brands/nick-sams-dallas-steakhouse?utm_source=Nick%20%26%20Sam%27s%20is%20Dallas%27%20steakhouse&amp;utm_medium=rb-feed&amp;utm_campaign=RSS-Feeds"/>
+    <summary>This palace of meat founded 27 years ago is one of the top-grossing independent restaurants in America, raking in nearly $23 million in sales last year.</summary>
     <published>2026-11-11T12:11:00+00:00</published>
   </entry>
 </feed>
