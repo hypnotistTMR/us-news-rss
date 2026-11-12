@@ -2,39 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:techcrunch</id>
   <title>TechCrunch - All</title>
-  <updated>2026-11-11T22:09:06.075472+00:00</updated>
+  <updated>2026-11-12T03:11:15.787618+00:00</updated>
   <link href="file:///feeds/techcrunch.xml" rel="self"/>
   <link href="https://techcrunch.com/feed/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: tech / Mode: rss</subtitle>
   <entry>
-    <id>https://techcrunch.com/?p=3186906</id>
-    <title>PSI is trying to make a business out of AI-driven scientific discovery</title>
-    <updated>2026-11-11T22:09:06.076878+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/"/>
-    <summary>PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.</summary>
-    <published>2026-11-10T19:03:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3187050</id>
-    <title>Oura to acquire AI-native primary care startup Counsel Health for $625M</title>
-    <updated>2026-11-11T22:09:06.076824+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/"/>
-    <summary>The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”</summary>
-    <published>2026-11-10T19:23:34+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3187028</id>
-    <title>All 7 Anthropic founders will each cash out about $250M in IPO</title>
-    <updated>2026-11-11T22:09:06.076771+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/"/>
-    <summary>Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company.</summary>
-    <published>2026-11-10T19:57:52+00:00</published>
-  </entry>
-  <entry>
     <id>https://techcrunch.com/?p=3187159</id>
     <title>X-energy gets green light to build its first small modular nuclear reactors</title>
-    <updated>2026-11-11T22:09:06.076716+00:00</updated>
+    <updated>2026-11-12T03:11:15.789597+00:00</updated>
     <link href="https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/"/>
     <summary>X-energy received a construction permit from the U.S. Nuclear Regulatory Commission to build four reactors in Texas.</summary>
     <published>2026-11-10T20:43:55+00:00</published>
@@ -42,7 +18,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3187132</id>
     <title>Proximal Ventures raises debut fund to back startups bringing AI to drug development</title>
-    <updated>2026-11-11T22:09:06.076660+00:00</updated>
+    <updated>2026-11-12T03:11:15.789511+00:00</updated>
     <link href="https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/"/>
     <summary>Former SignalFire investor Sahir Raoof raises $27.5 million for new fund targeting AI in pharma.</summary>
     <published>2026-11-10T20:47:05+00:00</published>
@@ -50,7 +26,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3187145</id>
     <title>OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect</title>
-    <updated>2026-11-11T22:09:06.076601+00:00</updated>
+    <updated>2026-11-12T03:11:15.789426+00:00</updated>
     <link href="https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/"/>
     <summary>New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.</summary>
     <published>2026-11-10T20:52:13+00:00</published>
@@ -58,7 +34,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3187116</id>
     <title>OpenAI acquires Odessia, travel startup created by Sonder founder</title>
-    <updated>2026-11-11T22:09:06.076538+00:00</updated>
+    <updated>2026-11-12T03:11:15.789338+00:00</updated>
     <link href="https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/"/>
     <summary>OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.</summary>
     <published>2026-11-10T21:08:52+00:00</published>
@@ -66,7 +42,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3187194</id>
     <title>X launches its own clipping feature to spur influencer engagement</title>
-    <updated>2026-11-11T22:09:06.076459+00:00</updated>
+    <updated>2026-11-12T03:11:15.789231+00:00</updated>
     <link href="https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/"/>
     <summary>X is jumping into clipping, the popular practice of cutting long videos into short, shareable clips that can go viral.</summary>
     <published>2026-11-11T01:02:13+00:00</published>
@@ -74,7 +50,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3187258</id>
     <title>Nvidia’s crisis has corporate governance experts reaching for the popcorn</title>
-    <updated>2026-11-11T22:09:06.076404+00:00</updated>
+    <updated>2026-11-12T03:11:15.789146+00:00</updated>
     <link href="https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/"/>
     <summary>The governance experts we talked to say nobody has seen anything like what's unfolding right now.</summary>
     <published>2026-11-11T07:30:51+00:00</published>
@@ -82,7 +58,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3187089</id>
     <title>Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads</title>
-    <updated>2026-11-11T22:09:06.076348+00:00</updated>
+    <updated>2026-11-12T03:11:15.789062+00:00</updated>
     <link href="https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/"/>
     <summary>Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.</summary>
     <published>2026-11-11T14:00:00+00:00</published>
@@ -90,7 +66,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3186547</id>
     <title>Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth</title>
-    <updated>2026-11-11T22:09:06.076291+00:00</updated>
+    <updated>2026-11-12T03:11:15.788975+00:00</updated>
     <link href="https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/"/>
     <summary>With Databricks at 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.</summary>
     <published>2026-11-11T15:00:00+00:00</published>
@@ -98,7 +74,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3186258</id>
     <title>Siri co-founder backs Helix for its voice ID tech</title>
-    <updated>2026-11-11T22:09:06.076227+00:00</updated>
+    <updated>2026-11-12T03:11:15.788890+00:00</updated>
     <link href="https://techcrunch.com/2026/11/11/siri-co-founder-backs-helix-for-its-voice-id-tech/"/>
     <summary>With the rise of AI agents like Instinct and Muse, the industry needs to rethink human identity on the internet and rely on biometric signals like voice, which is where Helix comes in.</summary>
     <published>2026-11-11T15:02:47+00:00</published>
@@ -106,7 +82,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3187315</id>
     <title>OpenAI’s quarterly revenue reportedly crosses $10B for the first time</title>
-    <updated>2026-11-11T22:09:06.076169+00:00</updated>
+    <updated>2026-11-12T03:11:15.788806+00:00</updated>
     <link href="https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/"/>
     <summary>Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.</summary>
     <published>2026-11-11T16:14:44+00:00</published>
@@ -114,7 +90,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3187323</id>
     <title>Is Jensen Huang’s bad behavior more commonplace than it seems?</title>
-    <updated>2026-11-11T22:09:06.076110+00:00</updated>
+    <updated>2026-11-12T03:11:15.788721+00:00</updated>
     <link href="https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/"/>
     <summary>“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.</summary>
     <published>2026-11-11T16:16:07+00:00</published>
@@ -122,7 +98,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3187469</id>
     <title>Congress to call Jensen Huang in to answer for alleged Chinese spy affair</title>
-    <updated>2026-11-11T22:09:06.076052+00:00</updated>
+    <updated>2026-11-12T03:11:15.788633+00:00</updated>
     <link href="https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/"/>
     <summary>Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy.</summary>
     <published>2026-11-11T19:22:22+00:00</published>
@@ -130,7 +106,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3187339</id>
     <title>With $720M round, Britain’s Fractile gets a leg up in the race for AI chips</title>
-    <updated>2026-11-11T22:09:06.075991+00:00</updated>
+    <updated>2026-11-12T03:11:15.788546+00:00</updated>
     <link href="https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/"/>
     <summary>Fractile has now become one of the top-funded players in the race for purpose-built AI chips.</summary>
     <published>2026-11-11T19:34:55+00:00</published>
@@ -138,15 +114,15 @@
   <entry>
     <id>https://techcrunch.com/?p=3187437</id>
     <title>CoreWeave turns to customer prepayments, shorter contracts to fund AI growth</title>
-    <updated>2026-11-11T22:09:06.075928+00:00</updated>
+    <updated>2026-11-12T03:11:15.788459+00:00</updated>
     <link href="https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/"/>
-    <summary>CoreWeave is increasingly asking customers to pay upfront, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.</summary>
+    <summary>CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.</summary>
     <published>2026-11-11T19:54:00+00:00</published>
   </entry>
   <entry>
     <id>https://techcrunch.com/?p=3186110</id>
     <title>Olaf Sakkers is betting he can beat the emerging-manager squeeze</title>
-    <updated>2026-11-11T22:09:06.075863+00:00</updated>
+    <updated>2026-11-12T03:11:15.788366+00:00</updated>
     <link href="https://techcrunch.com/2026/11/11/olaf-sakkers-is-betting-he-can-beat-the-emerging-manager-squeeze/"/>
     <summary>Entering into the world of venture capital has never been easy, especially as a first-time fund manager. But it's especially daunting right now. Olaf Sakkers has spent the past five years proving that difficult doesn't mean impossible.</summary>
     <published>2026-11-11T20:04:28+00:00</published>
@@ -154,7 +130,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3187471</id>
     <title>Meta is losing its longtime head of  infrastructure</title>
-    <updated>2026-11-11T22:09:06.075794+00:00</updated>
+    <updated>2026-11-12T03:11:15.788236+00:00</updated>
     <link href="https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/"/>
     <summary>Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role.</summary>
     <published>2026-11-11T20:12:01+00:00</published>
@@ -162,9 +138,33 @@
   <entry>
     <id>https://techcrunch.com/?post_type=tc_video&amp;p=3187347</id>
     <title>Why the data center you dread might never even be built</title>
-    <updated>2026-11-11T22:09:06.075695+00:00</updated>
+    <updated>2026-11-12T03:11:15.788145+00:00</updated>
     <link href="https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/"/>
     <summary>The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity.&amp;#160;Before those challenges even come into play, though, there&amp;#8217;s a more basic problem: A lot of the projects being announced may never get built in the first place.&amp;#160;With billions of dollars in AI infrastructure [&amp;#8230;]</summary>
     <published>2026-11-11T20:15:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3187540</id>
+    <title>Jensen Huang accused of having another affair — with an Nvidia exec</title>
+    <updated>2026-11-12T03:11:15.788050+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/"/>
+    <summary>Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.</summary>
+    <published>2026-11-11T23:17:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3187556</id>
+    <title>Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang</title>
+    <updated>2026-11-12T03:11:15.787948+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/"/>
+    <summary>As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.</summary>
+    <published>2026-11-11T23:28:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3186475</id>
+    <title>The unfolding Jensen Huang scandal: a timeline</title>
+    <updated>2026-11-12T03:11:15.787830+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"/>
+    <summary>The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.</summary>
+    <published>2026-11-11T23:50:00+00:00</published>
   </entry>
 </feed>

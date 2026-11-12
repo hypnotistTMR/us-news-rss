@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:ftc</id>
   <title>FTC Press Releases</title>
-  <updated>2026-11-11T22:08:37.303768+00:00</updated>
+  <updated>2026-11-12T03:10:48.384018+00:00</updated>
   <link href="file:///feeds/ftc.xml" rel="self"/>
   <link href="https://www.ftc.gov/feeds/press-release.xml" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -10,16 +10,25 @@
   <entry>
     <id>338491</id>
     <title>FTC Launches Personalized Pricing and Compensation Inquiry</title>
-    <updated>2026-11-11T22:08:37.304470+00:00</updated>
+    <updated>2026-11-12T03:10:48.385092+00:00</updated>
     <link href="https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-launches-personalized-pricing-compensation-inquiry"/>
     <summary>Commission orders seek pricing and compensation methodology from major airlines, ride-sharing companies and food-delivery firms
 The Federal Trade Commission today ordered nine major airlines, ride-sharing companies and food-delivery firms to provide detailed information that will allow the agency to study the use of personal data to set prices and compensation.View Press Release</summary>
     <published>2026-10-28T08:00:00-04:00</published>
   </entry>
   <entry>
+    <id>338557</id>
+    <title>FTC and States Take Action Against Toast Inc. over Hidden and Unauthorized Fees, Deceptive Subscription and Cancellation Practices and Other Unlawful Conduct</title>
+    <updated>2026-11-12T03:10:48.385008+00:00</updated>
+    <link href="https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-states-take-action-against-toast-inc-over-hidden-unauthorized-fees-deceptive-subscription"/>
+    <summary>Agencies allege restaurant software and fintech firm deceptively touts costs and “24/7/365” customer support
+The Federal Trade Commission, the People of the State of California by and through the Los Angeles County Counsel and San Francisco City Attorney, and the Attorneys General of the States of Colorado, Florida, Illinois, Iowa, Nebraska, Oklahoma and Utah, filed a lawsuit today against Toast Inc.View Press Release</summary>
+    <published>2026-10-29T08:00:00-04:00</published>
+  </entry>
+  <entry>
     <id>338570</id>
     <title>FTC Highlights Efforts to Combat Imposter Scams and Protect Consumers</title>
-    <updated>2026-11-11T22:08:37.304417+00:00</updated>
+    <updated>2026-11-12T03:10:48.384923+00:00</updated>
     <link href="https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-highlights-efforts-combat-imposter-scams-protect-consumers"/>
     <summary>Agency stopped 19 FTC-impersonation websites and secured more than $80 million in consumer redress 
 The Federal Trade Commission released the following highlights from the agency’s ongoing efforts to combat impersonation scams and protect consumers, including removal of 19 FTC-imposter websites and enforcement actions resulting in more than $80 million in consumer redress since the FTC’s Impersonation Rule went into effect in 2024.View Press Release</summary>
@@ -28,25 +37,16 @@ The Federal Trade Commission released the following highlights from the agency�
   <entry>
     <id>338565</id>
     <title>FTC Staff Warn Marketers of Healthcare Plans and Lead Generators Not to Deceive Consumers about the Terms of the Advertised Plans</title>
-    <updated>2026-11-11T22:08:37.304365+00:00</updated>
+    <updated>2026-11-12T03:10:48.384837+00:00</updated>
     <link href="https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-staff-warn-marketers-healthcare-plans-lead-generators-not-deceive-consumers-about-terms"/>
     <summary>Letters cite FTC enforcement actions against alleged violators
 With open enrollment season for healthcare plans in progress, Federal Trade Commission staff are sending warning letters to 25 companies that market or generate sales leads for healthcare plans.View Press Release</summary>
     <published>2026-10-29T08:00:00-04:00</published>
   </entry>
   <entry>
-    <id>338557</id>
-    <title>FTC and States Take Action Against Toast Inc. over Hidden and Unauthorized Fees, Deceptive Subscription and Cancellation Practices and Other Unlawful Conduct</title>
-    <updated>2026-11-11T22:08:37.304311+00:00</updated>
-    <link href="https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-states-take-action-against-toast-inc-over-hidden-unauthorized-fees-deceptive-subscription"/>
-    <summary>Agencies allege restaurant software and fintech firm deceptively touts costs and “24/7/365” customer support
-The Federal Trade Commission, the People of the State of California by and through the Los Angeles County Counsel and San Francisco City Attorney, and the Attorneys General of the States of Colorado, Florida, Illinois, Iowa, Nebraska, Oklahoma and Utah, filed a lawsuit today against Toast Inc.View Press Release</summary>
-    <published>2026-10-29T08:00:00-04:00</published>
-  </entry>
-  <entry>
     <id>338677</id>
     <title>FTC, Washington Take Action Against Payment Processor for Deceiving Small Businesses About Costs and Cancellation Terms</title>
-    <updated>2026-11-11T22:08:37.304255+00:00</updated>
+    <updated>2026-11-12T03:10:48.384751+00:00</updated>
     <link href="https://www.ftc.gov/news-events/news/press-releases/2026/11/ftc-washington-take-action-against-payment-processor-deceiving-small-businesses-about-costs"/>
     <summary>Riverside Payments falsely promised to save small businesses money on payment-processing services but failed to disclose fees and auto-renewing contracts, complaint alleges
 Payment processor Riverside Payments Inc., its affiliate Cascade Equipment Leasing LLC and their operators will pay $600,000 to resolve Federal Trade Commission and Washington state allegations that the firms deceived small businesses by falsely promising to save them money on payment processing services and making it nearly </summary>
@@ -55,7 +55,7 @@ Payment processor Riverside Payments Inc., its affiliate Cascade Equipment Leasi
   <entry>
     <id>338796</id>
     <title>New Details Emerge in Amazon Ads Auction-Rigging Case</title>
-    <updated>2026-11-11T22:08:37.304194+00:00</updated>
+    <updated>2026-11-12T03:10:48.384663+00:00</updated>
     <link href="https://www.ftc.gov/news-events/news/press-releases/2026/11/new-details-emerge-amazon-ads-auction-rigging-case"/>
     <summary>Newly unredacted material sheds light on Amazon’s alleged scheme to manipulate auction results to meet corporate financial targets
 The Federal Trade Commission and 22 states recently filed an updated version of their complaint against Amazon with unredacted details about Amazon’s alleged use of deceptive and unfair practices to secretly inflate prices in its online search advertising auction.View Press Release</summary>
@@ -64,7 +64,7 @@ The Federal Trade Commission and 22 states recently filed an updated version of 
   <entry>
     <id>338877</id>
     <title>Progress Residential and Owner Pretium Partners to Pay $49.75 Million to Settle FTC and States’ Charges Over Deceptive Rental Pricing Practices and Other Unlawful Conduct</title>
-    <updated>2026-11-11T22:08:37.304136+00:00</updated>
+    <updated>2026-11-12T03:10:48.384576+00:00</updated>
     <link href="https://www.ftc.gov/news-events/news/press-releases/2026/11/progress-residential-owner-pretium-partners-pay-4975-million-settle-ftc-states-charges-over"/>
     <summary>Proposed order requires companies to advertise true rental prices, clearly and conspicuously disclose fees and stop improperly withholding security deposits 
 The nation’s largest property manager of single-family rental homes, Progress Residential, and its owner, private equity firm Pretium Partners, will pay $49.75 million to settle charges brought by the Federal Trade Commission and four states that the companies misled consumers with deceptive rental pricing practices.View Press Release</summary>
@@ -73,7 +73,7 @@ The nation’s largest property manager of single-family rental homes, Progress 
   <entry>
     <id>338934</id>
     <title>FTC Secures Settlement with Stream Auto Outlet, Advancing Price Transparency for Auto-Buying Consumers</title>
-    <updated>2026-11-11T22:08:37.304075+00:00</updated>
+    <updated>2026-11-12T03:10:48.384486+00:00</updated>
     <link href="https://www.ftc.gov/news-events/news/press-releases/2026/11/ftc-secures-settlement-stream-auto-outlet-advancing-price-transparency-auto-buying-consumers"/>
     <summary>The Federal Trade Commission announced an agreement today with Stream Auto Outlet, resolving claims that the Long Island, New York-based dealership group deceived consumers by advertising prices far lower than what consumers ultimately had to pay.View Press Release</summary>
     <published>2026-11-09T07:00:00-05:00</published>
@@ -81,7 +81,7 @@ The nation’s largest property manager of single-family rental homes, Progress 
   <entry>
     <id>338931</id>
     <title>FTC Action Results in Court Issuing Temporary Restraining Order  Halting Phantom Debt Collection Operation</title>
-    <updated>2026-11-11T22:08:37.304009+00:00</updated>
+    <updated>2026-11-12T03:10:48.384388+00:00</updated>
     <link href="https://www.ftc.gov/news-events/news/press-releases/2026/11/ftc-action-results-court-issuing-temporary-restraining-order-halting-phantom-debt-collection"/>
     <summary>Complaint alleges scheme operators used false threats to collect over $20 million in often-fictitious debts from consumers
 At the Federal Trade Commission’s request, a federal court has temporarily halted and frozen the assets of a debt collection operation that allegedly used deceptive and unlawful tactics to pressure consumers into paying debts that they frequently did not owe.&amp;nbsp;View Press Release</summary>
@@ -90,7 +90,7 @@ At the Federal Trade Commission’s request, a federal court has temporarily hal
   <entry>
     <id>338978</id>
     <title>Five States Join FTC Lawsuit Alleging Hims and Hers Engaged in Deceptive and Unlawful Privacy Practices</title>
-    <updated>2026-11-11T22:08:37.303929+00:00</updated>
+    <updated>2026-11-12T03:10:48.384233+00:00</updated>
     <link href="https://www.ftc.gov/news-events/news/press-releases/2026/11/five-states-join-ftc-lawsuit-alleging-hims-hers-engaged-deceptive-unlawful-privacy-practices"/>
     <summary>The Federal Trade Commission filed an amended complaint adding five states as co-plaintiffs in its lawsuit alleging that telehealth provider Hims and Hers shared consumers’ sensitive health information with third-party advertising platforms, despite claiming its services maintain consumers’ privacy, and it deceived users about its billing and cancellation practices.View Press Release</summary>
     <published>2026-11-10T07:00:00-05:00</published>

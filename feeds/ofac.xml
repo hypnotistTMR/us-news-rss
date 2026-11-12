@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:ofac</id>
   <title>Treasury OFAC Recent Actions (scrape, RSS retired 2025-01)</title>
-  <updated>2026-11-11T22:09:05.781808+00:00</updated>
+  <updated>2026-11-12T03:11:15.205136+00:00</updated>
   <link href="file:///feeds/ofac.xml" rel="self"/>
   <link href="https://ofac.treasury.gov/recent-actions" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -10,121 +10,121 @@
   <entry>
     <id>https://ofac.treasury.gov/recent-actions/miscellaneous</id>
     <title>Miscellaneous</title>
-    <updated>2026-11-11T22:09:05.781923+00:00</updated>
+    <updated>2026-11-12T03:11:15.205322+00:00</updated>
     <link href="https://ofac.treasury.gov/recent-actions/miscellaneous"/>
     <summary>OFAC Recent Action</summary>
-    <published>2026-11-11T22:09:05.781922+00:00</published>
+    <published>2026-11-12T03:11:15.205321+00:00</published>
   </entry>
   <entry>
     <id>https://ofac.treasury.gov/recent-actions/20261019</id>
     <title>Protecting American Intellectual Property Act of 2022 (PAIPA) Designations; Issuance of Associated General Licenses</title>
-    <updated>2026-11-11T22:09:05.781916+00:00</updated>
+    <updated>2026-11-12T03:11:15.205313+00:00</updated>
     <link href="https://ofac.treasury.gov/recent-actions/20261019"/>
     <summary>OFAC Recent Action</summary>
-    <published>2026-11-11T22:09:05.781915+00:00</published>
+    <published>2026-11-12T03:11:15.205311+00:00</published>
   </entry>
   <entry>
     <id>https://ofac.treasury.gov/recent-actions/20261021</id>
     <title>Iran-related Designations; Belarus and North Korea Designations Removals; Issuance of Iran-related and Russia-related General Licenses and Amended Frequently Asked Questions</title>
-    <updated>2026-11-11T22:09:05.781910+00:00</updated>
+    <updated>2026-11-12T03:11:15.205303+00:00</updated>
     <link href="https://ofac.treasury.gov/recent-actions/20261021"/>
     <summary>OFAC Recent Action</summary>
-    <published>2026-11-11T22:09:05.781909+00:00</published>
+    <published>2026-11-12T03:11:15.205302+00:00</published>
   </entry>
   <entry>
     <id>https://ofac.treasury.gov/recent-actions/regulations-and-guidance</id>
     <title>Regulations and Guidance</title>
-    <updated>2026-11-11T22:09:05.781903+00:00</updated>
+    <updated>2026-11-12T03:11:15.205295+00:00</updated>
     <link href="https://ofac.treasury.gov/recent-actions/regulations-and-guidance"/>
     <summary>OFAC Recent Action</summary>
-    <published>2026-11-11T22:09:05.781902+00:00</published>
+    <published>2026-11-12T03:11:15.205293+00:00</published>
   </entry>
   <entry>
     <id>https://ofac.treasury.gov/recent-actions/20261026</id>
     <title>Issuance of Amended Frequently Asked Questions Regarding Blocking and Rejecting Transactions and Filing Reports with OFAC</title>
-    <updated>2026-11-11T22:09:05.781896+00:00</updated>
+    <updated>2026-11-12T03:11:15.205285+00:00</updated>
     <link href="https://ofac.treasury.gov/recent-actions/20261026"/>
     <summary>OFAC Recent Action</summary>
-    <published>2026-11-11T22:09:05.781895+00:00</published>
+    <published>2026-11-12T03:11:15.205283+00:00</published>
   </entry>
   <entry>
     <id>https://ofac.treasury.gov/recent-actions/enforcement-actions</id>
     <title>Enforcement Actions</title>
-    <updated>2026-11-11T22:09:05.781890+00:00</updated>
+    <updated>2026-11-12T03:11:15.205273+00:00</updated>
     <link href="https://ofac.treasury.gov/recent-actions/enforcement-actions"/>
     <summary>OFAC Recent Action</summary>
-    <published>2026-11-11T22:09:05.781889+00:00</published>
+    <published>2026-11-12T03:11:15.205269+00:00</published>
   </entry>
   <entry>
     <id>https://ofac.treasury.gov/recent-actions/20261027</id>
     <title>Settlement Agreement between the U.S. Department of the Treasury's Office of Foreign Assets Control and Extreme Networks, Inc.</title>
-    <updated>2026-11-11T22:09:05.781883+00:00</updated>
+    <updated>2026-11-12T03:11:15.205244+00:00</updated>
     <link href="https://ofac.treasury.gov/recent-actions/20261027"/>
     <summary>OFAC Recent Action</summary>
-    <published>2026-11-11T22:09:05.781882+00:00</published>
+    <published>2026-11-12T03:11:15.205242+00:00</published>
   </entry>
   <entry>
     <id>https://ofac.treasury.gov/recent-actions/20261028</id>
     <title>North Korea Designations; Democratic Republic of the Congo-related Designations</title>
-    <updated>2026-11-11T22:09:05.781877+00:00</updated>
+    <updated>2026-11-12T03:11:15.205235+00:00</updated>
     <link href="https://ofac.treasury.gov/recent-actions/20261028"/>
     <summary>OFAC Recent Action</summary>
-    <published>2026-11-11T22:09:05.781875+00:00</published>
+    <published>2026-11-12T03:11:15.205233+00:00</published>
   </entry>
   <entry>
     <id>https://ofac.treasury.gov/recent-actions/general-licenses</id>
     <title>General Licenses</title>
-    <updated>2026-11-11T22:09:05.781870+00:00</updated>
+    <updated>2026-11-12T03:11:15.205226+00:00</updated>
     <link href="https://ofac.treasury.gov/recent-actions/general-licenses"/>
     <summary>OFAC Recent Action</summary>
-    <published>2026-11-11T22:09:05.781869+00:00</published>
+    <published>2026-11-12T03:11:15.205224+00:00</published>
   </entry>
   <entry>
     <id>https://ofac.treasury.gov/recent-actions/20261029</id>
     <title>Issuance of Amended Iran-related General License</title>
-    <updated>2026-11-11T22:09:05.781864+00:00</updated>
+    <updated>2026-11-12T03:11:15.205216+00:00</updated>
     <link href="https://ofac.treasury.gov/recent-actions/20261029"/>
     <summary>OFAC Recent Action</summary>
-    <published>2026-11-11T22:09:05.781862+00:00</published>
+    <published>2026-11-12T03:11:15.205215+00:00</published>
   </entry>
   <entry>
     <id>https://ofac.treasury.gov/recent-actions/20261104</id>
     <title>Iran-related Designations; Updates to Certain Iran-related Listings; Publication of Iran-related OFAC Alert; Issuance of Amended Venezuela-related General License and Frequently Asked Question</title>
-    <updated>2026-11-11T22:09:05.781857+00:00</updated>
+    <updated>2026-11-12T03:11:15.205207+00:00</updated>
     <link href="https://ofac.treasury.gov/recent-actions/20261104"/>
     <summary>OFAC Recent Action</summary>
-    <published>2026-11-11T22:09:05.781856+00:00</published>
+    <published>2026-11-12T03:11:15.205206+00:00</published>
   </entry>
   <entry>
     <id>https://ofac.treasury.gov/recent-actions/20261105</id>
     <title>Cyber-related and Transnational Criminal Organizations Designations; Cuba Designations; Publication of Cuba-related Determination</title>
-    <updated>2026-11-11T22:09:05.781850+00:00</updated>
+    <updated>2026-11-12T03:11:15.205198+00:00</updated>
     <link href="https://ofac.treasury.gov/recent-actions/20261105"/>
     <summary>OFAC Recent Action</summary>
-    <published>2026-11-11T22:09:05.781848+00:00</published>
+    <published>2026-11-12T03:11:15.205196+00:00</published>
   </entry>
   <entry>
     <id>https://ofac.treasury.gov/recent-actions/20261106</id>
     <title>Iran-related Designations</title>
-    <updated>2026-11-11T22:09:05.781843+00:00</updated>
+    <updated>2026-11-12T03:11:15.205186+00:00</updated>
     <link href="https://ofac.treasury.gov/recent-actions/20261106"/>
     <summary>OFAC Recent Action</summary>
-    <published>2026-11-11T22:09:05.781841+00:00</published>
+    <published>2026-11-12T03:11:15.205183+00:00</published>
   </entry>
   <entry>
     <id>https://ofac.treasury.gov/recent-actions/sanctions-list-updates</id>
     <title>Sanctions List Updates</title>
-    <updated>2026-11-11T22:09:05.781835+00:00</updated>
+    <updated>2026-11-12T03:11:15.205172+00:00</updated>
     <link href="https://ofac.treasury.gov/recent-actions/sanctions-list-updates"/>
     <summary>OFAC Recent Action</summary>
-    <published>2026-11-11T22:09:05.781834+00:00</published>
+    <published>2026-11-12T03:11:15.205170+00:00</published>
   </entry>
   <entry>
     <id>https://ofac.treasury.gov/recent-actions/20261109</id>
     <title>Iran Designation Update</title>
-    <updated>2026-11-11T22:09:05.781818+00:00</updated>
+    <updated>2026-11-12T03:11:15.205152+00:00</updated>
     <link href="https://ofac.treasury.gov/recent-actions/20261109"/>
     <summary>OFAC Recent Action</summary>
-    <published>2026-11-11T22:09:05.781812+00:00</published>
+    <published>2026-11-12T03:11:15.205147+00:00</published>
   </entry>
 </feed>
