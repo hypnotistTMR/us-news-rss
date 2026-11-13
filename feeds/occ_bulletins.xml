@@ -2,41 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:occ_bulletins</id>
   <title>OCC Bulletins (scrape)</title>
-  <updated>2026-11-13T15:37:05.118525+00:00</updated>
+  <updated>2026-11-13T21:44:06.982823+00:00</updated>
   <link href="file:///feeds/occ_bulletins.xml" rel="self"/>
   <link href="https://www.occ.gov/news-events/index-news-events.html" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: financial / Mode: scrape</subtitle>
   <entry>
-    <id>https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-54.html</id>
-    <title>Super Intelligence: Supervisory Framework</title>
-    <updated>2026-11-13T15:37:05.118564+00:00</updated>
-    <link href="https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-54.html"/>
-    <summary>OCC Bulletin</summary>
-    <published>2026-11-13T15:37:05.118563+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-55.html</id>
     <title>Homeownership Counseling: Revised Comptrollerâs Handbook Booklet</title>
-    <updated>2026-11-13T15:37:05.118559+00:00</updated>
+    <updated>2026-11-13T21:44:06.982877+00:00</updated>
     <link href="https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-55.html"/>
     <summary>OCC Bulletin</summary>
-    <published>2026-11-13T15:37:05.118558+00:00</published>
+    <published>2026-11-13T21:44:06.982875+00:00</published>
   </entry>
   <entry>
     <id>https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-56.html</id>
     <title>Credit Risk: Effect of Guarantor Support on Commercial Credit Risk Ratings</title>
-    <updated>2026-11-13T15:37:05.118553+00:00</updated>
+    <updated>2026-11-13T21:44:06.982867+00:00</updated>
     <link href="https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-56.html"/>
     <summary>OCC Bulletin</summary>
-    <published>2026-11-13T15:37:05.118551+00:00</published>
+    <published>2026-11-13T21:44:06.982865+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-57.html</id>
+    <title>Third-Party Risk Management: Proposed Guidance and Request for Comment; Extension of Comment Period</title>
+    <updated>2026-11-13T21:44:06.982854+00:00</updated>
+    <link href="https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-57.html"/>
+    <summary>OCC Bulletin</summary>
+    <published>2026-11-13T21:44:06.982852+00:00</published>
   </entry>
   <entry>
     <id>https://www.occ.gov/news-issuances/bulletins/2023/bulletin-2023-17.html</id>
     <title>Third-Party Relationships: Interagency Guidance on Risk Management</title>
-    <updated>2026-11-13T15:37:05.118538+00:00</updated>
+    <updated>2026-11-13T21:44:06.982831+00:00</updated>
     <link href="https://www.occ.gov/news-issuances/bulletins/2023/bulletin-2023-17.html"/>
     <summary>OCC Bulletin</summary>
-    <published>2026-11-13T15:37:05.118534+00:00</published>
+    <published>2026-11-13T21:44:06.982827+00:00</published>
   </entry>
 </feed>
