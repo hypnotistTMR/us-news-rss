@@ -2,210 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:fcc</id>
   <title>FCC Recent Releases (Combined)</title>
-  <updated>2026-11-13T07:30:46.767471+00:00</updated>
+  <updated>2026-11-13T15:38:29.380279+00:00</updated>
   <link href="file:///feeds/fcc.xml" rel="self"/>
   <link href="https://api2.fcc.gov/api/exp/v1.0.0/edocspublic/rss" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: telecom / Mode: rss</subtitle>
   <entry>
-    <id>426736</id>
-    <title>Wireless Telecommunications Bureau Site Based Licenses Termination Pending Public Notice</title>
-    <updated>2026-11-13T07:30:46.767647+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426736"/>
+    <id>426810</id>
+    <title>FCC Announces One Year of Clean Carts Success and Best Practices</title>
+    <updated>2026-11-13T15:38:29.380358+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426810"/>
+    <summary>18 Million Devices Removed, Detailed E-Commerce Platform Best Practices Provided</summary>
+    <published>2026-11-13T15:38:29.380357+00:00</published>
+  </entry>
+  <entry>
+    <id>426769</id>
+    <title>FCC's Enforcement Bureau Announces Success of Operation Clean Carts and Outlines Best Practices for E-Commerce Platforms to Combat the Sale of Covered List Devices</title>
+    <updated>2026-11-13T15:38:29.380353+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426769"/>
     <summary>.</summary>
-    <published>2026-11-13T07:30:46.767645+00:00</published>
+    <published>2026-11-13T15:38:29.380352+00:00</published>
   </entry>
   <entry>
-    <id>426778</id>
-    <title>FCC To Hold Open Commission Meeting Thursday, November 19, 2026</title>
-    <updated>2026-11-13T07:30:46.767640+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426778"/>
-    <summary>Sunshine Notice</summary>
-    <published>2026-11-13T07:30:46.767639+00:00</published>
-  </entry>
-  <entry>
-    <id>426763</id>
-    <title>Space Bureau Denies Kineis Petition for Modification</title>
-    <updated>2026-11-13T07:30:46.767633+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426763"/>
-    <summary>Space Bureau denies Kineis Petition for Modification of U.S. market access grant and request for waiver of FCC post-mission disposal requirement thereby terminating Kineis's U.S. market access.</summary>
-    <published>2026-11-13T07:30:46.767632+00:00</published>
-  </entry>
-  <entry>
-    <id>426663</id>
-    <title>Wireless Telecommunications Bureau Market-Based Applications Action</title>
-    <updated>2026-11-13T07:30:46.767627+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426663"/>
+    <id>426806</id>
+    <title>FCC Effectively Prohibits Eight Providers from Connecting to U.S. Networks for Failing to Reply to Robocall Traceback Requests</title>
+    <updated>2026-11-13T15:38:29.380347+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426806"/>
     <summary>.</summary>
-    <published>2026-11-13T07:30:46.767626+00:00</published>
+    <published>2026-11-13T15:38:29.380345+00:00</published>
   </entry>
   <entry>
-    <id>426699</id>
-    <title>Wireless Telecommunications Bureau Site-By-Site Action</title>
-    <updated>2026-11-13T07:30:46.767620+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426699"/>
-    <summary>.</summary>
-    <published>2026-11-13T07:30:46.767619+00:00</published>
-  </entry>
-  <entry>
-    <id>426772</id>
-    <title>Erratum- Promoting the Integrity and Security of Telecommunications Certification Bodies, Measurement Facilities, and the Equipment Authorization Program</title>
-    <updated>2026-11-13T07:30:46.767614+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426772"/>
-    <summary>Issuing an Erratum correcting Third Report and Order, FCC 26-73, released on October 30, 2026</summary>
-    <published>2026-11-13T07:30:46.767612+00:00</published>
-  </entry>
-  <entry>
-    <id>426730</id>
-    <title>Wireless Telecommunications Bureau Assignment of License Authorization Applications, Transfer of Control of Licensee Applications, De Facto Transfer Lease Applications and Spectrum Manager Lease Notif</title>
-    <updated>2026-11-13T07:30:46.767606+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426730"/>
-    <summary>Event Applications, And Designated Entity Annual Reports Action</summary>
-    <published>2026-11-13T07:30:46.767605+00:00</published>
-  </entry>
-  <entry>
-    <id>426660</id>
-    <title>Wireless Telecommunications Bureau Market-Based Applications Accepted for Filing</title>
-    <updated>2026-11-13T07:30:46.767587+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426660"/>
-    <summary>.</summary>
-    <published>2026-11-13T07:30:46.767586+00:00</published>
-  </entry>
-  <entry>
-    <id>426767</id>
-    <title>FCC Extends Application Deadline for Fall 2027 Honors Program</title>
-    <updated>2026-11-13T07:30:46.767581+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426767"/>
-    <summary>Applications Must Be Submitted by December 31
-Submit Applications via USAJOBS</summary>
-    <published>2026-11-13T07:30:46.767579+00:00</published>
-  </entry>
-  <entry>
-    <id>426764</id>
-    <title>Applications</title>
-    <updated>2026-11-13T07:30:46.767574+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426764"/>
-    <summary>.</summary>
-    <published>2026-11-13T07:30:46.767572+00:00</published>
-  </entry>
-  <entry>
-    <id>426765</id>
-    <title>Actions</title>
-    <updated>2026-11-13T07:30:46.767567+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426765"/>
-    <summary>.</summary>
-    <published>2026-11-13T07:30:46.767566+00:00</published>
-  </entry>
-  <entry>
-    <id>426697</id>
-    <title>Wireless Telecommunications Bureau Site-By-Site Accepted for Filing</title>
-    <updated>2026-11-13T07:30:46.767560+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426697"/>
-    <summary>.</summary>
-    <published>2026-11-13T07:30:46.767559+00:00</published>
-  </entry>
-  <entry>
-    <id>426696</id>
-    <title>Public Safety and Homeland Security Bureau Site-By-Site Accepted for Filing</title>
-    <updated>2026-11-13T07:30:46.767553+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426696"/>
-    <summary>.</summary>
-    <published>2026-11-13T07:30:46.767552+00:00</published>
-  </entry>
-  <entry>
-    <id>426698</id>
-    <title>Public Safety and Homeland Security Bureau Site-By-Site Action</title>
-    <updated>2026-11-13T07:30:46.767547+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426698"/>
-    <summary>.</summary>
-    <published>2026-11-13T07:30:46.767545+00:00</published>
-  </entry>
-  <entry>
-    <id>426659</id>
-    <title>Public Safety and Homeland Security Bureau Market-Based Applications Accepted for Filing</title>
-    <updated>2026-11-13T07:30:46.767540+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426659"/>
-    <summary>.</summary>
-    <published>2026-11-13T07:30:46.767538+00:00</published>
-  </entry>
-  <entry>
-    <id>426766</id>
-    <title>Pleadings</title>
-    <updated>2026-11-13T07:30:46.767532+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426766"/>
-    <summary>.</summary>
-    <published>2026-11-13T07:30:46.767530+00:00</published>
-  </entry>
-  <entry>
-    <id>426661</id>
-    <title>Public Safety and Homeland Security Bureau Market-Based Applications Action</title>
-    <updated>2026-11-13T07:30:46.767521+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426661"/>
-    <summary>.</summary>
-    <published>2026-11-13T07:30:46.767520+00:00</published>
-  </entry>
-  <entry>
-    <id>426725</id>
-    <title>Wireless Telecommunications Bureau Assignment of License Authorization Applications, Transfer of Control of Licensee Applications, and De Facto Transfer Lease Applications, and Designated Entity Repor</title>
-    <updated>2026-11-13T07:30:46.767517+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426725"/>
-    <summary>Filing</summary>
-    <published>2026-11-13T07:30:46.767516+00:00</published>
-  </entry>
-  <entry>
-    <id>426728</id>
-    <title>Public Safety and Homeland Security Bureau Assignment of License Authorization Applications, Transfer of Control of Licensee Applications, and De Facto Transfer Lease Applications, and Designated Enti</title>
-    <updated>2026-11-13T07:30:46.767512+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426728"/>
-    <summary>For Filing</summary>
-    <published>2026-11-13T07:30:46.767512+00:00</published>
-  </entry>
-  <entry>
-    <id>426734</id>
-    <title>Wireless Telecommunications Bureau Market Based Licenses Termination Pending Public Notice</title>
-    <updated>2026-11-13T07:30:46.767508+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426734"/>
-    <summary>.</summary>
-    <published>2026-11-13T07:30:46.767508+00:00</published>
-  </entry>
-  <entry>
-    <id>426737</id>
-    <title>Public Safety and Homeland Security Bureau Market Based Licenses Termination Pending Public Notice</title>
-    <updated>2026-11-13T07:30:46.767504+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426737"/>
-    <summary>.</summary>
-    <published>2026-11-13T07:30:46.767503+00:00</published>
-  </entry>
-  <entry>
-    <id>426732</id>
-    <title>Public Safety and Homeland Security Bureau Assignment of License authorization Applications, Transfer of Control of Licensee Applications, De Facto Transfer Lease Applications and Spectrum Manager Lea</title>
-    <updated>2026-11-13T07:30:46.767499+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426732"/>
-    <summary>Eligibility Event Applications, And Designated Entity Annual Reports Action</summary>
-    <published>2026-11-13T07:30:46.767498+00:00</published>
-  </entry>
-  <entry>
-    <id>426775</id>
-    <title>In the Matter of Earth Station Applications of SpaceX Services, Inc.</title>
-    <updated>2026-11-13T07:30:46.767494+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426775"/>
-    <summary>Space Bureau Grants 36 SpaceX Earth Station Applications.</summary>
-    <published>2026-11-13T07:30:46.767493+00:00</published>
-  </entry>
-  <entry>
-    <id>426773</id>
-    <title>Antenna Structure Registration Service Information - Environmental Action</title>
-    <updated>2026-11-13T07:30:46.767488+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426773"/>
-    <summary>.</summary>
-    <published>2026-11-13T07:30:46.767487+00:00</published>
-  </entry>
-  <entry>
-    <id>426739</id>
-    <title>Public Safety and Homeland Security Bureau Site Based Licenses Termination Pending Public Notice</title>
-    <updated>2026-11-13T07:30:46.767477+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426739"/>
-    <summary>.</summary>
-    <published>2026-11-13T07:30:46.767474+00:00</published>
+    <id>426780</id>
+    <title>In the Matter of Robocall Mitigation Database Filers</title>
+    <updated>2026-11-13T15:38:29.380317+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426780"/>
+    <summary>FCC Enforcement Bureau removes eight Companies from the Robocall Mitigation Database. All intermediate providers and voice service providers must cease accepting all calls directly from these Companies.</summary>
+    <published>2026-11-13T15:38:29.380297+00:00</published>
   </entry>
 </feed>
