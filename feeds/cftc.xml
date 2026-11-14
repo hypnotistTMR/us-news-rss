@@ -2,23 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:cftc</id>
   <title>CFTC - General Press Releases</title>
-  <updated>2026-11-13T21:44:05.744660+00:00</updated>
+  <updated>2026-11-14T01:55:15.302677+00:00</updated>
   <link href="file:///feeds/cftc.xml" rel="self"/>
   <link href="https://www.cftc.gov/RSS/RSSGP/rssgp.xml" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: financial / Mode: rss</subtitle>
   <entry>
-    <id>https://www.cftc.gov/PressRoom/PressReleases/9314-26</id>
-    <title>CFTC and National Basketball Association Sign MOU to Protect Integrity in Professional Basketball</title>
-    <updated>2026-11-13T21:44:05.745643+00:00</updated>
-    <link href="https://www.cftc.gov/PressRoom/PressReleases/9314-26"/>
-    <summary>CFTC and National Basketball Association Sign MOU to Protect Integrity in Professional Basketball</summary>
-    <published>2026-10-26T14:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.cftc.gov/PressRoom/PressReleases/9315-26</id>
     <title>CFTC Sues to Block State Enforcement in Utah Amid Ongoing Efforts to Preserve Jurisdiction</title>
-    <updated>2026-11-13T21:44:05.745517+00:00</updated>
+    <updated>2026-11-14T01:55:15.303349+00:00</updated>
     <link href="https://www.cftc.gov/PressRoom/PressReleases/9315-26"/>
     <summary>CFTC Sues to Block State Enforcement in Utah Amid Ongoing Efforts to Preserve Jurisdiction</summary>
     <published>2026-10-27T12:58:38+00:00</published>
@@ -26,7 +18,7 @@
   <entry>
     <id>https://www.cftc.gov/PressRoom/PressReleases/9316-26</id>
     <title>CFTC Announces Semiweekly Publication of the COT Report</title>
-    <updated>2026-11-13T21:44:05.745432+00:00</updated>
+    <updated>2026-11-14T01:55:15.303299+00:00</updated>
     <link href="https://www.cftc.gov/PressRoom/PressReleases/9316-26"/>
     <summary>CFTC Announces Semiweekly Publication of the COT Report</summary>
     <published>2026-10-27T17:47:15+00:00</published>
@@ -34,7 +26,7 @@
   <entry>
     <id>https://www.cftc.gov/PressRoom/PressReleases/9317-26</id>
     <title>ICYMI: Agricultural Leaders and Market Participants Join CFTC Chairman Selig in Overland Park, Kansas for AgCon 2026</title>
-    <updated>2026-11-13T21:44:05.745348+00:00</updated>
+    <updated>2026-11-14T01:55:15.303249+00:00</updated>
     <link href="https://www.cftc.gov/PressRoom/PressReleases/9317-26"/>
     <summary>ICYMI: Agricultural Leaders and Market Participants Join CFTC Chairman Selig in Overland Park, Kansas for AgCon 2026</summary>
     <published>2026-10-27T19:22:28+00:00</published>
@@ -42,7 +34,7 @@
   <entry>
     <id>https://www.cftc.gov/PressRoom/PressReleases/9318-26</id>
     <title>CFTC to Host Roundtable on 24/7 Trading</title>
-    <updated>2026-11-13T21:44:05.745264+00:00</updated>
+    <updated>2026-11-14T01:55:15.303199+00:00</updated>
     <link href="https://www.cftc.gov/PressRoom/PressReleases/9318-26"/>
     <summary>CFTC to Host Roundtable on 24/7 Trading</summary>
     <published>2026-10-28T17:00:53+00:00</published>
@@ -50,7 +42,7 @@
   <entry>
     <id>https://www.cftc.gov/PressRoom/PressReleases/9319-26</id>
     <title>CFTC Chairman Selig Releases Statement on Equity Perpetual Futures</title>
-    <updated>2026-11-13T21:44:05.745179+00:00</updated>
+    <updated>2026-11-14T01:55:15.303147+00:00</updated>
     <link href="https://www.cftc.gov/PressRoom/PressReleases/9319-26"/>
     <summary>CFTC Chairman Selig Releases Statement on Equity Perpetual Futures</summary>
     <published>2026-11-03T13:50:00+00:00</published>
@@ -58,7 +50,7 @@
   <entry>
     <id>https://www.cftc.gov/PressRoom/PressReleases/9321-26</id>
     <title>CFTC and USDA Sign MOU to Protect Integrity of American Agricultural Markets</title>
-    <updated>2026-11-13T21:44:05.745092+00:00</updated>
+    <updated>2026-11-14T01:55:15.303093+00:00</updated>
     <link href="https://www.cftc.gov/PressRoom/PressReleases/9321-26"/>
     <summary>CFTC and USDA Sign MOU to Protect Integrity of American Agricultural Markets</summary>
     <published>2026-11-04T14:00:00+00:00</published>
@@ -66,7 +58,7 @@
   <entry>
     <id>https://www.cftc.gov/PressRoom/PressReleases/9322-26</id>
     <title>CFTC Staff Addresses Use of Trust Companies for Daily Settlements</title>
-    <updated>2026-11-13T21:44:05.745004+00:00</updated>
+    <updated>2026-11-14T01:55:15.303041+00:00</updated>
     <link href="https://www.cftc.gov/PressRoom/PressReleases/9322-26"/>
     <summary>CFTC Staff Addresses Use of Trust Companies for Daily Settlements</summary>
     <published>2026-11-05T18:13:46+00:00</published>
@@ -74,7 +66,7 @@
   <entry>
     <id>https://www.cftc.gov/PressRoom/PressReleases/9323-26</id>
     <title>CFTC Issues Impartial Access Requirements Interpretation</title>
-    <updated>2026-11-13T21:44:05.744909+00:00</updated>
+    <updated>2026-11-14T01:55:15.302988+00:00</updated>
     <link href="https://www.cftc.gov/PressRoom/PressReleases/9323-26"/>
     <summary>CFTC Issues Impartial Access Requirements Interpretation</summary>
     <published>2026-11-05T22:00:03+00:00</published>
@@ -82,9 +74,17 @@
   <entry>
     <id>https://www.cftc.gov/PressRoom/PressReleases/9325-26</id>
     <title>CFTC Files Lawsuit Against Arkansas as the Agency Defends its Federal Jurisdiction Over Prediction Markets</title>
-    <updated>2026-11-13T21:44:05.744789+00:00</updated>
+    <updated>2026-11-14T01:55:15.302926+00:00</updated>
     <link href="https://www.cftc.gov/PressRoom/PressReleases/9325-26"/>
     <summary>CFTC Files Lawsuit Against Arkansas as the Agency Defends its Federal Jurisdiction Over Prediction Markets</summary>
     <published>2026-11-13T15:46:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cftc.gov/PressRoom/PressReleases/9326-26</id>
+    <title>CFTC Sues Louisiana After State Court Blocks CFTC-Regulated Exchanges</title>
+    <updated>2026-11-14T01:55:15.302822+00:00</updated>
+    <link href="https://www.cftc.gov/PressRoom/PressReleases/9326-26"/>
+    <summary>CFTC Sues Louisiana After State Court Blocks CFTC-Regulated Exchanges</summary>
+    <published>2026-11-13T21:00:40+00:00</published>
   </entry>
 </feed>
