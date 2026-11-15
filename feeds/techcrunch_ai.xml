@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:techcrunch_ai</id>
   <title>TechCrunch - AI</title>
-  <updated>2026-11-15T03:57:50.926792+00:00</updated>
+  <updated>2026-11-15T11:45:05.217009+00:00</updated>
   <link href="file:///feeds/techcrunch_ai.xml" rel="self"/>
   <link href="https://techcrunch.com/category/artificial-intelligence/feed/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -10,7 +10,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3187922</id>
     <title>Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit</title>
-    <updated>2026-11-15T03:57:50.928017+00:00</updated>
+    <updated>2026-11-15T11:45:05.218605+00:00</updated>
     <link href="https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/"/>
     <summary>Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.</summary>
     <published>2026-11-12T17:36:40+00:00</published>
@@ -18,7 +18,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3188037</id>
     <title>Jensen Huang’s exit puts Nvidia’s support for open source in question</title>
-    <updated>2026-11-15T03:57:50.927968+00:00</updated>
+    <updated>2026-11-15T11:45:05.218538+00:00</updated>
     <link href="https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/"/>
     <summary>Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.</summary>
     <published>2026-11-12T18:39:23+00:00</published>
@@ -26,7 +26,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3187494</id>
     <title>Nectar launches an AI agent to automate creator discovery and outreach for brands</title>
-    <updated>2026-11-15T03:57:50.927918+00:00</updated>
+    <updated>2026-11-15T11:45:05.218471+00:00</updated>
     <link href="https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/"/>
     <summary>Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.</summary>
     <published>2026-11-12T19:11:00+00:00</published>
@@ -34,7 +34,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3188050</id>
     <title>Google’s latest Search upgrade promises better answers to your most complicated questions</title>
-    <updated>2026-11-15T03:57:50.927869+00:00</updated>
+    <updated>2026-11-15T11:45:05.218403+00:00</updated>
     <link href="https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/"/>
     <summary>Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.</summary>
     <published>2026-11-12T19:27:45+00:00</published>
@@ -42,7 +42,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3188106</id>
     <title>Jensen Huang was having a third affair, Reuters reports</title>
-    <updated>2026-11-15T03:57:50.927820+00:00</updated>
+    <updated>2026-11-15T11:45:05.218331+00:00</updated>
     <link href="https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/"/>
     <summary>Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.</summary>
     <published>2026-11-12T20:26:47+00:00</published>
@@ -50,7 +50,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3188119</id>
     <title>Nebius tests the neocloud playbook with $40 billion in planned spending</title>
-    <updated>2026-11-15T03:57:50.927771+00:00</updated>
+    <updated>2026-11-15T11:45:05.218253+00:00</updated>
     <link href="https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/"/>
     <summary>Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.</summary>
     <published>2026-11-12T21:27:10+00:00</published>
@@ -58,7 +58,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3188128</id>
     <title>Muse can now place calls to US businesses — if you pay</title>
-    <updated>2026-11-15T03:57:50.927722+00:00</updated>
+    <updated>2026-11-15T11:45:05.218186+00:00</updated>
     <link href="https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/"/>
     <summary>Muse's AI can now place outbound calls to U.S. businesses — but it's not free.</summary>
     <published>2026-11-12T22:22:28+00:00</published>
@@ -66,7 +66,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3188108</id>
     <title>Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump</title>
-    <updated>2026-11-15T03:57:50.927671+00:00</updated>
+    <updated>2026-11-15T11:45:05.218117+00:00</updated>
     <link href="https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/"/>
     <summary>This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.</summary>
     <published>2026-11-12T22:42:51+00:00</published>
@@ -74,7 +74,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3188240</id>
     <title>Jensen Huang didn’t show confidence in his successor, report says</title>
-    <updated>2026-11-15T03:57:50.927621+00:00</updated>
+    <updated>2026-11-15T11:45:05.218048+00:00</updated>
     <link href="https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/"/>
     <summary>Huang described Kress as a "deer in the headlights" during a meeting in summer.</summary>
     <published>2026-11-13T12:28:23+00:00</published>
@@ -82,7 +82,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3187846</id>
     <title>Israel’s VCs see opportunity for challengers in Nvidia’s turmoil</title>
-    <updated>2026-11-15T03:57:50.927572+00:00</updated>
+    <updated>2026-11-15T11:45:05.217981+00:00</updated>
     <link href="https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/"/>
     <summary>Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.</summary>
     <published>2026-11-13T12:52:19+00:00</published>
@@ -90,7 +90,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3188328</id>
     <title>ElevenLabs’ new app combines meeting note-taking and dictation for teams</title>
-    <updated>2026-11-15T03:57:50.927520+00:00</updated>
+    <updated>2026-11-15T11:45:05.217914+00:00</updated>
     <link href="https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/"/>
     <summary>ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.</summary>
     <published>2026-11-13T14:44:48+00:00</published>
@@ -98,7 +98,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3186475</id>
     <title>The unfolding Jensen Huang scandal: a timeline</title>
-    <updated>2026-11-15T03:57:50.927463+00:00</updated>
+    <updated>2026-11-15T11:45:05.217844+00:00</updated>
     <link href="https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"/>
     <summary>Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.</summary>
     <published>2026-11-13T15:58:00+00:00</published>
@@ -106,7 +106,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3188368</id>
     <title>ChatGPT’s new Wallet lets AI agents shop and check out for you</title>
-    <updated>2026-11-15T03:57:50.927410+00:00</updated>
+    <updated>2026-11-15T11:45:05.217775+00:00</updated>
     <link href="https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/"/>
     <summary>ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.</summary>
     <published>2026-11-13T16:00:12+00:00</published>
@@ -114,7 +114,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3188067</id>
     <title>Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!</title>
-    <updated>2026-11-15T03:57:50.927357+00:00</updated>
+    <updated>2026-11-15T11:45:05.217706+00:00</updated>
     <link href="https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/"/>
     <summary>New research shows the most advanced AI models from China were trained on banned Nvidia chips.</summary>
     <published>2026-11-13T18:40:30+00:00</published>
@@ -122,7 +122,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3188474</id>
     <title>AI agent startup LangChain hits $3B valuation</title>
-    <updated>2026-11-15T03:57:50.927303+00:00</updated>
+    <updated>2026-11-15T11:45:05.217637+00:00</updated>
     <link href="https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/"/>
     <summary>LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.</summary>
     <published>2026-11-13T19:37:57+00:00</published>
@@ -130,7 +130,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3188596</id>
     <title>Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say</title>
-    <updated>2026-11-15T03:57:50.927244+00:00</updated>
+    <updated>2026-11-15T11:45:05.217567+00:00</updated>
     <link href="https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"/>
     <summary>Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.</summary>
     <published>2026-11-13T22:43:00+00:00</published>
@@ -138,7 +138,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3188720</id>
     <title>Asian governments react to Nvidia CEO Jensen Huang’s exit</title>
-    <updated>2026-11-15T03:57:50.927182+00:00</updated>
+    <updated>2026-11-15T11:45:05.217496+00:00</updated>
     <link href="https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/"/>
     <summary>Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.</summary>
     <published>2026-11-14T16:34:15+00:00</published>
@@ -146,7 +146,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3162590</id>
     <title>The AI graveyard: a running list of projects and startups that didn’t make it</title>
-    <updated>2026-11-15T03:57:50.927114+00:00</updated>
+    <updated>2026-11-15T11:45:05.217425+00:00</updated>
     <link href="https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"/>
     <summary>From Apple's repeatedly delayed Siri AI to OpenAI's messy "super app" launch, here's a look at the AI projects that shut down or missed expectations.</summary>
     <published>2026-11-14T17:30:00+00:00</published>
@@ -154,7 +154,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3188741</id>
     <title>Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang</title>
-    <updated>2026-11-15T03:57:50.927032+00:00</updated>
+    <updated>2026-11-15T11:45:05.217333+00:00</updated>
     <link href="https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"/>
     <summary>The petition had attracted more than 115,000 signatures as of Saturday afternoon.</summary>
     <published>2026-11-14T21:41:22+00:00</published>
@@ -162,7 +162,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3188673</id>
     <title>Where was Nvidia’s security team?</title>
-    <updated>2026-11-15T03:57:50.926952+00:00</updated>
+    <updated>2026-11-15T11:45:05.217195+00:00</updated>
     <link href="https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/"/>
     <summary>Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.</summary>
     <published>2026-11-15T00:08:07+00:00</published>
