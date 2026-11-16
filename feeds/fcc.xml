@@ -2,41 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:fcc</id>
   <title>FCC Recent Releases (Combined)</title>
-  <updated>2026-11-13T15:38:29.380279+00:00</updated>
+  <updated>2026-11-16T20:37:28.567633+00:00</updated>
   <link href="file:///feeds/fcc.xml" rel="self"/>
   <link href="https://api2.fcc.gov/api/exp/v1.0.0/edocspublic/rss" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: telecom / Mode: rss</subtitle>
   <entry>
-    <id>426810</id>
-    <title>FCC Announces One Year of Clean Carts Success and Best Practices</title>
-    <updated>2026-11-13T15:38:29.380358+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426810"/>
-    <summary>18 Million Devices Removed, Detailed E-Commerce Platform Best Practices Provided</summary>
-    <published>2026-11-13T15:38:29.380357+00:00</published>
+    <id>426771</id>
+    <title>Jackson Radio, LLC WFQY(AM), Brandon, Mississippi and W256BL, Ridgeland, Mississippi For Special Temporary Authority to Remain Silent and to Operate WFQY(AM) from Temporary Transmitter Site</title>
+    <updated>2026-11-16T20:37:28.567726+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426771"/>
+    <summary>Consent Decree Adopting a Three-year Compliance Plan</summary>
+    <published>2026-11-16T20:37:28.567724+00:00</published>
   </entry>
   <entry>
-    <id>426769</id>
-    <title>FCC's Enforcement Bureau Announces Success of Operation Clean Carts and Outlines Best Practices for E-Commerce Platforms to Combat the Sale of Covered List Devices</title>
-    <updated>2026-11-13T15:38:29.380353+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426769"/>
+    <id>426978</id>
+    <title>Pleadings</title>
+    <updated>2026-11-16T20:37:28.567715+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426978"/>
     <summary>.</summary>
-    <published>2026-11-13T15:38:29.380352+00:00</published>
+    <published>2026-11-16T20:37:28.567713+00:00</published>
   </entry>
   <entry>
-    <id>426806</id>
-    <title>FCC Effectively Prohibits Eight Providers from Connecting to U.S. Networks for Failing to Reply to Robocall Traceback Requests</title>
-    <updated>2026-11-13T15:38:29.380347+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426806"/>
+    <id>426977</id>
+    <title>Actions</title>
+    <updated>2026-11-16T20:37:28.567703+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426977"/>
     <summary>.</summary>
-    <published>2026-11-13T15:38:29.380345+00:00</published>
+    <published>2026-11-16T20:37:28.567701+00:00</published>
   </entry>
   <entry>
-    <id>426780</id>
-    <title>In the Matter of Robocall Mitigation Database Filers</title>
-    <updated>2026-11-13T15:38:29.380317+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426780"/>
-    <summary>FCC Enforcement Bureau removes eight Companies from the Robocall Mitigation Database. All intermediate providers and voice service providers must cease accepting all calls directly from these Companies.</summary>
-    <published>2026-11-13T15:38:29.380297+00:00</published>
+    <id>426976</id>
+    <title>Applications</title>
+    <updated>2026-11-16T20:37:28.567690+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426976"/>
+    <summary>.</summary>
+    <published>2026-11-16T20:37:28.567688+00:00</published>
+  </entry>
+  <entry>
+    <id>426985</id>
+    <title>FCC Agency Financial Report of Fiscal Year 2026</title>
+    <updated>2026-11-16T20:37:28.567679+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426985"/>
+    <summary>FCC Agency Financial Report of Fiscal Year 2026</summary>
+    <published>2026-11-16T20:37:28.567676+00:00</published>
+  </entry>
+  <entry>
+    <id>426983</id>
+    <title>Renewed Motion to Dismiss - SZ DJI Tech. v. FCC, No. 26-1029 (9th Cir.)</title>
+    <updated>2026-11-16T20:37:28.567667+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426983"/>
+    <summary>Respondents' Renewed Motion to Dismiss</summary>
+    <published>2026-11-16T20:37:28.567664+00:00</published>
+  </entry>
+  <entry>
+    <id>426981</id>
+    <title>Application of FM Radio Licenses, LLC, d/b/a Forever Media (Assignor) and Draper Media, Inc. (Assignee), for Consent to Assignment of Licenses</title>
+    <updated>2026-11-16T20:37:28.567643+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426981"/>
+    <summary>Media Bureau denies petition to deny and grants application for consent to assignment of licenses from FM Radio Licenses, LLC, d/b/a Forever Media (Assignor) to Draper Media, Inc. (Assignee).</summary>
+    <published>2026-11-16T20:37:28.567638+00:00</published>
   </entry>
 </feed>
