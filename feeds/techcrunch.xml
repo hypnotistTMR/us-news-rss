@@ -2,47 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:techcrunch</id>
   <title>TechCrunch - All</title>
-  <updated>2026-11-16T20:36:36.924557+00:00</updated>
+  <updated>2026-11-17T03:19:45.736069+00:00</updated>
   <link href="file:///feeds/techcrunch.xml" rel="self"/>
   <link href="https://techcrunch.com/feed/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: tech / Mode: rss</subtitle>
   <entry>
-    <id>https://techcrunch.com/?p=3188528</id>
-    <title>Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM</title>
-    <updated>2026-11-16T20:36:36.926488+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/"/>
-    <summary>Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.</summary>
-    <published>2026-11-16T12:30:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3188647</id>
-    <title>Bedrock Energy raises $24M to build more AI-enabled geothermal drill rigs for enterprise buildings</title>
-    <updated>2026-11-16T20:36:36.926399+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/16/bedrock-energy-raises-24m-to-build-more-ai-enabled-geothermal-drill-rigs-for-enterprise-buildings/"/>
-    <summary>Geothermal heat pumps could free up significant space on the grid. Bedrock Energy raised $24 million to bring its AI-guided drill rigs to more markets.</summary>
-    <published>2026-11-16T13:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3188163</id>
-    <title>After dodging death, battery startup Our Next Energy is now going public</title>
-    <updated>2026-11-16T20:36:36.926299+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/16/after-dodging-death-battery-startup-our-next-energy-is-now-going-public/"/>
-    <summary>Our Next Energy is the latest battery startup to go public via SPAC. Does it now have what it needs to survive in the cutthroat battery industry?</summary>
-    <published>2026-11-16T13:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3188522</id>
-    <title>Mazama Energy has a solution for geothermal’s biggest drilling problem</title>
-    <updated>2026-11-16T20:36:36.926212+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/16/mazama-energy-has-a-solution-for-geothermals-biggest-drilling-problem/"/>
-    <summary>Khosla-backed Mazama Energy has developed a new way to supercool its geothermal drill bits, letting it drill faster and deeper in a quest to bring down the cost of electricity.</summary>
-    <published>2026-11-16T14:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://techcrunch.com/?p=3188899</id>
     <title>Google Maps can now build trip itineraries with real-time details about each stop</title>
-    <updated>2026-11-16T20:36:36.926125+00:00</updated>
+    <updated>2026-11-17T03:19:45.737994+00:00</updated>
     <link href="https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/"/>
     <summary>You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining.</summary>
     <published>2026-11-16T14:48:13+00:00</published>
@@ -50,7 +18,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3188900</id>
     <title>US tightens AI chip export controls to deter Chinese companies from accessing compute remotely</title>
-    <updated>2026-11-16T20:36:36.926039+00:00</updated>
+    <updated>2026-11-17T03:19:45.737909+00:00</updated>
     <link href="https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/"/>
     <summary>Under the interim rule, the U.S. will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.</summary>
     <published>2026-11-16T15:02:34+00:00</published>
@@ -58,7 +26,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3188907</id>
     <title>Audible turns to AI to help users discover audiobooks</title>
-    <updated>2026-11-16T20:36:36.925951+00:00</updated>
+    <updated>2026-11-17T03:19:45.737825+00:00</updated>
     <link href="https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/"/>
     <summary>Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample.</summary>
     <published>2026-11-16T15:52:19+00:00</published>
@@ -66,7 +34,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3188191</id>
     <title>Serena Williams winds down her VC firm, launches new fund, seeks $200M</title>
-    <updated>2026-11-16T20:36:36.925865+00:00</updated>
+    <updated>2026-11-17T03:19:45.737741+00:00</updated>
     <link href="https://techcrunch.com/2026/11/16/serena-williams-winds-down-her-vc-firm-launches-new-fund-targets-200m/"/>
     <summary>Serena Williams and longtime business partner Beth Ferreira announced Monday the launch of an early-stage firm called Starfire Ventures.</summary>
     <published>2026-11-16T16:06:30+00:00</published>
@@ -74,7 +42,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3188922</id>
     <title>Instagram now lets creators add Amazon affiliate links in reels and feed posts</title>
-    <updated>2026-11-16T20:36:36.925779+00:00</updated>
+    <updated>2026-11-17T03:19:45.737656+00:00</updated>
     <link href="https://techcrunch.com/2026/11/16/instagram-now-lets-creators-add-amazon-affiliate-links-in-reels-and-feed-posts/"/>
     <summary>While creators have long shared Amazon affiliate links through stories, DMs, and their bios, the new integration brings them to new parts of the app.</summary>
     <published>2026-11-16T17:00:00+00:00</published>
@@ -82,15 +50,15 @@
   <entry>
     <id>https://techcrunch.com/?p=3188489</id>
     <title>OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM</title>
-    <updated>2026-11-16T20:36:36.925692+00:00</updated>
+    <updated>2026-11-17T03:19:45.737568+00:00</updated>
     <link href="https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/"/>
-    <summary>ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning</summary>
+    <summary>ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.</summary>
     <published>2026-11-16T17:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://techcrunch.com/?p=3188985</id>
     <title>OpenAI will embed safety researchers to investigate AI subversion</title>
-    <updated>2026-11-16T20:36:36.925603+00:00</updated>
+    <updated>2026-11-17T03:19:45.737463+00:00</updated>
     <link href="https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/"/>
     <summary>OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.</summary>
     <published>2026-11-16T17:02:43+00:00</published>
@@ -98,39 +66,39 @@
   <entry>
     <id>https://techcrunch.com/?p=3188848</id>
     <title>Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’</title>
-    <updated>2026-11-16T20:36:36.925515+00:00</updated>
+    <updated>2026-11-17T03:19:45.737380+00:00</updated>
     <link href="https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/"/>
     <summary>Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.</summary>
     <published>2026-11-16T17:10:00+00:00</published>
   </entry>
   <entry>
     <id>https://techcrunch.com/?p=3188979</id>
-    <title>FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’</title>
-    <updated>2026-11-16T20:36:36.925424+00:00</updated>
+    <title>FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’</title>
+    <updated>2026-11-17T03:19:45.737296+00:00</updated>
     <link href="https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/"/>
-    <summary>The FBI says that the open-source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.</summary>
+    <summary>The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.</summary>
     <published>2026-11-16T17:36:43+00:00</published>
   </entry>
   <entry>
     <id>https://techcrunch.com/?p=3189053</id>
-    <title>Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’</title>
-    <updated>2026-11-16T20:36:36.925311+00:00</updated>
+    <title>Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’</title>
+    <updated>2026-11-17T03:19:45.737211+00:00</updated>
     <link href="https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/"/>
     <summary>OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.</summary>
     <published>2026-11-16T18:11:10+00:00</published>
   </entry>
   <entry>
     <id>https://techcrunch.com/?p=3189007</id>
-    <title>Tesla goes all-in on the Cybercab with upcoming €3B Berlin Gigafactory expansion</title>
-    <updated>2026-11-16T20:36:36.925231+00:00</updated>
+    <title>Tesla goes all-in on the Cybercab with upcoming €3B Berlin gigafactory expansion</title>
+    <updated>2026-11-17T03:19:45.737127+00:00</updated>
     <link href="https://techcrunch.com/2026/11/16/tesla-goes-all-in-on-the-cybercab-with-upcoming-e3b-berlin-gigafactory-expansion/"/>
-    <summary>Tesla is putting Europe on its Cybercab roadmap with a €3 billion expansion of its Berlin Gigafactory.</summary>
+    <summary>Tesla is putting Europe on its Cybercab roadmap with a €3 billion expansion of its Berlin gigafactory.</summary>
     <published>2026-11-16T18:21:14+00:00</published>
   </entry>
   <entry>
     <id>https://techcrunch.com/?p=3188957</id>
     <title>Island is a new screen-time app that turns staying off your phone into a game</title>
-    <updated>2026-11-16T20:36:36.925150+00:00</updated>
+    <updated>2026-11-17T03:19:45.737041+00:00</updated>
     <link href="https://techcrunch.com/2026/11/16/island-is-a-new-screen-time-app-that-turns-staying-off-your-phone-into-a-game/"/>
     <summary>YC-backed Island turns screen time goals into a farming game, rewarding users with new crops, animals, and more when they stick to their limits.</summary>
     <published>2026-11-16T18:54:18+00:00</published>
@@ -138,7 +106,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3189047</id>
     <title>Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security</title>
-    <updated>2026-11-16T20:36:36.925071+00:00</updated>
+    <updated>2026-11-17T03:19:45.736956+00:00</updated>
     <link href="https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/"/>
     <summary>Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.</summary>
     <published>2026-11-16T19:12:02+00:00</published>
@@ -146,7 +114,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3189094</id>
     <title>Apple adds ‘face unlock’ to the iPhone Duo, but it’s not Face ID</title>
-    <updated>2026-11-16T20:36:36.924989+00:00</updated>
+    <updated>2026-11-17T03:19:45.736869+00:00</updated>
     <link href="https://techcrunch.com/2026/11/16/apple-adds-face-unlock-to-the-iphone-duo-but-its-not-face-id/"/>
     <summary>Apple's latest iOS 27.3 developer beta introduces a limited face unlock feature for the iPhone Duo, alongside other improvements.</summary>
     <published>2026-11-16T19:26:55+00:00</published>
@@ -154,17 +122,49 @@
   <entry>
     <id>https://techcrunch.com/?p=3188333</id>
     <title>Uber says hackers stole information on close to 150,000 driver’s licenses during data breach</title>
-    <updated>2026-11-16T20:36:36.924906+00:00</updated>
+    <updated>2026-11-17T03:19:45.736783+00:00</updated>
     <link href="https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/"/>
-    <summary>The ridesharing giant said drivers' license information stored by AI cloud company Fireworks AI was stolen during a security incident.</summary>
+    <summary>The ride-sharing giant said driver's license information stored by AI cloud company Fireworks AI was stolen during a security incident.</summary>
     <published>2026-11-16T19:53:00+00:00</published>
   </entry>
   <entry>
     <id>https://techcrunch.com/?p=3189115</id>
     <title>California state AG sues OpenAI over rogue agent incidents</title>
-    <updated>2026-11-16T20:36:36.924774+00:00</updated>
+    <updated>2026-11-17T03:19:45.736697+00:00</updated>
     <link href="https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/"/>
-    <summary>The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident</summary>
+    <summary>The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.</summary>
     <published>2026-11-16T20:07:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3189173</id>
+    <title>Apple reveals new Mac security controls as AI agents raise privacy risks</title>
+    <updated>2026-11-17T03:19:45.736601+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/"/>
+    <summary>Following an October announcement, Apple has detailed new permission controls, warnings, and transparency features coming to macOS 27.3 to address risks posed by AI agents and other apps.</summary>
+    <published>2026-11-16T21:01:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3189019</id>
+    <title>All the questions Nvidia should answer on Tuesday — but probably won’t</title>
+    <updated>2026-11-17T03:19:45.736466+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/"/>
+    <summary>Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer.</summary>
+    <published>2026-11-16T22:03:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3189270</id>
+    <title>Cyber giant Infoblox confirms security incident after hackers access ‘company information’</title>
+    <updated>2026-11-17T03:19:45.736373+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/"/>
+    <summary>The cybersecurity and automation giant said it's working with outside investigators to understand the scale of the breach.</summary>
+    <published>2026-11-16T22:12:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3189297</id>
+    <title>Cybersecurity AI startup Corma reaches $1B valuation in about 3 months</title>
+    <updated>2026-11-17T03:19:45.736263+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/"/>
+    <summary>Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.</summary>
+    <published>2026-11-16T23:32:32+00:00</published>
   </entry>
 </feed>

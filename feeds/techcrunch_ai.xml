@@ -2,31 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:techcrunch_ai</id>
   <title>TechCrunch - AI</title>
-  <updated>2026-11-16T20:36:36.944107+00:00</updated>
+  <updated>2026-11-17T03:19:45.782569+00:00</updated>
   <link href="file:///feeds/techcrunch_ai.xml" rel="self"/>
   <link href="https://techcrunch.com/category/artificial-intelligence/feed/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: tech / Mode: rss</subtitle>
   <entry>
-    <id>https://techcrunch.com/?p=3188596</id>
-    <title>Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say</title>
-    <updated>2026-11-16T20:36:36.946001+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"/>
-    <summary>Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.</summary>
-    <published>2026-11-13T22:43:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3188720</id>
-    <title>Asian governments react to Nvidia CEO Jensen Huang’s exit</title>
-    <updated>2026-11-16T20:36:36.945927+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/"/>
-    <summary>Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.</summary>
-    <published>2026-11-14T16:34:15+00:00</published>
-  </entry>
-  <entry>
     <id>https://techcrunch.com/?p=3162590</id>
     <title>The AI graveyard: a running list of projects and startups that didn’t make it</title>
-    <updated>2026-11-16T20:36:36.945851+00:00</updated>
+    <updated>2026-11-17T03:19:45.784559+00:00</updated>
     <link href="https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"/>
     <summary>From Apple's repeatedly delayed Siri AI to OpenAI's messy "super app" launch, here's a look at the AI projects that shut down or missed expectations.</summary>
     <published>2026-11-14T17:30:00+00:00</published>
@@ -34,7 +18,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3188741</id>
     <title>Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang</title>
-    <updated>2026-11-16T20:36:36.945776+00:00</updated>
+    <updated>2026-11-17T03:19:45.784447+00:00</updated>
     <link href="https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"/>
     <summary>The petition had attracted more than 115,000 signatures as of Saturday afternoon.</summary>
     <published>2026-11-14T21:41:22+00:00</published>
@@ -42,7 +26,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3188673</id>
     <title>Where was Nvidia’s security team?</title>
-    <updated>2026-11-16T20:36:36.945700+00:00</updated>
+    <updated>2026-11-17T03:19:45.784362+00:00</updated>
     <link href="https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/"/>
     <summary>Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.</summary>
     <published>2026-11-15T00:08:07+00:00</published>
@@ -50,7 +34,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3188820</id>
     <title>‘SNL’ gathers all the tech tycoons for a lesson in dating and spycraft</title>
-    <updated>2026-11-16T20:36:36.945623+00:00</updated>
+    <updated>2026-11-17T03:19:45.784276+00:00</updated>
     <link href="https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/"/>
     <summary>While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.</summary>
     <published>2026-11-15T20:20:57+00:00</published>
@@ -58,7 +42,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3188757</id>
     <title>Is bad news for Jensen Huang also bad news for the AI industry?</title>
-    <updated>2026-11-16T20:36:36.945546+00:00</updated>
+    <updated>2026-11-17T03:19:45.784190+00:00</updated>
     <link href="https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/"/>
     <summary>"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia."</summary>
     <published>2026-11-15T21:56:35+00:00</published>
@@ -66,23 +50,23 @@
   <entry>
     <id>https://techcrunch.com/?p=3188782</id>
     <title>Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market</title>
-    <updated>2026-11-16T20:36:36.945461+00:00</updated>
+    <updated>2026-11-17T03:19:45.784105+00:00</updated>
     <link href="https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/"/>
-    <summary>Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.</summary>
+    <summary>Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies, including General Atomics.</summary>
     <published>2026-11-15T23:30:00+00:00</published>
   </entry>
   <entry>
     <id>https://techcrunch.com/?p=3188803</id>
     <title>Apple launches new app to study how people use AI for health</title>
-    <updated>2026-11-16T20:36:36.945369+00:00</updated>
+    <updated>2026-11-17T03:19:45.784019+00:00</updated>
     <link href="https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/"/>
-    <summary>Apple's new app for a study will answer everyday medical questions</summary>
+    <summary>Apple's new app for a study will answer everyday medical questions.</summary>
     <published>2026-11-16T01:30:00+00:00</published>
   </entry>
   <entry>
     <id>https://techcrunch.com/?p=3188528</id>
     <title>Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM</title>
-    <updated>2026-11-16T20:36:36.945257+00:00</updated>
+    <updated>2026-11-17T03:19:45.783933+00:00</updated>
     <link href="https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/"/>
     <summary>Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.</summary>
     <published>2026-11-16T12:30:00+00:00</published>
@@ -90,7 +74,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3188899</id>
     <title>Google Maps can now build trip itineraries with real-time details about each stop</title>
-    <updated>2026-11-16T20:36:36.945167+00:00</updated>
+    <updated>2026-11-17T03:19:45.783846+00:00</updated>
     <link href="https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/"/>
     <summary>You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining.</summary>
     <published>2026-11-16T14:48:13+00:00</published>
@@ -98,7 +82,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3188900</id>
     <title>US tightens AI chip export controls to deter Chinese companies from accessing compute remotely</title>
-    <updated>2026-11-16T20:36:36.945064+00:00</updated>
+    <updated>2026-11-17T03:19:45.783758+00:00</updated>
     <link href="https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/"/>
     <summary>Under the interim rule, the U.S. will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.</summary>
     <published>2026-11-16T15:02:34+00:00</published>
@@ -106,7 +90,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3188907</id>
     <title>Audible turns to AI to help users discover audiobooks</title>
-    <updated>2026-11-16T20:36:36.944977+00:00</updated>
+    <updated>2026-11-17T03:19:45.783668+00:00</updated>
     <link href="https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/"/>
     <summary>Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample.</summary>
     <published>2026-11-16T15:52:19+00:00</published>
@@ -114,15 +98,15 @@
   <entry>
     <id>https://techcrunch.com/?p=3188489</id>
     <title>OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM</title>
-    <updated>2026-11-16T20:36:36.944895+00:00</updated>
+    <updated>2026-11-17T03:19:45.783535+00:00</updated>
     <link href="https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/"/>
-    <summary>ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning</summary>
+    <summary>ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.</summary>
     <published>2026-11-16T17:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://techcrunch.com/?p=3188985</id>
     <title>OpenAI will embed safety researchers to investigate AI subversion</title>
-    <updated>2026-11-16T20:36:36.944817+00:00</updated>
+    <updated>2026-11-17T03:19:45.783414+00:00</updated>
     <link href="https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/"/>
     <summary>OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.</summary>
     <published>2026-11-16T17:02:43+00:00</published>
@@ -130,23 +114,23 @@
   <entry>
     <id>https://techcrunch.com/?p=3188848</id>
     <title>Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’</title>
-    <updated>2026-11-16T20:36:36.944739+00:00</updated>
+    <updated>2026-11-17T03:19:45.783328+00:00</updated>
     <link href="https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/"/>
     <summary>Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.</summary>
     <published>2026-11-16T17:10:00+00:00</published>
   </entry>
   <entry>
     <id>https://techcrunch.com/?p=3188979</id>
-    <title>FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’</title>
-    <updated>2026-11-16T20:36:36.944658+00:00</updated>
+    <title>FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’</title>
+    <updated>2026-11-17T03:19:45.783241+00:00</updated>
     <link href="https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/"/>
-    <summary>The FBI says that the open-source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.</summary>
+    <summary>The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.</summary>
     <published>2026-11-16T17:36:43+00:00</published>
   </entry>
   <entry>
     <id>https://techcrunch.com/?p=3189053</id>
-    <title>Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’</title>
-    <updated>2026-11-16T20:36:36.944579+00:00</updated>
+    <title>Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’</title>
+    <updated>2026-11-17T03:19:45.783152+00:00</updated>
     <link href="https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/"/>
     <summary>OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.</summary>
     <published>2026-11-16T18:11:10+00:00</published>
@@ -154,7 +138,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3189047</id>
     <title>Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security</title>
-    <updated>2026-11-16T20:36:36.944496+00:00</updated>
+    <updated>2026-11-17T03:19:45.783059+00:00</updated>
     <link href="https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/"/>
     <summary>Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.</summary>
     <published>2026-11-16T19:12:02+00:00</published>
@@ -162,9 +146,25 @@
   <entry>
     <id>https://techcrunch.com/?p=3189115</id>
     <title>California state AG sues OpenAI over rogue agent incidents</title>
-    <updated>2026-11-16T20:36:36.944371+00:00</updated>
+    <updated>2026-11-17T03:19:45.782966+00:00</updated>
     <link href="https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/"/>
-    <summary>The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident</summary>
+    <summary>The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.</summary>
     <published>2026-11-16T20:07:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3189019</id>
+    <title>All the questions Nvidia should answer on Tuesday — but probably won’t</title>
+    <updated>2026-11-17T03:19:45.782865+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/"/>
+    <summary>Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer.</summary>
+    <published>2026-11-16T22:03:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3189297</id>
+    <title>Cybersecurity AI startup Corma reaches $1B valuation in about 3 months</title>
+    <updated>2026-11-17T03:19:45.782754+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/"/>
+    <summary>Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.</summary>
+    <published>2026-11-16T23:32:32+00:00</published>
   </entry>
 </feed>
