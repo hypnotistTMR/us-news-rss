@@ -2,23 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:osha</id>
   <title>OSHA News Releases</title>
-  <updated>2026-11-17T12:13:48.075754+00:00</updated>
+  <updated>2026-11-17T21:11:08.770864+00:00</updated>
   <link href="file:///feeds/osha.xml" rel="self"/>
   <link href="https://www.osha.gov/news/newsreleases.xml" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: labor / Mode: rss</subtitle>
   <entry>
-    <id>https://www.osha.gov/news/newsreleases/kansas-city/20261001</id>
-    <title>US Labor Department finds railroad illegally terminated employee who refused to work during severe weather</title>
-    <updated>2026-11-17T12:13:48.076131+00:00</updated>
-    <link href="https://www.osha.gov/news/newsreleases/kansas-city/20261001"/>
-    <summary>October 1, 2026</summary>
-    <published>2026-10-01T12:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.osha.gov/news/newsreleases/osha-national-news-release/20261001</id>
     <title>US Department of Labor awards $10.2 million to 67 organizations to promote workplace safety and health training</title>
-    <updated>2026-11-17T12:13:48.076079+00:00</updated>
+    <updated>2026-11-17T21:11:08.771302+00:00</updated>
     <link href="https://www.osha.gov/news/newsreleases/osha-national-news-release/20261001"/>
     <summary>October 1, 2026</summary>
     <published>2026-10-01T12:00:00+00:00</published>
@@ -26,7 +18,7 @@
   <entry>
     <id>https://www.osha.gov/news/newsreleases/philadelphia/20261007</id>
     <title>US Department of Labor cites Pennsylvania excavation employer for failing to provide trench protection following fatal trench cave-in</title>
-    <updated>2026-11-17T12:13:48.076025+00:00</updated>
+    <updated>2026-11-17T21:11:08.771258+00:00</updated>
     <link href="https://www.osha.gov/news/newsreleases/philadelphia/20261007"/>
     <summary>October 7, 2026</summary>
     <published>2026-10-07T12:00:00+00:00</published>
@@ -34,7 +26,7 @@
   <entry>
     <id>https://www.osha.gov/news/newsreleases/new-york-city/20261013</id>
     <title>US Labor Department finds 6 New York, New Jersey construction employers exposed workers to safety hazards, assesses combined $648K in penalties</title>
-    <updated>2026-11-17T12:13:48.075964+00:00</updated>
+    <updated>2026-11-17T21:11:08.771211+00:00</updated>
     <link href="https://www.osha.gov/news/newsreleases/new-york-city/20261013"/>
     <summary>October 13, 2026US Labor Department finds 6 New York, New Jersey construction employers exposed workers to safety hazards, assesses combined $648K in penalties</summary>
     <published>2026-10-13T12:00:00+00:00</published>
@@ -42,9 +34,17 @@
   <entry>
     <id>https://www.osha.gov/news/newsreleases/chicago/20261021</id>
     <title>US Department of Labor cites Illinois utility construction company for repeated exposure to trenching hazards</title>
-    <updated>2026-11-17T12:13:48.075879+00:00</updated>
+    <updated>2026-11-17T21:11:08.771139+00:00</updated>
     <link href="https://www.osha.gov/news/newsreleases/chicago/20261021"/>
     <summary>October 21, 2026</summary>
     <published>2026-10-21T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.osha.gov/news/newsreleases/osha-national-news-release/20261116</id>
+    <title>US Department of Labor cites powder coating company for willful toxic substance exposures, repeat violations, proposes more than $1.6M in penalties</title>
+    <updated>2026-11-17T21:11:08.771050+00:00</updated>
+    <link href="https://www.osha.gov/news/newsreleases/osha-national-news-release/20261116"/>
+    <summary>November 16, 2026</summary>
+    <published>2026-11-16T12:00:00+00:00</published>
   </entry>
 </feed>

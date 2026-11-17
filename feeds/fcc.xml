@@ -2,81 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:fcc</id>
   <title>FCC Recent Releases (Combined)</title>
-  <updated>2026-11-17T12:13:47.695538+00:00</updated>
+  <updated>2026-11-17T21:11:07.876401+00:00</updated>
   <link href="file:///feeds/fcc.xml" rel="self"/>
   <link href="https://api2.fcc.gov/api/exp/v1.0.0/edocspublic/rss" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: telecom / Mode: rss</subtitle>
   <entry>
-    <id>426771</id>
-    <title>Jackson Radio, LLC WFQY(AM), Brandon, Mississippi and W256BL, Ridgeland, Mississippi For Special Temporary Authority to Remain Silent and to Operate WFQY(AM) from Temporary Transmitter Site</title>
-    <updated>2026-11-17T12:13:47.695591+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426771"/>
-    <summary>Consent Decree Adopting a Three-year Compliance Plan</summary>
-    <published>2026-11-17T12:13:47.695590+00:00</published>
-  </entry>
-  <entry>
-    <id>426978</id>
+    <id>426993</id>
     <title>Pleadings</title>
-    <updated>2026-11-17T12:13:47.695587+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426978"/>
+    <updated>2026-11-17T21:11:07.876430+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426993"/>
     <summary>.</summary>
-    <published>2026-11-17T12:13:47.695586+00:00</published>
+    <published>2026-11-17T21:11:07.876429+00:00</published>
   </entry>
   <entry>
-    <id>426977</id>
+    <id>426992</id>
     <title>Actions</title>
-    <updated>2026-11-17T12:13:47.695582+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426977"/>
+    <updated>2026-11-17T21:11:07.876424+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426992"/>
     <summary>.</summary>
-    <published>2026-11-17T12:13:47.695581+00:00</published>
+    <published>2026-11-17T21:11:07.876423+00:00</published>
   </entry>
   <entry>
-    <id>426976</id>
+    <id>426991</id>
     <title>Applications</title>
-    <updated>2026-11-17T12:13:47.695578+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426976"/>
+    <updated>2026-11-17T21:11:07.876411+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/426991"/>
     <summary>.</summary>
-    <published>2026-11-17T12:13:47.695577+00:00</published>
-  </entry>
-  <entry>
-    <id>426980</id>
-    <title>The Public Safety and Homeland Security Bureau Places into the Record of Two Proceedings an Opposition Memorandum From the U.S. Department of War</title>
-    <updated>2026-11-17T12:13:47.695573+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426980"/>
-    <summary>.</summary>
-    <published>2026-11-17T12:13:47.695572+00:00</published>
-  </entry>
-  <entry>
-    <id>426987</id>
-    <title>Media Bureau Announces January 11, 2027 Effective Date for Repeal of the National Television Multiple Ownership Rule</title>
-    <updated>2026-11-17T12:13:47.695568+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426987"/>
-    <summary>The Media Bureau announces that the Commission's repeal of the national television multiple ownership rule will become effective on January 11, 2027.</summary>
-    <published>2026-11-17T12:13:47.695568+00:00</published>
-  </entry>
-  <entry>
-    <id>426985</id>
-    <title>FCC Agency Financial Report of Fiscal Year 2026</title>
-    <updated>2026-11-17T12:13:47.695564+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426985"/>
-    <summary>FCC Agency Financial Report of Fiscal Year 2026</summary>
-    <published>2026-11-17T12:13:47.695563+00:00</published>
-  </entry>
-  <entry>
-    <id>426983</id>
-    <title>Renewed Motion to Dismiss - SZ DJI Tech. v. FCC, No. 26-1029 (9th Cir.)</title>
-    <updated>2026-11-17T12:13:47.695558+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426983"/>
-    <summary>Respondents' Renewed Motion to Dismiss</summary>
-    <published>2026-11-17T12:13:47.695557+00:00</published>
-  </entry>
-  <entry>
-    <id>426981</id>
-    <title>Application of FM Radio Licenses, LLC, d/b/a Forever Media (Assignor) and Draper Media, Inc. (Assignee), for Consent to Assignment of Licenses</title>
-    <updated>2026-11-17T12:13:47.695545+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/426981"/>
-    <summary>Media Bureau denies petition to deny and grants application for consent to assignment of licenses from FM Radio Licenses, LLC, d/b/a Forever Media (Assignor) to Draper Media, Inc. (Assignee).</summary>
-    <published>2026-11-17T12:13:47.695541+00:00</published>
+    <published>2026-11-17T21:11:07.876406+00:00</published>
   </entry>
 </feed>
