@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:fcc</id>
   <title>FCC Recent Releases (Combined)</title>
-  <updated>2026-11-17T21:11:07.876401+00:00</updated>
+  <updated>2026-11-18T03:00:42.941358+00:00</updated>
   <link href="file:///feeds/fcc.xml" rel="self"/>
   <link href="https://api2.fcc.gov/api/exp/v1.0.0/edocspublic/rss" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -10,25 +10,25 @@
   <entry>
     <id>426993</id>
     <title>Pleadings</title>
-    <updated>2026-11-17T21:11:07.876430+00:00</updated>
+    <updated>2026-11-18T03:00:42.941388+00:00</updated>
     <link href="https://www.fcc.gov/edoc/426993"/>
     <summary>.</summary>
-    <published>2026-11-17T21:11:07.876429+00:00</published>
+    <published>2026-11-18T03:00:42.941387+00:00</published>
   </entry>
   <entry>
     <id>426992</id>
     <title>Actions</title>
-    <updated>2026-11-17T21:11:07.876424+00:00</updated>
+    <updated>2026-11-18T03:00:42.941381+00:00</updated>
     <link href="https://www.fcc.gov/edoc/426992"/>
     <summary>.</summary>
-    <published>2026-11-17T21:11:07.876423+00:00</published>
+    <published>2026-11-18T03:00:42.941379+00:00</published>
   </entry>
   <entry>
     <id>426991</id>
     <title>Applications</title>
-    <updated>2026-11-17T21:11:07.876411+00:00</updated>
+    <updated>2026-11-18T03:00:42.941366+00:00</updated>
     <link href="https://www.fcc.gov/edoc/426991"/>
     <summary>.</summary>
-    <published>2026-11-17T21:11:07.876406+00:00</published>
+    <published>2026-11-18T03:00:42.941362+00:00</published>
   </entry>
 </feed>
