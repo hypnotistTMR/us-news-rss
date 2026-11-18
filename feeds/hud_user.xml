@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:hud_user</id>
   <title>HUD User Research Reports (scrape)</title>
-  <updated>2026-11-18T11:18:41.818335+00:00</updated>
+  <updated>2026-11-18T19:28:24.125971+00:00</updated>
   <link href="file:///feeds/hud_user.xml" rel="self"/>
   <link href="https://www.huduser.gov/portal/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -10,241 +10,241 @@
   <entry>
     <id>https://www.huduser.gov/portal/datasets/nchs-hud-data-linkage.html</id>
     <title>NCHS - HUD Data Linkage</title>
-    <updated>2026-11-18T11:18:41.818580+00:00</updated>
+    <updated>2026-11-18T19:28:24.126177+00:00</updated>
     <link href="https://www.huduser.gov/portal/datasets/nchs-hud-data-linkage.html"/>
     <summary>HUD User</summary>
-    <published>2026-11-18T11:18:41.818579+00:00</published>
+    <published>2026-11-18T19:28:24.126176+00:00</published>
   </entry>
   <entry>
     <id>https://www.huduser.gov/portal/datasets/lihtc.html</id>
     <title>Low-Income Housing Tax Credit</title>
-    <updated>2026-11-18T11:18:41.818573+00:00</updated>
+    <updated>2026-11-18T19:28:24.126170+00:00</updated>
     <link href="https://www.huduser.gov/portal/datasets/lihtc.html"/>
     <summary>HUD User</summary>
-    <published>2026-11-18T11:18:41.818572+00:00</published>
+    <published>2026-11-18T19:28:24.126169+00:00</published>
   </entry>
   <entry>
     <id>https://www.huduser.gov/portal/datasets/update-schedule.html</id>
     <title>Dataset Update Schedule</title>
-    <updated>2026-11-18T11:18:41.818564+00:00</updated>
+    <updated>2026-11-18T19:28:24.126163+00:00</updated>
     <link href="https://www.huduser.gov/portal/datasets/update-schedule.html"/>
     <summary>HUD User</summary>
-    <published>2026-11-18T11:18:41.818560+00:00</published>
+    <published>2026-11-18T19:28:24.126162+00:00</published>
   </entry>
   <entry>
     <id>https://www.huduser.gov/portal/datasets/cp.html</id>
     <title>Consolidated Planning/CHAS Data</title>
-    <updated>2026-11-18T11:18:41.818529+00:00</updated>
+    <updated>2026-11-18T19:28:24.126156+00:00</updated>
     <link href="https://www.huduser.gov/portal/datasets/cp.html"/>
     <summary>HUD User</summary>
-    <published>2026-11-18T11:18:41.818528+00:00</published>
+    <published>2026-11-18T19:28:24.126155+00:00</published>
   </entry>
   <entry>
     <id>https://www.huduser.gov/portal/datasets/50per.html</id>
     <title>50th Percentile Rent Estimates</title>
-    <updated>2026-11-18T11:18:41.818523+00:00</updated>
+    <updated>2026-11-18T19:28:24.126150+00:00</updated>
     <link href="https://www.huduser.gov/portal/datasets/50per.html"/>
     <summary>HUD User</summary>
-    <published>2026-11-18T11:18:41.818522+00:00</published>
+    <published>2026-11-18T19:28:24.126148+00:00</published>
   </entry>
   <entry>
     <id>https://www.huduser.gov/portal/research/pdr_data-license.html</id>
     <title>Data License for Access to Restricted Data</title>
-    <updated>2026-11-18T11:18:41.818517+00:00</updated>
+    <updated>2026-11-18T19:28:24.126142+00:00</updated>
     <link href="https://www.huduser.gov/portal/research/pdr_data-license.html"/>
     <summary>HUD User</summary>
-    <published>2026-11-18T11:18:41.818516+00:00</published>
+    <published>2026-11-18T19:28:24.126141+00:00</published>
   </entry>
   <entry>
     <id>https://www.huduser.gov/portal/datasets/ahar.html</id>
     <title>Annual Homelessness Assessment Report (AHAR)</title>
-    <updated>2026-11-18T11:18:41.818511+00:00</updated>
+    <updated>2026-11-18T19:28:24.126136+00:00</updated>
     <link href="https://www.huduser.gov/portal/datasets/ahar.html"/>
     <summary>HUD User</summary>
-    <published>2026-11-18T11:18:41.818510+00:00</published>
+    <published>2026-11-18T19:28:24.126134+00:00</published>
   </entry>
   <entry>
     <id>https://www.huduser.gov/portal/datasets/ahs.html</id>
     <title>American Housing Survey</title>
-    <updated>2026-11-18T11:18:41.818505+00:00</updated>
+    <updated>2026-11-18T19:28:24.126128+00:00</updated>
     <link href="https://www.huduser.gov/portal/datasets/ahs.html"/>
     <summary>HUD User</summary>
-    <published>2026-11-18T11:18:41.818504+00:00</published>
+    <published>2026-11-18T19:28:24.126127+00:00</published>
   </entry>
   <entry>
     <id>https://www.huduser.gov/portal/datasets/acs-hud-data-linkage.html</id>
     <title>ACS-HUD Data Linkage</title>
-    <updated>2026-11-18T11:18:41.818499+00:00</updated>
+    <updated>2026-11-18T19:28:24.126122+00:00</updated>
     <link href="https://www.huduser.gov/portal/datasets/acs-hud-data-linkage.html"/>
     <summary>HUD User</summary>
-    <published>2026-11-18T11:18:41.818498+00:00</published>
+    <published>2026-11-18T19:28:24.126120+00:00</published>
   </entry>
   <entry>
     <id>https://www.huduser.gov/portal/publications/workpapr.html</id>
     <title>Staff Working Papers</title>
-    <updated>2026-11-18T11:18:41.818494+00:00</updated>
+    <updated>2026-11-18T19:28:24.126115+00:00</updated>
     <link href="https://www.huduser.gov/portal/publications/workpapr.html"/>
     <summary>HUD User</summary>
-    <published>2026-11-18T11:18:41.818493+00:00</published>
+    <published>2026-11-18T19:28:24.126114+00:00</published>
   </entry>
   <entry>
     <id>https://www.huduser.gov/portal/rbc/home.html</id>
     <title>Regulatory Barriers Clearinghouse</title>
-    <updated>2026-11-18T11:18:41.818488+00:00</updated>
+    <updated>2026-11-18T19:28:24.126109+00:00</updated>
     <link href="https://www.huduser.gov/portal/rbc/home.html"/>
     <summary>HUD User</summary>
-    <published>2026-11-18T11:18:41.818486+00:00</published>
+    <published>2026-11-18T19:28:24.126108+00:00</published>
   </entry>
   <entry>
     <id>https://www.huduser.gov/portal/publications/mdrt_reports.html</id>
     <title>Multidisciplinary Research Team</title>
-    <updated>2026-11-18T11:18:41.818481+00:00</updated>
+    <updated>2026-11-18T19:28:24.126103+00:00</updated>
     <link href="https://www.huduser.gov/portal/publications/mdrt_reports.html"/>
     <summary>HUD User</summary>
-    <published>2026-11-18T11:18:41.818480+00:00</published>
+    <published>2026-11-18T19:28:24.126101+00:00</published>
   </entry>
   <entry>
     <id>https://www.huduser.gov/portal/ushmc/home.html</id>
     <title>U.S. Housing Market Conditions</title>
-    <updated>2026-11-18T11:18:41.818474+00:00</updated>
+    <updated>2026-11-18T19:28:24.126096+00:00</updated>
     <link href="https://www.huduser.gov/portal/ushmc/home.html"/>
     <summary>HUD User</summary>
-    <published>2026-11-18T11:18:41.818473+00:00</published>
+    <published>2026-11-18T19:28:24.126095+00:00</published>
   </entry>
   <entry>
     <id>https://www.huduser.gov/portal/rp/home.html</id>
     <title>Research Partnerships</title>
-    <updated>2026-11-18T11:18:41.818468+00:00</updated>
+    <updated>2026-11-18T19:28:24.126089+00:00</updated>
     <link href="https://www.huduser.gov/portal/rp/home.html"/>
     <summary>HUD User</summary>
-    <published>2026-11-18T11:18:41.818467+00:00</published>
+    <published>2026-11-18T19:28:24.126088+00:00</published>
   </entry>
   <entry>
     <id>https://www.huduser.gov/portal/msi/centers-of-excellence.html</id>
     <title>Research Centers of Excellence</title>
-    <updated>2026-11-18T11:18:41.818463+00:00</updated>
+    <updated>2026-11-18T19:28:24.126083+00:00</updated>
     <link href="https://www.huduser.gov/portal/msi/centers-of-excellence.html"/>
     <summary>HUD User</summary>
-    <published>2026-11-18T11:18:41.818462+00:00</published>
+    <published>2026-11-18T19:28:24.126082+00:00</published>
   </entry>
   <entry>
     <id>https://www.huduser.gov/portal/ongoing/homepage.html</id>
     <title>Ongoing Research Activities</title>
-    <updated>2026-11-18T11:18:41.818457+00:00</updated>
+    <updated>2026-11-18T19:28:24.126077+00:00</updated>
     <link href="https://www.huduser.gov/portal/ongoing/homepage.html"/>
     <summary>HUD User</summary>
-    <published>2026-11-18T11:18:41.818456+00:00</published>
+    <published>2026-11-18T19:28:24.126075+00:00</published>
   </entry>
   <entry>
     <id>https://www.huduser.gov/portal/publications/pdrpubli.html</id>
     <title>RESEARCH &amp; PUBLICATIONS</title>
-    <updated>2026-11-18T11:18:41.818451+00:00</updated>
+    <updated>2026-11-18T19:28:24.126071+00:00</updated>
     <link href="https://www.huduser.gov/portal/publications/pdrpubli.html"/>
     <summary>HUD User</summary>
-    <published>2026-11-18T11:18:41.818451+00:00</published>
+    <published>2026-11-18T19:28:24.126069+00:00</published>
   </entry>
   <entry>
     <id>https://www.huduser.gov/portal/about/evaluation-policy.html</id>
     <title>HUD Evaluation Policy Statement</title>
-    <updated>2026-11-18T11:18:41.818446+00:00</updated>
+    <updated>2026-11-18T19:28:24.126065+00:00</updated>
     <link href="https://www.huduser.gov/portal/about/evaluation-policy.html"/>
     <summary>HUD User</summary>
-    <published>2026-11-18T11:18:41.818445+00:00</published>
+    <published>2026-11-18T19:28:24.126064+00:00</published>
   </entry>
   <entry>
     <id>https://www.huduser.gov/portal/about/secaward.html</id>
     <title>HUD Secretary's Awards</title>
-    <updated>2026-11-18T11:18:41.818441+00:00</updated>
+    <updated>2026-11-18T19:28:24.126059+00:00</updated>
     <link href="https://www.huduser.gov/portal/about/secaward.html"/>
     <summary>HUD User</summary>
-    <published>2026-11-18T11:18:41.818440+00:00</published>
+    <published>2026-11-18T19:28:24.126058+00:00</published>
   </entry>
   <entry>
     <id>https://www.huduser.gov/portal/ocdo/homepage.html</id>
     <title>Office of the Chief Data Officer</title>
-    <updated>2026-11-18T11:18:41.818435+00:00</updated>
+    <updated>2026-11-18T19:28:24.126053+00:00</updated>
     <link href="https://www.huduser.gov/portal/ocdo/homepage.html"/>
     <summary>HUD User</summary>
-    <published>2026-11-18T11:18:41.818434+00:00</published>
+    <published>2026-11-18T19:28:24.126052+00:00</published>
   </entry>
   <entry>
     <id>https://www.huduser.gov/portal/ota/homepage.html</id>
     <title>Office of Technical Assistance</title>
-    <updated>2026-11-18T11:18:41.818429+00:00</updated>
+    <updated>2026-11-18T19:28:24.126047+00:00</updated>
     <link href="https://www.huduser.gov/portal/ota/homepage.html"/>
     <summary>HUD User</summary>
-    <published>2026-11-18T11:18:41.818428+00:00</published>
+    <published>2026-11-18T19:28:24.126046+00:00</published>
   </entry>
   <entry>
     <id>https://www.huduser.gov/portal/ipad/home.html</id>
     <title>International and Philanthropic Affairs Division</title>
-    <updated>2026-11-18T11:18:41.818424+00:00</updated>
+    <updated>2026-11-18T19:28:24.126041+00:00</updated>
     <link href="https://www.huduser.gov/portal/ipad/home.html"/>
     <summary>HUD User</summary>
-    <published>2026-11-18T11:18:41.818423+00:00</published>
+    <published>2026-11-18T19:28:24.126040+00:00</published>
   </entry>
   <entry>
     <id>https://www.huduser.gov/portal/challenge/home.html</id>
     <title>IAH Student Design and Planning Competition</title>
-    <updated>2026-11-18T11:18:41.818418+00:00</updated>
+    <updated>2026-11-18T19:28:24.126035+00:00</updated>
     <link href="https://www.huduser.gov/portal/challenge/home.html"/>
     <summary>HUD User</summary>
-    <published>2026-11-18T11:18:41.818417+00:00</published>
+    <published>2026-11-18T19:28:24.126034+00:00</published>
   </entry>
   <entry>
     <id>https://www.huduser.gov/portal/eviction-protection-grant.html</id>
     <title>Eviction Protection Grant Program</title>
-    <updated>2026-11-18T11:18:41.818413+00:00</updated>
+    <updated>2026-11-18T19:28:24.126029+00:00</updated>
     <link href="https://www.huduser.gov/portal/eviction-protection-grant.html"/>
     <summary>HUD User</summary>
-    <published>2026-11-18T11:18:41.818412+00:00</published>
+    <published>2026-11-18T19:28:24.126028+00:00</published>
   </entry>
   <entry>
     <id>https://www.huduser.gov/portal/ihs.html</id>
     <title>Innovative Housing Showcase</title>
-    <updated>2026-11-18T11:18:41.818406+00:00</updated>
+    <updated>2026-11-18T19:28:24.126023+00:00</updated>
     <link href="https://www.huduser.gov/portal/ihs.html"/>
     <summary>HUD User</summary>
-    <published>2026-11-18T11:18:41.818405+00:00</published>
+    <published>2026-11-18T19:28:24.126022+00:00</published>
   </entry>
   <entry>
     <id>https://www.huduser.gov/portal/about/guidelines_and_brochures.html</id>
     <title>Brochures and Guides</title>
-    <updated>2026-11-18T11:18:41.818395+00:00</updated>
+    <updated>2026-11-18T19:28:24.126018+00:00</updated>
     <link href="https://www.huduser.gov/portal/about/guidelines_and_brochures.html"/>
     <summary>HUD User</summary>
-    <published>2026-11-18T11:18:41.818393+00:00</published>
+    <published>2026-11-18T19:28:24.126016+00:00</published>
   </entry>
   <entry>
     <id>https://www.huduser.gov/portal/about/field-economist-orgchart.html</id>
     <title>Field Economist Organizational Chart</title>
-    <updated>2026-11-18T11:18:41.818384+00:00</updated>
+    <updated>2026-11-18T19:28:24.126011+00:00</updated>
     <link href="https://www.huduser.gov/portal/about/field-economist-orgchart.html"/>
     <summary>HUD User</summary>
-    <published>2026-11-18T11:18:41.818383+00:00</published>
+    <published>2026-11-18T19:28:24.126010+00:00</published>
   </entry>
   <entry>
     <id>https://www.huduser.gov/portal/about/org_charts.html</id>
     <title>Organizational Chart</title>
-    <updated>2026-11-18T11:18:41.818373+00:00</updated>
+    <updated>2026-11-18T19:28:24.126002+00:00</updated>
     <link href="https://www.huduser.gov/portal/about/org_charts.html"/>
     <summary>HUD User</summary>
-    <published>2026-11-18T11:18:41.818371+00:00</published>
+    <published>2026-11-18T19:28:24.126001+00:00</published>
   </entry>
   <entry>
     <id>https://www.huduser.gov/portal/about/pdrdvsn_desc.html</id>
     <title>Office/Division Descriptions</title>
-    <updated>2026-11-18T11:18:41.818361+00:00</updated>
+    <updated>2026-11-18T19:28:24.125994+00:00</updated>
     <link href="https://www.huduser.gov/portal/about/pdrdvsn_desc.html"/>
     <summary>HUD User</summary>
-    <published>2026-11-18T11:18:41.818359+00:00</published>
+    <published>2026-11-18T19:28:24.125993+00:00</published>
   </entry>
   <entry>
     <id>https://www.huduser.gov/portal/ota/funding-opportunities.html</id>
     <title>Funding Opportunities</title>
-    <updated>2026-11-18T11:18:41.818344+00:00</updated>
+    <updated>2026-11-18T19:28:24.125979+00:00</updated>
     <link href="https://www.huduser.gov/portal/ota/funding-opportunities.html"/>
     <summary>HUD User</summary>
-    <published>2026-11-18T11:18:41.818340+00:00</published>
+    <published>2026-11-18T19:28:24.125975+00:00</published>
   </entry>
 </feed>

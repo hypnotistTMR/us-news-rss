@@ -2,79 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:foodnavigator</id>
   <title>FoodNavigator USA</title>
-  <updated>2026-11-18T11:17:55.382781+00:00</updated>
+  <updated>2026-11-18T19:28:22.758286+00:00</updated>
   <link href="file:///feeds/foodnavigator.xml" rel="self"/>
   <link href="https://www.foodnavigator-usa.com/arc/outboundfeeds/rss/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: food / Mode: rss</subtitle>
   <entry>
-    <id>https://www.foodnavigator.com/Article/2026/11/17/how-food-brands-can-support-glp-1-users/</id>
-    <title>How food brands can support GLP-1 users</title>
-    <updated>2026-11-18T11:17:55.384723+00:00</updated>
-    <link href="https://www.foodnavigator.com/Article/2026/11/17/how-food-brands-can-support-glp-1-users/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
-    <summary>GLP-1 medications are transforming food and beverage innovation, driving demand for nutrient-dense companion foods and beverages, gut microbiome support and products that naturally stimulate GLP-1 production.</summary>
-    <published>2026-11-17T12:23:39+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.foodmanufacture.co.uk/Article/2026/11/17/princes-group-to-buy-mondelez-internationals-french-bread-substitutes-and-cereal-bars-business/</id>
-    <title>Princes Group and Mondelēz strike €80M acquisition deal</title>
-    <updated>2026-11-18T11:17:55.384636+00:00</updated>
-    <link href="https://www.foodmanufacture.co.uk/Article/2026/11/17/princes-group-to-buy-mondelez-internationals-french-bread-substitutes-and-cereal-bars-business/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
-    <summary>Princes Group and Mondelēz strike €80M acquisition deal</summary>
-    <published>2026-11-17T12:25:49+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.foodnavigator.com/Article/2026/11/17/nestle-cpo-on-building-resilient-ingredient-supply-chains/</id>
-    <title>Nestlé CPO on building the supply chains of tomorrow</title>
-    <updated>2026-11-18T11:17:55.384527+00:00</updated>
-    <link href="https://www.foodnavigator.com/Article/2026/11/17/nestle-cpo-on-building-resilient-ingredient-supply-chains/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
-    <summary>Nestlé's chief procurement officer Jacob Busk Nielsen explains how AI, supplier partnerships and regenerative agriculture are reshaping ingredient, raw materials, packaging, and services sourcing, and building more resilient food and beverage supply chains.</summary>
-    <published>2026-11-17T12:30:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.foodnavigator.com/Article/2026/11/17/plant-based-foods-what-will-bring-consumers-back/</id>
-    <title>What will bring consumers back to plant-based meat and dairy?</title>
-    <updated>2026-11-18T11:17:55.384441+00:00</updated>
-    <link href="https://www.foodnavigator.com/Article/2026/11/17/plant-based-foods-what-will-bring-consumers-back/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
-    <summary>What will drive plant-based food growth? Explore how manufacturers are rethinking taste, nutrition, ingredients and affordability across meat, seafood and dairy alternatives.</summary>
-    <published>2026-11-17T12:51:46+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.foodnavigator.com/Article/2026/11/17/spacemilk-bets-on-bakers-yeast-protein-with-sprouts-launch/</id>
-    <title>Can baker’s yeast protein compete with whey? Spacemilk is betting on it</title>
-    <updated>2026-11-18T11:17:55.384357+00:00</updated>
-    <link href="https://www.foodnavigator.com/Article/2026/11/17/spacemilk-bets-on-bakers-yeast-protein-with-sprouts-launch/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
-    <summary>Spacemilk is bringing its baker’s yeast protein powder to Sprouts Farmers Market, positioning it as an alternative to whey and plant proteins.</summary>
-    <published>2026-11-17T12:57:40+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.foodnavigator.com/Article/2026/11/17/plant-based-dairys-next-growth-opportunity-may-be-simplicity/</id>
-    <title>Can simpler ingredients revive plant-based dairy?</title>
-    <updated>2026-11-18T11:17:55.384272+00:00</updated>
-    <link href="https://www.foodnavigator.com/Article/2026/11/17/plant-based-dairys-next-growth-opportunity-may-be-simplicity/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
-    <summary>Can simpler ingredients revive plant-based dairy?</summary>
-    <published>2026-11-17T12:59:49+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.foodnavigator.com/Article/2026/11/17/plant-based-dairy-digestive-health-opportunities/</id>
-    <title>Can digestive health give plant-based dairy a new growth opportunity?</title>
-    <updated>2026-11-18T11:17:55.384187+00:00</updated>
-    <link href="https://www.foodnavigator.com/Article/2026/11/17/plant-based-dairy-digestive-health-opportunities/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
-    <summary>Could digestive health create new opportunities for plant-based dairy? Violife’s FODMAP Friendly certification explores a new route to differentiation.</summary>
-    <published>2026-11-17T13:01:17+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.foodnavigator.com/Article/2026/11/17/hybrid-proteins-consumer-trends-and-market-opportunities/</id>
-    <title>Hybrid proteins gain ground as consumers embrace the best of both worlds</title>
-    <updated>2026-11-18T11:17:55.384099+00:00</updated>
-    <link href="https://www.foodnavigator.com/Article/2026/11/17/hybrid-proteins-consumer-trends-and-market-opportunities/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
-    <summary>New ADM research reveals growing consumer interest in hybrid proteins, highlighting opportunities to improve taste, nutrition and production efficiency by blending animal and plant proteins.</summary>
-    <published>2026-11-17T13:03:17+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.foodnavigator.com/Article/2026/11/17/plant-based-food-sales-stall-in-us-but-grow-globally/</id>
     <title>US plant-based food sales flat, but up globally</title>
-    <updated>2026-11-18T11:17:55.384014+00:00</updated>
+    <updated>2026-11-18T19:28:22.759540+00:00</updated>
     <link href="https://www.foodnavigator.com/Article/2026/11/17/plant-based-food-sales-stall-in-us-but-grow-globally/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
     <summary>US plant-based food sales edged down to $7.9 billion in 2025. Global sales of plant-based meat and dairy alternatives rose 3% to $28.9 billion.</summary>
     <published>2026-11-17T13:05:10+00:00</published>
@@ -82,7 +18,7 @@
   <entry>
     <id>https://www.beveragedaily.com/Article/2026/11/17/functional-drinks-why-health-claims-arent-enough/</id>
     <title>Beyond the health halo: Why functional claims aren’t enough</title>
-    <updated>2026-11-18T11:17:55.383930+00:00</updated>
+    <updated>2026-11-18T19:28:22.759491+00:00</updated>
     <link href="https://www.beveragedaily.com/Article/2026/11/17/functional-drinks-why-health-claims-arent-enough/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
     <summary>Functional drinks may promise added health benefits, but NIQ research shows taste and value remain key to consumer choices and repeat purchases.</summary>
     <published>2026-11-17T13:07:22+00:00</published>
@@ -90,7 +26,7 @@
   <entry>
     <id>https://www.foodnavigator.com/Article/2026/11/17/can-plant-based-seafood-succeed-where-plant-based-meat-stumbled/</id>
     <title>Can plant-based seafood succeed where plant-based meat stumbled?</title>
-    <updated>2026-11-18T11:17:55.383844+00:00</updated>
+    <updated>2026-11-18T19:28:22.759440+00:00</updated>
     <link href="https://www.foodnavigator.com/Article/2026/11/17/can-plant-based-seafood-succeed-where-plant-based-meat-stumbled/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
     <summary>As eating occasions continue to blur and consumers seek options beyond traditional breakfast, lunch and dinner occasions, plant-based seafood brands may find success by positioning products around convenience and versatility rather than direct replacement.</summary>
     <published>2026-11-17T13:08:08+00:00</published>
@@ -98,7 +34,7 @@
   <entry>
     <id>https://www.foodnavigator.com/Article/2026/11/17/upside-foods-launches-cultivated-chicken-at-commercial-scale/</id>
     <title>Cultivated meat company Upside Foods reaches commercial-scale launch</title>
-    <updated>2026-11-18T11:17:55.383757+00:00</updated>
+    <updated>2026-11-18T19:28:22.759391+00:00</updated>
     <link href="https://www.foodnavigator.com/Article/2026/11/17/upside-foods-launches-cultivated-chicken-at-commercial-scale/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
     <summary>Upside Foods introduces its cultivated chicken to restaurants, corporate campuses and university dining programs, marking a commercial-scale expansion even as the industry faces state-level restrictions.</summary>
     <published>2026-11-17T14:20:53+00:00</published>
@@ -106,7 +42,7 @@
   <entry>
     <id>https://www.foodnavigator.com/Article/2026/11/17/california-approves-new-cultures-animal-free-mozzarella/</id>
     <title>New Culture lands California approval for precision fermentation-derived mozzarella</title>
-    <updated>2026-11-18T11:17:55.383667+00:00</updated>
+    <updated>2026-11-18T19:28:22.759340+00:00</updated>
     <link href="https://www.foodnavigator.com/Article/2026/11/17/california-approves-new-cultures-animal-free-mozzarella/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
     <summary>New Culture lands California approval for precision fermentation-derived mozzarella</summary>
     <published>2026-11-17T14:42:30+00:00</published>
@@ -114,7 +50,7 @@
   <entry>
     <id>https://www.foodnavigator.com/Article/2026/11/17/uk-leads-cpg-innovation-in-europe/</id>
     <title>UK leads on CPG innovation in Europe</title>
-    <updated>2026-11-18T11:17:55.383560+00:00</updated>
+    <updated>2026-11-18T19:28:22.759289+00:00</updated>
     <link href="https://www.foodnavigator.com/Article/2026/11/17/uk-leads-cpg-innovation-in-europe/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
     <summary>The UK is leading on CPG innovation in Europe, particularly in categories such as baby food and confectionery. Innovation is popular among UK consumers, with most noticing when new products hit the shelves.</summary>
     <published>2026-11-17T14:58:50+00:00</published>
@@ -122,7 +58,7 @@
   <entry>
     <id>https://www.foodnavigator.com/Article/2026/11/17/finding-the-sweet-spot-for-e-commerce-pack-sizes/</id>
     <title>Why e-commerce brands are rethinking pack sizes</title>
-    <updated>2026-11-18T11:17:55.383449+00:00</updated>
+    <updated>2026-11-18T19:28:22.759233+00:00</updated>
     <link href="https://www.foodnavigator.com/Article/2026/11/17/finding-the-sweet-spot-for-e-commerce-pack-sizes/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
     <summary>For food and beverage brands, winning online may mean rethinking the pack sizes that work in stores.</summary>
     <published>2026-11-17T15:05:14+00:00</published>
@@ -130,15 +66,23 @@
   <entry>
     <id>https://www.confectionerynews.com/Article/2026/11/17/hershey-turns-reeses-pieces-into-innovation-showcase/</id>
     <title>Hershey turns Reese’s Pieces into innovation showcase</title>
-    <updated>2026-11-18T11:17:55.383361+00:00</updated>
+    <updated>2026-11-18T19:28:22.759157+00:00</updated>
     <link href="https://www.confectionerynews.com/Article/2026/11/17/hershey-turns-reeses-pieces-into-innovation-showcase/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
     <summary>Hershey's giant Reese's Pie showcases the growing power of limited-edition confectionery, cross-category innovation and experience-led products as brands look to drive engagement and growth worldwide.</summary>
     <published>2026-11-17T16:50:31+00:00</published>
   </entry>
   <entry>
+    <id>https://www.foodmanufacture.co.uk/Article/2026/11/18/why-princes-is-eyeing-up-mondelezs-french-bakery-and-snacks-business/</id>
+    <title>Why Princes is eyeing up Mondelez’s French bakery and snacks business</title>
+    <updated>2026-11-18T19:28:22.759105+00:00</updated>
+    <link href="https://www.foodmanufacture.co.uk/Article/2026/11/18/why-princes-is-eyeing-up-mondelezs-french-bakery-and-snacks-business/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
+    <summary>Why Princes is eyeing up Mondelez’s French bakery and snacks business</summary>
+    <published>2026-11-18T06:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.foodnavigator.com/Article/2026/11/18/another-cola-takes-on-soda-giants-with-additive-free-cola/</id>
     <title>Another Cola takes on soda giants with additive-free cola</title>
-    <updated>2026-11-18T11:17:55.383273+00:00</updated>
+    <updated>2026-11-18T19:28:22.759054+00:00</updated>
     <link href="https://www.foodnavigator.com/Article/2026/11/18/another-cola-takes-on-soda-giants-with-additive-free-cola/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
     <summary>Japan’s Another Cola is challenging conventional soft drinks with an additive-free product</summary>
     <published>2026-11-18T07:44:17+00:00</published>
@@ -146,7 +90,7 @@
   <entry>
     <id>https://www.foodnavigator.com/Article/2026/11/18/baladna-stays-profitable-amid-turmoil-pushes-algeria-and-syria-growth/</id>
     <title>Baladna stays profitable amid turmoil, pushes Algeria and Syria growth</title>
-    <updated>2026-11-18T11:17:55.383184+00:00</updated>
+    <updated>2026-11-18T19:28:22.759002+00:00</updated>
     <link href="https://www.foodnavigator.com/Article/2026/11/18/baladna-stays-profitable-amid-turmoil-pushes-algeria-and-syria-growth/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
     <summary>Baladna stays profitable amid turmoil, pushes Algeria and Syria growth</summary>
     <published>2026-11-18T07:47:49+00:00</published>
@@ -154,7 +98,7 @@
   <entry>
     <id>https://www.foodnavigator.com/Article/2026/11/18/5-flavours-brands-are-betting-on/</id>
     <title>5 flavour profiles brands are betting on</title>
-    <updated>2026-11-18T11:17:55.383077+00:00</updated>
+    <updated>2026-11-18T19:28:22.758949+00:00</updated>
     <link href="https://www.foodnavigator.com/Article/2026/11/18/5-flavours-brands-are-betting-on/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
     <summary>From matcha and pistachio to sweet heat and Asian citrus, food makers are drawing on regional food cultures to develop flavours with global appeal.</summary>
     <published>2026-11-18T07:52:38+00:00</published>
@@ -162,9 +106,65 @@
   <entry>
     <id>https://www.bakeryandsnacks.com/Article/2026/11/18/rice-supply-crisis-why-kelloggs-is-reformulating-cereals/</id>
     <title>First cocoa, now rice: Is another food crisis brewing?</title>
-    <updated>2026-11-18T11:17:55.382965+00:00</updated>
+    <updated>2026-11-18T19:28:22.758894+00:00</updated>
     <link href="https://www.bakeryandsnacks.com/Article/2026/11/18/rice-supply-crisis-why-kelloggs-is-reformulating-cereals/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
     <summary>From Kellogg's Rice Krispies to Japan's rice crackers, climate disruption and rising rice costs are forcing food manufacturers to rethink recipes and sourcing.</summary>
     <published>2026-11-18T09:14:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.foodnavigator.com/Article/2026/11/18/adult-confectionery-presents-major-growth-opportunity/</id>
+    <title>Are confectionery brands ignoring their biggest spenders?</title>
+    <updated>2026-11-18T19:28:22.758837+00:00</updated>
+    <link href="https://www.foodnavigator.com/Article/2026/11/18/adult-confectionery-presents-major-growth-opportunity/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
+    <summary>Are confectionery companies overlooking their most valuable consumers? As brands focus on Gen Z, Gen Alpha and Gen Beta, growing opportunities are emerging among older shoppers, from premium and functional confectionery to nostalgia-driven innovation.</summary>
+    <published>2026-11-18T12:13:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.foodnavigator.com/Article/2026/11/18/fda-clarifies-expectations-for-managing-cadmium-and-other-chemical-risks/</id>
+    <title>What FDA’s cadmium and chemical hazard drafts mean for food brands</title>
+    <updated>2026-11-18T19:28:22.758780+00:00</updated>
+    <link href="https://www.foodnavigator.com/Article/2026/11/18/fda-clarifies-expectations-for-managing-cadmium-and-other-chemical-risks/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
+    <summary>FDA’s proposed cadmium limits for baby foods and draft chemical-hazard guidance offer manufacturers an early look at how the agency expects contaminants to be assessed and controlled.</summary>
+    <published>2026-11-18T14:19:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.foodnavigator.com/Article/2026/11/18/monster-celsius-face-rising-aluminum-costs/</id>
+    <title>Monster raises prices, Celsius weighs pricing changes as aluminum costs climb</title>
+    <updated>2026-11-18T19:28:22.758719+00:00</updated>
+    <link href="https://www.foodnavigator.com/Article/2026/11/18/monster-celsius-face-rising-aluminum-costs/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
+    <summary>Higher aluminum costs pressure Monster and Celsius margins, putting energy drink pricing and the Midwest premium in focus.</summary>
+    <published>2026-11-18T14:36:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.foodnavigator.com/Article/2026/11/18/glp-1-to-fibremaxxing-5-food-trends-shaping-2027/</id>
+    <title>Blue drinks to fibremaxxing: 5 trends shaping food and drink</title>
+    <updated>2026-11-18T19:28:22.758658+00:00</updated>
+    <link href="https://www.foodnavigator.com/Article/2026/11/18/glp-1-to-fibremaxxing-5-food-trends-shaping-2027/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
+    <summary>From GLP-1-ready foods and fibremaxxing to natural blue drinks and clean-label functionality, discover five food and beverage trends set to shape 2027.</summary>
+    <published>2026-11-18T16:08:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.confectionerynews.com/Article/2026/11/18/nestle-discontinues-after-eight-bites-after-20-years/</id>
+    <title>Nestlé axes confectionery favourite after 20 years</title>
+    <updated>2026-11-18T19:28:22.758598+00:00</updated>
+    <link href="https://www.confectionerynews.com/Article/2026/11/18/nestle-discontinues-after-eight-bites-after-20-years/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
+    <summary>Nestlé has discontinued After Eight Bites after 20 years, reflecting a wider confectionery trend towards portfolio simplification. While the popular mint chocolates are gone, the company is investing in new After Eight flavour innovations including Orange, Raspberry and Caramel.</summary>
+    <published>2026-11-18T16:27:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.foodnavigator.com/Article/2026/11/18/can-europe-retain-its-food-manufacturing-edge/</id>
+    <title>Can European food and drink manufacturing stay competitive on the global stage?</title>
+    <updated>2026-11-18T19:28:22.758535+00:00</updated>
+    <link href="https://www.foodnavigator.com/Article/2026/11/18/can-europe-retain-its-food-manufacturing-edge/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
+    <summary>Europe’s food manufacturers face rising costs, regulatory hurdles and global competition, but investment in AI, automation and food tech offers a path to renewed growth</summary>
+    <published>2026-11-18T17:32:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.foodnavigator.com/Article/2026/11/18/glp-1-users-to-cut-back-on-christmas-food/</id>
+    <title>How could GLP-1s impact Christmas consumption?</title>
+    <updated>2026-11-18T19:28:22.758454+00:00</updated>
+    <link href="https://www.foodnavigator.com/Article/2026/11/18/glp-1-users-to-cut-back-on-christmas-food/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS"/>
+    <summary>Christmas is a time of indulgence, and GLP-1 drugs often lead to the opposite. What happens when the two clash? Data from MMR Research and Toluna suggest that GLP-1 users are likely to cut back on Christmas food, with many feeling that having more control over their eating habits during the festive period could make it more enjoyable.</summary>
+    <published>2026-11-18T17:41:00+00:00</published>
   </entry>
 </feed>
