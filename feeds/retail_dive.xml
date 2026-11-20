@@ -2,47 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:retail_dive</id>
   <title>Retail Dive</title>
-  <updated>2026-11-20T16:31:50.982314+00:00</updated>
+  <updated>2026-11-20T22:52:23.131543+00:00</updated>
   <link href="file:///feeds/retail_dive.xml" rel="self"/>
   <link href="https://www.retaildive.com/feeds/news/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: retail / Mode: rss</subtitle>
   <entry>
-    <id>https://www.retaildive.com/news/home-depot-lowes-digital-sales-boost-q3-ecommerce/875054/</id>
-    <title>E-commerce boosts Home Depot, Lowe’s in Q3</title>
-    <updated>2026-11-20T16:31:50.983247+00:00</updated>
-    <link href="https://www.retaildive.com/news/home-depot-lowes-digital-sales-boost-q3-ecommerce/875054/"/>
-    <summary>Both retailers notched double-digit gains within their digital businesses as they continue to make investments to improve the online experience.</summary>
-    <published>2026-11-18T12:31:00-05:00</published>
-  </entry>
-  <entry>
-    <id>https://www.retaildive.com/news/amazon-arnold-schwarzenegger-santa-holiday-ad-campaign-retail-marketing-push/875055/</id>
-    <title>Amazon puts Arnold Schwarzenegger in Santa suit to extend holiday push</title>
-    <updated>2026-11-20T16:31:50.983181+00:00</updated>
-    <link href="https://www.retaildive.com/news/amazon-arnold-schwarzenegger-santa-holiday-ad-campaign-retail-marketing-push/875055/"/>
-    <summary>The spot builds on a &amp;ldquo;Joy Delivered&amp;quot; campaign and takes inspiration from an upcoming Prime Video original holiday movie starring the &amp;ldquo;Terminator&amp;rdquo; actor.</summary>
-    <published>2026-11-18T13:02:00-05:00</published>
-  </entry>
-  <entry>
-    <id>https://www.retaildive.com/news/target-ai-shopping-assistant-drives-sales-q3/875106/</id>
-    <title>Target’s AI shopping assistant is driving sales</title>
-    <updated>2026-11-20T16:31:50.983113+00:00</updated>
-    <link href="https://www.retaildive.com/news/target-ai-shopping-assistant-drives-sales-q3/875106/"/>
-    <summary>The retailer&amp;#39;s beta test of an AI assistant, called Ask Target, is showing early success, according to CEO Michael Fiddelke.</summary>
-    <published>2026-11-19T09:16:00-05:00</published>
-  </entry>
-  <entry>
-    <id>https://www.retaildive.com/news/walmart-ecommerce-boom-fulfillment-speed-q3-earnings/875166/</id>
-    <title>Walmart’s e-commerce boom driven by fulfillment speed</title>
-    <updated>2026-11-20T16:31:50.983044+00:00</updated>
-    <link href="https://www.retaildive.com/news/walmart-ecommerce-boom-fulfillment-speed-q3-earnings/875166/"/>
-    <summary>The Walmart U.S. e-commerce business grew 23% in Q3 as speed has become a key differentiator for the mass retailer.</summary>
-    <published>2026-11-19T10:54:00-05:00</published>
-  </entry>
-  <entry>
     <id>https://www.retaildive.com/news/tractor-supply-uber-same-day-delivery/874748/</id>
     <title>Tractor Supply boosts same-day delivery options</title>
-    <updated>2026-11-20T16:31:50.982974+00:00</updated>
+    <updated>2026-11-20T22:52:23.132673+00:00</updated>
     <link href="https://www.retaildive.com/news/tractor-supply-uber-same-day-delivery/874748/"/>
     <summary>The retailer is growing its delivery offerings at the same time Amazon is expanding its rural delivery network.</summary>
     <published>2026-11-19T10:55:00-05:00</published>
@@ -50,7 +18,7 @@
   <entry>
     <id>https://www.retaildive.com/news/instagram-creators-add-amazon-affiliate-links-reels-posts/874889/</id>
     <title>Instagram creators can now add Amazon affiliate links directly to Reels, posts</title>
-    <updated>2026-11-20T16:31:50.982903+00:00</updated>
+    <updated>2026-11-20T22:52:23.132584+00:00</updated>
     <link href="https://www.retaildive.com/news/instagram-creators-add-amazon-affiliate-links-reels-posts/874889/"/>
     <summary>Creators can add 30 products per Reel, or 20 per post, and earn commission &amp;mdash; and Instagram won&amp;rsquo;t take a cut.</summary>
     <published>2026-11-19T11:35:00-05:00</published>
@@ -58,7 +26,7 @@
   <entry>
     <id>https://www.retaildive.com/news/bath-body-works-turnaround-q3-consumer-first-formula/875168/</id>
     <title>Bath &amp; Body Works CEO: ‘We are on track, but far from satisfied’</title>
-    <updated>2026-11-20T16:31:50.982834+00:00</updated>
+    <updated>2026-11-20T22:52:23.132495+00:00</updated>
     <link href="https://www.retaildive.com/news/bath-body-works-turnaround-q3-consumer-first-formula/875168/"/>
     <summary>The retailer hit the one-year mark with its Consumer First Formula strategy and has a goal of returning the business to sustainable growth in 2027.</summary>
     <published>2026-11-19T11:51:00-05:00</published>
@@ -66,7 +34,7 @@
   <entry>
     <id>https://www.retaildive.com/news/the-backroom-podcast-department-stores-holiday-season/875199/</id>
     <title>The Backroom: How department stores are shaping up this holiday</title>
-    <updated>2026-11-20T16:31:50.982763+00:00</updated>
+    <updated>2026-11-20T22:52:23.132399+00:00</updated>
     <link href="https://www.retaildive.com/news/the-backroom-podcast-department-stores-holiday-season/875199/"/>
     <summary>The team looks at the past, present and future of a retail model that has long been a fixture of the season.</summary>
     <published>2026-11-19T11:56:00-05:00</published>
@@ -74,7 +42,7 @@
   <entry>
     <id>https://www.retaildive.com/news/mall-of-america-debuts-ai-concierge-mallie/875089/</id>
     <title>Mall of America debuts AI-backed concierge, Mallie</title>
-    <updated>2026-11-20T16:31:50.982682+00:00</updated>
+    <updated>2026-11-20T22:52:23.132270+00:00</updated>
     <link href="https://www.retaildive.com/news/mall-of-america-debuts-ai-concierge-mallie/875089/"/>
     <summary>The digital assistant is designed to help shoppers plan and personalize visits to North America&amp;rsquo;s largest shopping and entertainment complex.&amp;nbsp;</summary>
     <published>2026-11-19T12:33:00-05:00</published>
@@ -82,9 +50,41 @@
   <entry>
     <id>https://www.retaildive.com/news/nyc-surveillance-pricing-ban-fabfitfun-walmart/875277/</id>
     <title>The Weekly Closeout: NYC bans surveillance pricing, FabFitFun lands in Walmart</title>
-    <updated>2026-11-20T16:31:50.982541+00:00</updated>
+    <updated>2026-11-20T22:52:23.132180+00:00</updated>
     <link href="https://www.retaildive.com/news/nyc-surveillance-pricing-ban-fabfitfun-walmart/875277/"/>
     <summary>The ban prevents companies from using personal data to tailor prices, while the subscription company is offering a beauty box in 3,000 of the mass merchant&amp;rsquo;s stores.</summary>
     <published>2026-11-20T10:35:00-05:00</published>
+  </entry>
+  <entry>
+    <id>https://www.retaildive.com/news/vuori-exec-ceo-athleta-sales-declines-q3-earnings/875279/</id>
+    <title>Vuori exec to lead struggling Athleta</title>
+    <updated>2026-11-20T22:52:23.132090+00:00</updated>
+    <link href="https://www.retaildive.com/news/vuori-exec-ceo-athleta-sales-declines-q3-earnings/875279/"/>
+    <summary>Ashley Kechter, who previously also had stints at Fabletics and Gap Inc., takes on a brand that just posted yet another quarter of double-digit declines.</summary>
+    <published>2026-11-20T11:42:00-05:00</published>
+  </entry>
+  <entry>
+    <id>https://www.retaildive.com/news/thredup-tiktok-shop-livestream-shopping/875247/</id>
+    <title>ThredUp leans into livestream shopping with TikTok Shop</title>
+    <updated>2026-11-20T22:52:23.131995+00:00</updated>
+    <link href="https://www.retaildive.com/news/thredup-tiktok-shop-livestream-shopping/875247/"/>
+    <summary>After early success on Whatnot, the resale marketplace is expanding its livestream efforts with a launch on TikTok Shop.</summary>
+    <published>2026-11-20T12:16:00-05:00</published>
+  </entry>
+  <entry>
+    <id>https://www.retaildive.com/news/old-navy-recovery-gap-shines-q3-earnings-warm-weather/875291/</id>
+    <title>Warm weather thwarts Old Navy recovery, as Gap continues to shine</title>
+    <updated>2026-11-20T22:52:23.131893+00:00</updated>
+    <link href="https://www.retaildive.com/news/old-navy-recovery-gap-shines-q3-earnings-warm-weather/875291/"/>
+    <summary>As the Gap Inc.&amp;rsquo;s value brand falters, its namesake has risen from a years-long slump to notch its 12th straight quarter of comparable sales growth.</summary>
+    <published>2026-11-20T12:28:00-05:00</published>
+  </entry>
+  <entry>
+    <id>https://www.retaildive.com/news/container-store-neighborhood-intelligence-cybersecurity-incident/875342/</id>
+    <title>The Container Store is back online after cybersecurity incident</title>
+    <updated>2026-11-20T22:52:23.131760+00:00</updated>
+    <link href="https://www.retaildive.com/news/container-store-neighborhood-intelligence-cybersecurity-incident/875342/"/>
+    <summary>The incident has not impacted the security of customer financial data, according to the company.</summary>
+    <published>2026-11-20T12:41:00-05:00</published>
   </entry>
 </feed>
