@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:federal_register</id>
   <title>Federal Register - All Documents</title>
-  <updated>2026-11-20T07:54:28.325451+00:00</updated>
+  <updated>2026-11-20T16:31:36.565619+00:00</updated>
   <link href="file:///feeds/federal_register.xml" rel="self"/>
   <link href="https://www.federalregister.gov/api/v1/documents.json" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -10,7 +10,7 @@
   <entry>
     <id>fr:2026-23703</id>
     <title>Draft Policy Update to the NIH Policy for Data and Safety Monitoring; Correction</title>
-    <updated>2026-11-20T07:54:28.326313+00:00</updated>
+    <updated>2026-11-20T16:31:36.566683+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/11/20/2026-23703/draft-policy-update-to-the-nih-policy-for-data-and-safety-monitoring-correction"/>
     <summary>Health and Human Services Department — 2026-23703</summary>
     <published>2026-11-20T00:00:00+00:00</published>
@@ -18,7 +18,7 @@
   <entry>
     <id>fr:2026-23704</id>
     <title>Designated Reserve Ratio for 2027</title>
-    <updated>2026-11-20T07:54:28.326294+00:00</updated>
+    <updated>2026-11-20T16:31:36.566658+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/11/20/2026-23704/designated-reserve-ratio-for-2027"/>
     <summary>Federal Deposit Insurance Corporation — 2026-23704</summary>
     <published>2026-11-20T00:00:00+00:00</published>
@@ -26,7 +26,7 @@
   <entry>
     <id>fr:2026-23705</id>
     <title>Petition for Rulemaking of Alden Graham</title>
-    <updated>2026-11-20T07:54:28.326274+00:00</updated>
+    <updated>2026-11-20T16:31:36.566633+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/11/20/2026-23705/petition-for-rulemaking-of-alden-graham"/>
     <summary>Federal Trade Commission — 2026-23705</summary>
     <published>2026-11-20T00:00:00+00:00</published>
@@ -34,7 +34,7 @@
   <entry>
     <id>fr:2026-23706</id>
     <title>Endangered and Threatened Wildlife and Plants; Endangered Species Status for Mazama Newt</title>
-    <updated>2026-11-20T07:54:28.326252+00:00</updated>
+    <updated>2026-11-20T16:31:36.566605+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/11/20/2026-23706/endangered-and-threatened-wildlife-and-plants-endangered-species-status-for-mazama-newt"/>
     <summary>Interior Department — 2026-23706</summary>
     <published>2026-11-20T00:00:00+00:00</published>
@@ -42,7 +42,7 @@
   <entry>
     <id>fr:2026-23707</id>
     <title>60-Day Notice of Intent To Seek Extension of Approval: Appeals of Decisions Issued Under Delegated Authorities and Labor Arbitration Decisions</title>
-    <updated>2026-11-20T07:54:28.326232+00:00</updated>
+    <updated>2026-11-20T16:31:36.566578+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/11/20/2026-23707/60-day-notice-of-intent-to-seek-extension-of-approval-appeals-of-decisions-issued-under-delegated"/>
     <summary>Surface Transportation Board — 2026-23707</summary>
     <published>2026-11-20T00:00:00+00:00</published>
@@ -50,7 +50,7 @@
   <entry>
     <id>fr:2026-23708</id>
     <title>Pacific Island Fisheries; Marine Conservation Plan for the Pacific Insular Area for the Commonwealth of the Northern Mariana Islands; Western Pacific Sustainable Fisheries Fund</title>
-    <updated>2026-11-20T07:54:28.326212+00:00</updated>
+    <updated>2026-11-20T16:31:36.566552+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/11/20/2026-23708/pacific-island-fisheries-marine-conservation-plan-for-the-pacific-insular-area-for-the-commonwealth"/>
     <summary>Commerce Department — 2026-23708</summary>
     <published>2026-11-20T00:00:00+00:00</published>
@@ -58,7 +58,7 @@
   <entry>
     <id>fr:2026-23709</id>
     <title>Magnuson-Stevens Act Provisions; Fisheries Off West Coast States; Pacific Coast Groundfish Fishery; 2026 Tribal Fishery Allocations for Pacific Whiting; Reapportionment Between Tribal and Non-Tribal S</title>
-    <updated>2026-11-20T07:54:28.326192+00:00</updated>
+    <updated>2026-11-20T16:31:36.566526+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/11/20/2026-23709/magnuson-stevens-act-provisions-fisheries-off-west-coast-states-pacific-coast-groundfish-fishery"/>
     <summary>Commerce Department — 2026-23709</summary>
     <published>2026-11-20T00:00:00+00:00</published>
@@ -66,7 +66,7 @@
   <entry>
     <id>fr:2026-23710</id>
     <title>Pacific Island Fisheries; Marine Conservation Plan for Pacific Insular Areas Other Than American Samoa, Guam, and the Northern Mariana Islands; Western Pacific Sustainable Fisheries Fund</title>
-    <updated>2026-11-20T07:54:28.326166+00:00</updated>
+    <updated>2026-11-20T16:31:36.566496+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/11/20/2026-23710/pacific-island-fisheries-marine-conservation-plan-for-pacific-insular-areas-other-than-american"/>
     <summary>Commerce Department — 2026-23710</summary>
     <published>2026-11-20T00:00:00+00:00</published>
@@ -74,7 +74,7 @@
   <entry>
     <id>fr:2026-23711</id>
     <title>Endangered and Threatened Wildlife and Plants; Threatened Species Status With Section 4(d) Rule for White Sands Pupfish and Critical Habitat Determination</title>
-    <updated>2026-11-20T07:54:28.326147+00:00</updated>
+    <updated>2026-11-20T16:31:36.566469+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/11/20/2026-23711/endangered-and-threatened-wildlife-and-plants-threatened-species-status-with-section-4d-rule-for"/>
     <summary>Interior Department — 2026-23711</summary>
     <published>2026-11-20T00:00:00+00:00</published>
@@ -82,7 +82,7 @@
   <entry>
     <id>fr:2026-23712</id>
     <title>Revised Non-foreign Overseas Per Diem Rates</title>
-    <updated>2026-11-20T07:54:28.326127+00:00</updated>
+    <updated>2026-11-20T16:31:36.566439+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/11/20/2026-23712/revised-non-foreign-overseas-per-diem-rates"/>
     <summary>Defense Department — 2026-23712</summary>
     <published>2026-11-20T00:00:00+00:00</published>
@@ -90,7 +90,7 @@
   <entry>
     <id>fr:2026-23713</id>
     <title>Implementation of HAVANA Act of 2021</title>
-    <updated>2026-11-20T07:54:28.326107+00:00</updated>
+    <updated>2026-11-20T16:31:36.566388+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/11/20/2026-23713/implementation-of-havana-act-of-2021"/>
     <summary>Homeland Security Department — 2026-23713</summary>
     <published>2026-11-20T00:00:00+00:00</published>
@@ -98,7 +98,7 @@
   <entry>
     <id>fr:2026-23714</id>
     <title>Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules</title>
-    <updated>2026-11-20T07:54:28.326087+00:00</updated>
+    <updated>2026-11-20T16:31:36.566363+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/11/20/2026-23714/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification"/>
     <summary>Federal Trade Commission — 2026-23714</summary>
     <published>2026-11-20T00:00:00+00:00</published>
@@ -106,7 +106,7 @@
   <entry>
     <id>fr:2026-23715</id>
     <title>Hours of Service (HOS) of Drivers; American Pyrotechnics Association (APA); Request To Include an Additional Member Company to Current APA HOS Exemptions</title>
-    <updated>2026-11-20T07:54:28.326066+00:00</updated>
+    <updated>2026-11-20T16:31:36.566338+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/11/20/2026-23715/hours-of-service-hos-of-drivers-american-pyrotechnics-association-apa-request-to-include-an"/>
     <summary>Transportation Department — 2026-23715</summary>
     <published>2026-11-20T00:00:00+00:00</published>
@@ -114,7 +114,7 @@
   <entry>
     <id>fr:2026-23716</id>
     <title>Agency Information Collection Activities; Renewal of an Approved Information Collection: Generic Clearance of Customer Satisfaction Surveys</title>
-    <updated>2026-11-20T07:54:28.326046+00:00</updated>
+    <updated>2026-11-20T16:31:36.566313+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/11/20/2026-23716/agency-information-collection-activities-renewal-of-an-approved-information-collection-generic"/>
     <summary>Transportation Department — 2026-23716</summary>
     <published>2026-11-20T00:00:00+00:00</published>
@@ -122,7 +122,7 @@
   <entry>
     <id>fr:2026-23717</id>
     <title>Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Annual Integrated Economic Survey</title>
-    <updated>2026-11-20T07:54:28.326026+00:00</updated>
+    <updated>2026-11-20T16:31:36.566288+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/11/20/2026-23717/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for"/>
     <summary>Commerce Department — 2026-23717</summary>
     <published>2026-11-20T00:00:00+00:00</published>
@@ -130,7 +130,7 @@
   <entry>
     <id>fr:2026-23718</id>
     <title>National Institute of Standards and Technology Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Manufacturing Extens</title>
-    <updated>2026-11-20T07:54:28.326006+00:00</updated>
+    <updated>2026-11-20T16:31:36.566262+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/11/20/2026-23718/national-institute-of-standards-and-technology-information-collection-activities-submission-to-the"/>
     <summary>Commerce Department — 2026-23718</summary>
     <published>2026-11-20T00:00:00+00:00</published>
@@ -138,7 +138,7 @@
   <entry>
     <id>fr:2026-23719</id>
     <title>Information Collection; Federal Management Regulation; Statement of Witness; Standard Form 94</title>
-    <updated>2026-11-20T07:54:28.325985+00:00</updated>
+    <updated>2026-11-20T16:31:36.566237+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/11/20/2026-23719/information-collection-federal-management-regulation-statement-of-witness-standard-form-94"/>
     <summary>General Services Administration — 2026-23719</summary>
     <published>2026-11-20T00:00:00+00:00</published>
@@ -146,7 +146,7 @@
   <entry>
     <id>fr:2026-23720</id>
     <title>Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Streamlined Supply Chain Information Collection Request</title>
-    <updated>2026-11-20T07:54:28.325964+00:00</updated>
+    <updated>2026-11-20T16:31:36.566211+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/11/20/2026-23720/information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for-review"/>
     <summary>Commerce Department — 2026-23720</summary>
     <published>2026-11-20T00:00:00+00:00</published>
@@ -154,7 +154,7 @@
   <entry>
     <id>fr:2026-23721</id>
     <title>Privacy Act of 1974; Systems of Records</title>
-    <updated>2026-11-20T07:54:28.325942+00:00</updated>
+    <updated>2026-11-20T16:31:36.566184+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/11/20/2026-23721/privacy-act-of-1974-systems-of-records"/>
     <summary>Justice Department — 2026-23721</summary>
     <published>2026-11-20T00:00:00+00:00</published>
@@ -162,7 +162,7 @@
   <entry>
     <id>fr:2026-23722</id>
     <title>Accreditation and Approval of Intertek USA, Inc. (Texas City, TX), as a Commercial Gauger and Laboratory</title>
-    <updated>2026-11-20T07:54:28.325919+00:00</updated>
+    <updated>2026-11-20T16:31:36.566155+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/11/20/2026-23722/accreditation-and-approval-of-intertek-usa-inc-texas-city-tx-as-a-commercial-gauger-and-laboratory"/>
     <summary>Homeland Security Department — 2026-23722</summary>
     <published>2026-11-20T00:00:00+00:00</published>
@@ -170,7 +170,7 @@
   <entry>
     <id>fr:2026-23723</id>
     <title>Caribbean Fishery Management Council 191st Public Hybrid Meeting</title>
-    <updated>2026-11-20T07:54:28.325897+00:00</updated>
+    <updated>2026-11-20T16:31:36.566129+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/11/20/2026-23723/caribbean-fishery-management-council-191st-public-hybrid-meeting"/>
     <summary>Commerce Department — 2026-23723</summary>
     <published>2026-11-20T00:00:00+00:00</published>
@@ -178,7 +178,7 @@
   <entry>
     <id>fr:2026-23724</id>
     <title>Extension of Import Restrictions Imposed on Archaeological and Ethnological Material of Greece</title>
-    <updated>2026-11-20T07:54:28.325874+00:00</updated>
+    <updated>2026-11-20T16:31:36.566102+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/11/20/2026-23724/extension-of-import-restrictions-imposed-on-archaeological-and-ethnological-material-of-greece"/>
     <summary>Homeland Security Department — 2026-23724</summary>
     <published>2026-11-20T00:00:00+00:00</published>
@@ -186,7 +186,7 @@
   <entry>
     <id>fr:2026-23725</id>
     <title>Center for Scientific Review; Notice of Closed Meeting</title>
-    <updated>2026-11-20T07:54:28.325852+00:00</updated>
+    <updated>2026-11-20T16:31:36.566074+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/11/20/2026-23725/center-for-scientific-review-notice-of-closed-meeting"/>
     <summary>Health and Human Services Department — 2026-23725</summary>
     <published>2026-11-20T00:00:00+00:00</published>
@@ -194,7 +194,7 @@
   <entry>
     <id>fr:2026-23726</id>
     <title>Agency Information Collection Activities: Proposed Collection; Comment Request; State, Tribe, and Territory Disaster Case Management (DCM) Federal Award</title>
-    <updated>2026-11-20T07:54:28.325829+00:00</updated>
+    <updated>2026-11-20T16:31:36.566045+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/11/20/2026-23726/agency-information-collection-activities-proposed-collection-comment-request-state-tribe-and"/>
     <summary>Homeland Security Department — 2026-23726</summary>
     <published>2026-11-20T00:00:00+00:00</published>
@@ -202,7 +202,7 @@
   <entry>
     <id>fr:2026-23727</id>
     <title>Agency Information Collection Activities: Submission for OMB Review, Comment Request; Environmental and Historic Preservation Screening Form</title>
-    <updated>2026-11-20T07:54:28.325803+00:00</updated>
+    <updated>2026-11-20T16:31:36.566011+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/11/20/2026-23727/agency-information-collection-activities-submission-for-omb-review-comment-request-environmental-and"/>
     <summary>Homeland Security Department — 2026-23727</summary>
     <published>2026-11-20T00:00:00+00:00</published>
@@ -210,7 +210,7 @@
   <entry>
     <id>fr:2026-23728</id>
     <title>Taking and Importing Marine Mammals; Taking Marine Mammals Incidental to Military Readiness Activities in the Northwest Training and Testing Study Area</title>
-    <updated>2026-11-20T07:54:28.325775+00:00</updated>
+    <updated>2026-11-20T16:31:36.565978+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/11/20/2026-23728/taking-and-importing-marine-mammals-taking-marine-mammals-incidental-to-military-readiness"/>
     <summary>Commerce Department — 2026-23728</summary>
     <published>2026-11-20T00:00:00+00:00</published>
@@ -218,7 +218,7 @@
   <entry>
     <id>fr:2026-23729</id>
     <title>Federal Employees' Retirement System; Present Value Conversion Factors for Spouses of Deceased Separated Employees</title>
-    <updated>2026-11-20T07:54:28.325745+00:00</updated>
+    <updated>2026-11-20T16:31:36.565940+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/11/20/2026-23729/federal-employees-retirement-system-present-value-conversion-factors-for-spouses-of-deceased"/>
     <summary>Personnel Management Office — 2026-23729</summary>
     <published>2026-11-20T00:00:00+00:00</published>
@@ -226,7 +226,7 @@
   <entry>
     <id>fr:2026-23730</id>
     <title>FLSA Claims and Compliance</title>
-    <updated>2026-11-20T07:54:28.325693+00:00</updated>
+    <updated>2026-11-20T16:31:36.565902+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/11/20/2026-23730/flsa-claims-and-compliance"/>
     <summary>Personnel Management Office — 2026-23730</summary>
     <published>2026-11-20T00:00:00+00:00</published>
@@ -234,7 +234,7 @@
   <entry>
     <id>fr:2026-23731</id>
     <title>Procedures for Settling Claims</title>
-    <updated>2026-11-20T07:54:28.325643+00:00</updated>
+    <updated>2026-11-20T16:31:36.565848+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/11/20/2026-23731/procedures-for-settling-claims"/>
     <summary>Personnel Management Office — 2026-23731</summary>
     <published>2026-11-20T00:00:00+00:00</published>
@@ -242,7 +242,7 @@
   <entry>
     <id>fr:2026-23732</id>
     <title>Updates and Amendments to the Civil Service Rules</title>
-    <updated>2026-11-20T07:54:28.325571+00:00</updated>
+    <updated>2026-11-20T16:31:36.565770+00:00</updated>
     <link href="https://www.federalregister.gov/documents/2026/11/20/2026-23732/updates-and-amendments-to-the-civil-service-rules"/>
     <summary>Personnel Management Office — 2026-23732</summary>
     <published>2026-11-20T00:00:00+00:00</published>
