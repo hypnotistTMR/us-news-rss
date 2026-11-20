@@ -2,95 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:techcrunch</id>
   <title>TechCrunch - All</title>
-  <updated>2026-11-19T18:02:17.388014+00:00</updated>
+  <updated>2026-11-20T00:45:32.405052+00:00</updated>
   <link href="file:///feeds/techcrunch.xml" rel="self"/>
   <link href="https://techcrunch.com/feed/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: tech / Mode: rss</subtitle>
   <entry>
-    <id>https://techcrunch.com/?p=3190063</id>
-    <title>Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie</title>
-    <updated>2026-11-19T18:02:17.389641+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/"/>
-    <summary>"It doesn't feel like it's in like the top 10 weirdest things about my life," Altman said.</summary>
-    <published>2026-11-18T20:07:01+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3190132</id>
-    <title>Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated</title>
-    <updated>2026-11-19T18:02:17.389572+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/"/>
-    <summary>"It makes America weaker to knock him out," the Anduril CEO said about ousted Nvidia leader Jensen Huang.</summary>
-    <published>2026-11-18T21:31:21+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3190121</id>
-    <title>Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’</title>
-    <updated>2026-11-19T18:02:17.389503+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/"/>
-    <summary>The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks.</summary>
-    <published>2026-11-18T21:34:13+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3190087</id>
-    <title>Nvidia created a weird bit of intrigue by not filing a routine SEC report</title>
-    <updated>2026-11-19T18:02:17.389433+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/"/>
-    <summary>One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks.</summary>
-    <published>2026-11-18T21:57:40+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3190097</id>
-    <title>Palmer Luckey doesn’t deny that he’s a prepper</title>
-    <updated>2026-11-19T18:02:17.389366+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/18/palmer-luckey-doesnt-deny-that-hes-a-prepper/"/>
-    <summary>The Anduril founder said Wednesday that Americans should always have three days of food, water, and medicine — just in case.</summary>
-    <published>2026-11-18T22:04:03+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3190228</id>
-    <title>Anthropic prices IPO at $83 a share, above projected range</title>
-    <updated>2026-11-19T18:02:17.389295+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/"/>
-    <summary>The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.</summary>
-    <published>2026-11-18T22:11:15+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3190264</id>
-    <title>Satya Nadella predicts AI agents will reshuffle the economics of the web</title>
-    <updated>2026-11-19T18:02:17.389211+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/"/>
-    <summary>Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.</summary>
-    <published>2026-11-18T22:58:11+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3190266</id>
-    <title>Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit</title>
-    <updated>2026-11-19T18:02:17.389147+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/"/>
-    <summary>Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.</summary>
-    <published>2026-11-18T23:17:28+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3190290</id>
-    <title>Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’</title>
-    <updated>2026-11-19T18:02:17.389082+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/"/>
-    <summary>“I don’t think [Huang is] disloyal to the United States," Musk said.</summary>
-    <published>2026-11-18T23:25:17+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3190239</id>
-    <title>Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’</title>
-    <updated>2026-11-19T18:02:17.389015+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/"/>
-    <summary>The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.</summary>
-    <published>2026-11-18T23:45:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://techcrunch.com/?p=3189988</id>
     <title>Elon Musk says: ‘I’m not MAGA’</title>
-    <updated>2026-11-19T18:02:17.388947+00:00</updated>
+    <updated>2026-11-20T00:45:32.406644+00:00</updated>
     <link href="https://techcrunch.com/2026/11/18/elon-musk-says-im-not-maga/"/>
     <summary>During his appearance Wednesday at The New York Times' DealBook Summit, Elon Musk said that he wasn't sure what the term "MAGA" meant and also commented that he felt "pretty foolish" for having spent so much money during the U.S. midterms.</summary>
     <published>2026-11-19T00:40:49+00:00</published>
@@ -98,7 +18,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3190274</id>
     <title>Microsoft CEO Satya Nadella explains why he asked 60K employees to quit</title>
-    <updated>2026-11-19T18:02:17.388880+00:00</updated>
+    <updated>2026-11-20T00:45:32.406581+00:00</updated>
     <link href="https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/"/>
     <summary>Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.</summary>
     <published>2026-11-19T00:42:56+00:00</published>
@@ -106,7 +26,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3188332</id>
     <title>Superhuman pushes its Go assistant everywhere</title>
-    <updated>2026-11-19T18:02:17.388811+00:00</updated>
+    <updated>2026-11-20T00:45:32.406518+00:00</updated>
     <link href="https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/"/>
     <summary>Superhuman is making Go its central agent and making it available in Docs and Mail.</summary>
     <published>2026-11-19T14:00:00+00:00</published>
@@ -114,7 +34,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3187305</id>
     <title>Nimble enters the item-tracking market with eco-friendly luggage tags and keychains</title>
-    <updated>2026-11-19T18:02:17.388739+00:00</updated>
+    <updated>2026-11-20T00:45:32.406454+00:00</updated>
     <link href="https://techcrunch.com/2026/11/19/nimble-enters-the-item-tracking-market-with-eco-friendly-luggage-tags-and-keychains/"/>
     <summary>As Google takes on Apple in the item-tracking market, Nimble is hoping its trackable wallets, keychains, luggage tags, and passport covers stand out.</summary>
     <published>2026-11-19T14:00:00+00:00</published>
@@ -122,7 +42,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3190277</id>
     <title>Anthropic’s IPO puts AI’s circular financing boom to the test</title>
-    <updated>2026-11-19T18:02:17.388667+00:00</updated>
+    <updated>2026-11-20T00:45:32.406389+00:00</updated>
     <link href="https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/"/>
     <summary>Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.</summary>
     <published>2026-11-19T14:54:39+00:00</published>
@@ -130,7 +50,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3190439</id>
     <title>UK government forced to disclose secret Apple backdoor order</title>
-    <updated>2026-11-19T18:02:17.388593+00:00</updated>
+    <updated>2026-11-20T00:45:32.406326+00:00</updated>
     <link href="https://techcrunch.com/2026/11/19/u-k-government-forced-to-disclose-secret-apple-backdoor-order/"/>
     <summary>The U.K. tribunal's ruling rejected London's claim that disclosing the order would be damaging to national security.</summary>
     <published>2026-11-19T15:32:20+00:00</published>
@@ -138,7 +58,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3190440</id>
     <title>At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development</title>
-    <updated>2026-11-19T18:02:17.388521+00:00</updated>
+    <updated>2026-11-20T00:45:32.406262+00:00</updated>
     <link href="https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/"/>
     <summary>In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.</summary>
     <published>2026-11-19T16:19:41+00:00</published>
@@ -146,7 +66,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3190451</id>
     <title>Anthropic hits Nasdaq exchanges at $111, 33% above IPO price</title>
-    <updated>2026-11-19T18:02:17.388440+00:00</updated>
+    <updated>2026-11-20T00:45:32.406196+00:00</updated>
     <link href="https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/"/>
     <summary>Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.</summary>
     <published>2026-11-19T16:59:23+00:00</published>
@@ -154,17 +74,97 @@
   <entry>
     <id>https://techcrunch.com/?p=3190407</id>
     <title>Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories</title>
-    <updated>2026-11-19T18:02:17.388354+00:00</updated>
+    <updated>2026-11-20T00:45:32.406127+00:00</updated>
     <link href="https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/"/>
     <summary>Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.</summary>
     <published>2026-11-19T17:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://techcrunch.com/?p=3190466</id>
-    <title>Meta’s AI agent Muse is mixing up conversations and exposing private data, report says</title>
-    <updated>2026-11-19T18:02:17.388226+00:00</updated>
+    <title>Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says</title>
+    <updated>2026-11-20T00:45:32.406059+00:00</updated>
     <link href="https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/"/>
     <summary>In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.</summary>
     <published>2026-11-19T17:38:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3190514</id>
+    <title>Google gives Gemini the ability to use your Mac for you</title>
+    <updated>2026-11-20T00:45:32.405987+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/"/>
+    <summary>Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.</summary>
+    <published>2026-11-19T18:09:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3190534</id>
+    <title>Anthropic’s IPO could deliver $156B to charity</title>
+    <updated>2026-11-20T00:45:32.405918+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/"/>
+    <summary>At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.</summary>
+    <published>2026-11-19T19:10:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3186475</id>
+    <title>The unfolding Jensen Huang scandal: a timeline</title>
+    <updated>2026-11-20T00:45:32.405843+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"/>
+    <summary>Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.</summary>
+    <published>2026-11-19T20:18:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3190571</id>
+    <title>Uber tests rides for kids as young as 10, with extra pay for drivers</title>
+    <updated>2026-11-20T00:45:32.405731+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/19/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers/"/>
+    <summary>Uber is testing the new program in three U.S. cities.</summary>
+    <published>2026-11-19T21:33:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3190572</id>
+    <title>These tech outages are giving Y2K, AI agent style</title>
+    <updated>2026-11-20T00:45:32.405658+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/"/>
+    <summary>Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.</summary>
+    <published>2026-11-19T21:42:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3190594</id>
+    <title>Meta’s new Muse Charm device may cost $300</title>
+    <updated>2026-11-20T00:45:32.405588+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/"/>
+    <summary>Meta hasn't denied the reporting from The Information, saying only that it will "have more to share soon" about its upcoming AI wearable.</summary>
+    <published>2026-11-19T21:58:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3190548</id>
+    <title>Want to see your live AI usage on your Mac’s icons? This clever new app lets you</title>
+    <updated>2026-11-20T00:45:32.405516+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/"/>
+    <summary>IconSwapper brings your Mac's app icons to life with real-time data, animations, and playful customizations that make your desktop more fun.</summary>
+    <published>2026-11-19T22:33:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3190464</id>
+    <title>Elon Musk says SpaceX has a plan to eliminate cell phone dead zones</title>
+    <updated>2026-11-20T00:45:32.405439+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/"/>
+    <summary>SpaceX CEO Elon Musk said the company has completed the design of a miniature rooftop cell tower that could provide better coverage to mobile phones and eliminate dead zones.</summary>
+    <published>2026-11-19T23:37:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3190675</id>
+    <title>Anthropic rival says companies can (mostly) skip the pricey models</title>
+    <updated>2026-11-20T00:45:32.405357+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/"/>
+    <summary>On the day Anthropic went public, Fireworks AI’s co-founder made the case for open-source models as a cheaper alternative, and addressed the breaches that have cost the company some customers’ trust.</summary>
+    <published>2026-11-20T00:26:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3190498</id>
+    <title>Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO</title>
+    <updated>2026-11-20T00:45:32.405256+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/"/>
+    <summary>At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.</summary>
+    <published>2026-11-20T00:43:50+00:00</published>
   </entry>
 </feed>
