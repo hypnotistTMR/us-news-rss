@@ -2,127 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:techcrunch</id>
   <title>TechCrunch - All</title>
-  <updated>2026-11-23T08:42:30.994393+00:00</updated>
+  <updated>2026-11-23T20:44:20.508368+00:00</updated>
   <link href="file:///feeds/techcrunch.xml" rel="self"/>
   <link href="https://techcrunch.com/feed/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: tech / Mode: rss</subtitle>
   <entry>
-    <id>https://techcrunch.com/?p=3190832</id>
-    <title>Bending Spoons buys Mailchimp for $3.68B</title>
-    <updated>2026-11-23T08:42:30.995998+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/"/>
-    <summary>Intuit acquired the company in 2021 for roughly $12 billion, so it looks like Bending Spoons is getting quite a bargain.</summary>
-    <published>2026-11-20T16:16:06+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3190857</id>
-    <title>Chips can survive the space environment — can their financing?</title>
-    <updated>2026-11-23T08:42:30.995929+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/"/>
-    <summary>Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?</summary>
-    <published>2026-11-20T17:40:01+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3190826</id>
-    <title>Super-hot rock geothermal could end data center energy woes</title>
-    <updated>2026-11-23T08:42:30.995862+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/"/>
-    <summary>New geothermal startups are betting that they can leapfrog today's leaders to deliver terawatts of electricity nearly anywhere.</summary>
-    <published>2026-11-20T18:34:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3190908</id>
-    <title>AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too</title>
-    <updated>2026-11-23T08:42:30.995796+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/"/>
-    <summary>Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.</summary>
-    <published>2026-11-20T19:32:08+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3190943</id>
-    <title>Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.</title>
-    <updated>2026-11-23T08:42:30.995729+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/"/>
-    <summary>Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.</summary>
-    <published>2026-11-20T19:53:41+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3190935</id>
-    <title>Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now</title>
-    <updated>2026-11-23T08:42:30.995661+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/"/>
-    <summary>Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pots exploit.</summary>
-    <published>2026-11-20T20:58:29+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3190989</id>
-    <title>Startup sues Apple in India over tap-to-share contacts feature</title>
-    <updated>2026-11-23T08:42:30.995593+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/"/>
-    <summary>A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India.</summary>
-    <published>2026-11-21T04:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3191074</id>
-    <title>Alaska, your next governor is a Wikipedia nerd</title>
-    <updated>2026-11-23T08:42:30.995528+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/21/alaska-your-next-governor-is-a-wikipedia-nerd/"/>
-    <summary>Jonathan Kreiss-Tomkins, Alaska's governor-elect, has made more than 13,000 WIkipedia edits.</summary>
-    <published>2026-11-21T15:18:29+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3188069</id>
-    <title>Is selling an AI version of your face to this microdrama startup the future of Hollywood?</title>
-    <updated>2026-11-23T08:42:30.995461+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/"/>
-    <summary>An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.</summary>
-    <published>2026-11-21T16:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3173132</id>
-    <title>Here are the top AI agents that can live in your text messages</title>
-    <updated>2026-11-23T08:42:30.995394+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/"/>
-    <summary>We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.</summary>
-    <published>2026-11-21T17:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3191127</id>
-    <title>Trump says reported FBI database hack is ‘not good’</title>
-    <updated>2026-11-23T08:42:30.995326+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/"/>
-    <summary>The FBI is reportedly investigating a hack of the National Crime Information Center.</summary>
-    <published>2026-11-21T18:44:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3191145</id>
-    <title>A tale of two Nvidias</title>
-    <updated>2026-11-23T08:42:30.995254+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/"/>
-    <summary>We got two very different pictures of Nvidia —  the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.</summary>
-    <published>2026-11-21T21:07:42+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3191147</id>
-    <title>Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance</title>
-    <updated>2026-11-23T08:42:30.995159+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/"/>
-    <summary>Signal is limiting users' ability to take screenshots in both its Android and iOS apps.</summary>
-    <published>2026-11-21T21:37:10+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3190069</id>
-    <title>Can a TV be too large? An investigation</title>
-    <updated>2026-11-23T08:42:30.995090+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/"/>
-    <summary>Can a TV be too large? This writer's recent upgrade to a 65-inch OLED came with some unexpected challenges.</summary>
-    <published>2026-11-22T15:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://techcrunch.com/?p=3191042</id>
     <title>TechCrunch Mobility: A/B testing robots vs. humans</title>
-    <updated>2026-11-23T08:42:30.995017+00:00</updated>
+    <updated>2026-11-23T20:44:20.510043+00:00</updated>
     <link href="https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/"/>
     <summary>Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it.</summary>
     <published>2026-11-22T17:06:00+00:00</published>
@@ -130,7 +18,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3191157</id>
     <title>Why data centers are at the center of the Big Tech backlash</title>
-    <updated>2026-11-23T08:42:30.994941+00:00</updated>
+    <updated>2026-11-23T20:44:20.509973+00:00</updated>
     <link href="https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/"/>
     <summary>Journalist Paris Marx unpacks his new book "Hyperscale."</summary>
     <published>2026-11-22T18:08:43+00:00</published>
@@ -138,7 +26,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3050440</id>
     <title>The best apps to make new friends right now</title>
-    <updated>2026-11-23T08:42:30.994871+00:00</updated>
+    <updated>2026-11-23T20:44:20.509902+00:00</updated>
     <link href="https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/"/>
     <summary>We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft.</summary>
     <published>2026-11-22T21:00:00+00:00</published>
@@ -146,7 +34,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3191164</id>
     <title>OpenAI’s chief scientist has thoughts on how to limit AI development</title>
-    <updated>2026-11-23T08:42:30.994799+00:00</updated>
+    <updated>2026-11-23T20:44:20.509832+00:00</updated>
     <link href="https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/"/>
     <summary>To establish a speed limit on AI development, you need to agree on how to measure speed.</summary>
     <published>2026-11-22T21:14:07+00:00</published>
@@ -154,7 +42,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3191170</id>
     <title>‘You Can See Everything’ has made more than $100M worldwide</title>
-    <updated>2026-11-23T08:42:30.994725+00:00</updated>
+    <updated>2026-11-23T20:44:20.509762+00:00</updated>
     <link href="https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/"/>
     <summary>The new Elizabeth Holmes documentary is just beginning to roll out internationally.</summary>
     <published>2026-11-22T21:42:48+00:00</published>
@@ -162,9 +50,121 @@
   <entry>
     <id>https://techcrunch.com/?p=3191173</id>
     <title>How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO</title>
-    <updated>2026-11-23T08:42:30.994599+00:00</updated>
+    <updated>2026-11-23T20:44:20.509690+00:00</updated>
     <link href="https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/"/>
     <summary>Three significant backers share what gave them conviction to bet billions on Anthropic.</summary>
     <published>2026-11-23T01:25:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3191178</id>
+    <title>Uber now lets you book rides that record the drive by default</title>
+    <updated>2026-11-23T20:44:20.509604+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/23/uber-now-lets-you-book-rides-that-record-the-drive-by-default/"/>
+    <summary>The option, which uses the front camera of the Uber driver's phone to record the entire drive, will show up as "Recorded Rides" in the app.</summary>
+    <published>2026-11-23T14:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3191219</id>
+    <title>Nvidia reverses course and brings Jensen Huang back as CEO</title>
+    <updated>2026-11-23T20:44:20.509528+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/"/>
+    <summary>The stunning reversal was supported by senior officials in the U.S. government.</summary>
+    <published>2026-11-23T14:21:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3191185</id>
+    <title>Sierra doubles valuation to $30B within six months as demand for AI in CX takes off</title>
+    <updated>2026-11-23T20:44:20.509458+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/"/>
+    <summary>Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round.</summary>
+    <published>2026-11-23T14:43:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3191257</id>
+    <title>Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing</title>
+    <updated>2026-11-23T20:44:20.509387+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/"/>
+    <summary>The president cited the U.S. attorney general in defending Huang's return, while urging Nvidia to continue its export-control investigation.</summary>
+    <published>2026-11-23T15:04:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3191291</id>
+    <title>Dutch privacy authority urges consumers not to buy ‘pervert glasses’</title>
+    <updated>2026-11-23T20:44:20.509314+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/23/dutch-privacy-authority-urges-consumers-not-to-buy-pervert-glasses/"/>
+    <summary>The Netherlands' data protection agency said smart wearables violate people's privacy, get information wrong, and can result in unsafe situations.</summary>
+    <published>2026-11-23T15:29:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3191323</id>
+    <title>CrowdStrike to acquire Zscaler for $44 billion</title>
+    <updated>2026-11-23T20:44:20.509241+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/"/>
+    <summary>The cybersecurity giant said that the deal to buy Zscaler, which provides zero-trust products to large enterprises, will better equip their customers to use AI agents.</summary>
+    <published>2026-11-23T16:20:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3191332</id>
+    <title>Trump reportedly called into Nvidia board meeting to advocate for Huang’s return</title>
+    <updated>2026-11-23T20:44:20.509171+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/"/>
+    <summary>"I spoke to them, let me put it that way … And I convinced them," the president told CNBC.</summary>
+    <published>2026-11-23T16:39:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3191267</id>
+    <title>Jensen Huang isn’t out of the woods yet</title>
+    <updated>2026-11-23T20:44:20.509097+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/"/>
+    <summary>Tech leaders should be clear-eyed about all the problems likely to come with Huang's reinstatement.</summary>
+    <published>2026-11-23T16:57:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3191322</id>
+    <title>Meta throws out its net-zero goal — its competitors should be furious</title>
+    <updated>2026-11-23T20:44:20.509025+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/23/meta-throws-out-its-net-zero-goal-its-competitors-should-be-furious/"/>
+    <summary>Meta walked back its 2030 net-zero goal in its 2026 sustainability report, a decision that could send ripples throughout the tech industry.</summary>
+    <published>2026-11-23T17:13:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3191371</id>
+    <title>Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips</title>
+    <updated>2026-11-23T20:44:20.508951+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/"/>
+    <summary>Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.</summary>
+    <published>2026-11-23T17:14:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3191435</id>
+    <title>Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO</title>
+    <updated>2026-11-23T20:44:20.508878+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/"/>
+    <summary>The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.</summary>
+    <published>2026-11-23T18:12:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3191431</id>
+    <title>Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses</title>
+    <updated>2026-11-23T20:44:20.508802+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/"/>
+    <summary>By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem</summary>
+    <published>2026-11-23T19:14:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3191457</id>
+    <title>‘Outrageous,’ ‘reckless,’ ‘wow’: Here’s what politicians are saying about Jensen Huang’s return to Nvidia</title>
+    <updated>2026-11-23T20:44:20.508720+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/"/>
+    <summary>Politicians on both sides of the aisle seem angry, agitated, and nonplussed by the return of Jensen Huang to Nvidia leadership less than two weeks after his ousting.</summary>
+    <published>2026-11-23T19:31:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3191548</id>
+    <title>Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ</title>
+    <updated>2026-11-23T20:44:20.508587+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/"/>
+    <summary>"I'm going to be a better CEO the second time around," Huang told employees.</summary>
+    <published>2026-11-23T20:38:53+00:00</published>
   </entry>
 </feed>

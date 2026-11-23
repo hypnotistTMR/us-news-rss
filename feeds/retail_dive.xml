@@ -2,79 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:retail_dive</id>
   <title>Retail Dive</title>
-  <updated>2026-11-23T08:42:31.272105+00:00</updated>
+  <updated>2026-11-23T20:44:20.895892+00:00</updated>
   <link href="file:///feeds/retail_dive.xml" rel="self"/>
   <link href="https://www.retaildive.com/feeds/news/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: retail / Mode: rss</subtitle>
   <entry>
-    <id>https://www.retaildive.com/news/tractor-supply-uber-same-day-delivery/874748/</id>
-    <title>Tractor Supply boosts same-day delivery options</title>
-    <updated>2026-11-23T08:42:31.272949+00:00</updated>
-    <link href="https://www.retaildive.com/news/tractor-supply-uber-same-day-delivery/874748/"/>
-    <summary>The retailer is growing its delivery offerings at the same time Amazon is expanding its rural delivery network.</summary>
-    <published>2026-11-19T10:55:00-05:00</published>
-  </entry>
-  <entry>
-    <id>https://www.retaildive.com/news/instagram-creators-add-amazon-affiliate-links-reels-posts/874889/</id>
-    <title>Instagram creators can now add Amazon affiliate links directly to Reels, posts</title>
-    <updated>2026-11-23T08:42:31.272884+00:00</updated>
-    <link href="https://www.retaildive.com/news/instagram-creators-add-amazon-affiliate-links-reels-posts/874889/"/>
-    <summary>Creators can add 30 products per Reel, or 20 per post, and earn commission &amp;mdash; and Instagram won&amp;rsquo;t take a cut.</summary>
-    <published>2026-11-19T11:35:00-05:00</published>
-  </entry>
-  <entry>
-    <id>https://www.retaildive.com/news/bath-body-works-turnaround-q3-consumer-first-formula/875168/</id>
-    <title>Bath &amp; Body Works CEO: ‘We are on track, but far from satisfied’</title>
-    <updated>2026-11-23T08:42:31.272819+00:00</updated>
-    <link href="https://www.retaildive.com/news/bath-body-works-turnaround-q3-consumer-first-formula/875168/"/>
-    <summary>The retailer hit the one-year mark with its Consumer First Formula strategy and has a goal of returning the business to sustainable growth in 2027.</summary>
-    <published>2026-11-19T11:51:00-05:00</published>
-  </entry>
-  <entry>
-    <id>https://www.retaildive.com/news/the-backroom-podcast-department-stores-holiday-season/875199/</id>
-    <title>The Backroom: How department stores are shaping up this holiday</title>
-    <updated>2026-11-23T08:42:31.272753+00:00</updated>
-    <link href="https://www.retaildive.com/news/the-backroom-podcast-department-stores-holiday-season/875199/"/>
-    <summary>The team looks at the past, present and future of a retail model that has long been a fixture of the season.</summary>
-    <published>2026-11-19T11:56:00-05:00</published>
-  </entry>
-  <entry>
-    <id>https://www.retaildive.com/news/mall-of-america-debuts-ai-concierge-mallie/875089/</id>
-    <title>Mall of America debuts AI-backed concierge, Mallie</title>
-    <updated>2026-11-23T08:42:31.272688+00:00</updated>
-    <link href="https://www.retaildive.com/news/mall-of-america-debuts-ai-concierge-mallie/875089/"/>
-    <summary>The digital assistant is designed to help shoppers plan and personalize visits to North America&amp;rsquo;s largest shopping and entertainment complex.&amp;nbsp;</summary>
-    <published>2026-11-19T12:33:00-05:00</published>
-  </entry>
-  <entry>
-    <id>https://www.retaildive.com/news/nyc-surveillance-pricing-ban-fabfitfun-walmart/875277/</id>
-    <title>The Weekly Closeout: NYC bans surveillance pricing, FabFitFun lands in Walmart</title>
-    <updated>2026-11-23T08:42:31.272620+00:00</updated>
-    <link href="https://www.retaildive.com/news/nyc-surveillance-pricing-ban-fabfitfun-walmart/875277/"/>
-    <summary>The ban prevents companies from using personal data to tailor prices, while the subscription company is offering a beauty box in 3,000 of the mass merchant&amp;rsquo;s stores.</summary>
-    <published>2026-11-20T10:35:00-05:00</published>
-  </entry>
-  <entry>
-    <id>https://www.retaildive.com/news/vuori-exec-ceo-athleta-sales-declines-q3-earnings/875279/</id>
-    <title>Vuori exec to lead struggling Athleta</title>
-    <updated>2026-11-23T08:42:31.272552+00:00</updated>
-    <link href="https://www.retaildive.com/news/vuori-exec-ceo-athleta-sales-declines-q3-earnings/875279/"/>
-    <summary>Ashley Kechter, who previously also had stints at Fabletics and Gap Inc., takes on a brand that just posted yet another quarter of double-digit declines.</summary>
-    <published>2026-11-20T11:42:00-05:00</published>
-  </entry>
-  <entry>
-    <id>https://www.retaildive.com/news/thredup-tiktok-shop-livestream-shopping/875247/</id>
-    <title>ThredUp leans into livestream shopping with TikTok Shop</title>
-    <updated>2026-11-23T08:42:31.272480+00:00</updated>
-    <link href="https://www.retaildive.com/news/thredup-tiktok-shop-livestream-shopping/875247/"/>
-    <summary>After early success on Whatnot, the resale marketplace is expanding its livestream efforts with a launch on TikTok Shop.</summary>
-    <published>2026-11-20T12:16:00-05:00</published>
-  </entry>
-  <entry>
     <id>https://www.retaildive.com/news/old-navy-recovery-gap-shines-q3-earnings-warm-weather/875291/</id>
     <title>Warm weather thwarts Old Navy recovery, as Gap continues to shine</title>
-    <updated>2026-11-23T08:42:31.272401+00:00</updated>
+    <updated>2026-11-23T20:44:20.896839+00:00</updated>
     <link href="https://www.retaildive.com/news/old-navy-recovery-gap-shines-q3-earnings-warm-weather/875291/"/>
     <summary>As the Gap Inc.&amp;rsquo;s value brand falters, its namesake has risen from a years-long slump to notch its 12th straight quarter of comparable sales growth.</summary>
     <published>2026-11-20T12:28:00-05:00</published>
@@ -82,9 +18,73 @@
   <entry>
     <id>https://www.retaildive.com/news/container-store-neighborhood-intelligence-cybersecurity-incident/875342/</id>
     <title>The Container Store is back online after cybersecurity incident</title>
-    <updated>2026-11-23T08:42:31.272307+00:00</updated>
+    <updated>2026-11-23T20:44:20.896767+00:00</updated>
     <link href="https://www.retaildive.com/news/container-store-neighborhood-intelligence-cybersecurity-incident/875342/"/>
     <summary>The incident has not impacted the security of customer financial data, according to the company.</summary>
     <published>2026-11-20T12:41:00-05:00</published>
+  </entry>
+  <entry>
+    <id>https://www.retaildive.com/spons/retails-fastest-ai-return-right-now-sits-behind-the-storefront/875359/</id>
+    <title>Retail’s fastest AI return right now sits behind the storefront</title>
+    <updated>2026-11-23T20:44:20.896678+00:00</updated>
+    <link href="https://www.retaildive.com/spons/retails-fastest-ai-return-right-now-sits-behind-the-storefront/875359/"/>
+    <summary>Shopper-facing AI gets the headlines. The faster return comes from fixing what sits underneath.</summary>
+    <published>2026-11-23T05:00:00-05:00</published>
+  </entry>
+  <entry>
+    <id>https://www.retaildive.com/spons/why-retailers-prefer-real-human-expertise-over-automated-payment-support/875272/</id>
+    <title>Why retailers prefer real human expertise over automated payment support</title>
+    <updated>2026-11-23T20:44:20.896577+00:00</updated>
+    <link href="https://www.retaildive.com/spons/why-retailers-prefer-real-human-expertise-over-automated-payment-support/875272/"/>
+    <summary>When payment issues hit during peak season, automation isn&amp;rsquo;t enough.</summary>
+    <published>2026-11-23T05:00:00-05:00</published>
+  </entry>
+  <entry>
+    <id>https://www.retaildive.com/news/home-depot-logistics-pro-business/875396/</id>
+    <title>How Home Depot built the missing logistics piece for its Pro business</title>
+    <updated>2026-11-23T20:44:20.896504+00:00</updated>
+    <link href="https://www.retaildive.com/news/home-depot-logistics-pro-business/875396/"/>
+    <summary>Through new flatbed distribution centers, acquisitions and technology, the home improvement retailer has enhanced its last-mile delivery capabilities to better serve contractor customers.</summary>
+    <published>2026-11-23T10:03:00-05:00</published>
+  </entry>
+  <entry>
+    <id>https://www.retaildive.com/news/davids-bridal-tests-dress-rental-something-borrowed/875262/</id>
+    <title>David’s Bridal tests dress rental</title>
+    <updated>2026-11-23T20:44:20.896430+00:00</updated>
+    <link href="https://www.retaildive.com/news/davids-bridal-tests-dress-rental-something-borrowed/875262/"/>
+    <summary>The retailer&amp;rsquo;s Something Borrowed program is being piloted at 11 stores in Pennsylvania.</summary>
+    <published>2026-11-23T10:37:00-05:00</published>
+  </entry>
+  <entry>
+    <id>https://www.retaildive.com/news/backcountry-acquires-christy-sports-ski-retailer/875323/</id>
+    <title>Backcountry acquires winter sports retailer Christy Sports</title>
+    <updated>2026-11-23T20:44:20.896355+00:00</updated>
+    <link href="https://www.retaildive.com/news/backcountry-acquires-christy-sports-ski-retailer/875323/"/>
+    <summary>The deal creates a combined retail footprint of more than 60 locations and expands owner CSC Generation&amp;rsquo;s brand portfolio with a large ski and snowboard rental network.</summary>
+    <published>2026-11-23T10:44:00-05:00</published>
+  </entry>
+  <entry>
+    <id>https://www.retaildive.com/news/amazon-enlists-customers-in-fight-against-nyc-delivery-protection-act/875451/</id>
+    <title>Amazon enlists customers in fight against NYC delivery worker bill</title>
+    <updated>2026-11-23T20:44:20.896280+00:00</updated>
+    <link href="https://www.retaildive.com/news/amazon-enlists-customers-in-fight-against-nyc-delivery-protection-act/875451/"/>
+    <summary>The e-commerce giant released a call to action for city customers to speak out against The Delivery Protection Act, or face increased order costs of up to $5.&amp;nbsp;</summary>
+    <published>2026-11-23T11:33:00-05:00</published>
+  </entry>
+  <entry>
+    <id>https://www.retaildive.com/news/dollar-general-battles-states-ftc-pricing-practices/875454/</id>
+    <title>Majority of states now battling Dollar General over pricing practices</title>
+    <updated>2026-11-23T20:44:20.896198+00:00</updated>
+    <link href="https://www.retaildive.com/news/dollar-general-battles-states-ftc-pricing-practices/875454/"/>
+    <summary>Ten states joined the Federal Trade Commission and 20 other states in a complaint filed last month alleging deceptive pricing.</summary>
+    <published>2026-11-23T11:42:00-05:00</published>
+  </entry>
+  <entry>
+    <id>https://www.retaildive.com/news/black-friday-cyber-monday-shopping-projected-to-slip/875473/</id>
+    <title>Black Friday, Cyber Monday shopping projected to slip</title>
+    <updated>2026-11-23T20:44:20.896102+00:00</updated>
+    <link href="https://www.retaildive.com/news/black-friday-cyber-monday-shopping-projected-to-slip/875473/"/>
+    <summary>Shoppers will scoop up deals during Thanksgiving weekend, but extended sales events have enticed consumers to start holiday shopping early, according to the National Retail Federation.&amp;nbsp;</summary>
+    <published>2026-11-23T15:39:00-05:00</published>
   </entry>
 </feed>
