@@ -2,249 +2,249 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:qsr_magazine</id>
   <title>QSR Magazine</title>
-  <updated>2026-11-24T05:04:41.930628+00:00</updated>
+  <updated>2026-11-24T16:04:01.463653+00:00</updated>
   <link href="file:///feeds/qsr_magazine.xml" rel="self"/>
   <link href="https://www.qsrmagazine.com/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: food / Mode: scrape</subtitle>
   <entry>
-    <id>https://www.qsrmagazine.com/news/the-salty-donut-names-maria-rivera-ceo/</id>
-    <title>The Salty Donut Names Maria Rivera CEO</title>
-    <updated>2026-11-24T05:04:41.930763+00:00</updated>
-    <link href="https://www.qsrmagazine.com/news/the-salty-donut-names-maria-rivera-ceo/"/>
-    <summary>QSR Magazine</summary>
-    <published>2026-11-24T05:04:41.930762+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.qsrmagazine.com/news/teriyaki-madness-names-amy-burhorn-cfo/</id>
     <title>Teriyaki Madness Names Amy Burhorn CFO</title>
-    <updated>2026-11-24T05:04:41.930758+00:00</updated>
+    <updated>2026-11-24T16:04:01.463879+00:00</updated>
     <link href="https://www.qsrmagazine.com/news/teriyaki-madness-names-amy-burhorn-cfo/"/>
     <summary>QSR Magazine</summary>
-    <published>2026-11-24T05:04:41.930757+00:00</published>
+    <published>2026-11-24T16:04:01.463878+00:00</published>
   </entry>
   <entry>
     <id>https://www.qsrmagazine.com/story/how-one-young-tcby-franchisee-is-building-a-business-around-community/</id>
     <title>How One Young TCBY Franchisee is Building a Business Around Community</title>
-    <updated>2026-11-24T05:04:41.930754+00:00</updated>
+    <updated>2026-11-24T16:04:01.463874+00:00</updated>
     <link href="https://www.qsrmagazine.com/story/how-one-young-tcby-franchisee-is-building-a-business-around-community/"/>
     <summary>QSR Magazine</summary>
-    <published>2026-11-24T05:04:41.930753+00:00</published>
+    <published>2026-11-24T16:04:01.463873+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.qsrmagazine.com/news/wendys-names-nicole-zube-chief-people-officer/</id>
+    <title>Wendy’s Names Nicole Zube Chief People Officer</title>
+    <updated>2026-11-24T16:04:01.463869+00:00</updated>
+    <link href="https://www.qsrmagazine.com/news/wendys-names-nicole-zube-chief-people-officer/"/>
+    <summary>QSR Magazine</summary>
+    <published>2026-11-24T16:04:01.463868+00:00</published>
   </entry>
   <entry>
     <id>https://www.qsrmagazine.com/women-in-restaurant-leadership/</id>
     <title>More women in restaurant leadership</title>
-    <updated>2026-11-24T05:04:41.930749+00:00</updated>
+    <updated>2026-11-24T16:04:01.463864+00:00</updated>
     <link href="https://www.qsrmagazine.com/women-in-restaurant-leadership/"/>
     <summary>QSR Magazine</summary>
-    <published>2026-11-24T05:04:41.930748+00:00</published>
+    <published>2026-11-24T16:04:01.463863+00:00</published>
   </entry>
   <entry>
     <id>https://www.qsrmagazine.com/chains/moes-southwest-grill/</id>
     <title>Moe's Southwest Grill</title>
-    <updated>2026-11-24T05:04:41.930744+00:00</updated>
+    <updated>2026-11-24T16:04:01.463859+00:00</updated>
     <link href="https://www.qsrmagazine.com/chains/moes-southwest-grill/"/>
     <summary>QSR Magazine</summary>
-    <published>2026-11-24T05:04:41.930743+00:00</published>
+    <published>2026-11-24T16:04:01.463858+00:00</published>
   </entry>
   <entry>
     <id>https://www.qsrmagazine.com/chains/tropical-smoothie-cafe/</id>
     <title>Tropical Smoothie Cafe</title>
-    <updated>2026-11-24T05:04:41.930739+00:00</updated>
+    <updated>2026-11-24T16:04:01.463854+00:00</updated>
     <link href="https://www.qsrmagazine.com/chains/tropical-smoothie-cafe/"/>
     <summary>QSR Magazine</summary>
-    <published>2026-11-24T05:04:41.930738+00:00</published>
+    <published>2026-11-24T16:04:01.463852+00:00</published>
   </entry>
   <entry>
     <id>https://www.qsrmagazine.com/chains/kfc/</id>
     <title>Kentucky Fried Chicken</title>
-    <updated>2026-11-24T05:04:41.930734+00:00</updated>
+    <updated>2026-11-24T16:04:01.463848+00:00</updated>
     <link href="https://www.qsrmagazine.com/chains/kfc/"/>
     <summary>QSR Magazine</summary>
-    <published>2026-11-24T05:04:41.930734+00:00</published>
+    <published>2026-11-24T16:04:01.463847+00:00</published>
   </entry>
   <entry>
     <id>https://www.qsrmagazine.com/sponsored_content/turning-drink-trends-into-repeat-visits-instead-of-drive-thru-delays/</id>
     <title>Turning Drink Trends Into Repeat Visits Instead of Drive-Thru Delays</title>
-    <updated>2026-11-24T05:04:41.930730+00:00</updated>
+    <updated>2026-11-24T16:04:01.463843+00:00</updated>
     <link href="https://www.qsrmagazine.com/sponsored_content/turning-drink-trends-into-repeat-visits-instead-of-drive-thru-delays/"/>
     <summary>QSR Magazine</summary>
-    <published>2026-11-24T05:04:41.930729+00:00</published>
+    <published>2026-11-24T16:04:01.463842+00:00</published>
   </entry>
   <entry>
     <id>https://www.qsrmagazine.com/sponsored_content/how-port-of-subs-is-turning-veteran-ownership-into-a-growth-strategy/</id>
     <title>Why Port of Subs Is Betting on Veterans to Drive Regional Growth</title>
-    <updated>2026-11-24T05:04:41.930726+00:00</updated>
+    <updated>2026-11-24T16:04:01.463838+00:00</updated>
     <link href="https://www.qsrmagazine.com/sponsored_content/how-port-of-subs-is-turning-veteran-ownership-into-a-growth-strategy/"/>
     <summary>QSR Magazine</summary>
-    <published>2026-11-24T05:04:41.930725+00:00</published>
+    <published>2026-11-24T16:04:01.463837+00:00</published>
   </entry>
   <entry>
     <id>https://www.qsrmagazine.com/sponsored_content/how-ai-dashboards-help-operators-catch-margin-problems-sooner/</id>
     <title>How AI Dashboards Help Operators Catch Margin Problems Sooner</title>
-    <updated>2026-11-24T05:04:41.930720+00:00</updated>
+    <updated>2026-11-24T16:04:01.463821+00:00</updated>
     <link href="https://www.qsrmagazine.com/sponsored_content/how-ai-dashboards-help-operators-catch-margin-problems-sooner/"/>
     <summary>QSR Magazine</summary>
-    <published>2026-11-24T05:04:41.930720+00:00</published>
+    <published>2026-11-24T16:04:01.463820+00:00</published>
   </entry>
   <entry>
     <id>https://www.qsrmagazine.com/sponsored_content/how-a-burger-king-franchisee-eliminated-oil-risks-across-33-restaurants/</id>
     <title>How a Burger King Franchisee Eliminated Oil Risks Across 33 Restaurants</title>
-    <updated>2026-11-24T05:04:41.930716+00:00</updated>
+    <updated>2026-11-24T16:04:01.463814+00:00</updated>
     <link href="https://www.qsrmagazine.com/sponsored_content/how-a-burger-king-franchisee-eliminated-oil-risks-across-33-restaurants/"/>
     <summary>QSR Magazine</summary>
-    <published>2026-11-24T05:04:41.930715+00:00</published>
+    <published>2026-11-24T16:04:01.463812+00:00</published>
   </entry>
   <entry>
     <id>https://www.qsrmagazine.com/sponsored_content/three-growth-opportunities-multi-unit-operators-should-be-watching/</id>
     <title>Three Growth Opportunities Multi-Unit Operators Should Be Watching</title>
-    <updated>2026-11-24T05:04:41.930711+00:00</updated>
+    <updated>2026-11-24T16:04:01.463806+00:00</updated>
     <link href="https://www.qsrmagazine.com/sponsored_content/three-growth-opportunities-multi-unit-operators-should-be-watching/"/>
     <summary>QSR Magazine</summary>
-    <published>2026-11-24T05:04:41.930711+00:00</published>
+    <published>2026-11-24T16:04:01.463805+00:00</published>
   </entry>
   <entry>
     <id>https://www.qsrmagazine.com/sponsored_content/why-this-317-unit-chain-puts-franchisee-fit-before-growth/</id>
     <title>The Overlooked Franchise Opportunity Beyond Burgers and Chicken</title>
-    <updated>2026-11-24T05:04:41.930706+00:00</updated>
+    <updated>2026-11-24T16:04:01.463798+00:00</updated>
     <link href="https://www.qsrmagazine.com/sponsored_content/why-this-317-unit-chain-puts-franchisee-fit-before-growth/"/>
     <summary>QSR Magazine</summary>
-    <published>2026-11-24T05:04:41.930705+00:00</published>
+    <published>2026-11-24T16:04:01.463796+00:00</published>
   </entry>
   <entry>
     <id>https://www.qsrmagazine.com/sponsored_content/how-the-right-architect-can-make-restaurant-growth-easier/</id>
     <title>How the Right Architect Can Make Restaurant Growth Easier</title>
-    <updated>2026-11-24T05:04:41.930701+00:00</updated>
+    <updated>2026-11-24T16:04:01.463790+00:00</updated>
     <link href="https://www.qsrmagazine.com/sponsored_content/how-the-right-architect-can-make-restaurant-growth-easier/"/>
     <summary>QSR Magazine</summary>
-    <published>2026-11-24T05:04:41.930701+00:00</published>
+    <published>2026-11-24T16:04:01.463788+00:00</published>
   </entry>
   <entry>
     <id>https://www.qsrmagazine.com/sponsored_content/beverage-options-built-for-off-premises-service/</id>
     <title>Beverage Options Built for Off-Premises Service</title>
-    <updated>2026-11-24T05:04:41.930697+00:00</updated>
+    <updated>2026-11-24T16:04:01.463782+00:00</updated>
     <link href="https://www.qsrmagazine.com/sponsored_content/beverage-options-built-for-off-premises-service/"/>
     <summary>QSR Magazine</summary>
-    <published>2026-11-24T05:04:41.930695+00:00</published>
+    <published>2026-11-24T16:04:01.463781+00:00</published>
   </entry>
   <entry>
     <id>https://www.qsrmagazine.com/category/sponsored_content/</id>
     <title>More Sponsored Content</title>
-    <updated>2026-11-24T05:04:41.930692+00:00</updated>
+    <updated>2026-11-24T16:04:01.463775+00:00</updated>
     <link href="https://www.qsrmagazine.com/category/sponsored_content/"/>
     <summary>QSR Magazine</summary>
-    <published>2026-11-24T05:04:41.930691+00:00</published>
+    <published>2026-11-24T16:04:01.463774+00:00</published>
   </entry>
   <entry>
     <id>https://www.qsrmagazine.com/sponsored_content/how-dairy-is-fueling-the-next-wave-of-beverage-innovation/</id>
     <title>How Dairy Is Fueling the Next Wave of Beverage Innovation</title>
-    <updated>2026-11-24T05:04:41.930688+00:00</updated>
+    <updated>2026-11-24T16:04:01.463768+00:00</updated>
     <link href="https://www.qsrmagazine.com/sponsored_content/how-dairy-is-fueling-the-next-wave-of-beverage-innovation/"/>
     <summary>QSR Magazine</summary>
-    <published>2026-11-24T05:04:41.930687+00:00</published>
+    <published>2026-11-24T16:04:01.463766+00:00</published>
   </entry>
   <entry>
     <id>https://www.qsrmagazine.com/sponsored_content/how-smalls-sliders-is-building-its-next-era-of-growth/</id>
     <title>How Smalls Sliders is Building Its Next Era of Growth</title>
-    <updated>2026-11-24T05:04:41.930685+00:00</updated>
+    <updated>2026-11-24T16:04:01.463761+00:00</updated>
     <link href="https://www.qsrmagazine.com/sponsored_content/how-smalls-sliders-is-building-its-next-era-of-growth/"/>
     <summary>QSR Magazine</summary>
-    <published>2026-11-24T05:04:41.930684+00:00</published>
+    <published>2026-11-24T16:04:01.463760+00:00</published>
   </entry>
   <entry>
     <id>https://www.qsrmagazine.com/sponsored_content/how-freddys-is-rethinking-restaurant-development/</id>
     <title>How Freddy’s Is Rethinking Restaurant Development</title>
-    <updated>2026-11-24T05:04:41.930681+00:00</updated>
+    <updated>2026-11-24T16:04:01.463754+00:00</updated>
     <link href="https://www.qsrmagazine.com/sponsored_content/how-freddys-is-rethinking-restaurant-development/"/>
     <summary>QSR Magazine</summary>
-    <published>2026-11-24T05:04:41.930681+00:00</published>
+    <published>2026-11-24T16:04:01.463752+00:00</published>
   </entry>
   <entry>
     <id>https://www.qsrmagazine.com/sponsored_content/catch-food-cost-problems-before-count-day/</id>
     <title>Catch Food Cost Problems Before Count Day</title>
-    <updated>2026-11-24T05:04:41.930678+00:00</updated>
+    <updated>2026-11-24T16:04:01.463747+00:00</updated>
     <link href="https://www.qsrmagazine.com/sponsored_content/catch-food-cost-problems-before-count-day/"/>
     <summary>QSR Magazine</summary>
-    <published>2026-11-24T05:04:41.930677+00:00</published>
+    <published>2026-11-24T16:04:01.463746+00:00</published>
   </entry>
   <entry>
     <id>https://www.qsrmagazine.com/digital-editions/</id>
     <title>Browse the most current issue</title>
-    <updated>2026-11-24T05:04:41.930674+00:00</updated>
+    <updated>2026-11-24T16:04:01.463741+00:00</updated>
     <link href="https://www.qsrmagazine.com/digital-editions/"/>
     <summary>QSR Magazine</summary>
-    <published>2026-11-24T05:04:41.930674+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.qsrmagazine.com/story/software-companies-guarantee-performance-why-dont-advertising-agencies/</id>
-    <title>Software Companies Guarantee Performance. Why Don’t Advertising Agencies?</title>
-    <updated>2026-11-24T05:04:41.930671+00:00</updated>
-    <link href="https://www.qsrmagazine.com/story/software-companies-guarantee-performance-why-dont-advertising-agencies/"/>
-    <summary>QSR Magazine</summary>
-    <published>2026-11-24T05:04:41.930670+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.qsrmagazine.com/story/how-naked-farmer-is-growing-without-giving-up-ownership/</id>
-    <title>How Naked Farmer is Growing Without Giving Up Ownership</title>
-    <updated>2026-11-24T05:04:41.930667+00:00</updated>
-    <link href="https://www.qsrmagazine.com/story/how-naked-farmer-is-growing-without-giving-up-ownership/"/>
-    <summary>QSR Magazine</summary>
-    <published>2026-11-24T05:04:41.930667+00:00</published>
+    <published>2026-11-24T16:04:01.463739+00:00</published>
   </entry>
   <entry>
     <id>https://www.qsrmagazine.com/story/bad-ass-coffee-of-hawaii-and-the-potential-of-connected-data/</id>
     <title>Bad Ass Coffee of Hawaii and the Potential of ‘Connected Data’</title>
-    <updated>2026-11-24T05:04:41.930664+00:00</updated>
+    <updated>2026-11-24T16:04:01.463735+00:00</updated>
     <link href="https://www.qsrmagazine.com/story/bad-ass-coffee-of-hawaii-and-the-potential-of-connected-data/"/>
     <summary>QSR Magazine</summary>
-    <published>2026-11-24T05:04:41.930663+00:00</published>
+    <published>2026-11-24T16:04:01.463733+00:00</published>
   </entry>
   <entry>
     <id>https://www.qsrmagazine.com/story/6-questions-with-checkers-rallys-chief-development-officer-peter-busse/</id>
     <title>6 Questions with Checkers &amp; Rally’s Chief Development Officer Peter Busse</title>
-    <updated>2026-11-24T05:04:41.930661+00:00</updated>
+    <updated>2026-11-24T16:04:01.463728+00:00</updated>
     <link href="https://www.qsrmagazine.com/story/6-questions-with-checkers-rallys-chief-development-officer-peter-busse/"/>
     <summary>QSR Magazine</summary>
-    <published>2026-11-24T05:04:41.930660+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.qsrmagazine.com/news/gordon-hospitality-group-brings-together-three-leading-hospitality-brands/</id>
-    <title>Gordon Hospitality Group Brings Together Three Leading Hospitality Brands</title>
-    <updated>2026-11-24T05:04:41.930657+00:00</updated>
-    <link href="https://www.qsrmagazine.com/news/gordon-hospitality-group-brings-together-three-leading-hospitality-brands/"/>
-    <summary>QSR Magazine</summary>
-    <published>2026-11-24T05:04:41.930656+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.qsrmagazine.com/food/burgers/wendys-launches-its-first-merch-store/</id>
-    <title>Wendy’s Launches its First Merch Store</title>
-    <updated>2026-11-24T05:04:41.930654+00:00</updated>
-    <link href="https://www.qsrmagazine.com/food/burgers/wendys-launches-its-first-merch-store/"/>
-    <summary>QSR Magazine</summary>
-    <published>2026-11-24T05:04:41.930653+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.qsrmagazine.com/news/bahama-bucks-hosting-annual-free-sno-day-on-december-1/</id>
-    <title>Bahama Buck’s Hosting Annual Free Sno Day on December 1</title>
-    <updated>2026-11-24T05:04:41.930650+00:00</updated>
-    <link href="https://www.qsrmagazine.com/news/bahama-bucks-hosting-annual-free-sno-day-on-december-1/"/>
-    <summary>QSR Magazine</summary>
-    <published>2026-11-24T05:04:41.930649+00:00</published>
+    <published>2026-11-24T16:04:01.463727+00:00</published>
   </entry>
   <entry>
     <id>https://www.qsrmagazine.com/story/wendys-marketing-chief-tariq-hassan-to-keynote-restaurant-retail-marketing-connect-event/</id>
     <title>Wendy’s Marketing Chief Tariq Hassan to Keynote Restaurant &amp; Retail Marketing Connect Event</title>
-    <updated>2026-11-24T05:04:41.930645+00:00</updated>
+    <updated>2026-11-24T16:04:01.463719+00:00</updated>
     <link href="https://www.qsrmagazine.com/story/wendys-marketing-chief-tariq-hassan-to-keynote-restaurant-retail-marketing-connect-event/"/>
     <summary>QSR Magazine</summary>
-    <published>2026-11-24T05:04:41.930644+00:00</published>
+    <published>2026-11-24T16:04:01.463715+00:00</published>
   </entry>
   <entry>
     <id>https://www.qsrmagazine.com/growth/marketing-promotions/</id>
     <title>Marketing &amp; Promotions</title>
-    <updated>2026-11-24T05:04:41.930634+00:00</updated>
+    <updated>2026-11-24T16:04:01.463710+00:00</updated>
     <link href="https://www.qsrmagazine.com/growth/marketing-promotions/"/>
     <summary>QSR Magazine</summary>
-    <published>2026-11-24T05:04:41.930631+00:00</published>
+    <published>2026-11-24T16:04:01.463709+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.qsrmagazine.com/story/wonder-reportedly-shopping-grubhub-to-potential-buyers/</id>
+    <title>Wonder Reportedly Shopping Grubhub to Potential Buyers</title>
+    <updated>2026-11-24T16:04:01.463705+00:00</updated>
+    <link href="https://www.qsrmagazine.com/story/wonder-reportedly-shopping-grubhub-to-potential-buyers/"/>
+    <summary>QSR Magazine</summary>
+    <published>2026-11-24T16:04:01.463704+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.qsrmagazine.com/news/koibito-poke-selects-square-as-technology-partner-to-support-national-expansion/</id>
+    <title>Koibito Poké Selects Square as Technology Partner to Support National Expansion</title>
+    <updated>2026-11-24T16:04:01.463694+00:00</updated>
+    <link href="https://www.qsrmagazine.com/news/koibito-poke-selects-square-as-technology-partner-to-support-national-expansion/"/>
+    <summary>QSR Magazine</summary>
+    <published>2026-11-24T16:04:01.463692+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.qsrmagazine.com/news/survey-american-consumers-are-changing-how-they-celebrate/</id>
+    <title>Survey: American Consumers are Changing How They Celebrate</title>
+    <updated>2026-11-24T16:04:01.463687+00:00</updated>
+    <link href="https://www.qsrmagazine.com/news/survey-american-consumers-are-changing-how-they-celebrate/"/>
+    <summary>QSR Magazine</summary>
+    <published>2026-11-24T16:04:01.463686+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.qsrmagazine.com/news/detroits-chicken-shack-gears-up-for-growth/</id>
+    <title>Detroit’s Chicken Shack Gears Up for Growth</title>
+    <updated>2026-11-24T16:04:01.463679+00:00</updated>
+    <link href="https://www.qsrmagazine.com/news/detroits-chicken-shack-gears-up-for-growth/"/>
+    <summary>QSR Magazine</summary>
+    <published>2026-11-24T16:04:01.463677+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.qsrmagazine.com/story/getting-the-air-right-why-a-test-balance-matters-for-the-restaurant-sector/</id>
+    <title>Getting the Air Right: Why a Test &amp; Balance Matters for the Restaurant Sector</title>
+    <updated>2026-11-24T16:04:01.463663+00:00</updated>
+    <link href="https://www.qsrmagazine.com/story/getting-the-air-right-why-a-test-balance-matters-for-the-restaurant-sector/"/>
+    <summary>QSR Magazine</summary>
+    <published>2026-11-24T16:04:01.463658+00:00</published>
   </entry>
 </feed>

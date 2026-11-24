@@ -2,31 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:techcrunch_ai</id>
   <title>TechCrunch - AI</title>
-  <updated>2026-11-24T05:04:40.497178+00:00</updated>
+  <updated>2026-11-24T16:04:00.482600+00:00</updated>
   <link href="file:///feeds/techcrunch_ai.xml" rel="self"/>
   <link href="https://techcrunch.com/category/artificial-intelligence/feed/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: tech / Mode: rss</subtitle>
   <entry>
-    <id>https://techcrunch.com/?p=3188069</id>
-    <title>Is selling an AI version of your face to this microdrama startup the future of Hollywood?</title>
-    <updated>2026-11-24T05:04:40.498395+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/"/>
-    <summary>An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.</summary>
-    <published>2026-11-21T16:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3173132</id>
-    <title>Here are the top AI agents that can live in your text messages</title>
-    <updated>2026-11-24T05:04:40.498339+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/"/>
-    <summary>We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.</summary>
-    <published>2026-11-21T17:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://techcrunch.com/?p=3191145</id>
     <title>A tale of two Nvidias</title>
-    <updated>2026-11-24T05:04:40.498273+00:00</updated>
+    <updated>2026-11-24T16:04:00.484172+00:00</updated>
     <link href="https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/"/>
     <summary>We got two very different pictures of Nvidia —  the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.</summary>
     <published>2026-11-21T21:07:42+00:00</published>
@@ -34,7 +18,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3191147</id>
     <title>Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance</title>
-    <updated>2026-11-24T05:04:40.498223+00:00</updated>
+    <updated>2026-11-24T16:04:00.484106+00:00</updated>
     <link href="https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/"/>
     <summary>Signal is limiting users' ability to take screenshots in both its Android and iOS apps.</summary>
     <published>2026-11-21T21:37:10+00:00</published>
@@ -42,7 +26,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3191157</id>
     <title>Why data centers are at the center of the Big Tech backlash</title>
-    <updated>2026-11-24T05:04:40.498173+00:00</updated>
+    <updated>2026-11-24T16:04:00.484039+00:00</updated>
     <link href="https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/"/>
     <summary>Journalist Paris Marx unpacks his new book "Hyperscale."</summary>
     <published>2026-11-22T18:08:43+00:00</published>
@@ -50,7 +34,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3191164</id>
     <title>OpenAI’s chief scientist has thoughts on how to limit AI development</title>
-    <updated>2026-11-24T05:04:40.498122+00:00</updated>
+    <updated>2026-11-24T16:04:00.483972+00:00</updated>
     <link href="https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/"/>
     <summary>To establish a speed limit on AI development, you need to agree on how to measure speed.</summary>
     <published>2026-11-22T21:14:07+00:00</published>
@@ -58,7 +42,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3191173</id>
     <title>How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO</title>
-    <updated>2026-11-24T05:04:40.498071+00:00</updated>
+    <updated>2026-11-24T16:04:00.483905+00:00</updated>
     <link href="https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/"/>
     <summary>Three significant backers share what gave them conviction to bet billions on Anthropic.</summary>
     <published>2026-11-23T01:25:53+00:00</published>
@@ -66,7 +50,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3191219</id>
     <title>Nvidia reverses course and brings Jensen Huang back as CEO</title>
-    <updated>2026-11-24T05:04:40.498020+00:00</updated>
+    <updated>2026-11-24T16:04:00.483836+00:00</updated>
     <link href="https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/"/>
     <summary>The stunning reversal was supported by senior officials in the U.S. government.</summary>
     <published>2026-11-23T14:21:59+00:00</published>
@@ -74,7 +58,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3191185</id>
     <title>Sierra doubles valuation to $30B within six months as demand for AI in CX takes off</title>
-    <updated>2026-11-24T05:04:40.497970+00:00</updated>
+    <updated>2026-11-24T16:04:00.483767+00:00</updated>
     <link href="https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/"/>
     <summary>Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round.</summary>
     <published>2026-11-23T14:43:03+00:00</published>
@@ -82,7 +66,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3191257</id>
     <title>Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing</title>
-    <updated>2026-11-24T05:04:40.497919+00:00</updated>
+    <updated>2026-11-24T16:04:00.483699+00:00</updated>
     <link href="https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/"/>
     <summary>The president cited the U.S. attorney general in defending Huang's return, while urging Nvidia to continue its export-control investigation.</summary>
     <published>2026-11-23T15:04:01+00:00</published>
@@ -90,7 +74,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3191332</id>
     <title>Trump reportedly called into Nvidia board meeting to advocate for Huang’s return</title>
-    <updated>2026-11-24T05:04:40.497863+00:00</updated>
+    <updated>2026-11-24T16:04:00.483622+00:00</updated>
     <link href="https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/"/>
     <summary>"I spoke to them, let me put it that way … And I convinced them," the president told CNBC.</summary>
     <published>2026-11-23T16:39:10+00:00</published>
@@ -98,7 +82,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3191267</id>
     <title>Jensen Huang isn’t out of the woods yet</title>
-    <updated>2026-11-24T05:04:40.497812+00:00</updated>
+    <updated>2026-11-24T16:04:00.483551+00:00</updated>
     <link href="https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/"/>
     <summary>Tech leaders should be clear-eyed about all the problems likely to come with Huang's reinstatement.</summary>
     <published>2026-11-23T16:57:40+00:00</published>
@@ -106,7 +90,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3191371</id>
     <title>Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips</title>
-    <updated>2026-11-24T05:04:40.497760+00:00</updated>
+    <updated>2026-11-24T16:04:00.483454+00:00</updated>
     <link href="https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/"/>
     <summary>Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.</summary>
     <published>2026-11-23T17:14:23+00:00</published>
@@ -114,7 +98,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3191435</id>
     <title>Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO</title>
-    <updated>2026-11-24T05:04:40.497708+00:00</updated>
+    <updated>2026-11-24T16:04:00.483386+00:00</updated>
     <link href="https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/"/>
     <summary>The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.</summary>
     <published>2026-11-23T18:12:22+00:00</published>
@@ -122,7 +106,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3191431</id>
     <title>Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses</title>
-    <updated>2026-11-24T05:04:40.497653+00:00</updated>
+    <updated>2026-11-24T16:04:00.483315+00:00</updated>
     <link href="https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/"/>
     <summary>By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem</summary>
     <published>2026-11-23T19:14:46+00:00</published>
@@ -130,7 +114,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3191548</id>
     <title>Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ</title>
-    <updated>2026-11-24T05:04:40.497593+00:00</updated>
+    <updated>2026-11-24T16:04:00.483247+00:00</updated>
     <link href="https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/"/>
     <summary>"I'm going to be a better CEO the second time around," Huang told employees.</summary>
     <published>2026-11-23T20:38:53+00:00</published>
@@ -138,7 +122,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3191574</id>
     <title>Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist</title>
-    <updated>2026-11-24T05:04:40.497539+00:00</updated>
+    <updated>2026-11-24T16:04:00.483180+00:00</updated>
     <link href="https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/"/>
     <summary>Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.</summary>
     <published>2026-11-23T21:25:42+00:00</published>
@@ -146,7 +130,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3191575</id>
     <title>Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal</title>
-    <updated>2026-11-24T05:04:40.497481+00:00</updated>
+    <updated>2026-11-24T16:04:00.483109+00:00</updated>
     <link href="https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/"/>
     <summary>"The mistake has been corrected," Elon Musk chimed in.</summary>
     <published>2026-11-23T21:47:41+00:00</published>
@@ -154,7 +138,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3191460</id>
     <title>Supertake raises $20M to let AI agents turn your market predictions into stock portfolios</title>
-    <updated>2026-11-24T05:04:40.497406+00:00</updated>
+    <updated>2026-11-24T16:04:00.483036+00:00</updated>
     <link href="https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/"/>
     <summary>Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.</summary>
     <published>2026-11-23T22:02:05+00:00</published>
@@ -162,9 +146,25 @@
   <entry>
     <id>https://techcrunch.com/?p=3191583</id>
     <title>Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes</title>
-    <updated>2026-11-24T05:04:40.497310+00:00</updated>
+    <updated>2026-11-24T16:04:00.482963+00:00</updated>
     <link href="https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"/>
     <summary>As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.</summary>
     <published>2026-11-23T22:05:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3191706</id>
+    <title>Amazon’s Decart acquisition is a bet on using software to narrow the gap with Nvidia in the AI chip race</title>
+    <updated>2026-11-24T16:04:00.482887+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/"/>
+    <summary>Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.</summary>
+    <published>2026-11-24T15:51:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3191752</id>
+    <title>Pinterest will now let parents limit the AI-generated content their teens see</title>
+    <updated>2026-11-24T16:04:00.482793+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/"/>
+    <summary>While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds.</summary>
+    <published>2026-11-24T16:02:37+00:00</published>
   </entry>
 </feed>

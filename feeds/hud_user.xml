@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:hud_user</id>
   <title>HUD User Research Reports (scrape)</title>
-  <updated>2026-11-24T05:04:45.156410+00:00</updated>
+  <updated>2026-11-24T16:04:03.971025+00:00</updated>
   <link href="file:///feeds/hud_user.xml" rel="self"/>
   <link href="https://www.huduser.gov/portal/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -11,204 +11,204 @@
     <id>https://www.huduser.gov/portal/privacy-policy.html</id>
     <title>Privacy
                     Policy</title>
-    <updated>2026-11-24T05:04:45.156530+00:00</updated>
+    <updated>2026-11-24T16:04:03.971234+00:00</updated>
     <link href="https://www.huduser.gov/portal/privacy-policy.html"/>
     <summary>HUD User</summary>
-    <published>2026-11-24T05:04:45.156529+00:00</published>
+    <published>2026-11-24T16:04:03.971232+00:00</published>
   </entry>
   <entry>
     <id>https://www.huduser.gov/portal/about/disclaimer.html</id>
     <title>Disclaimer of Liability and
                     Endorsement</title>
-    <updated>2026-11-24T05:04:45.156525+00:00</updated>
+    <updated>2026-11-24T16:04:03.971226+00:00</updated>
     <link href="https://www.huduser.gov/portal/about/disclaimer.html"/>
     <summary>HUD User</summary>
-    <published>2026-11-24T05:04:45.156524+00:00</published>
+    <published>2026-11-24T16:04:03.971225+00:00</published>
   </entry>
   <entry>
     <id>https://www.huduser.gov/portal/about/secaward.html</id>
     <title>HUD Secretary's Awards</title>
-    <updated>2026-11-24T05:04:45.156520+00:00</updated>
+    <updated>2026-11-24T16:04:03.971217+00:00</updated>
     <link href="https://www.huduser.gov/portal/about/secaward.html"/>
     <summary>HUD User</summary>
-    <published>2026-11-24T05:04:45.156519+00:00</published>
+    <published>2026-11-24T16:04:03.971216+00:00</published>
   </entry>
   <entry>
     <id>https://www.huduser.gov/portal/about/guidelines_and_brochures.html</id>
     <title>PD&amp;R Guidelines &amp;
                     Brochures</title>
-    <updated>2026-11-24T05:04:45.156516+00:00</updated>
+    <updated>2026-11-24T16:04:03.971208+00:00</updated>
     <link href="https://www.huduser.gov/portal/about/guidelines_and_brochures.html"/>
     <summary>HUD User</summary>
-    <published>2026-11-24T05:04:45.156515+00:00</published>
+    <published>2026-11-24T16:04:03.971207+00:00</published>
   </entry>
   <entry>
     <id>https://www.huduser.gov/portal/subscribe/subscribe.html</id>
     <title>Subscribe to Email Alerts</title>
-    <updated>2026-11-24T05:04:45.156512+00:00</updated>
+    <updated>2026-11-24T16:04:03.971198+00:00</updated>
     <link href="https://www.huduser.gov/portal/subscribe/subscribe.html"/>
     <summary>HUD User</summary>
-    <published>2026-11-24T05:04:45.156511+00:00</published>
+    <published>2026-11-24T16:04:03.971197+00:00</published>
   </entry>
   <entry>
     <id>https://www.huduser.gov/portal/rbc/home.html</id>
     <title>Regulatory Barriers Clearinghouse</title>
-    <updated>2026-11-24T05:04:45.156507+00:00</updated>
+    <updated>2026-11-24T16:04:03.971189+00:00</updated>
     <link href="https://www.huduser.gov/portal/rbc/home.html"/>
     <summary>HUD User</summary>
-    <published>2026-11-24T05:04:45.156506+00:00</published>
+    <published>2026-11-24T16:04:03.971188+00:00</published>
   </entry>
   <entry>
     <id>https://www.huduser.gov/portal/hhdr.html</id>
     <title>Housing and Health Data Dashboard</title>
-    <updated>2026-11-24T05:04:45.156502+00:00</updated>
+    <updated>2026-11-24T16:04:03.971179+00:00</updated>
     <link href="https://www.huduser.gov/portal/hhdr.html"/>
     <summary>HUD User</summary>
-    <published>2026-11-24T05:04:45.156501+00:00</published>
+    <published>2026-11-24T16:04:03.971178+00:00</published>
   </entry>
   <entry>
     <id>https://www.huduser.gov/portal/eviction-protection-grant.html</id>
     <title>Eviction Protection Grant Program</title>
-    <updated>2026-11-24T05:04:45.156497+00:00</updated>
+    <updated>2026-11-24T16:04:03.971170+00:00</updated>
     <link href="https://www.huduser.gov/portal/eviction-protection-grant.html"/>
     <summary>HUD User</summary>
-    <published>2026-11-24T05:04:45.156496+00:00</published>
+    <published>2026-11-24T16:04:03.971169+00:00</published>
   </entry>
   <entry>
     <id>https://www.huduser.gov/portal/ihs.html</id>
     <title>Innovative Housing Showcase</title>
-    <updated>2026-11-24T05:04:45.156492+00:00</updated>
+    <updated>2026-11-24T16:04:03.971163+00:00</updated>
     <link href="https://www.huduser.gov/portal/ihs.html"/>
     <summary>HUD User</summary>
-    <published>2026-11-24T05:04:45.156491+00:00</published>
+    <published>2026-11-24T16:04:03.971162+00:00</published>
   </entry>
   <entry>
     <id>https://www.huduser.gov/portal/publications/Improving-the-Quality-Performance-and-Operation-of-Manufactured-Home-HVAC-Systems-Through-Plant-Installation.html</id>
     <title>Improving the Quality, Performance, and Operation of Manufactured Home HVAC Systems Through Plant Installation</title>
-    <updated>2026-11-24T05:04:45.156487+00:00</updated>
+    <updated>2026-11-24T16:04:03.971155+00:00</updated>
     <link href="https://www.huduser.gov/portal/publications/Improving-the-Quality-Performance-and-Operation-of-Manufactured-Home-HVAC-Systems-Through-Plant-Installation.html"/>
     <summary>HUD User</summary>
-    <published>2026-11-24T05:04:45.156486+00:00</published>
+    <published>2026-11-24T16:04:03.971153+00:00</published>
   </entry>
   <entry>
     <id>https://www.huduser.gov/portal/publications/Evaluation-of-the-Rental-Assistance-Demonstration-RAD-Implementation-and-Impact-of-the-Choice-Mobility-Option.html</id>
     <title>Implementation and Impact of the Choice Mobility Option</title>
-    <updated>2026-11-24T05:04:45.156483+00:00</updated>
+    <updated>2026-11-24T16:04:03.971147+00:00</updated>
     <link href="https://www.huduser.gov/portal/publications/Evaluation-of-the-Rental-Assistance-Demonstration-RAD-Implementation-and-Impact-of-the-Choice-Mobility-Option.html"/>
     <summary>HUD User</summary>
-    <published>2026-11-24T05:04:45.156482+00:00</published>
+    <published>2026-11-24T16:04:03.971146+00:00</published>
   </entry>
   <entry>
     <id>https://www.huduser.gov/portal/publications/Evaluation-of-the-Moving-to-Work-Flexibility-Cohort-Year-2-Report.html</id>
     <title>Evaluation of the Moving to Work Flexibility Cohort Year 2 Report</title>
-    <updated>2026-11-24T05:04:45.156479+00:00</updated>
+    <updated>2026-11-24T16:04:03.971140+00:00</updated>
     <link href="https://www.huduser.gov/portal/publications/Evaluation-of-the-Moving-to-Work-Flexibility-Cohort-Year-2-Report.html"/>
     <summary>HUD User</summary>
-    <published>2026-11-24T05:04:45.156479+00:00</published>
+    <published>2026-11-24T16:04:03.971139+00:00</published>
   </entry>
   <entry>
     <id>https://www.huduser.gov/portal/ushmc/hmi-update.html</id>
     <title>National Housing Market Indicators: July 2026</title>
-    <updated>2026-11-24T05:04:45.156476+00:00</updated>
+    <updated>2026-11-24T16:04:03.971132+00:00</updated>
     <link href="https://www.huduser.gov/portal/ushmc/hmi-update.html"/>
     <summary>HUD User</summary>
-    <published>2026-11-24T05:04:45.156475+00:00</published>
+    <published>2026-11-24T16:04:03.971131+00:00</published>
   </entry>
   <entry>
     <id>https://www.huduser.gov/portal/ushmc/chma_archive.html</id>
     <title>Comprehensive Housing Market Analyses</title>
-    <updated>2026-11-24T05:04:45.156472+00:00</updated>
+    <updated>2026-11-24T16:04:03.971125+00:00</updated>
     <link href="https://www.huduser.gov/portal/ushmc/chma_archive.html"/>
     <summary>HUD User</summary>
-    <published>2026-11-24T05:04:45.156471+00:00</published>
+    <published>2026-11-24T16:04:03.971124+00:00</published>
   </entry>
   <entry>
     <id>https://www.huduser.gov/portal/ushmc/profile_archive.html</id>
     <title>Housing Market Profiles</title>
-    <updated>2026-11-24T05:04:45.156467+00:00</updated>
+    <updated>2026-11-24T16:04:03.971119+00:00</updated>
     <link href="https://www.huduser.gov/portal/ushmc/profile_archive.html"/>
     <summary>HUD User</summary>
-    <published>2026-11-24T05:04:45.156466+00:00</published>
+    <published>2026-11-24T16:04:03.971118+00:00</published>
   </entry>
   <entry>
     <id>https://www.huduser.gov/portal/casestudies/study-090826.html</id>
     <title>Miami's Largest Single-Site Housing Project for Low-Income Seniors Helps Revitalize Historic Overtown</title>
-    <updated>2026-11-24T05:04:45.156463+00:00</updated>
+    <updated>2026-11-24T16:04:03.971113+00:00</updated>
     <link href="https://www.huduser.gov/portal/casestudies/study-090826.html"/>
     <summary>HUD User</summary>
-    <published>2026-11-24T05:04:45.156462+00:00</published>
+    <published>2026-11-24T16:04:03.971112+00:00</published>
   </entry>
   <entry>
     <id>https://www.huduser.gov/portal/casestudies/study-100626.html</id>
     <title>Transit-Oriented Development Brings Workforce Housing to University of Maryland Research Hub</title>
-    <updated>2026-11-24T05:04:45.156458+00:00</updated>
+    <updated>2026-11-24T16:04:03.971106+00:00</updated>
     <link href="https://www.huduser.gov/portal/casestudies/study-100626.html"/>
     <summary>HUD User</summary>
-    <published>2026-11-24T05:04:45.156457+00:00</published>
+    <published>2026-11-24T16:04:03.971104+00:00</published>
   </entry>
   <entry>
     <id>https://www.huduser.gov/portal/pdredge/pdr-edge-trending-111226.html</id>
     <title>Highlights of the 2026 HUD Innovative Housing Showcase</title>
-    <updated>2026-11-24T05:04:45.156454+00:00</updated>
+    <updated>2026-11-24T16:04:03.971098+00:00</updated>
     <link href="https://www.huduser.gov/portal/pdredge/pdr-edge-trending-111226.html"/>
     <summary>HUD User</summary>
-    <published>2026-11-24T05:04:45.156453+00:00</published>
+    <published>2026-11-24T16:04:03.971097+00:00</published>
   </entry>
   <entry>
     <id>https://www.huduser.gov/portal/pdredge/pdr-edge-inpractice-111226.html</id>
     <title>Opportunity Zone Funding Supports Workforce Housing in Rural
     Colorado</title>
-    <updated>2026-11-24T05:04:45.156450+00:00</updated>
+    <updated>2026-11-24T16:04:03.971092+00:00</updated>
     <link href="https://www.huduser.gov/portal/pdredge/pdr-edge-inpractice-111226.html"/>
     <summary>HUD User</summary>
-    <published>2026-11-24T05:04:45.156449+00:00</published>
+    <published>2026-11-24T16:04:03.971090+00:00</published>
   </entry>
   <entry>
     <id>https://www.huduser.gov/portal/pdredge/pdr-edge-featd-article-111226.html</id>
     <title>Revitalizing Communities Through Opportunity Zones</title>
-    <updated>2026-11-24T05:04:45.156446+00:00</updated>
+    <updated>2026-11-24T16:04:03.971085+00:00</updated>
     <link href="https://www.huduser.gov/portal/pdredge/pdr-edge-featd-article-111226.html"/>
     <summary>HUD User</summary>
-    <published>2026-11-24T05:04:45.156446+00:00</published>
+    <published>2026-11-24T16:04:03.971083+00:00</published>
   </entry>
   <entry>
     <id>https://www.huduser.gov/portal/ushmc/quarterly_commentary.html</id>
     <title>2nd Quarter 2026 National Housing Market Summary and Tables</title>
-    <updated>2026-11-24T05:04:45.156442+00:00</updated>
+    <updated>2026-11-24T16:04:03.971078+00:00</updated>
     <link href="https://www.huduser.gov/portal/ushmc/quarterly_commentary.html"/>
     <summary>HUD User</summary>
-    <published>2026-11-24T05:04:45.156442+00:00</published>
+    <published>2026-11-24T16:04:03.971076+00:00</published>
   </entry>
   <entry>
     <id>https://www.huduser.gov/portal/casestudies/study-102726.html</id>
     <title>340+Dixwell Brings Mass Timber Construction to Income-Restricted Housing</title>
-    <updated>2026-11-24T05:04:45.156439+00:00</updated>
+    <updated>2026-11-24T16:04:03.971071+00:00</updated>
     <link href="https://www.huduser.gov/portal/casestudies/study-102726.html"/>
     <summary>HUD User</summary>
-    <published>2026-11-24T05:04:45.156438+00:00</published>
+    <published>2026-11-24T16:04:03.971070+00:00</published>
   </entry>
   <entry>
     <id>https://www.huduser.gov/portal/pdredge/pdr_edge_home.html</id>
     <title>New Updates on PD&amp;R Edge</title>
-    <updated>2026-11-24T05:04:45.156435+00:00</updated>
+    <updated>2026-11-24T16:04:03.971065+00:00</updated>
     <link href="https://www.huduser.gov/portal/pdredge/pdr_edge_home.html"/>
     <summary>HUD User</summary>
-    <published>2026-11-24T05:04:45.156434+00:00</published>
+    <published>2026-11-24T16:04:03.971064+00:00</published>
   </entry>
   <entry>
     <id>https://www.huduser.gov/portal/datasets/muaf.html</id>
     <title>Multifamily Utility Allowance Factors (UAF): FY 2027</title>
-    <updated>2026-11-24T05:04:45.156431+00:00</updated>
+    <updated>2026-11-24T16:04:03.971057+00:00</updated>
     <link href="https://www.huduser.gov/portal/datasets/muaf.html"/>
     <summary>HUD User</summary>
-    <published>2026-11-24T05:04:45.156430+00:00</published>
+    <published>2026-11-24T16:04:03.971055+00:00</published>
   </entry>
   <entry>
     <id>https://www.huduser.gov/portal/About/style-guide-for-reports.pdf</id>
     <title>Guidelines for Preparing a Report for Publication</title>
-    <updated>2026-11-24T05:04:45.156419+00:00</updated>
+    <updated>2026-11-24T16:04:03.971037+00:00</updated>
     <link href="https://www.huduser.gov/portal/About/style-guide-for-reports.pdf"/>
     <summary>HUD User</summary>
-    <published>2026-11-24T05:04:45.156414+00:00</published>
+    <published>2026-11-24T16:04:03.971029+00:00</published>
   </entry>
 </feed>
