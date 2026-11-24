@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:osha</id>
   <title>OSHA News Releases</title>
-  <updated>2026-11-23T20:44:26.783313+00:00</updated>
+  <updated>2026-11-24T05:04:46.683835+00:00</updated>
   <link href="file:///feeds/osha.xml" rel="self"/>
   <link href="https://www.osha.gov/news/newsreleases.xml" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -10,7 +10,7 @@
   <entry>
     <id>https://www.osha.gov/news/newsreleases/philadelphia/20261007</id>
     <title>US Department of Labor cites Pennsylvania excavation employer for failing to provide trench protection following fatal trench cave-in</title>
-    <updated>2026-11-23T20:44:26.783931+00:00</updated>
+    <updated>2026-11-24T05:04:46.684268+00:00</updated>
     <link href="https://www.osha.gov/news/newsreleases/philadelphia/20261007"/>
     <summary>October 7, 2026</summary>
     <published>2026-10-07T12:00:00+00:00</published>
@@ -18,7 +18,7 @@
   <entry>
     <id>https://www.osha.gov/news/newsreleases/new-york-city/20261013</id>
     <title>US Labor Department finds 6 New York, New Jersey construction employers exposed workers to safety hazards, assesses combined $648K in penalties</title>
-    <updated>2026-11-23T20:44:26.783861+00:00</updated>
+    <updated>2026-11-24T05:04:46.684215+00:00</updated>
     <link href="https://www.osha.gov/news/newsreleases/new-york-city/20261013"/>
     <summary>October 13, 2026US Labor Department finds 6 New York, New Jersey construction employers exposed workers to safety hazards, assesses combined $648K in penalties</summary>
     <published>2026-10-13T12:00:00+00:00</published>
@@ -26,7 +26,7 @@
   <entry>
     <id>https://www.osha.gov/news/newsreleases/chicago/20261021</id>
     <title>US Department of Labor cites Illinois utility construction company for repeated exposure to trenching hazards</title>
-    <updated>2026-11-23T20:44:26.783784+00:00</updated>
+    <updated>2026-11-24T05:04:46.684161+00:00</updated>
     <link href="https://www.osha.gov/news/newsreleases/chicago/20261021"/>
     <summary>October 21, 2026</summary>
     <published>2026-10-21T12:00:00+00:00</published>
@@ -34,7 +34,7 @@
   <entry>
     <id>https://www.osha.gov/news/newsreleases/boston/20261116</id>
     <title>US Labor Department cites New Jersey pastry maker, staffing agency for endangering workers after 2 injuries in 3 months; proposes $351K in fines</title>
-    <updated>2026-11-23T20:44:26.783681+00:00</updated>
+    <updated>2026-11-24T05:04:46.684102+00:00</updated>
     <link href="https://www.osha.gov/news/newsreleases/boston/20261116"/>
     <summary>November 16, 2026</summary>
     <published>2026-11-16T12:00:00+00:00</published>
@@ -42,7 +42,7 @@
   <entry>
     <id>https://www.osha.gov/news/newsreleases/osha-national-news-release/20261116</id>
     <title>US Department of Labor cites powder coating company for willful toxic substance exposures, repeat violations, proposes more than $1.6M in penalties</title>
-    <updated>2026-11-23T20:44:26.783523+00:00</updated>
+    <updated>2026-11-24T05:04:46.684012+00:00</updated>
     <link href="https://www.osha.gov/news/newsreleases/osha-national-news-release/20261116"/>
     <summary>November 16, 2026</summary>
     <published>2026-11-16T12:00:00+00:00</published>

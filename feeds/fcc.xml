@@ -2,81 +2,89 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:fcc</id>
   <title>FCC Recent Releases (Combined)</title>
-  <updated>2026-11-23T20:44:25.983368+00:00</updated>
+  <updated>2026-11-24T05:04:46.110110+00:00</updated>
   <link href="file:///feeds/fcc.xml" rel="self"/>
   <link href="https://api2.fcc.gov/api/exp/v1.0.0/edocspublic/rss" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: telecom / Mode: rss</subtitle>
   <entry>
+    <id>427493</id>
+    <title>Chairman Carr Proposes Stronger Robocall Blocking Rules to Prevent More Scam Calls from Reaching Consumers</title>
+    <updated>2026-11-24T05:04:46.110160+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/427493"/>
+    <summary>Chairman Carr proposes stronger robocall blocking rules to prevent more scam calls from reaching consumers</summary>
+    <published>2026-11-24T05:04:46.110160+00:00</published>
+  </entry>
+  <entry>
     <id>427329</id>
     <title>Proposed First Quarter 2027 Universal Service Fund Contribution Factor</title>
-    <updated>2026-11-23T20:44:25.983448+00:00</updated>
+    <updated>2026-11-24T05:04:46.110157+00:00</updated>
     <link href="https://www.fcc.gov/edoc/427329"/>
     <summary>In this Public Notice, the Office of Managing Director (OMD) announces the proposed Universal Service Fund (USF) contribution factor will be 0.483 or 48.3 percent for the first quarter of 2027.</summary>
-    <published>2026-11-23T20:44:25.983447+00:00</published>
+    <published>2026-11-24T05:04:46.110156+00:00</published>
   </entry>
   <entry>
     <id>427391</id>
     <title>Wireline Competition Bureau Releases the 2027 Telecommunications Reporting Worksheets and Accompanying Instructions</title>
-    <updated>2026-11-23T20:44:25.983441+00:00</updated>
+    <updated>2026-11-24T05:04:46.110153+00:00</updated>
     <link href="https://www.fcc.gov/edoc/427391"/>
     <summary>.</summary>
-    <published>2026-11-23T20:44:25.983440+00:00</published>
+    <published>2026-11-24T05:04:46.110152+00:00</published>
   </entry>
   <entry>
     <id>427492</id>
     <title>FCC Proposes New Rules for Foreign Satellite Systems Operating in America</title>
-    <updated>2026-11-23T20:44:25.983435+00:00</updated>
+    <updated>2026-11-24T05:04:46.110149+00:00</updated>
     <link href="https://www.fcc.gov/edoc/427492"/>
     <summary>.</summary>
-    <published>2026-11-23T20:44:25.983433+00:00</published>
+    <published>2026-11-24T05:04:46.110149+00:00</published>
   </entry>
   <entry>
     <id>427490</id>
     <title>FCC to Vote on Modernizing Radio and TV Broadcast Ownership Rules</title>
-    <updated>2026-11-23T20:44:25.983427+00:00</updated>
+    <updated>2026-11-24T05:04:46.110145+00:00</updated>
     <link href="https://www.fcc.gov/edoc/427490"/>
     <summary>Proposal to Update Local Ownership Limits as Part of 2022 Quadrennial Review Would Empower Local Stations to Invest, Compete, and Serve the Public Interest</summary>
-    <published>2026-11-23T20:44:25.983426+00:00</published>
+    <published>2026-11-24T05:04:46.110145+00:00</published>
   </entry>
   <entry>
     <id>427482</id>
     <title>Public Safety and Homeland Security Bureau Announces Comment Dates for U.S. Cyber Trust Mark Label Design, Certification Renewal, and Post-Market Surveillance Public Notice</title>
-    <updated>2026-11-23T20:44:25.983420+00:00</updated>
+    <updated>2026-11-24T05:04:46.110142+00:00</updated>
     <link href="https://www.fcc.gov/edoc/427482"/>
     <summary>.</summary>
-    <published>2026-11-23T20:44:25.983419+00:00</published>
+    <published>2026-11-24T05:04:46.110141+00:00</published>
   </entry>
   <entry>
     <id>427478</id>
     <title>Actions</title>
-    <updated>2026-11-23T20:44:25.983414+00:00</updated>
+    <updated>2026-11-24T05:04:46.110138+00:00</updated>
     <link href="https://www.fcc.gov/edoc/427478"/>
     <summary>.</summary>
-    <published>2026-11-23T20:44:25.983412+00:00</published>
+    <published>2026-11-24T05:04:46.110138+00:00</published>
   </entry>
   <entry>
     <id>427479</id>
     <title>Pleadings</title>
-    <updated>2026-11-23T20:44:25.983407+00:00</updated>
+    <updated>2026-11-24T05:04:46.110135+00:00</updated>
     <link href="https://www.fcc.gov/edoc/427479"/>
     <summary>.</summary>
-    <published>2026-11-23T20:44:25.983406+00:00</published>
+    <published>2026-11-24T05:04:46.110134+00:00</published>
   </entry>
   <entry>
     <id>427477</id>
     <title>Applications</title>
-    <updated>2026-11-23T20:44:25.983398+00:00</updated>
+    <updated>2026-11-24T05:04:46.110130+00:00</updated>
     <link href="https://www.fcc.gov/edoc/427477"/>
     <summary>.</summary>
-    <published>2026-11-23T20:44:25.983396+00:00</published>
+    <published>2026-11-24T05:04:46.110129+00:00</published>
   </entry>
   <entry>
     <id>427373</id>
     <title>Media Bureau Announces Close of the Filing Window for New Noncommercial Educational Reserved Band FM Translator Station Applications and Temporary Freeze on Amendments to Applications Submitted in the</title>
-    <updated>2026-11-23T20:44:25.983376+00:00</updated>
+    <updated>2026-11-24T05:04:46.110118+00:00</updated>
     <link href="https://www.fcc.gov/edoc/427373"/>
     <summary>.</summary>
-    <published>2026-11-23T20:44:25.983372+00:00</published>
+    <published>2026-11-24T05:04:46.110114+00:00</published>
   </entry>
 </feed>
