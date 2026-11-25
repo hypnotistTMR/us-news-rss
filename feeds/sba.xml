@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:sba</id>
   <title>SBA Newsroom (scrape)</title>
-  <updated>2026-11-25T00:57:22.121998+00:00</updated>
+  <updated>2026-11-25T09:30:10.384579+00:00</updated>
   <link href="file:///feeds/sba.xml" rel="self"/>
   <link href="https://www.sba.gov/sba-newsroom/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -10,33 +10,33 @@
   <entry>
     <id>https://www.sba.gov/sba-news-release-updates/</id>
     <title>Sign up to receive email updates about SBA news releases.</title>
-    <updated>2026-11-25T00:57:22.122032+00:00</updated>
+    <updated>2026-11-25T09:30:10.384636+00:00</updated>
     <link href="https://www.sba.gov/sba-news-release-updates/"/>
     <summary>SBA</summary>
-    <published>2026-11-25T00:57:22.122031+00:00</published>
+    <published>2026-11-25T09:30:10.384634+00:00</published>
   </entry>
   <entry>
     <id>https://legacy.sba.gov/article/2026/11/02/sba-fuels-main-street-growth-100-billion-delivered-fy26</id>
     <title>SBA Fuels Main Street Growth with $100 Billion Delivered in FY26</title>
-    <updated>2026-11-25T00:57:22.122025+00:00</updated>
+    <updated>2026-11-25T09:30:10.384625+00:00</updated>
     <link href="https://legacy.sba.gov/article/2026/11/02/sba-fuels-main-street-growth-100-billion-delivered-fy26"/>
     <summary>SBA</summary>
-    <published>2026-11-25T00:57:22.122024+00:00</published>
+    <published>2026-11-25T09:30:10.384624+00:00</published>
   </entry>
   <entry>
     <id>https://legacy.sba.gov/article/2026/11/05/sba-launches-icap-modernize-7a-loan-origination-streamline-workflows-accelerate-small-business</id>
     <title>SBA Launches iCAP to Modernize 7(a) Loan Origination, Streamline Workflows, and Accelerate Small Business Lending</title>
-    <updated>2026-11-25T00:57:22.122018+00:00</updated>
+    <updated>2026-11-25T09:30:10.384613+00:00</updated>
     <link href="https://legacy.sba.gov/article/2026/11/05/sba-launches-icap-modernize-7a-loan-origination-streamline-workflows-accelerate-small-business"/>
     <summary>SBA</summary>
-    <published>2026-11-25T00:57:22.122016+00:00</published>
+    <published>2026-11-25T09:30:10.384611+00:00</published>
   </entry>
   <entry>
     <id>https://legacy.sba.gov/article/2026/11/09/sba-doubles-federal-contracting-goal-expand-opportunity-veteran-owned-small-businesses</id>
     <title>SBA Doubles Federal Contracting Goal to Expand Opportunity for Veteran-Owned Small Businesses</title>
-    <updated>2026-11-25T00:57:22.122004+00:00</updated>
+    <updated>2026-11-25T09:30:10.384593+00:00</updated>
     <link href="https://legacy.sba.gov/article/2026/11/09/sba-doubles-federal-contracting-goal-expand-opportunity-veteran-owned-small-businesses"/>
     <summary>SBA</summary>
-    <published>2026-11-25T00:57:22.122001+00:00</published>
+    <published>2026-11-25T09:30:10.384588+00:00</published>
   </entry>
 </feed>
