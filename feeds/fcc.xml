@@ -2,137 +2,201 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:fcc</id>
   <title>FCC Recent Releases (Combined)</title>
-  <updated>2026-11-25T09:30:08.959377+00:00</updated>
+  <updated>2026-11-25T19:31:14.403863+00:00</updated>
   <link href="file:///feeds/fcc.xml" rel="self"/>
   <link href="https://api2.fcc.gov/api/exp/v1.0.0/edocspublic/rss" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: telecom / Mode: rss</subtitle>
   <entry>
-    <id>427555</id>
-    <title>Streamlining TRS Requirements</title>
-    <updated>2026-11-25T09:30:08.959558+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/427555"/>
-    <summary>This is not a final, adopted action. This has been circulated for tentative consideration by the Commission at its Open Meeting. The issues referenced and the Commission's ultimate resolution of those issues are subject to change.</summary>
-    <published>2026-11-25T09:30:08.959556+00:00</published>
+    <id>427538</id>
+    <title>Public Safety and Homeland Security Bureau Assignment of License authorization Applications, Transfer of Control of Licensee Applications, De Facto Transfer Lease Applications and Spectrum Manager Lea</title>
+    <updated>2026-11-25T19:31:14.404005+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/427538"/>
+    <summary>Eligibility Event Applications, And Designated Entity Annual Reports Action</summary>
+    <published>2026-11-25T19:31:14.404005+00:00</published>
   </entry>
   <entry>
-    <id>427554</id>
-    <title>Reforming Intercarrier Compensation</title>
-    <updated>2026-11-25T09:30:08.959548+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/427554"/>
-    <summary>This is not a final, adopted action. This has been circulated for tentative consideration by the Commission at its Open Meeting. The issues referenced and the Commission's ultimate resolution of those issues are subject to change.</summary>
-    <published>2026-11-25T09:30:08.959546+00:00</published>
-  </entry>
-  <entry>
-    <id>427552</id>
-    <title>Strengthening the Robocall Blocking Rules</title>
-    <updated>2026-11-25T09:30:08.959538+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/427552"/>
-    <summary>This is not a final, adopted action. This has been circulated for tentative consideration by the Commission at its Open Meeting. The issues referenced and the Commission's ultimate resolution of those issues are subject to change.</summary>
-    <published>2026-11-25T09:30:08.959536+00:00</published>
-  </entry>
-  <entry>
-    <id>427549</id>
-    <title>Modernizing the Local Broadcast Ownership Rules</title>
-    <updated>2026-11-25T09:30:08.959527+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/427549"/>
-    <summary>.</summary>
-    <published>2026-11-25T09:30:08.959525+00:00</published>
-  </entry>
-  <entry>
-    <id>427543</id>
-    <title>Light Licensing Framework to Reform Satellite Spectrum Sharing</title>
-    <updated>2026-11-25T09:30:08.959517+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/427543"/>
-    <summary>This is not a final, adopted action. This has been circulated for tentative consideration by the Commission at its Open Meeting. The issues referenced and the Commission's ultimate resolution of those issues are subject to change.</summary>
-    <published>2026-11-25T09:30:08.959515+00:00</published>
-  </entry>
-  <entry>
-    <id>427537</id>
-    <title>Ensuring Satellite Market Access Reciprocity</title>
-    <updated>2026-11-25T09:30:08.959507+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/427537"/>
-    <summary>This is not a final, adopted action. This has been circulated for tentative consideration by the Commission at its Open Meeting. The issues referenced and the Commission's ultimate resolution of those issues are subject to change.</summary>
-    <published>2026-11-25T09:30:08.959505+00:00</published>
-  </entry>
-  <entry>
-    <id>427531</id>
-    <title>FCC Announces Tentative Agenda for December Open Meeting</title>
-    <updated>2026-11-25T09:30:08.959496+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/427531"/>
-    <summary>Federal Communications Commission Chairman Brendan Carr announced that the items below are tentatively on the agenda for the December Open Commission Meeting scheduled for December 17, 2026</summary>
-    <published>2026-11-25T09:30:08.959494+00:00</published>
-  </entry>
-  <entry>
-    <id>427522</id>
-    <title>Application Of Verizon To Discontinue Domestic Legacy Voice Service As Part Of A Technology Transition Is Granted</title>
-    <updated>2026-11-25T09:30:08.959486+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/427522"/>
-    <summary>.</summary>
-    <published>2026-11-25T09:30:08.959485+00:00</published>
-  </entry>
-  <entry>
-    <id>427525</id>
-    <title>Section 1.767(a) Submarine Cable Landing Licenses, Modifications, and Assignments or Transfers of Control of Interests in Submarine Cable Landing Licenses (47 C.F.R. § 1.767(a)) - SCL</title>
-    <updated>2026-11-25T09:30:08.959478+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/427525"/>
-    <summary>.</summary>
-    <published>2026-11-25T09:30:08.959476+00:00</published>
-  </entry>
-  <entry>
-    <id>427523</id>
-    <title>International Authorizations Granted - ITC</title>
-    <updated>2026-11-25T09:30:08.959467+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/427523"/>
-    <summary>.</summary>
-    <published>2026-11-25T09:30:08.959465+00:00</published>
-  </entry>
-  <entry>
-    <id>427497</id>
-    <title>Pleadings</title>
-    <updated>2026-11-25T09:30:08.959456+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/427497"/>
-    <summary>.</summary>
-    <published>2026-11-25T09:30:08.959454+00:00</published>
-  </entry>
-  <entry>
-    <id>427508</id>
-    <title>Domestic Section 214 Application Granted for the Transfer of Control of Smithville Telephone Company, Inc. and Traceroad Communications, Inc., d/b/a Traceroad Long Distance to Muleops, LLC</title>
-    <updated>2026-11-25T09:30:08.959441+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/427508"/>
-    <summary>.</summary>
-    <published>2026-11-25T09:30:08.959440+00:00</published>
-  </entry>
-  <entry>
-    <id>427506</id>
-    <title>Domestic Section 214 Application Granted for the Transfer of Control of Sledge Telephone Company, Inc. and Varicom Telecommunications, Inc. to Muleops, LLC</title>
-    <updated>2026-11-25T09:30:08.959432+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/427506"/>
-    <summary>.</summary>
-    <published>2026-11-25T09:30:08.959430+00:00</published>
-  </entry>
-  <entry>
-    <id>427495</id>
-    <title>Applications</title>
-    <updated>2026-11-25T09:30:08.959422+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/427495"/>
-    <summary>.</summary>
-    <published>2026-11-25T09:30:08.959420+00:00</published>
-  </entry>
-  <entry>
-    <id>427498</id>
-    <title>Wireless Telecommunications Bureau Announces that Application for Auction 113 License Is Accepted for Filing</title>
-    <updated>2026-11-25T09:30:08.959409+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/427498"/>
-    <summary>Public Notice announcing that a certain Auction 113 license is accepted for filing</summary>
-    <published>2026-11-25T09:30:08.959406+00:00</published>
-  </entry>
-  <entry>
-    <id>427496</id>
+    <id>427568</id>
     <title>Actions</title>
-    <updated>2026-11-25T09:30:08.959388+00:00</updated>
-    <link href="https://www.fcc.gov/edoc/427496"/>
+    <updated>2026-11-25T19:31:14.404002+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/427568"/>
     <summary>.</summary>
-    <published>2026-11-25T09:30:08.959382+00:00</published>
+    <published>2026-11-25T19:31:14.404001+00:00</published>
+  </entry>
+  <entry>
+    <id>427569</id>
+    <title>Pleadings</title>
+    <updated>2026-11-25T19:31:14.403998+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/427569"/>
+    <summary>.</summary>
+    <published>2026-11-25T19:31:14.403998+00:00</published>
+  </entry>
+  <entry>
+    <id>427567</id>
+    <title>Applications</title>
+    <updated>2026-11-25T19:31:14.403995+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/427567"/>
+    <summary>.</summary>
+    <published>2026-11-25T19:31:14.403994+00:00</published>
+  </entry>
+  <entry>
+    <id>427572</id>
+    <title>FCC Authorizes 1 Million Satellites for Data Centers in Space</title>
+    <updated>2026-11-25T19:31:14.403991+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/427572"/>
+    <summary>'Starmind' Satellites to Support America's Booming Super Intelligence Economy</summary>
+    <published>2026-11-25T19:31:14.403990+00:00</published>
+  </entry>
+  <entry>
+    <id>427564</id>
+    <title>Space Exploration Holdings, LLC Application for Launch and Operating Authority for the SpaceX Orbital Data Center System</title>
+    <updated>2026-11-25T19:31:14.403987+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/427564"/>
+    <summary>Space Exploration Holdings, LLC Application for Launch and Operating Authority for the SpaceX Orbital Data Center System</summary>
+    <published>2026-11-25T19:31:14.403986+00:00</published>
+  </entry>
+  <entry>
+    <id>427548</id>
+    <title>Public Safety and Homeland Security Bureau Site Based Licenses Termination Pending Public Notice</title>
+    <updated>2026-11-25T19:31:14.403981+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/427548"/>
+    <summary>.</summary>
+    <published>2026-11-25T19:31:14.403980+00:00</published>
+  </entry>
+  <entry>
+    <id>427546</id>
+    <title>Public Safety and Homeland Security Bureau Market Based Licenses Termination Pending Public Notice</title>
+    <updated>2026-11-25T19:31:14.403976+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/427546"/>
+    <summary>.</summary>
+    <published>2026-11-25T19:31:14.403975+00:00</published>
+  </entry>
+  <entry>
+    <id>427544</id>
+    <title>Wireless Telecommunications Bureau Site Based Licenses Termination Pending Public Notice</title>
+    <updated>2026-11-25T19:31:14.403970+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/427544"/>
+    <summary>.</summary>
+    <published>2026-11-25T19:31:14.403969+00:00</published>
+  </entry>
+  <entry>
+    <id>427535</id>
+    <title>Wireless Telecommunications Bureau Assignment of License Authorization Applications, Transfer of Control of Licensee Applications, De Facto Transfer Lease Applications and Spectrum Manager Lease Notif</title>
+    <updated>2026-11-25T19:31:14.403953+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/427535"/>
+    <summary>Event Applications, And Designated Entity Annual Reports Action</summary>
+    <published>2026-11-25T19:31:14.403953+00:00</published>
+  </entry>
+  <entry>
+    <id>427558</id>
+    <title>Satellite Communications Services - SES</title>
+    <updated>2026-11-25T19:31:14.403949+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/427558"/>
+    <summary>.</summary>
+    <published>2026-11-25T19:31:14.403948+00:00</published>
+  </entry>
+  <entry>
+    <id>427541</id>
+    <title>Wireless Telecommunications Bureau Market Based Licenses Termination Pending Public Notice</title>
+    <updated>2026-11-25T19:31:14.403944+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/427541"/>
+    <summary>.</summary>
+    <published>2026-11-25T19:31:14.403943+00:00</published>
+  </entry>
+  <entry>
+    <id>427533</id>
+    <title>Public Safety and Homeland Security Bureau Assignment of License Authorization Applications, Transfer of Control of Licensee Applications, and De Facto Transfer Lease Applications, and Designated Enti</title>
+    <updated>2026-11-25T19:31:14.403939+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/427533"/>
+    <summary>For Filing</summary>
+    <published>2026-11-25T19:31:14.403938+00:00</published>
+  </entry>
+  <entry>
+    <id>427530</id>
+    <title>Wireless Telecommunications Bureau Assignment of License Authorization Applications, Transfer of Control of Licensee Applications, and De Facto Transfer Lease Applications, and Designated Entity Repor</title>
+    <updated>2026-11-25T19:31:14.403934+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/427530"/>
+    <summary>Filing</summary>
+    <published>2026-11-25T19:31:14.403933+00:00</published>
+  </entry>
+  <entry>
+    <id>427512</id>
+    <title>Public Safety and Homeland Security Bureau Site-By-Site Action</title>
+    <updated>2026-11-25T19:31:14.403929+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/427512"/>
+    <summary>.</summary>
+    <published>2026-11-25T19:31:14.403928+00:00</published>
+  </entry>
+  <entry>
+    <id>427511</id>
+    <title>Wireless Telecommunications Bureau Site-By-Site Accepted for Filing</title>
+    <updated>2026-11-25T19:31:14.403924+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/427511"/>
+    <summary>.</summary>
+    <published>2026-11-25T19:31:14.403923+00:00</published>
+  </entry>
+  <entry>
+    <id>427510</id>
+    <title>Public Safety and Homeland Security Bureau Site-By-Site Accepted for Filing</title>
+    <updated>2026-11-25T19:31:14.403919+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/427510"/>
+    <summary>.</summary>
+    <published>2026-11-25T19:31:14.403919+00:00</published>
+  </entry>
+  <entry>
+    <id>427513</id>
+    <title>Wireless Telecommunications Bureau Site-By-Site Action</title>
+    <updated>2026-11-25T19:31:14.403915+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/427513"/>
+    <summary>.</summary>
+    <published>2026-11-25T19:31:14.403914+00:00</published>
+  </entry>
+  <entry>
+    <id>427505</id>
+    <title>Wireless Telecommunications Bureau Market-Based Applications Action</title>
+    <updated>2026-11-25T19:31:14.403910+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/427505"/>
+    <summary>.</summary>
+    <published>2026-11-25T19:31:14.403909+00:00</published>
+  </entry>
+  <entry>
+    <id>427504</id>
+    <title>Public Safety and Homeland Security Bureau Market-Based Applications Action</title>
+    <updated>2026-11-25T19:31:14.403905+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/427504"/>
+    <summary>.</summary>
+    <published>2026-11-25T19:31:14.403904+00:00</published>
+  </entry>
+  <entry>
+    <id>427502</id>
+    <title>Public Safety and Homeland Security Bureau Market-Based Applications Accepted for Filing</title>
+    <updated>2026-11-25T19:31:14.403900+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/427502"/>
+    <summary>.</summary>
+    <published>2026-11-25T19:31:14.403899+00:00</published>
+  </entry>
+  <entry>
+    <id>427503</id>
+    <title>Wireless Telecommunications Bureau Market-Based Applications Accepted for Filing</title>
+    <updated>2026-11-25T19:31:14.403895+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/427503"/>
+    <summary>.</summary>
+    <published>2026-11-25T19:31:14.403894+00:00</published>
+  </entry>
+  <entry>
+    <id>427528</id>
+    <title>Morgan County Industries, Inc., Licensee of Stations WRLV-FM, WLKS-FM, WCBJ(FM), and WMOR-FM</title>
+    <updated>2026-11-25T19:31:14.403888+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/427528"/>
+    <summary>The Media Bureau and the Office of Managing Director require Morgan County Industries, Inc., to pay delinquent regulatory fees or show cause why payment should be waived or deferred.</summary>
+    <published>2026-11-25T19:31:14.403887+00:00</published>
+  </entry>
+  <entry>
+    <id>427557</id>
+    <title>Satellite Communications Services - SES</title>
+    <updated>2026-11-25T19:31:14.403874+00:00</updated>
+    <link href="https://www.fcc.gov/edoc/427557"/>
+    <summary>.</summary>
+    <published>2026-11-25T19:31:14.403869+00:00</published>
   </entry>
 </feed>

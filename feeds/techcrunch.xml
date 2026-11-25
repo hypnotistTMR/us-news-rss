@@ -2,103 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:techcrunch</id>
   <title>TechCrunch - All</title>
-  <updated>2026-11-25T09:30:05.233819+00:00</updated>
+  <updated>2026-11-25T19:31:09.178889+00:00</updated>
   <link href="file:///feeds/techcrunch.xml" rel="self"/>
   <link href="https://techcrunch.com/feed/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: tech / Mode: rss</subtitle>
   <entry>
-    <id>https://techcrunch.com/?p=3191620</id>
-    <title>Figma employee sues, alleging company forced her to confront harassers</title>
-    <updated>2026-11-25T09:30:05.235808+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/"/>
-    <summary>Figma and its CEO are being sued by a current employee for alleged sexual harassment and discrimination.</summary>
-    <published>2026-11-23T23:07:49+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3191702</id>
-    <title>Huang reportedly admitted to more than two affairs to Nvidia’s board</title>
-    <updated>2026-11-25T09:30:05.235722+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/24/huang-reportedly-admitted-to-more-than-two-affairs-to-nvidias-board/"/>
-    <summary>During a meeting before his reinstatement, Huang admitted to more affairs beyond the two that have been reported in the news, according to The Wall Street Journal.</summary>
-    <published>2026-11-24T13:29:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3191706</id>
-    <title>Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia</title>
-    <updated>2026-11-25T09:30:05.235636+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/"/>
-    <summary>Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.</summary>
-    <published>2026-11-24T15:51:07+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3191752</id>
-    <title>Pinterest will now let parents limit the AI-generated content their teens see</title>
-    <updated>2026-11-25T09:30:05.235551+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/"/>
-    <summary>While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds.</summary>
-    <published>2026-11-24T16:02:37+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3191518</id>
-    <title>Why a Crusoe investor is betting on solar and batteries to power future AI data centers</title>
-    <updated>2026-11-25T09:30:05.235465+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/"/>
-    <summary>Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice.</summary>
-    <published>2026-11-24T16:10:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3191779</id>
-    <title>Uber and Nuro begin driverless testing of Lucid robotaxis ahead of 2027 launch</title>
-    <updated>2026-11-25T09:30:05.235381+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/24/uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ahead-of-2027-launch/"/>
-    <summary>Uber and Nuro have started testing driverless Lucid Gravity SUVs on public streets in the San Francisco Bay Area.</summary>
-    <published>2026-11-24T16:40:46+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3191757</id>
-    <title>Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming</title>
-    <updated>2026-11-25T09:30:05.235296+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/"/>
-    <summary>The company said it will still accept songs that were made with AI assistance, but not fully generated.</summary>
-    <published>2026-11-24T16:46:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3191770</id>
-    <title>Meta brings its Muse AI assistant directly into Instagram DMs</title>
-    <updated>2026-11-25T09:30:05.235211+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/"/>
-    <summary>The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.</summary>
-    <published>2026-11-24T17:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3191897</id>
-    <title>Electric truck startup Harbinger gets financing boost from Palmer Luckey’s bank</title>
-    <updated>2026-11-25T09:30:05.235124+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/24/electric-truck-startup-harbinger-gets-financing-boost-from-palmer-luckeys-bank/"/>
-    <summary>Harbinger has tapped Palmer Luckey's Erebor Bank as a new source of capital as the electric truck startup looks to diversify how it funds its growth.</summary>
-    <published>2026-11-24T17:29:09+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3191903</id>
-    <title>Threads comes to iPad and takes a page from X’s playbook with cashtags</title>
-    <updated>2026-11-25T09:30:05.235027+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/24/threads-comes-to-ipad-and-takes-a-page-from-xs-playbook-with-cashtags/"/>
-    <summary>The addition of live stock quotes and charts could help Threads attract the financial community that has historically relied on X.</summary>
-    <published>2026-11-24T17:44:34+00:00</published>
-  </entry>
-  <entry>
-    <id>https://techcrunch.com/?p=3191956</id>
-    <title>UK warns AI-driven cyberattacks are exposing years of weak security</title>
-    <updated>2026-11-25T09:30:05.234916+00:00</updated>
-    <link href="https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/"/>
-    <summary>The British cyber agency says that "building strong foundations has never mattered more" as AI hacking tools rely on exploiting simple security flaws.</summary>
-    <published>2026-11-24T18:02:59+00:00</published>
-  </entry>
-  <entry>
     <id>https://techcrunch.com/?p=3191971</id>
     <title>Anthropic shares fall below IPO price, a worrying sign for AI startups</title>
-    <updated>2026-11-25T09:30:05.234830+00:00</updated>
+    <updated>2026-11-25T19:31:09.180028+00:00</updated>
     <link href="https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/"/>
     <summary>Anthropic’s post-IPO slump could put pressure on AI startup valuations.</summary>
     <published>2026-11-24T18:30:42+00:00</published>
@@ -106,7 +18,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3192013</id>
     <title>Dozens of oil and shipping tankers hacked in recent weeks, per report</title>
-    <updated>2026-11-25T09:30:05.234742+00:00</updated>
+    <updated>2026-11-25T19:31:09.179986+00:00</updated>
     <link href="https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report/"/>
     <summary>Iran is the chief suspect behind the dozens of cyberattacks targeting oil and chemical shipping vessels.</summary>
     <published>2026-11-24T21:09:04+00:00</published>
@@ -114,7 +26,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3191989</id>
     <title>Maple raises $5.3M to build AI products that protect your data, even from itself</title>
-    <updated>2026-11-25T09:30:05.234653+00:00</updated>
+    <updated>2026-11-25T19:31:09.179921+00:00</updated>
     <link href="https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/"/>
     <summary>The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.</summary>
     <published>2026-11-24T21:19:52+00:00</published>
@@ -122,7 +34,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3192047</id>
     <title>Walmart teams up with Meta to bring Black Friday deals to AI agent Muse</title>
-    <updated>2026-11-25T09:30:05.234565+00:00</updated>
+    <updated>2026-11-25T19:31:09.179879+00:00</updated>
     <link href="https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/"/>
     <summary>Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.</summary>
     <published>2026-11-24T21:32:38+00:00</published>
@@ -130,7 +42,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3192038</id>
     <title>Even the best AI agents struggle with everyday life</title>
-    <updated>2026-11-25T09:30:05.234474+00:00</updated>
+    <updated>2026-11-25T19:31:09.179838+00:00</updated>
     <link href="https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/"/>
     <summary>As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.</summary>
     <published>2026-11-24T21:33:29+00:00</published>
@@ -138,7 +50,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3192009</id>
     <title>In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy</title>
-    <updated>2026-11-25T09:30:05.234384+00:00</updated>
+    <updated>2026-11-25T19:31:09.179797+00:00</updated>
     <link href="https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/"/>
     <summary>The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.</summary>
     <published>2026-11-24T21:48:27+00:00</published>
@@ -146,7 +58,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3192058</id>
     <title>Jensen Huang still thinks a succession plan creates unnecessary hierarchy</title>
-    <updated>2026-11-25T09:30:05.234292+00:00</updated>
+    <updated>2026-11-25T19:31:09.179755+00:00</updated>
     <link href="https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/"/>
     <summary>It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.</summary>
     <published>2026-11-24T22:27:52+00:00</published>
@@ -154,7 +66,7 @@
   <entry>
     <id>https://techcrunch.com/?p=3192124</id>
     <title>Trump reportedly says pardoning Jensen Huang is ‘an option’</title>
-    <updated>2026-11-25T09:30:05.234194+00:00</updated>
+    <updated>2026-11-25T19:31:09.179715+00:00</updated>
     <link href="https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/"/>
     <summary>Huang faces ongoing questions about his relationship with Alice Huang, an executive with alleged ties to Chinese intelligence who previously worked for a company that has been accused of illegally diverting Nvidia chips to China.</summary>
     <published>2026-11-25T00:10:27+00:00</published>
@@ -162,9 +74,97 @@
   <entry>
     <id>https://techcrunch.com/?p=3191990</id>
     <title>Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion</title>
-    <updated>2026-11-25T09:30:05.234055+00:00</updated>
+    <updated>2026-11-25T19:31:09.179673+00:00</updated>
     <link href="https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/"/>
     <summary>Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to "historic" personal liability from a growing pile of lawsuits and raising the question of whether the country is celebrating a company that has helped put advanced chips in its adversaries' hands.</summary>
     <published>2026-11-25T00:12:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3191841</id>
+    <title>The questions Jensen Huang and Nvidia will still have to answer about Megaspeed</title>
+    <updated>2026-11-25T19:31:09.179630+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/"/>
+    <summary>The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair with a Megaspeed executive gave the company reason to doubt Megaspeed's assurances.</summary>
+    <published>2026-11-25T13:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3192204</id>
+    <title>Flipkart CEO Kalyan Krishnamurthy to step down next week amid IPO uncertainty</title>
+    <updated>2026-11-25T19:31:09.179586+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/25/flipkart-ceo-kalyan-krishnamurthy-to-step-down-next-week-amid-ipo-uncertainty/"/>
+    <summary>Flipkart's product and technology chief Balaji Thiagarajan will lead the company alongside its board until a successor is found.</summary>
+    <published>2026-11-25T13:08:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3192253</id>
+    <title>Amazon and Meta reportedly in talks to lift blockade on AI agent Muse</title>
+    <updated>2026-11-25T19:31:09.179543+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/"/>
+    <summary>Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.</summary>
+    <published>2026-11-25T14:10:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3192187</id>
+    <title>Todoist confirms 6% of customers’ details were stolen in data breach</title>
+    <updated>2026-11-25T19:31:09.179499+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/25/todoist-confirms-6-of-customers-details-were-stolen-in-data-breach/"/>
+    <summary>Todoist said a hacker gained access to its production systems and stole customer data, including email IDs, password hashes, and account creation dates.</summary>
+    <published>2026-11-25T14:20:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3192285</id>
+    <title>Allstate suffers multi-day tech outage ahead of Thanksgiving</title>
+    <updated>2026-11-25T19:31:09.179456+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/25/allstate-suffers-multi-day-tech-outage-ahead-of-thanksgiving/"/>
+    <summary>The disruption comes at a particularly bad time for the insurance giant, as millions of Americans prepare to travel for the Thanksgiving holiday weekend.</summary>
+    <published>2026-11-25T15:08:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3192352</id>
+    <title>WhatsApp now lets you schedule messages in group and individual chats</title>
+    <updated>2026-11-25T19:31:09.179410+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/25/whatsapp-now-lets-you-schedule-messages-in-group-and-individual-chats/"/>
+    <summary>Users can schedule messages from 10 minutes later to after 14 days.</summary>
+    <published>2026-11-25T16:57:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3192422</id>
+    <title>X’s latest update for creators focuses on vertical video</title>
+    <updated>2026-11-25T19:31:09.179364+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/25/xs-latest-update-for-creators-focuses-on-vertical-video/"/>
+    <summary>As short-form video ramps up in popularity, X's new creation tools are part of its effort to compete with YouTube and Instagram.</summary>
+    <published>2026-11-25T17:28:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3192361</id>
+    <title>Character.AI’s plan to auction off users’ private chats challenged by state AGs</title>
+    <updated>2026-11-25T19:31:09.179318+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/"/>
+    <summary>The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.</summary>
+    <published>2026-11-25T17:35:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3192425</id>
+    <title>DOJ accuses former cyber executive of defrauding ransomware victims by secretly paying hackers</title>
+    <updated>2026-11-25T19:31:09.179271+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/25/doj-accuses-former-cyber-executive-of-defrauding-ransomware-victims-by-secretly-paying-hackers/"/>
+    <summary>U.S. prosecutors accused the former executive of defrauding victims of ransomware by paying the hackers, charging victims more, and pocketing the difference.</summary>
+    <published>2026-11-25T17:36:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3192412</id>
+    <title>Want to buy your kid an AI toy this Christmas? Not in New York</title>
+    <updated>2026-11-25T19:31:09.179202+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/"/>
+    <summary>New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.</summary>
+    <published>2026-11-25T18:11:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://techcrunch.com/?p=3192489</id>
+    <title>1Password said hackers broke into its internal systems, but customer passwords are safe</title>
+    <updated>2026-11-25T19:31:09.179105+00:00</updated>
+    <link href="https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/"/>
+    <summary>The password manager maker said an attacker gained access to an employee's corporate account and took some information about customers.</summary>
+    <published>2026-11-25T18:49:52+00:00</published>
   </entry>
 </feed>
