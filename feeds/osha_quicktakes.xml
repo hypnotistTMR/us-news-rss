@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:osha_quicktakes</id>
   <title>OSHA QuickTakes</title>
-  <updated>2026-11-26T20:44:19.705738+00:00</updated>
+  <updated>2026-11-27T03:23:55.248989+00:00</updated>
   <link href="file:///feeds/osha_quicktakes.xml" rel="self"/>
   <link href="https://www.osha.gov/sites/default/files/quicktakes.xml" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -10,7 +10,7 @@
   <entry>
     <id>https://www.osha.gov/quicktakes/12162024</id>
     <title>QuickTakes 12/16/2024</title>
-    <updated>2026-11-26T20:44:19.708399+00:00</updated>
+    <updated>2026-11-27T03:23:55.251183+00:00</updated>
     <link href="https://www.osha.gov/quicktakes/12162024"/>
     <summary>2024 Year in Review: 5 Big Achievements
           Understanding Workplace Injuries
@@ -31,7 +31,7 @@
   <entry>
     <id>https://www.osha.gov/quicktakes/01162025</id>
     <title>QuickTakes 01/16/2025</title>
-    <updated>2026-11-26T20:44:19.708311+00:00</updated>
+    <updated>2026-11-27T03:23:55.251117+00:00</updated>
     <link href="https://www.osha.gov/quicktakes/01162025"/>
     <summary>Submit Your 2024 Injury and Illness Data
           Penalty Increases
@@ -46,12 +46,12 @@
           Criminal Conviction
           Willful Disregard for Workers' Lives
           Needless Trenchi</summary>
-    <published>2026-11-26T20:44:19.708308+00:00</published>
+    <published>2026-11-27T03:23:55.251115+00:00</published>
   </entry>
   <entry>
     <id>https://www.osha.gov/quicktakes/04022025</id>
     <title>QuickTakes 04/2/2025</title>
-    <updated>2026-11-26T20:44:19.708268+00:00</updated>
+    <updated>2026-11-27T03:23:55.251084+00:00</updated>
     <link href="https://www.osha.gov/quicktakes/04022025"/>
     <summary>MEET OUR NEW LEADERSHIP
           UPCOMING EVENTS
@@ -67,7 +67,7 @@
   <entry>
     <id>https://www.osha.gov/quicktakes/04212025</id>
     <title>QuickTakes 04/21/2025</title>
-    <updated>2026-11-26T20:44:19.708178+00:00</updated>
+    <updated>2026-11-27T03:23:55.251017+00:00</updated>
     <link href="https://www.osha.gov/quicktakes/04212025"/>
     <summary>REMEMBERING OUR FALLEN WORKERS
           UPCOMING EVENTS
@@ -83,7 +83,7 @@
   <entry>
     <id>https://www.osha.gov/quicktakes/05192025</id>
     <title>QuickTakes 05/19/2025</title>
-    <updated>2026-11-26T20:44:19.708059+00:00</updated>
+    <updated>2026-11-27T03:23:55.250949+00:00</updated>
     <link href="https://www.osha.gov/quicktakes/05192025"/>
     <summary>STANDING DOWN TO PREVENT FALLS
           UPCOMING EVENTS
@@ -99,7 +99,7 @@
   <entry>
     <id>https://www.osha.gov/quicktakes/06182025</id>
     <title>QuickTakes 06/18/2025</title>
-    <updated>2026-11-26T20:44:19.707970+00:00</updated>
+    <updated>2026-11-27T03:23:55.250880+00:00</updated>
     <link href="https://www.osha.gov/quicktakes/06182025"/>
     <summary>COLLABORATING FOR SAFETY EXCELLENCE
           UPCOMING EVENTS
@@ -115,7 +115,7 @@
   <entry>
     <id>https://www.osha.gov/quicktakes/07212025</id>
     <title>QuickTakes 07/21/2025</title>
-    <updated>2026-11-26T20:44:19.707883+00:00</updated>
+    <updated>2026-11-27T03:23:55.250810+00:00</updated>
     <link href="https://www.osha.gov/quicktakes/07212025"/>
     <summary>NEW PENALTY GUIDELINES SUPPORT SMALL BUSINESSES
           UPCOMING EVENTS
@@ -132,7 +132,7 @@
   <entry>
     <id>https://www.osha.gov/quicktakes/08202025</id>
     <title>QuickTakes 08/20/2025</title>
-    <updated>2026-11-26T20:44:19.707795+00:00</updated>
+    <updated>2026-11-27T03:23:55.250736+00:00</updated>
     <link href="https://www.osha.gov/quicktakes/08202025"/>
     <summary>A NEW PATHWAY TO SAFETY
           FIND YOUR PATH TO SAFETY
@@ -147,7 +147,7 @@
   <entry>
     <id>https://www.osha.gov/quicktakes/09222025</id>
     <title>QuickTakes 09/22/2025</title>
-    <updated>2026-11-26T20:44:19.707706+00:00</updated>
+    <updated>2026-11-27T03:23:55.250650+00:00</updated>
     <link href="https://www.osha.gov/quicktakes/09222025"/>
     <summary>COLLABORATING FOR WORKPLACE SAFETY
           THE COST OF IGNORING SAFETY
@@ -165,7 +165,7 @@
   <entry>
     <id>https://www.osha.gov/quicktakes/12152025</id>
     <title>QuickTakes 12/15/2025</title>
-    <updated>2026-11-26T20:44:19.707615+00:00</updated>
+    <updated>2026-11-27T03:23:55.250579+00:00</updated>
     <link href="https://www.osha.gov/quicktakes/12152025"/>
     <summary>MEET OUR ASSISTANT SECRETARY
           CRITICAL SAFETY FAILURES
@@ -184,7 +184,7 @@
   <entry>
     <id>https://www.osha.gov/quicktakes/01142026</id>
     <title>QuickTakes 1/14/2026</title>
-    <updated>2026-11-26T20:44:19.707518+00:00</updated>
+    <updated>2026-11-27T03:23:55.250509+00:00</updated>
     <link href="https://www.osha.gov/quicktakes/01142026"/>
     <summary>SAFETY IS GOOD BUSINESS
           UPCOMING EVENTS
@@ -200,7 +200,7 @@
   <entry>
     <id>https://www.osha.gov/quicktakes/013026</id>
     <title>QuickTakes 1/30/2026</title>
-    <updated>2026-11-26T20:44:19.707429+00:00</updated>
+    <updated>2026-11-27T03:23:55.250440+00:00</updated>
     <link href="https://www.osha.gov/quicktakes/013026"/>
     <summary>TAKING CHARGE OF SAFETY
           UPCOMING EVENTS
@@ -215,7 +215,7 @@
   <entry>
     <id>https://www.osha.gov/quicktakes/021326</id>
     <title>QuickTakes 2/13/2026</title>
-    <updated>2026-11-26T20:44:19.707339+00:00</updated>
+    <updated>2026-11-27T03:23:55.250369+00:00</updated>
     <link href="https://www.osha.gov/quicktakes/021326"/>
     <summary>PARTNERING TO PROTECT WORKERS
       UPCOMING EVENTS
@@ -231,7 +231,7 @@
   <entry>
     <id>https://www.osha.gov/quicktakes/022726</id>
     <title>QuickTakes 2/27/2026</title>
-    <updated>2026-11-26T20:44:19.707249+00:00</updated>
+    <updated>2026-11-27T03:23:55.250298+00:00</updated>
     <link href="https://www.osha.gov/quicktakes/022726"/>
     <summary>SOWING SAFETY REAPS REWARDS
       GO HOME SAFE
@@ -248,7 +248,7 @@
   <entry>
     <id>https://www.osha.gov/quicktakes/031926</id>
     <title>QuickTakes 3/19/2026</title>
-    <updated>2026-11-26T20:44:19.707159+00:00</updated>
+    <updated>2026-11-27T03:23:55.250227+00:00</updated>
     <link href="https://www.osha.gov/quicktakes/031926"/>
     <summary>OSHA CARES
       BECOME A SAFETY CHAMPION
@@ -263,12 +263,12 @@
       SAFETY AT EVERY LEVEL
       YOU ASK...WE ANSWER
       WHAT'S TRENDING</summary>
-    <published>2026-11-26T20:44:19.707157+00:00</published>
+    <published>2026-11-27T03:23:55.250226+00:00</published>
   </entry>
   <entry>
     <id>https://www.osha.gov/quicktakes/033126</id>
     <title>QuickTakes 3/31/2026</title>
-    <updated>2026-11-26T20:44:19.707117+00:00</updated>
+    <updated>2026-11-27T03:23:55.250197+00:00</updated>
     <link href="https://www.osha.gov/quicktakes/033126"/>
     <summary>JOIN OUR TEAM
       GRAIN SAFETY WEEK
@@ -283,12 +283,12 @@
       HOT OFF THE PRESS
       YOU ASK...WE ANSWER
       WHAT'S TRENDING</summary>
-    <published>2026-11-26T20:44:19.707114+00:00</published>
+    <published>2026-11-27T03:23:55.250195+00:00</published>
   </entry>
   <entry>
     <id>https://www.osha.gov/quicktakes/040826</id>
     <title>QuickTakes 4/08/2026</title>
-    <updated>2026-11-26T20:44:19.707054+00:00</updated>
+    <updated>2026-11-27T03:23:55.250162+00:00</updated>
     <link href="https://www.osha.gov/quicktakes/040826"/>
     <summary>HONORING FALLEN WORKERS
       STAND DOWN TO PREVENT FALLS
@@ -309,7 +309,7 @@
   <entry>
     <id>https://www.osha.gov/quicktakes/042226</id>
     <title>QuickTakes 4/22/2026</title>
-    <updated>2026-11-26T20:44:19.706965+00:00</updated>
+    <updated>2026-11-27T03:23:55.250089+00:00</updated>
     <link href="https://www.osha.gov/quicktakes/042226"/>
     <summary>WORKERS MEMORIAL DAY
       MAKING WORK ZONE SAFETY A PRIORITY
@@ -327,7 +327,7 @@
   <entry>
     <id>https://www.osha.gov/quicktakes/050726</id>
     <title>QuickTakes 5/7/2026</title>
-    <updated>2026-11-26T20:44:19.706878+00:00</updated>
+    <updated>2026-11-27T03:23:55.250018+00:00</updated>
     <link href="https://www.osha.gov/quicktakes/050726"/>
     <summary>REFLECTING ON WORKERS MEMORIAL DAY
       TAKING A STAND TO PREVENT FALLS
@@ -339,12 +339,12 @@
       WORKPLACE SAFETY MILESTONES
       YOU ASK...WE ANSWER
       WHAT'S TRENDING</summary>
-    <published>2026-11-26T20:44:19.706876+00:00</published>
+    <published>2026-11-27T03:23:55.250016+00:00</published>
   </entry>
   <entry>
     <id>https://www.osha.gov/quicktakes/052026</id>
     <title>QuickTakes 5/20/2026</title>
-    <updated>2026-11-26T20:44:19.706836+00:00</updated>
+    <updated>2026-11-27T03:23:55.249983+00:00</updated>
     <link href="https://www.osha.gov/quicktakes/052026"/>
     <summary>STANDING TOGETHER TO PEVENT FALLS
       OSHA ON THE ROAD
@@ -359,7 +359,7 @@
   <entry>
     <id>https://www.osha.gov/quicktakes/060826</id>
     <title>QuickTakes 6/8/2026</title>
-    <updated>2026-11-26T20:44:19.706748+00:00</updated>
+    <updated>2026-11-27T03:23:55.249907+00:00</updated>
     <link href="https://www.osha.gov/quicktakes/060826"/>
     <summary>PROTECTING YOUNG WORKERS
       TRENCH SAFETY
@@ -379,7 +379,7 @@
   <entry>
     <id>https://www.osha.gov/quicktakes/062426</id>
     <title>QuickTakes 6/24/2026</title>
-    <updated>2026-11-26T20:44:19.706657+00:00</updated>
+    <updated>2026-11-27T03:23:55.249835+00:00</updated>
     <link href="https://www.osha.gov/quicktakes/062426"/>
     <summary>BETTER TOGETHER
       SAFETY AT EVERY LEVEL
@@ -398,7 +398,7 @@
   <entry>
     <id>https://www.osha.gov/quicktakes/070926</id>
     <title>QuickTakes 7/09/2026</title>
-    <updated>2026-11-26T20:44:19.706567+00:00</updated>
+    <updated>2026-11-27T03:23:55.249760+00:00</updated>
     <link href="https://www.osha.gov/quicktakes/070926"/>
     <summary>HOLDING VIOLATORS ACCOUNTABLE
 			KEEPING CONNECTED
@@ -414,12 +414,12 @@
 			HOT OFF THE PRESS
 			YOU ASK...WE ANSWER
 			WHAT'S TRENDING</summary>
-    <published>2026-11-26T20:44:19.706565+00:00</published>
+    <published>2026-11-27T03:23:55.249758+00:00</published>
   </entry>
   <entry>
     <id>https://www.osha.gov/quicktakes/072226</id>
     <title>QuickTakes 7/22/2026</title>
-    <updated>2026-11-26T20:44:19.706523+00:00</updated>
+    <updated>2026-11-27T03:23:55.249686+00:00</updated>
     <link href="https://www.osha.gov/quicktakes/072226"/>
     <summary>JOINING FORCES FOR MARITIME SAFETY
 			SPEAKING UP MATTERS
@@ -436,7 +436,7 @@
   <entry>
     <id>https://www.osha.gov/quicktakes/080626</id>
     <title>QuickTakes 8/06/2026</title>
-    <updated>2026-11-26T20:44:19.706430+00:00</updated>
+    <updated>2026-11-27T03:23:55.249617+00:00</updated>
     <link href="https://www.osha.gov/quicktakes/080626"/>
     <summary>PROTECTING WAREHOUSE WORKERS
       PARTNERSHIP IN ACTION
@@ -450,12 +450,12 @@
       HOT OFF THE PRESS
       YOU ASK...WE ANSWER
       WHAT'S TRENDING</summary>
-    <published>2026-11-26T20:44:19.706427+00:00</published>
+    <published>2026-11-27T03:23:55.249615+00:00</published>
   </entry>
   <entry>
     <id>https://www.osha.gov/quicktakes/090826</id>
     <title>QuickTakes 9/08/2026</title>
-    <updated>2026-11-26T20:44:19.706387+00:00</updated>
+    <updated>2026-11-27T03:23:55.249583+00:00</updated>
     <link href="https://www.osha.gov/quicktakes/090826"/>
     <summary>STRIVING TOWARD SAFETY EXCELLENCE
       SAFETY AT EVERY LEVEL
@@ -467,12 +467,12 @@
       YOU ASK...WE ANSWER
       MINUTE WITH MARLIS
       WHAT'S TRENDING</summary>
-    <published>2026-11-26T20:44:19.706384+00:00</published>
+    <published>2026-11-27T03:23:55.249580+00:00</published>
   </entry>
   <entry>
     <id>https://www.osha.gov/quicktakes/092326</id>
     <title>QuickTakes 9/23/2026</title>
-    <updated>2026-11-26T20:44:19.706338+00:00</updated>
+    <updated>2026-11-27T03:23:55.249541+00:00</updated>
     <link href="https://www.osha.gov/quicktakes/092326"/>
     <summary>SHARING OSHAï¿½S VISION
       SAFE TRACTORS SAVE LIVES
@@ -487,7 +487,7 @@
   <entry>
     <id>https://www.osha.gov/quicktakes/101426</id>
     <title>QuickTakes 10/14/2026</title>
-    <updated>2026-11-26T20:44:19.706243+00:00</updated>
+    <updated>2026-11-27T03:23:55.249464+00:00</updated>
     <link href="https://www.osha.gov/quicktakes/101426"/>
     <summary>NEW ALLIANCE AIMS TO PREVENT SERIOUS INJURIES AND FATALITIES
       PREPAREDNESS SAVE LIVES
@@ -505,7 +505,7 @@
   <entry>
     <id>https://www.osha.gov/quicktakes/110226</id>
     <title>QuickTakes 11/02/2026</title>
-    <updated>2026-11-26T20:44:19.706128+00:00</updated>
+    <updated>2026-11-27T03:23:55.249330+00:00</updated>
     <link href="https://www.osha.gov/quicktakes/110226"/>
     <summary>ENERGIZED FOR SAFETY
       PREVENTING TRENCHING HAZARDS 
@@ -523,7 +523,7 @@
   <entry>
     <id>https://www.osha.gov/quicktakes/112326</id>
     <title>QuickTakes 11/23/2026</title>
-    <updated>2026-11-26T20:44:19.705942+00:00</updated>
+    <updated>2026-11-27T03:23:55.249214+00:00</updated>
     <link href="https://www.osha.gov/quicktakes/112326"/>
     <summary>SAFETY IS NO WASTE OF TIME 
       JOIN OUR TEAM
