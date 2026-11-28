@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:occ_bulletins</id>
   <title>OCC Bulletins (scrape)</title>
-  <updated>2026-11-28T03:39:45.734819+00:00</updated>
+  <updated>2026-11-28T12:35:24.326668+00:00</updated>
   <link href="file:///feeds/occ_bulletins.xml" rel="self"/>
   <link href="https://www.occ.gov/news-events/index-news-events.html" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -10,33 +10,33 @@
   <entry>
     <id>https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-57.html</id>
     <title>Third-Party Risk Management: Proposed Guidance and Request for Comment; Extension of Comment Period</title>
-    <updated>2026-11-28T03:39:45.734875+00:00</updated>
+    <updated>2026-11-28T12:35:24.326703+00:00</updated>
     <link href="https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-57.html"/>
     <summary>OCC Bulletin</summary>
-    <published>2026-11-28T03:39:45.734874+00:00</published>
+    <published>2026-11-28T12:35:24.326702+00:00</published>
   </entry>
   <entry>
     <id>https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-58.html</id>
     <title>Civil Money Penalties: Notice of Inflation Adjustments for Civil Money Penalties for 2026</title>
-    <updated>2026-11-28T03:39:45.734864+00:00</updated>
+    <updated>2026-11-28T12:35:24.326698+00:00</updated>
     <link href="https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-58.html"/>
     <summary>OCC Bulletin</summary>
-    <published>2026-11-28T03:39:45.734863+00:00</published>
+    <published>2026-11-28T12:35:24.326697+00:00</published>
   </entry>
   <entry>
     <id>https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-59.html</id>
     <title>Notification: Joint Statement of Supervisory Policy for Bank Secrecy Act Reporting in Response to a Service Disruption</title>
-    <updated>2026-11-28T03:39:45.734851+00:00</updated>
+    <updated>2026-11-28T12:35:24.326692+00:00</updated>
     <link href="https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-59.html"/>
     <summary>OCC Bulletin</summary>
-    <published>2026-11-28T03:39:45.734849+00:00</published>
+    <published>2026-11-28T12:35:24.326691+00:00</published>
   </entry>
   <entry>
     <id>https://www.occ.gov/news-issuances/bulletins/2023/bulletin-2023-17.html</id>
     <title>Third-Party Relationships: Interagency Guidance on Risk Management</title>
-    <updated>2026-11-28T03:39:45.734827+00:00</updated>
+    <updated>2026-11-28T12:35:24.326677+00:00</updated>
     <link href="https://www.occ.gov/news-issuances/bulletins/2023/bulletin-2023-17.html"/>
     <summary>OCC Bulletin</summary>
-    <published>2026-11-28T03:39:45.734824+00:00</published>
+    <published>2026-11-28T12:35:24.326673+00:00</published>
   </entry>
 </feed>

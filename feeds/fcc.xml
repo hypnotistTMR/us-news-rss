@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:fcc</id>
   <title>FCC Recent Releases (Combined)</title>
-  <updated>2026-11-28T03:39:59.464461+00:00</updated>
+  <updated>2026-11-28T12:35:37.101617+00:00</updated>
   <link href="file:///feeds/fcc.xml" rel="self"/>
   <link href="https://api2.fcc.gov/api/exp/v1.0.0/edocspublic/rss" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -10,49 +10,49 @@
   <entry>
     <id>427580</id>
     <title>Actions</title>
-    <updated>2026-11-28T03:39:59.464536+00:00</updated>
+    <updated>2026-11-28T12:35:37.101660+00:00</updated>
     <link href="https://www.fcc.gov/edoc/427580"/>
     <summary>.</summary>
-    <published>2026-11-28T03:39:59.464534+00:00</published>
+    <published>2026-11-28T12:35:37.101659+00:00</published>
   </entry>
   <entry>
     <id>427581</id>
     <title>Pleadings</title>
-    <updated>2026-11-28T03:39:59.464526+00:00</updated>
+    <updated>2026-11-28T12:35:37.101656+00:00</updated>
     <link href="https://www.fcc.gov/edoc/427581"/>
     <summary>.</summary>
-    <published>2026-11-28T03:39:59.464525+00:00</published>
+    <published>2026-11-28T12:35:37.101656+00:00</published>
   </entry>
   <entry>
     <id>427575</id>
     <title>Satellite Licensing Division and Satellite Programs and Policy Division Information - SAT - Actions Taken</title>
-    <updated>2026-11-28T03:39:59.464518+00:00</updated>
+    <updated>2026-11-28T12:35:37.101652+00:00</updated>
     <link href="https://www.fcc.gov/edoc/427575"/>
     <summary>.</summary>
-    <published>2026-11-28T03:39:59.464516+00:00</published>
+    <published>2026-11-28T12:35:37.101651+00:00</published>
   </entry>
   <entry>
     <id>427574</id>
     <title>Satellite Licensing Division and Satellite Programs and Policy Division Information - SAT - Accepted for Filing</title>
-    <updated>2026-11-28T03:39:59.464508+00:00</updated>
+    <updated>2026-11-28T12:35:37.101647+00:00</updated>
     <link href="https://www.fcc.gov/edoc/427574"/>
     <summary>.</summary>
-    <published>2026-11-28T03:39:59.464506+00:00</published>
+    <published>2026-11-28T12:35:37.101646+00:00</published>
   </entry>
   <entry>
     <id>427573</id>
     <title>Gomez on Ruling Halting FCC Campaign Against ABC</title>
-    <updated>2026-11-28T03:39:59.464495+00:00</updated>
+    <updated>2026-11-28T12:35:37.101641+00:00</updated>
     <link href="https://www.fcc.gov/edoc/427573"/>
     <summary>.</summary>
-    <published>2026-11-28T03:39:59.464492+00:00</published>
+    <published>2026-11-28T12:35:37.101640+00:00</published>
   </entry>
   <entry>
     <id>427579</id>
     <title>Applications</title>
-    <updated>2026-11-28T03:39:59.464474+00:00</updated>
+    <updated>2026-11-28T12:35:37.101626+00:00</updated>
     <link href="https://www.fcc.gov/edoc/427579"/>
     <summary>.</summary>
-    <published>2026-11-28T03:39:59.464469+00:00</published>
+    <published>2026-11-28T12:35:37.101621+00:00</published>
   </entry>
 </feed>
